@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1667",
+  "title": "Prescription drugs; require that value of manufacturer copay assistance be applied to reduce patient deductible/out-of-pocket maximum costs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1667"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tullos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tullos\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1667IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1667IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1667IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Tullos.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1667.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THAT HEALTH BENEFIT PLANS AND PRESCRIPTION DRUG PROGRAMS THAT PROVIDE COVERAGE FOR PRESCRIPTION DRUGS AND RECEIVE MANUFACTURER COPAY ASSISTANCE FOR A PRESCRIPTION DRUG MUST APPLY THE VALUE OF THE COPAY ASSISTANCE TO REDUCE OR LIMIT THE AMOUNT THAT A PATIENT PAYS FOR A PRESCRIPTION DRUG AND/OR APPLY THE VALUE OF SUCH ASSISTANCE TO A PATIENT'S ANNUAL COST-SHARING REQUIREMENTS, SUCH AS DEDUCTIBLES AND OUT-OF-POCKET MAXIMUM COSTS; TO BRING FORWARD SECTIONS 83-9-5 AND 83-9-6.1, MISSISSIPPI CODE OF 1972, WHICH RELATE TO ACCIDENT AND HEALTH INSURANCE, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

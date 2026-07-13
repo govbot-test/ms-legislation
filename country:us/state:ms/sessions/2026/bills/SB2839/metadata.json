@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2839",
+  "title": "Independent auto dealers; require continuing education for annual license renewal.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2839"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2839IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2839IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2839IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2839.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 63-17-76, MISSISSIPPI CODE OF 1972, TO REQUIRE AT LEAST SIX HOURS OF CONTINUING EDUCATION CONDUCTED BY THE MISSISSIPPI INDEPENDENT AUTO DEALERS ASSOCIATION WITHIN 12 MONTHS PRIOR TO RENEWAL OF A USED MOTOR VEHICLE DEALER'S LICENSE; TO REQUIRE THAT AT LEAST ONE HOUR OF CONTINUING EDUCATION BE RELATED TO TITLING AND TAGS, AND AT LEAST THREE HOURS BE ONSITE TRAINING; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

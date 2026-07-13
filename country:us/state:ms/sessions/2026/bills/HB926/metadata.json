@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB926",
+  "title": "Highway work zone safety; provide mechanism for enhanced enforcement of and penalties for violation of traffic rules regarding.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Transportation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb926"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Transportation",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massengill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Massengill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0926IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0926IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0926IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Massengill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0926.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DEFINE AND AUTHORIZE THE USE OF AUTOMATED SPEED ENFORCEMENT DEVICES IN HIGHWAY WORK ZONES WHEN WORKERS ARE PRESENT; TO ESTABLISH CONDITIONS UNDER WHICH LAW ENFORCEMENT OFFICERS MAY ISSUE CITATIONS BASED ON AUTOMATED SPEED DETECTION; TO REQUIRE SIGNAGE, LIGHTING, CALIBRATION STANDARDS, AND PRIVACY PROTECTIONS FOR IMAGES CAPTURED BY SUCH DEVICES; TO GRANT REGULATORY AUTHORITY TO THE MISSISSIPPI TRANSPORTATION COMMISSION; TO AMEND SECTION 63-3-516, MISSISSIPPI CODE OF 1972, TO CONFORM WORK ZONE SPEED ENFORCEMENT PROVISIONS; TO PROVIDE FOR ENHANCED PENALTIES AND ENFORCEMENT IN HIGHWAY WORK ZONES; TO CREATE THE HIGHWAY WORK ZONE SAFETY FUND IN THE STATE TREASURY; TO DEDICATE FINES COLLECTED FOR WORK ZONE VIOLATIONS TO ENHANCED LAW ENFORCEMENT WITHIN HIGHWAY WORK ZONES; TO PROVIDE FOR FUND ADMINISTRATION AND USE BY THE DEPARTMENT OF TRANSPORTATION; TO PROVIDE AN EFFECTIVE DATE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

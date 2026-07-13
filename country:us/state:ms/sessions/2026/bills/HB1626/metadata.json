@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1626",
+  "title": "Distance learning; require SDE approval of online courses and prohibit public funds for cost of courses not accredited.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1626"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Felsher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Felsher\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1626IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1626IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1626IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1626.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO APPROVE COURSES MADE AVAILABLE TO PUBLIC SCHOOL STUDENTS THROUGH ONLINE CLASSES THROUGH THE MISSISSIPPI ONLINE COURSE APPROVAL (MOCA) IN THE OFFICE OF CURRICULUM AND INSTRUCTION; TO PROHIBIT THE USE OF PUBLIC FUNDS TO DEFRAY THE COST OF ONLINE COURSES THAT ARE NOT ACCREDITED; TO BRING FORWARD SECTIONS 37-67-1, 37-68-7 AND 37-161-3, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

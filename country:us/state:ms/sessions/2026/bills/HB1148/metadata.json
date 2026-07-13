@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1148",
+  "title": "Appropriation; City of Carthage for programs and projects for police department.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1148"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Holloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Holloway\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1148IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1148IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1148IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Holloway_(27th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1148.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT MAKING AN APPROPRIATION TO THE GOVERNING AUTHORITIES OF THE CITY OF CARTHAGE TO ASSIST IN PAYING COSTS ASSOCIATED WITH CERTAIN PROGRAMS AND PROJECTS FOR THE CARTHAGE POLICE DEPARTMENT FOR THE FISCAL YEAR 2027."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

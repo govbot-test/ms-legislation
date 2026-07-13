@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2599",
+  "title": "DPS property in Lauderdale County, Mississippi; authorize DFA to sell and convey.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2599"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Property",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2599CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2599CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2599IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2599IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2599CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2599.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE THE DEPARTMENT OF FINANCE AND ADMINISTRATION, ACTING ON BEHALF OF THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY, TO SELL AND CONVEY REAL PROPERTY AND IMPROVEMENTS THEREON IN LAUDERDALE COUNTY, MISSISSIPPI, TO COMPASS DATACENTERS JAN I, LLC; TO REQUIRE THE DFA TO OBTAIN A PROPER LEGAL DESCRIPTION OF THE PROPERTY PRIOR TO SALE AND INCLUDE IT IN THE DEED OR INSTRUMENT OF CONVEYANCE; TO REQUIRE THAT THE PROPERTY BE SOLD FOR FAIR MARKET VALUE AS DETERMINED BY THE AVERAGE OF TWO APPRAISALS BY QUALIFIED APPRAISERS WHO ARE CERTIFIED AND LICENSED BY THE MISSISSIPPI REAL ESTATE APPRAISER LICENSING AND CERTIFICATION BOARD; TO STIPULATE THAT COMPASS DATACENTERS JAN I, LLC, SHALL PAY ANY AND ALL CLOSING COSTS; TO AUTHORIZE THE DFA TO CORRECT ANY DISCREPANCIES IN THE LEGAL DESCRIPTIONS OF THE PROPERTY OR PURCHASING ENTITY PROVIDED IN THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

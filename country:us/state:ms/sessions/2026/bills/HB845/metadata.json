@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB845",
+  "title": "Indigenous Native American Day; declare the second Monday in October as.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Rules"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb845"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Rules",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Banks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Banks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0845IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0845IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0845IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Banks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0845.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 3-3-7, MISSISSIPPI CODE OF 1972, TO DECLARE THE SECOND MONDAY IN OCTOBER TO BE INDIGENOUS NATIVE AMERICAN DAY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

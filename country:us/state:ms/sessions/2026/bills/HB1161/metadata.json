@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1161",
+  "title": "Mobile barbershops; authorize licensed barbers to operate.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1161"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Commerce",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rosebud",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rosebud\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1161IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1161IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1161IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Rosebud.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1161.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE LICENSED BARBERS TO OPERATE A MOBILE BARBERSHOP; TO DEFINE CERTAIN TERMS RELATING TO MOBILE BARBERSHOPS; TO AUTHORIZE THE STATE BOARD OF BARBER EXAMINERS TO ISSUE PERMITS FOR THE OPERATION OF MOBILE BARBERSHOPS; TO REQUIRE THAT A REPRESENTATIVE OF THE BOARD CONDUCT AN INSPECTION OF THE MOBILE BARBERSHOP BEFORE A PERMIT IS ISSUED; TO REQUIRE THAT A PERMIT TO OPERATE A MOBILE BARBERSHOP BE ANNUALLY RENEWED; TO REQUIRE THAT A MOBILE BARBERSHOP PERMITEE MAINTAIN A WRITTEN OR ELECTRONIC RECORD OF EACH STREET ADDRESS WHERE BARBERING SERVICES WILL BE PROVIDED AT THE MOBILE BARBERSHOP DURING ANY TWO-WEEK PERIOD; TO REQUIRE THAT A LICENSED BARBER BE IN CHARGE AND PRESENT AT ALL TIMES DURING THE OPERATION OF A MOBILE BARBERSHOP, AND IS RESPONSIBLE FOR ALL BARBERING SERVICES PROVIDED AT THE MOBILE BARBERSHOP; TO REQUIRE A MOBILE BARBERSHOP PERMITEE TO NOTIFY THE BOARD IN WRITING WITHIN THIRTY DAYS OF THE LAST DAY OF OPERATIONS WHEN A MOBILE BARBERSHOP CEASES TO OPERATE; TO PROVIDE THAT A MOBILE BARBERSHOP PERMIT IS NOT TRANSFERABLE; TO PROVIDE THAT A BARBER WHO VIOLATES ANY PROVISION OF THIS SECTION OR ANY REGULATION PROMULGATED BY THE BOARD UNDER THIS SECTION IS SUBJECT TO DISCIPLINARY ACTION AS MAY BE DETERMINED BY THE BOARD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

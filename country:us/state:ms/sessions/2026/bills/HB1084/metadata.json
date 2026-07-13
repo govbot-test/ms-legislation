@@ -1,0 +1,134 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1084",
+  "title": "Military leave for training; increase amount authorized.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Military Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1084"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Military Affairs;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: MA To AP",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: AP To MA",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carpenter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carpenter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1084IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1084IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1084IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hall.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1084.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 33-1-21, MISSISSIPPI CODE OF 1972, TO INCREASE THE AMOUNT OF MILITARY LEAVE FOR TRAINING AUTHORIZED FOR OFFICERS AND EMPLOYEES OF ANY DEPARTMENT, AGENCY, OR INSTITUTION OF THE STATE OF MISSISSIPPI, OR OF ANY COUNTY, MUNICIPALITY, OR OTHER POLITICAL SUBDIVISION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

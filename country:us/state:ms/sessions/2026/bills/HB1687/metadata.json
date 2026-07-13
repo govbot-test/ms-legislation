@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1687",
+  "title": "ITS; require to establish minimum cybersecuirty standards for the Statewide Elections Management System.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1687"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Technology;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: TE To AP",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1687IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1687IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1687IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1687.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-165, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MISSISSIPPI DEPARTMENT OF INFORMATION AND TECHNOLOGY SERVICES TO ESTABLISH MINIMUM CYBERSECURITY STANDARDS AND POLICIES IN CONJUNCTION WITH THE SECRETARY OF STATE FOR COUNTY REGISTRARS AND ELECTION COMMISSIONERS; TO STIPULATE THAT SUCH STANDARDS AND POLICIES AIM TO ENSURE THE INTEGRITY OF MISSISSIPPI'S VOTER REGISTRATION AND ELECTION DATA IN THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM; TO REQUIRE SUCH POLICIES TO BE ESTABLISHED NO LATER THAN JANUARY 1, 2027; TO PROVIDE FOR ASSESSMENTS OF ADHERENCE TO THE POLICIES; TO REQUIRE CONFIDENTIALITY OF INFORMATION; TO GRANT THE STATE AUDITOR'S OFFICE AUTHORITY TO USE SUCH INFORMATION FOR AUDITING PURPOSES; TO ALLOW ITS AND THE SECRETARY OF STATE TO REQUEST RESULTS OF INTERNAL ASSESSMENTS; TO PROVIDE FOR FAILURE TO MEET THE ESTABLISHED CYBERSECURITY STANDARDS; TO AMEND SECTION 23-15-5, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR LIMITATIONS ON MONIES FROM ELECTIONS SUPPORT FUND FOR FAILURE TO MEET THE REQUIREMENT OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2918",
+  "title": "Insurance Commissioner;  prohibit campaign contributions from entities regulated by.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2918"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DeLano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DeLano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2918IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2918IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2918IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/DeLano.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Thompson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2918.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 83-1-53, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE COMMISSIONER OF INSURANCE, CANDIDATES RUNNING FOR COMMISSIONER OF INSURANCE OR AN EMPLOYEE OF THE DEPARTMENT OF INSURANCE, FROM RECEIVING CAMPAIGN CONTRIBUTIONS FROM ENTITIES FOR WHICH THE DEPARTMENT OF INSURANCE REGULATES; TO PROHIBIT COVERED PERSONS FROM MAKING A CAMPAIGN CONTRIBUTION TO THE COMMISSIONER OF INSURANCE, CANDIDATES RUNNING FOR COMMISSIONER OF INSURANCE OR AN EMPLOYEE OF THE DEPARTMENT OF INSURANCE; TO ESTABLISH PENALTIES FOR VIOLATIONS OF THE PROHIBITIONS ESTABLISHED BY THIS CODE SECTION; TO ALLOW ANY PERSON WHO UNKNOWINGLY RECEIVES A CAMPAIGN CONTRIBUTION FROM A PROHIBITED COVERED PERSON TO HAVE 30 DAYS TO REMIT THE VALUE OF THE UNLAWFUL CONTRIBUTION TO THE SECRETARY OF STATE ONCE THE VIOLATION HAS BEEN DETERMINED, OR BE SUBJECT TO THE PROVIDED PENALTIES; TO DEFINE RELEVANT TERMS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

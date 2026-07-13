@@ -1,0 +1,148 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB793",
+  "title": "Voting rights; restore upon satisfaction of all of the sentencing requirements of a conviction.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb793"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Constitution",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James-Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James-Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burnett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crudup",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Crudup\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Summers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0793IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0793IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0793IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/James-Jones.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Burnett.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crudup.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0793.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PERSON WHO IS OTHERWISE A QUALIFIED ELECTOR AND HAS BEEN CONVICTED OF VOTE FRAUD, OF ANY CRIME LISTED IN SECTION 241, MISSISSIPPI CONSTITUTION OF 1890, OR OF ANY CRIME INTERPRETED AS DISENFRANCHISING IN LATER ATTORNEY GENERAL OPINIONS, SHALL HAVE HIS OR HER RIGHT TO VOTE SUSPENDED UPON CONVICTION BUT SHALL HAVE HIS OR HER RIGHT TO VOTE AUTOMATICALLY RESTORED ONCE HE OR SHE HAS SATISFIED ALL OF THE SENTENCING REQUIREMENTS OF THE CONVICTION; TO AMEND SECTIONS 23-15-19, 23-15-125, 23-15-151, 23-15-153 AND 23-15-165, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTIONS 97-39-3 AND 99-19-37, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2608",
+  "title": "Charlie Kirk Campus Free Speech and Safety Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2608"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2608IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2608IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2608IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2608.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"CHARLIE KIRK CAMPUS FREE SPEECH AND SAFETY ACT\"; TO DEFINE TERMS; TO PROVIDE EXPRESSIVE ACTIVITIES UNDER THIS ACT; TO CREATE EXCEPTIONS; TO PROVIDE THAT OUTDOOR AREAS OF CAMPUSES SHALL BE DEEMED PUBLIC FORUMS; TO PROVIDE FOR ACCEPTABLE RESTRICTIONS SET BY INSTITUTIONS AND COLLEGES; TO STIPULATE THAT ANY PERSON WHO WISHES TO ENGAGE IN NONCOMMERCIAL EXPRESSIVE ACTIVITY ON CAMPUS SHALL BE PERMITTED TO DO SO FREELY AS LONG AS IT IS NOT UNLAWFUL AND DOES NOT SUBSTANTIALLY DISRUPT THE FUNCTION OF THE INSTITUTION OR COLLEGE; TO PROVIDE FOR ACCEPTABLE RESTRICTIONS; TO AUTHORIZE INSTITUTIONS AND COLLEGES TO PREVENT EXPRESSION THAT THE FIRST AMENDMENT DOES NOT PROTECT; TO AUTHORIZE FREEDOM OF ASSOCIATION; TO PROHIBIT DISCRIMINATION; TO REQUIRE INSTITUTIONS AND COLLEGES TO MAKE THEIR POLICIES, REGULATIONS AND EXPECTATIONS FOR STUDENTS REGARDING FREE SPEECH PUBLIC IN THEIR HANDBOOKS, ON THEIR WEBSITES AND IN THEIR ORIENTATION PROGRAMS; TO REQUIRE INSTITUTIONS AND COLLEGES TO DEVELOP MATERIALS, PROGRAMS AND PROCEDURES TO ENSURE COMPLIANCE; TO REQUIRE INSTITUTIONS AND COLLEGES TO PUBLICLY POST ON THEIR WEBSITE A REPORT OUTLINING CERTAIN POLICIES REQUIRED BY THIS ACT; TO STIPULATE THE CONTENT OF THE REPORT; TO PROVIDE REMEDIES FOR VIOLATIONS OF THIS ACT; TO ESTABLISH A STATUTE OF LIMITATIONS FOR ONE YEAR; TO PROVIDE THAT THE STATE WAIVES IMMUNITY UNDER THE ELEVENTH AMENDMENT OF THE UNITED STATES CONSTITUTION AND CONSENTS TO SUIT IN FEDERAL COURT; TO PROVIDE THAT INSTITUTIONS AND COLLEGES ARE NOT IMMUNE FROM SUIT OR LIABILITY FOR VIOLATIONS; TO ESTABLISH SEVERABILITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

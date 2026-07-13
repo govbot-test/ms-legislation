@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1393",
+  "title": "Mississippi Energy Infrastructure Fund; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Utilities",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1393"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Utilities;Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: PU To WM",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: WM To PU",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Powell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1393IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1393IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1393IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1393.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 57-39-39, MISSISSIPPI CODE OF 1972, TO INSERT LEGISLATIVE FINDINGS; TO CREATE THE MISSISSIPPI ENERGY INFRASTRUCTURE FUND; TO DEFINE TERMS; TO PROVIDE FOR USES OF THE FUNDS; TO AUTHORIZE THE MISSISSIPPI DEVELOPMENT AUTHORITY TO MAKE GRANTS, LOANS OR PROVIDE ANY OTHER FINANCIAL ASSISTANCE; TO REQUIRE ANY LOCAL ENTITY DESIRING A GRANT, LOAN OR OTHER FINANCIAL ASSISTANCE TO SUBMIT AN APPLICATION; TO PRESCRIBE APPLICATION REQUIREMENTS; TO REQUIRE THE AUTHORITY TO DETERMINE WHETHER THE PROJECT MEETS THE DEFINITION OF AN APPROVED PROJECT AND WHETHER TO PROVIDE THE ASSISTANCE REQUESTED IN THE FORM OF A GRANT, LOAN OR OTHER FINANCIAL ASSISTANCE; TO GRANT THE MISSISSIPPI DEVELOPMENT AUTHORITY SOLE DISCRETION IN PROVIDING GRANTS, LOANS OR PROVIDING OTHER FINANCIAL ASSISTANCE; TO EXEMPT CERTAIN CONTRACTS FROM THE PROVISIONS OF SECTION 31-7-13; TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO PROHIBIT AN ELECTRIC UTILITY PROVIDER FROM BEING CONSIDERED ELIGIBLE TO BE A DIRECT RECIPIENT OF FUNDING; TO REQUIRE THE MISSISSIPPI DEVELOPMENT AUTHORITY TO PROMULGATE RULES AND REGULATIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

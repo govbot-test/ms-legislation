@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2209",
+  "title": "University campus events; require enhanced security measures and collaboration among law enforcement for large events.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2209"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2209IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2209IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2209IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2209.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY AND THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO COORDINATE TO PROVIDE ENHANCED SECURITY MEASURES AND PROMOTE COLLABORATION AMONG LAW ENFORCEMENT ON UNIVERSITY CAMPUSES FOR LARGE EVENTS; TO PRESCRIBE DUTIES OF THE DEPARTMENT OF PUBLIC SAFETY UNDER THIS ACT; TO REQUIRE THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO REQUIRE EACH INSTITUTION OF HIGHER LEARNING TO POST A PROMINENT LINK TO THE TIP SUBMISSION PLATFORM DEVELOPED BY THE DEPARTMENT OF PUBLIC SAFETY; TO AMEND SECTION 45-1-2, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSIONER OF PUBLIC SAFETY TO APPOINT A STATEWIDE SAFETY TRAINING OFFICER WHOSE DUTY IT SHALL BE TO PERFORM PUBLIC TRAINING FOR CAMPUS LAW ENFORCEMENT; TO BRING FORWARD SECTION 45-1-3, MISSISSIPPI CODE OF 1972, FOR POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 37-101-15, MISSISSIPPI CODE OF 1972, FOR POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

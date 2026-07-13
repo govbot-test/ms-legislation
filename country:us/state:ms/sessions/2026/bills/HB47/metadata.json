@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB47",
+  "title": "Robert G. Clark, Jr., Educational Scholarship Program; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb47"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0047IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0047IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0047IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anthony.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0047.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"ROBERT G. CLARK, JR., EDUCATIONAL SCHOLARSHIP PROGRAM AT ALCORN STATE UNIVERSITY, JACKSON STATE UNIVERSITY AND MISSISSIPPI VALLEY STATE UNIVERSITY\" FOR THE PURPOSE OF PROVIDING SCHOLARSHIPS TO QUALIFYING STUDENTS PURSUING A DEGREE IN EDUCATION, WHO WILL THEN COMMIT TO THE PRACTICE OF TEACHING IN PUBLIC SCHOOL DISTRICTS THAT ARE DESIGNATED AS GEOGRAPHICAL CRITICAL TEACHER SHORTAGE AREAS BY THE STATE BOARD OF EDUCATION; TO PROVIDE THAT THE DEANS OF THE ALCORN STATE UNIVERSITY, JACKSON STATE UNIVERSITY AND MISSISSIPPI VALLEY STATE UNIVERSITY COLLEGES OF EDUCATION, RESPECTIVELY, SHALL ADMINISTER THE SCHOLARSHIP PROGRAM; TO CAP THE NUMBER OF SCHOLARSHIPS AWARDED ANNUALLY; TO LIMIT TO FOUR YEARS DURATION FOR WHICH A STUDENT MAY RECEIVE SCHOLARSHIP FUNDS; TO DEFINE TERMINOLOGY USED IN THE ACT; TO AUTHORIZE THE DEANS OF THE COLLEGES OF EDUCATION OF EACH RESPECTIVE INSTITUTION OF HIGHER LEARNING DESIGNATED HEREIN TO PROMULGATE RULES AND REGULATIONS FOR THE ADMINISTRATION OF THE PROGRAM WITH THE ADVICE AND CONSENT OF THE RESPECTIVE PRESIDENTS OF ALCORN STATE UNIVERSITY, JACKSON STATE UNIVERSITY, MISSISSIPPI VALLEY STATE UNIVERSITY AND THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING; TO PRESCRIBE THE MINIMUM CRITERIA FOR ELIGIBILITY FOR RECEIPT OF SCHOLARSHIP, CONTINUED MAINTENANCE OF THE SCHOLARSHIP AND POST PROGRAM COMPLETION OBLIGATIONS AND PENALTIES FOR FAILURE TO PERFORM THE CONTRACTUAL OBLIGATION OF THE SCHOLARSHIP AGREEMENT; TO AUTHORIZE THE ALCORN STATE UNIVERSITY, JACKSON STATE UNIVERSITY AND MISSISSIPPI VALLEY STATE UNIVERSITY COLLEGES OF EDUCATION TO ACCEPT GIFTS, DONATIONS, BEQUESTS, GRANTS AND ANY OTHER MONIES FROM ANY SOURCE WHATSOEVER TO BE USED FOR THE PURPOSES OF ADMINISTERING THE PROGRAM; TO REQUIRE EACH DEAN TO SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE WITH INFORMATION ABOUT WHO RECEIVED SCHOLARSHIPS UNDER THE PROGRAM AND HOW MUCH EACH PERSON RECEIVED, AND THE AMOUNT OF ANY GIFTS, DONATIONS AND OTHER FUNDS RECEIVED AND HOW THOSE FUNDS WERE USED FOR THE PURPOSE OF THE PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

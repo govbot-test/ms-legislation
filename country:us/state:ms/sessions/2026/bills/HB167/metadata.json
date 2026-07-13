@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB167",
+  "title": "Prekindergarten; require State Department of Education to create the \"ABC Program\" to provide instruction via Internet.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb167"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0167IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0167IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0167IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0167.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO ESTABLISH A PROGRAM TO BE KNOWN AS \"A BETTER CHANCE\" OR THE \"ABC PROGRAM\" FOR THE PURPOSE OF PROVIDING PREKINDERGARTEN INSTRUCTION THROUGHOUT THE STATE VIA THE INTERNET; TO REQUIRE THE PROGRAM TO INCLUDE CERTAIN COMPONENTS, INCLUDING THE DAILY DELIVERY OF REAL-TIME INSTRUCTION BY A LICENSED PREKINDERGARTEN TEACHER; TO REQUIRE THE DEPARTMENT TO DETERMINE THE NUMBER OF STUDENTS REGULARLY PARTICIPATING IN THE ABC PROGRAM AND TO REPORT TO THE HOUSE AND SENATE EDUCATION COMMITTEES ON THE PROGRAM BEFORE JANUARY 1, 2028; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

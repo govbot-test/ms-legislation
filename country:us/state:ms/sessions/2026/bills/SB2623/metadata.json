@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2623",
+  "title": "State apprenticeship program advisory council; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Government Structure"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2623"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Government Structure",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2623CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2623CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2623IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2623IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2623CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2623.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI OFFICE OF APPRENTICESHIP ACT; TO DEFINE TERMS; TO CREATE THE STATE APPRENTICESHIP AGENCY; TO PROVIDE THAT THE OFFICE SHALL BE UNDER THE DIRECTION OF THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY; TO PROVIDE THE PURPOSES OF THE OFFICE; TO REQUIRE THE OFFICE TO PROMULGATE RULES AND REGULATIONS NECESSARY TO IMPLEMENT THIS ACT; TO PROVIDE THE DUTIES OF THE OFFICE; TO CREATE THE MISSISSIPPI APPRENTICESHIP COUNCIL; TO PROVIDE THE MEMBERSHIP OF THE COUNCIL; TO PROVIDE FOR MEETINGS OF THE COUNCIL; TO PROVIDE DUTIES OF THE COUNCIL; TO PROVIDE LIMITATIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

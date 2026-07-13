@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1447",
+  "title": "Mississippi Social Media Fraud Accountability and Consumer Protection Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1447"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Technology;Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1447IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1447IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1447IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1447.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI SOCIAL MEDIA FRAUD ACCOUNTABILITY AND CONSUMER PROTECTION ACT; TO PROVIDE THAT SOCIAL MEDIA PLATFORMS HAVE A DUTY OF CARE TO PROTECT USERS FROM FRAUDULENT ADVERTISERS; TO REQUIRE IDENTITY VERIFICATION, FRAUD DETECTION AND REPORTING MECHANISMS; TO MANDATE THE REMOVAL OF FRAUDULENT ADVERTISEMENTS WITHIN SEVENTY-TWO HOURS; TO REQUIRE QUARTERLY TRANSPARENCY REPORTS; TO ESTABLISH LIABILITY AND A SAFE HARBOR FOR COMPLIANT PLATFORMS; TO AUTHORIZE THE ATTORNEY GENERAL TO BRING CIVIL ACTION AGAINST SOCIAL MEDIA PLATFORMS THAT VIOLATE THIS ACT; TO PROVIDE INDIVIDUALS HARMED BY A PATTERN OR PRACTICE THAT VIOLATES THIS ACT A PRIVATE RIGHT OF ACTION; TO AMEND SECTION 75-24-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A VIOLATION OF THIS ACT IS AN UNFAIR OR DECEPTIVE BUSINESS PRACTICE UNDER CONSUMER PROTECTION LAWS; TO AMEND SECTIONS 77-3-803 AND 77-3-805, MISSISSIPPI CODE OF 1972, TO PROHIBIT CALLER ID SPOOFING IN ADVERTISEMENTS; TO AMEND SECTION 81-29-3, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE UNAUTHORIZED USE OF BANK NAMES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

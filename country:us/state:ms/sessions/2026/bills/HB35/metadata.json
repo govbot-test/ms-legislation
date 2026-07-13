@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB35",
+  "title": "Rx Kids Program; create to provide time-limited assistance to pregnant women during pregnancy and for 12 months after birth.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb35"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0035IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0035IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0035IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0035.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI RX KIDS PROGRAM AS A PILOT PROGRAM TO PROVIDE TARGETED TIME-LIMITED ECONOMIC ASSISTANCE TO ALL PREGNANT WOMEN IN THOSE COUNTIES WHO ARE EXPERIENCING AN ACUTE ECONOMIC HARDSHIP DURING THEIR PREGNANCY AND FOR TWELVE MONTHS AFTER GIVING BIRTH; TO SPECIFY THE ELIGIBILITY CRITERIA FOR THE PROGRAM AND AMOUNTS OF CASH PRESCRIPTIONS THAT THE WOMAN IS ELIGIBLE TO RECEIVE; TO PROVIDE THAT THE PROGRAM IS A PUBLIC-PRIVATE PARTNERSHIP THAT COMBINES PUBLIC FUNDING FROM STATE AND FEDERAL SOURCES WITH PRIVATE FUNDING; TO PROVIDE THAT THE PROGRAM SHALL BE BASED AT AND ADMINISTERED BY THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER; TO PROVIDE UMMC SHALL CONTRACT WITH A NONPROFIT ENTITY TO PROVIDE FOR THE ADMINISTRATION OF THE PROGRAM; TO PROVIDE THAT THE CASH PRESCRIPTIONS ARE CONSIDERED TO BE NONTAXABLE PRIVATE GIFTS MADE BY THE NONPROFIT ENTITY; TO PROVIDE THAT THE NONPROFIT ENTITY SHALL DISTRIBUTE THE PRESCRIPTIONS AS DIRECT DEPOSITS FOR FINANCIAL INSTITUTIONS OR THROUGH RELOADABLE DEBIT CARDS; TO PROVIDE THAT ALL CASH PRESCRIPTIONS SHALL BE FUNDED USING A MIXTURE OF PRIVATE AND PUBLIC FUNDS; TO PROVIDE THAT THE PROGRAM SHALL USE TANF FUNDS THROUGH \"NON-RECURRENT SHORT-TERM BENEFITS\" (NRST) FOR THE PRENATAL TRANSFERS AND THE FIRST THREE MONTHS OF INFANT TRANSFERS FOR ALL MEDICAID-COVERED PRENATAL CARE AND BIRTHS; TO PROVIDE THAT THE PROGRAM MUST USE OTHER PUBLIC NON-TANF FUNDS OR PRIVATE FUNDS FOR THE OTHER NINE MONTHS OF INFANT TRANSFERS AND FOR ALL PRENATAL CARE AND BIRTHS THAT ARE NOT COVERED BY MEDICAID; TO DIRECT THE DEPARTMENT OF HUMAN SERVICES AMEND THE STATE PLANS OF CERTAIN PUBLIC BENEFITS PROGRAMS TO EXCLUDE ALL CASH PRESCRIPTIONS UNDER THE PROGRAM FROM THE INCOME CALCULATORS FOR THOSE PROGRAMS AND TO APPLY FOR ANY NECESSARY FEDERAL WAIVERS, IN ORDER TO PROTECT THOSE PUBLIC BENEFITS FOR WHICH ELIGIBILITY IS INCOME BASED FOR PROGRAM PARTICIPANTS TO THE GREATEST EXTENT POSSIBLE; TO PROVIDE THAT THE PILOT PROGRAM SHALL BE OPERATED FOR A PERIOD OF THREE YEARS; TO PROVIDE THAT DURING THE PERIOD OF OPERATION AND AT THE END OF THE PROGRAM, UMMC SHALL MEASURE AND EVALUATE THE OUTCOMES OF BIRTHS IN THE COUNTIES IN THE PROGRAM AND PROVIDE SUCH INFORMATION TO THE LEGISLATURE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

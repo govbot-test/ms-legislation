@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB982",
+  "title": "Retirement; PERS and SLRP members convicted of certain felonies shall have benefits suspended until full restitution is made.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb982"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0982IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0982IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0982IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0982.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTIONS 25-11-147 AND 25-11-321, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF A MEMBER OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM OR A MEMBER OF THE SUPPLEMENTAL LEGISLATIVE RETIREMENT PLAN IS CONVICTED OF OR ENTERS A PLEA OF GUILTY OR NOLO CONTENDERE IN ANY COURT TO A FELONY IN WHICH PUBLIC FUNDS WERE UNLAWFULLY TAKEN, OBTAINED OR MISAPPROPRIATED IN THE ABUSE OR MISUSE OF THE PERSON'S OFFICE OR EMPLOYMENT THAT IS COMMITTED ON OR AFTER JULY 1, 2026, THE COURT SHALL CONDUCT A HEARING IN A SEPARATE CIVIL PROCEEDING TO DETERMINE IF ALL OF THE CONDITIONS HAVE BEEN MET; TO PROVIDE THAT IF ALL OF THE CONDITIONS HAVE BEEN MET, THE COURT SHALL ISSUE AN ORDER THAT THE MEMBER'S RETIREMENT BENEFITS FROM THE SYSTEM OR PLAN BE SUSPENDED; TO PROVIDE THAT A MEMBER WHO IS CONVICTED OF SUCH A FELONY SHALL NOT HAVE HIS OR HER RETIREMENT BENEFITS FROM THE SYSTEM OR PLAN SUSPENDED UNTIL ALL APPEALS OF THE CONVICTION HAVE BEEN FINALLY CONCLUDED OR THE TIME FOR AN APPEAL FROM THE CONVICTION HAS EXPIRED; TO PROVIDE THAT AFTER RECEIVING THE SUSPENSION ORDER FROM THE COURT, THE SYSTEM SHALL REQUEST THE ATTORNEY GENERAL FOR A DETERMINATION OF WHETHER ALL APPEALS OF THE CONVICTION HAVE BEEN FINALLY CONCLUDED OR THE TIME FOR AN APPEAL FROM THE CONVICTION HAS EXPIRED; TO PROVIDE THAT AFTER THE ATTORNEY GENERAL NOTIFIES THE SYSTEM THAT ALL APPEALS OF THE CONVICTION HAVE BEEN FINALLY CONCLUDED OR THE TIME FOR AN APPEAL FROM THE CONVICTION HAS EXPIRED, THE MEMBER'S RETIREMENT BENEFITS FROM THE SYSTEM OR PLAN SHALL BE SUSPENDED UNTIL THE MEMBER HAS MADE FULL RESTITUTION OF THE PUBLIC FUNDS THAT WERE UNLAWFULLY TAKEN, OBTAINED OR MISAPPROPRIATED IN THE ABUSE OR MISUSE OF THE MEMBER'S OFFICE OR EMPLOYMENT, AS DETERMINED BY THE ATTORNEY GENERAL; TO PROVIDE THAT IF A MEMBER OF THE SYSTEM OR PLAN IS ALSO A MEMBER OF ANOTHER RETIREMENT SYSTEM ADMINISTERED BY THE BOARD OF TRUSTEES OF THE SYSTEM, AND THE FELONY FOR WHICH THE MEMBER WAS CONVICTED OR ENTERED A PLEA OF GUILTY OR NOLO CONTENDERE WAS IN CONNECTION WITH THE MEMBER'S SERVICE THAT IS COVERED BY ONLY ONE OF THE RETIREMENT SYSTEMS, THE MEMBER'S RETIREMENT BENEFITS WILL BE SUSPENDED ONLY FROM THE RETIREMENT SYSTEM IN WHICH HIS OR HER SERVICE WAS COVERED AT THE TIME THAT HE OR SHE COMMITTED THE FELONY; TO PROVIDE THAT THE SYSTEM MAY CONCLUSIVELY RELY ON A SUSPENSION ORDER FROM THE COURT AND THE NOTICE FROM THE ATTORNEY GENERAL THAT THE REQUIREMENTS OF THIS ACT HAVE BEEN MET IN SUSPENDING A MEMBER'S RETIREMENT BENEFITS FROM THE SYSTEM OR PLAN; TO PROVIDE THAT THE SYSTEM IS NOT LIABLE FOR ANY MISTAKE IN THE PAYMENT OF RETIREMENT BENEFITS TO A MEMBER IN GOOD FAITH RELIANCE ON A SUSPENSION ORDER FROM THE COURT AND THE NOTICE FROM THE ATTORNEY GENERAL; TO PROVIDE THAT ANY AMBIGUITY OR UNCERTAINTY ABOUT WHETHER A MEMBER'S RETIREMENT BENEFITS FROM THE SYSTEM OR PLAN SHOULD BE SUSPENDED SHALL BE RESOLVED IN FAVOR OF THE MEMBER; TO AMEND SECTIONS 25-11-111, 25-11-120, 25-11-129, 25-11-309 AND 25-11-319, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

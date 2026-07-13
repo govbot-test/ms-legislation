@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2363",
+  "title": "Juries; prohibit peremptory challenges based on certain factors.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2363"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2363IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2363IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2363IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2363.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT A PARTY FROM USING A PEREMPTORY CHALLENGE TO REMOVE A PROSPECTIVE JUROR ON THE BASIS OF THE PROSPECTIVE JUROR'S RACE, ETHNICITY, GENDER, GENDER IDENTITY, SEXUAL ORIENTATION, NATIONAL ORIGIN, OR RELIGIOUS AFFILIATION, OR THE PERCEIVED MEMBERSHIP OF THE PROSPECTIVE JUROR IN ANY OF THOSE GROUPS; TO AUTHORIZE A PARTY, OR THE TRIAL COURT ON ITS OWN MOTION, TO OBJECT TO THE USE OF A PEREMPTORY CHALLENGE BASED ON THESE CRITERIA; TO REQUIRE THE PARTY EXERCISING THE CHALLENGE, UPON OBJECTION, TO STATE THE REASONS THE PEREMPTORY CHALLENGE HAS BEEN EXERCISED; TO REQUIRE THE COURT TO EVALUATE THE REASONS GIVEN AND, IF THE COURT GRANTS THE OBJECTION, AUTHORIZE THE COURT TO TAKE CERTAIN ACTIONS, INCLUDING, BUT NOT LIMITED TO, STARTING A NEW JURY SELECTION, DECLARING A MISTRIAL AT THE REQUEST OF THE OBJECTING PARTY, SEATING THE CHALLENGED JUROR, OR PROVIDING ANOTHER REMEDY AS THE COURT DEEMS APPROPRIATE; TO PROVIDE FOR A DE NOVO STANDARD OF REVIEW BY AN APPELLATE COURT REVIEWING THE DENIAL OF AN OBJECTION; TO PROVIDE THAT THE ACT APPLIES TO CRIMINAL JURY TRIALS IN WHICH JURY SELECTION BEGINS ON OR AFTER JANUARY 1, 2027; TO PROVIDE THAT THE ACT APPLIES TO CIVIL JURY TRIALS IN WHICH JURY SELECTION BEGINS ON OR AFTER JANUARY 1, 2029; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

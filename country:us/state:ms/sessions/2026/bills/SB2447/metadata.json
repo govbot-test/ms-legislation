@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2447",
+  "title": "Mississippi Family Building Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2447"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2447IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2447IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2447IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2447.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI FAMILY BUILDING ACT; TO DEFINE CERTAIN TECHNICAL TERMS USED IN THIS ACT; TO PROVIDE THAT THIS ACT APPLIES TO A GESTATIONAL CARRIER OR GESTATIONAL SURROGATE AND APPLIES ONLY TO A GESTATIONAL CARRIER OR GESTATIONAL SURROGATE WHO IS NOT THE BIOLOGICAL MOTHER OF THE CHILD; TO PROVIDE THAT THE DONOR OF ANY EGG, SPERM OR EMBRYO, UPON WRITTEN EVIDENCE OF INTENT TO DONATE, OR ALTERNATIVELY, UPON CLEAR AND CONVINCING EVIDENCE OF INTENT TO DONATE, SHALL RELINQUISH ALL PARENTAL RIGHTS AND OBLIGATIONS WITH RESPECT TO THE DONATED EGG, SPERM OR EMBRYO AND ANY RESULTING CHILD OR CHILDREN; TO PERMIT REASONABLE COMPENSATION DIRECTLY RELATED TO THE DONATION OF EGGS, SPERM AND EMBRYOS; TO ALLOW A GESTATIONAL CARRIER AND THE INTENDED PARENT(S) TO ENTER INTO A GESTATIONAL CARRIER AGREEMENT; TO PROVIDE TERMS THAT MUST BE INCLUDED IN SUCH AGREEMENTS; TO REQUIRE A JUDICIAL DETERMINATION OF PARENTAGE BEFORE THE BIRTH OF A CHILD CONCEIVED BY ASSISTED REPRODUCTIVE TECHNOLOGY UNDER A GESTATIONAL CARRIER AGREEMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

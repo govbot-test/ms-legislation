@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB354",
+  "title": "Traffic accidents; require law enforcement officers to provide notification of to approaching motorists at least a certain distance from.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb354"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elliott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0354IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0354IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0354IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Elliott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0354.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 63-3-411, MISSISSIPPI CODE OF 1972, TO REQUIRE LAW ENFORCEMENT OFFICERS RESPONDING TO THE SCENE OF A MOTOR VEHICLE ACCIDENT THAT HALTS THE FLOW OF TRAFFIC AS THE RESULT OF ONE OR MORE LANES BEING OBSTRUCTED, TO PROVIDE REASONABLE NOTICE TO APPROACHING MOTORISTS OF THE ACCIDENT AHEAD AND SUBSEQUENT DELAY WITHIN 1,295 FEET OR ONE-QUARTER MILE OF THE CRASH SITE AND LANE OBSTRUCTION; TO PRESCRIBE THE MANNER BY WHICH SUCH NOTICE MAY BE COMMUNICATED TO OTHER MOTORISTS; TO PROVIDE THAT THE NOTICE SHALL NOT BE REQUIRED WHEN THE LAW ENFORCEMENT OFFICER MAKES A DETERMINATION THAT NOTICE IS NEITHER POSSIBLE NOR PRACTICABLE UNDER THE CIRCUMSTANCES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

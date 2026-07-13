@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2101",
+  "title": "Released time courses; authorize for public school students to attend off campus religious or moral instruction for credit.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2101"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2101IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2101IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2101IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2101.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DIRECT EACH LOCAL SCHOOL BOARD TO ADOPT A POLICY EXCUSING A STUDENT FROM SCHOOL TO ATTEND A RELEASED TIME COURSE FOR NO MORE THAN THREE CLASS PERIODS PER WEEK OR A MAXIMUM OF 125 CLASS PERIODS PER SCHOOL YEAR UNDER CERTAIN CONDITIONS; TO PROVIDE THAT THE STUDENT SHALL RECEIVE ELECTIVE CREDIT FOR TIME SPENT ATTENDING RELEASED TIME COURSES; TO PROVIDE RELIGIOUSLY NEUTRAL CRITERIA FOR A SCHOOL BOARD TO FOLLOW IN DETERMINING WHETHER CREDIT MAY BE AWARDED FOR A PARTICULAR RELEASED TIME COURSE; TO EXEMPT CHARTER SCHOOLS AND VIRTUAL SCHOOLS; TO AMEND SECTION 37-13-91, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

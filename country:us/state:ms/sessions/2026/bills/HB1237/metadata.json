@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1237",
+  "title": "Mississippi Guaranteeing Fair Banking Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banking and Financial Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1237"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Banking and Financial Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aguirre",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aguirre\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1237IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1237IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1237IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Aguirre.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1237.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI GUARANTEEING FAIR BANKING ACT; TO PROVIDE THAT, IF A FINANCIAL INSTITUTION TAKES AN ADVERSE ACTION AGAINST A PERSON, THAT PERSON MAY REQUEST A STATEMENT OF SPECIFIC REASONS FOR THE ADVERSE ACTION; TO PROHIBIT FINANCIAL INSTITUTIONS FROM DISCRIMINATING IN THE PROVISION OF FINANCIAL SERVICES TO A PERSON DUE TO A PERSON'S RELIGION, SPEECH OR PARTICIPATION IN A LAWFUL ECONOMIC ACTIVITY; TO PROVIDE DAMAGES FOR VIOLATIONS OF THIS ACT; TO AMEND SECTION 75-24-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A VIOLATION OF THIS ACT SHALL BE AN UNFAIR OR DECEPTIVE TRADE ACT OR PRACTICE; TO BRING FORWARD SECTIONS 81-1-119, 81-12-211 AND 81-14-201, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

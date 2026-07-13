@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB576",
+  "title": "School attendance officers; transfer responsibility of employment from MDE to local school districts.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb576"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0576IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0576IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0576IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0576.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-13-81, 37-13-83, 37-13-85, 37-13-87 AND 37-13-89, MISSISSIPPI CODE OF 1972, TO CLARIFY THE NAME OF THE OFFICE OF COMPULSORY SCHOOL ATTENDANCE ENFORCEMENT AND DROPOUT PREVENTION WITHIN THE STATE DEPARTMENT OF EDUCATION; TO PROVIDE FOR THE APPOINTMENT OF AN EXECUTIVE DIRECTOR OF THE OFFICE BY THE STATE SUPERINTENDENT OF PUBLIC EDUCATION; TO TRANSFER THE RESPONSIBILITY FOR EMPLOYING AND ESTABLISHING THE DUTIES OF SCHOOL ATTENDANCE OFFICERS FROM THE STATE DEPARTMENT OF EDUCATION TO LOCAL SCHOOL DISTRICTS; TO ABOLISH THE THREE REGIONAL SCHOOL ATTENDANCE OFFICER POSITIONS; TO PROVIDE THAT STAFF EMPLOYED BY THE STATE SUPERINTENDENT OF EDUCATION TO ENFORCE THE MISSISSIPPI COMPULSORY SCHOOL ATTENDANCE LAW SHALL BE COMPENSATED AT THE SAME SALARY RECEIVED BY REGIONAL SCHOOL ATTENDANCE OFFICERS FOR FISCAL YEAR 2026 RATE PLUS AN ADDITIONAL 25%; TO CLARIFY THE MINIMUM QUALIFICATIONS NECESSARY FOR SCHOOL ATTENDANCE OFFICERS AND REMOVE THE REQUIREMENT OF THE STATE PERSONNEL BOARD TO ESTABLISH ADDITIONAL QUALIFICATIONS FOR SCHOOL ATTENDANCE OFFICERS; TO PROVIDE THAT SCHOOL ATTENDANCE OFFICERS EMPLOYED BY THE STATE DEPARTMENT OF EDUCATION ON JULY 1, 2026, SHALL BE TRANSFERRED TO EMPLOYMENT STATUS AS EMPLOYEES OF THEIR RESPECTIVE SCHOOL DISTRICTS WITH WORK LOCATIONS THEREIN AND SHALL ENFORCE ATTENDANCE AT CHARTER SCHOOLS LOCATED WITHIN THE SCHOOL DISTRICT; TO PROVIDE FOR THE SHARING OF ADMINISTRATIVE AND COSTS SHARING RESPONSIBILITIES OF TWO OR MORE SCHOOL DISTRICTS WHICH WERE SIMULTANEOUSLY SERVED BY THE SAME SCHOOL ATTENDANCE OFFICER; TO PROVIDE FOR THE TRANSFER OF ANY UNUSED ACCUMULATED LEAVE; TO REQUIRE THE STATE TO PROVIDE FUNDING FOR ONE SCHOOL ATTENDANCE OFFICER FOR EVERY 3,000 COMPULSORY-SCHOOL-AGE CHILDREN IN ENROLLMENT IN THE PUBLIC SCHOOLS OF A COUNTY; TO ESTABLISH THE MINIMUM SALARY OF NEWLY HIRED SCHOOL ATTENDANCE OFFICERS BEGINNING JULY 1, 2026, AND AUTHORIZE LOCAL SCHOOL BOARDS TO PAY ADDITIONAL COMPENSATION ABOVE THE MINIMUM SALARY ON A SCALE ESTABLISHED BY THE LOCAL SCHOOL BOARD; TO PROVIDE THAT SCHOOL ATTENDANCE OFFICERS TRANSFERRED TO THE LOCAL SCHOOL DISTRICT FROM THE STATE DEPARTMENT OF EDUCATION SHALL BE COMPENSATED AT THE SAME SALARY RECEIVED FISCAL YEAR 2026 RATE PLUS AN ADDITIONAL 25%; TO PROVIDE THAT SCHOOL ATTENDANCE OFFICERS SHALL NOT EXPERIENCE ANY INTERRUPTION OF SERVICE WITH THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM AND THE SCHOOL EMPLOYEES' HEALTH INSURANCE PLAN AS A RESULT OF THE TRANSFER OF EMPLOYMENT RESPONSIBILITY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION AND THE MISSISSIPPI ASSOCIATION OF SCHOOL SUPERINTENDENTS TO SUBMIT A REPORT TO THE LEGISLATURE ON THE STATUS AND PROGRESS OF SCHOOL ATTENDANCE OFFICERS AS EMPLOYEES OF THE LUNCH SCHOOL DISTRICT; TO AMEND SECTION 37-13-107, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTION 37-13-91, MISSISSIPPI CODE OF 1972, TO REQUIRE THE LOCAL SCHOOL DISTRICT TO REPORT ANY UNEXCUSED ABSENCE OF A STUDENT TO THE SCHOOL ATTENDANCE OFFICER WITHIN 24 HOURS OF THE ABSENCE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

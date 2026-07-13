@@ -1,0 +1,124 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2257",
+  "title": "Housing authorities; enable participation in mixed finance projects and self-insurance pooling arrangements.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance",
+    "Housing"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2257"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Housing;Finance",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: HO To FI",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2257IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2257IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2257IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Michel.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2257.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-33-1, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"MIXED-FINANCE PROJECT\" FOR USE IN THE HOUSING AUTHORITIES LAW; TO AMEND SECTION 43-33-11, MISSISSIPPI CODE OF 1972, TO AUTHORIZE AN AUTHORITY TO PREPARE, CARRY OUT, ACQUIRE, LEASE AND OPERATE HOUSING PROJECTS AND TO PROVIDE FOR THE CONSTRUCTION, RECONSTRUCTION, IMPROVEMENT, ALTERATION OR REPAIR OF ANY HOUSING PROJECT OR ANY PART THEREOF BY DIRECT SPONSORSHIP OF THE AUTHORITY, BY THE PURCHASE OF A MORTGAGE OR BY THE MAKING OF A MORTGAGE LOAN TO A NOT-FOR-PROFIT ENTITY OR CORPORATION; TO AUTHORIZE AN AUTHORITY TO PARTICIPATE IN MIXED-FINANCE PROJECTS TO PROVIDE FOR THE CONSTRUCTION, RECONSTRUCTION, REHABILITATION, IMPROVEMENT, ALTERATION OR REPAIR OF ANY HOUSING PROJECT OR ANY PART THEREOF; TO ENABLE AN AUTHORITY TO PROVIDE CERTAIN ASSISTANCE TO A MIXED-FINANCE PROJECT FOR THE CONSTRUCTION OR REHABILITATION OF A HOUSING PROJECT; TO AUTHORIZE THE FORMATION OF A SELF-INSURANCE POOLING ARRANGEMENT UNDER SECTION 11-46-17 WHEN ONE OR MORE AUTHORITIES FORM PARTNERSHIPS, LIMITED LIABILITY COMPANIES OR OTHER ENTITIES FOR THE PURPOSE OF UNDERTAKING A MIXED-FINANCE PROJECT; TO AUTHORIZE SUCH HOUSING AUTHORITY-RELATED ENTITIES TO ENTER INTO AGREEMENTS FOR JOINT OR COOPERATIVE ACTION TO POOL THEIR FINANCIAL AND ADMINISTRATIVE RESOURCES FOR CERTAIN PURPOSES RELATED TO LIABILITY OR INSURABILITY; TO AMEND SECTION 43-33-17, MISSISSIPPI CODE OF 1972, TO INCLUDE MIXED-FINANCE PROJECTS AMONG PROJECTS FOR WHICH TWO OR MORE AUTHORITIES MAY JOIN OR COOPERATE WITH ONE ANOTHER FOR CERTAIN ACTIVITIES; TO CREATE NEW SECTION 43-33-52, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT CERTAIN INDIVIDUALS WHO INCORPORATE OR JOIN AS A PARTNER OR MEMBER TO DEVELOP OR MANAGE A MIXED-FINANCE PROJECT ENJOY THE SAME PROTECTIONS AND IMMUNITIES PROVIDED TO HOUSING AUTHORITY CORPORATIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

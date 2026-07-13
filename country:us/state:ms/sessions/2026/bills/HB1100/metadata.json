@@ -1,0 +1,375 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1100",
+  "title": "\"Teachers' Bill of Rights\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1100"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tubb",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tubb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arnold",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arnold\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bailey (23rd)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bailey (23rd)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Byrd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Byrd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carpenter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Estrada",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Estrada\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eubanks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eubanks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Foster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Foster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mangold",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mangold\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mansell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mansell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mattox",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mattox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McLean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McMillan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McMillan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morgan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pigott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pigott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Powell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Varner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Varner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1100IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1100IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1100IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Tubb.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Arnold.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bailey_(23rd).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Barnett.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Byrd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Estrada.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Eubanks.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Foster.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hall.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Keen.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lott.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mangold.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mansell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mattox.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLean.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMillan.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Morgan.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Pigott.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Smith.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Varner.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1100.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE AND CODIFY SECTIONS 37-11-89 THROUGH 37-11-103, MISSISSIPPI CODE OF 1972, TO BE KNOWN AS THE \"MISSISSIPPI TEACHERS' BILL OF RIGHTS\"; TO REQUIRE EACH TEACHER TO DEVELOP AN ANNUAL CLASSROOM MANAGEMENT PLAN FOR EACH INSTRUCTIONAL SETTING AND TO REQUIRE EACH PRINCIPAL TO ESTABLISH WRITTEN SUBMISSION AND APPROVAL TIMELINES, PROVIDE REASONS FOR REQUIRED REVISIONS AND PROVIDE FOR DEEMED APPROVAL UPON NONACTION; TO REQUIRE SCHOOLS TO PROVIDE PARENTS OR LEGAL GUARDIANS THE CODE OF STUDENT CONDUCT AND NOTICE OF TEACHER REMOVAL AUTHORITY; TO DECLARE THE TEACHER THE PRIMARY AUTHORITY IN CLASSROOM MATTERS AND TO AUTHORIZE TEACHER-DIRECTED IMMEDIATE REMOVAL OF A STUDENT FOR SPECIFIED DISRUPTIVE, THREATENING, DANGEROUS OR MATERIALLY INTERFERING CONDUCT; TO REQUIRE PROMPT ADMINISTRATIVE CONTROL AND SUPERVISED PLACEMENT OF REMOVED STUDENTS AND TO CLARIFY THAT REMOVAL IS NOT A SUSPENSION OR EXPULSION; TO PROHIBIT A PRINCIPAL FROM DENYING A TEACHER'S REMOVAL AND TO PROVIDE FOR AN APPEAL PROCESS WHILE MAINTAINING ADMINISTRATIVE PLACEMENT PENDING SATISFACTION OF READMISSION REQUIREMENTS UNLESS THE TEACHER CONSENTS; TO REQUIRE TIMELY INCIDENT REPORTING BY THE TEACHER, DOCUMENTED PARENTAL NOTICE BY SCHOOL ADMINISTRATION AND WRITTEN CERTIFICATION TO THE TEACHER IDENTIFYING ADMINISTRATIVE ACTIONS TAKEN, SAFETY OR BEHAVIORAL SUPPORTS IMPLEMENTED AND CONDITIONS FOR CONTINUED PARTICIPATION BEFORE READMISSION; TO REQUIRE CONFERENCES AND WRITTEN BEHAVIORAL SUPPORT PLANS AFTER REPEATED REMOVALS AND TO PROVIDE PROCEDURES APPLICABLE TO STUDENTS WITH DISABILITIES CONSISTENT WITH FEDERAL LAW; TO REQUIRE ESCALATING ADMINISTRATIVE ACTIONS AFTER REPEATED REMOVALS WITHIN A SPECIFIED PERIOD, INCLUDING IN-SCHOOL SUSPENSION, OUT-OF-SCHOOL SUSPENSION, ALTERNATIVE PLACEMENT RECOMMENDATIONS AND OTHER MAXIMUM DISCIPLINARY MEASURES; TO REQUIRE EACH LOCAL SCHOOL BOARD AND PUBLIC CHARTER SCHOOL GOVERNING BOARD TO ADOPT A TEACHER APPEAL PROCESS, INCLUDING WRITTEN SUBMISSIONS, TIMELY DETERMINATIONS, WRITTEN DECISIONS AND CONTINUED EXCLUSION PENDING APPEAL ABSENT TEACHER CONSENT; TO PROHIBIT RETALIATION AGAINST TEACHERS FOR GOOD-FAITH EXERCISE OF RIGHTS AND TO REQUIRE PROMPT COMPLAINT INVESTIGATION AND RESOLUTION; TO PROVIDE PRESUMPTIONS AND LIMITATIONS ON CIVIL AND CRIMINAL LIABILITY FOR TEACHERS AND SCHOOL EMPLOYEES ACTING IN GOOD FAITH AND WITHIN THE COURSE AND SCOPE OF EMPLOYMENT, TO AUTHORIZE REIMBURSEMENT OF REASONABLE ATTORNEY'S FEES AND COURT COSTS IN SPECIFIED CIRCUMSTANCES AND TO CLARIFY THAT NO PRIVATE RIGHT OF ACTION FOR DAMAGES IS CREATED; TO REQUIRE LOCAL POLICY ADOPTION, ANNUAL TRAINING, RECORDKEEPING AND AGGREGATE REPORTING TO THE MISSISSIPPI DEPARTMENT OF EDUCATION; TO AMEND SECTION 37-3-85, MISSISSIPPI CODE OF 1972, TO UPDATE FINDINGS AND PROGRAM PURPOSES TO ADDRESS CLASSROOM MISCONDUCT AND DISRUPTIVE BEHAVIOR; TO AMEND SECTIONS 37-9-71, 37-11-1, 37-11-18.1, 37-11-55 AND 37-11-57, MISSISSIPPI CODE OF 1972, TO CONFORM DISCIPLINARY AUTHORITIES, DUE PROCESS STANDARDS, CLASSROOM PLACEMENT SAFEGUARDS, BEHAVIOR MODIFICATION AND EVALUATION REQUIREMENTS, STUDENT CONDUCT CODE PROVISIONS, TEACHER REMOVAL AND READMISSION PROCEDURES AND EDUCATOR IMMUNITY AND LIMITATIONS RELATED TO DISCIPLINE AND CORPORAL PUNISHMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

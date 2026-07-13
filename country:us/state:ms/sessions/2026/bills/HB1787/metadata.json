@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1787",
+  "title": "DeSoto County; authorize sheriff to use radar on county roads within school zones.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local and Private Legislation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1787"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Local and Private Legislation",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Remak",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1787IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1787IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1787IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1787.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE THE BOARD OF SUPERVISORS OF DESOTO COUNTY, MISSISSIPPI, TO PURCHASE RADAR SPEED DETECTION EQUIPMENT FOR USE BY THE SHERIFF'S DEPARTMENT OF THE COUNTY IN THE ENFORCEMENT OF SCHOOL ZONE SPEED LIMITS ON THE ROADS AND STATE HIGHWAYS OF THE COUNTY OUTSIDE THE CORPORATE LIMITS OF ANY INCORPORATED MUNICIPALITY; TO PROVIDE THAT ANY FUNDS RECEIVED THROUGH USE OF SUCH EQUIPMENT SHALL BE USED TO FUND RESOURCE OFFICERS IN THE DESOTO COUNTY PUBLIC SCHOOLS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

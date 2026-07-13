@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB724",
+  "title": "Insurance agents; require one-time submission of affidavit attesting to age and experience requirements for continuing education exemption.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb724"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0724IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0724IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0724IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0724.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 83-17-251, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSIONER OF INSURANCE TO MAINTAIN A DATABASE OF INSURANCE PRODUCER LICENSEES AGED 65 OR OLDER WHO HAVE SUBMITTED AN AFFIDAVIT ATTESTING TO THEIR QUALIFICATIONS TO BE EXEMPT FROM CONTINUING EDUCATION REQUIREMENTS; TO PROHIBIT A LICENSEE FROM BEING REQUIRED TO SUBMIT AN AFFIDAVIT WITH SUBSEQUENT APPLICATIONS FOR LICENSE RENEWAL IF THE APPLICANT HAS NOT HAD AN INTERRUPTION TO CONTINUOUS EXPERIENCE AS A LICENSED INSURANCE PRODUCER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

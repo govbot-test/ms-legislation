@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HC1",
+  "title": "Constitution; amend to provide terms limits for members of the MS House of Representatives and MS Senate.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Constitution"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hc1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Constitution",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HC/HC0001IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0001IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0001IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HC/HC0001.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "A CONCURRENT RESOLUTION PROPOSING AMENDMENTS TO SECTIONS 34, 35, 41 AND 42, MISSISSIPPI CONSTITUTION OF 1890, TO PROVIDE THAT A PERSON WHO IS ELECTED AFTER JULY 1, 2026, AND WHO HAS SERVED FOR THREE CONSECUTIVE FOUR-YEAR TERMS IN THE MISSISSIPPI HOUSE OF REPRESENTATIVES OR THE MISSISSIPPI SENATE SHALL NOT BE ELIGIBLE TO SERVE AGAIN IN THAT OFFICE."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

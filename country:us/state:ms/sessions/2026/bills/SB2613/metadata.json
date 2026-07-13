@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2613",
+  "title": "PERS Tier 5 Cola Account; create and direct transfers to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2613"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harkins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2613IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2613IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2613IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harkins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2613.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE BOARD OF TRUSTEES OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI TO OPEN, MAINTAIN AND MANAGE AN ACCOUNT THAT SHALL BE DESIGNATED THE PERS TIER 5 COLA ACCOUNT; TO REQUIRE THE BOARD TO MANAGE THE MONIES IN THE PERS TIER 5 COLA ACCOUNT PURSUANT TO APPLICABLE LAWS AND THE RULES AND REGULATIONS OF THE BOARD OF TRUSTEES OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI AS TRUSTEE OF THESE MONIES; TO REQUIRE THE STATE TREASURER, IN CONJUNCTION WITH THE STATE FISCAL OFFICER, ON JULY 1, 2026, AND ON EVERY JULY 1 THEREAFTER THROUGH AND INCLUDING JULY 1, 2035, TO TRANSFER $5,000,000.00 FROM THE STATE GENERAL FUND TO THE ADDITIONAL ANNUAL BENEFIT FOR TIER 5 FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

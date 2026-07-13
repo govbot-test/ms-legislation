@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2383",
+  "title": "Banks and banking; revise various definitions, procedures and provisions related to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2383"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2383IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2383IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2383IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2383.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 81-5-100, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"ELECTRONIC TERMINAL\" AND TO DEFINE THE TERM \"INTERACTIVE TELLER MACHINE\"; TO PROVIDE THAT THE ESTABLISHMENT OF ELECTRONIC TERMINALS AND THE SETTING OR CHANGING OF FEES FOR THE USE OF ELECTRONIC TERMINALS ARE MATTERS TO BE DETERMINED BY A STATE BANK OR THRIFT IN ITS DISCRETION, ACCORDING TO SOUND BANKING JUDGMENT AND SAFE AND SOUND BANKING PRINCIPLES; TO AMEND SECTION 81-5-75, MISSISSIPPI CODE OF 1972, TO REVISE PROCEDURES FOR A STATE BANK TO DECLARE AND PAY DIVIDENDS; TO AMEND SECTION 81-3-15, MISSISSIPPI CODE OF 1972, TO REQUIRE THE APPROVAL OF THE COMMISSIONER OF BANKING AND CONSUMER FINANCE RATHER THAN THE STATE COMPTROLLER FOR RENEWALS OR AMENDMENTS TO THE CHARTER OR ARTICLES OF INCORPORATION OF BANKING CORPORATIONS; TO MODIFY THE PROCEDURE FOR SUCH RENEWALS OR AMENDMENTS; TO CREATE NEW SECTION 81-5-26, MISSISSIPPI CODE OF 1972, TO AUTHORIZE INVESTMENTS BY STATE-CHARTERED BANKS AND TRUST COMPANIES IN CERTAIN COMMUNITY AND ECONOMIC DEVELOPMENT ENTITIES, COMMUNITY DEVELOPMENT PROJECTS AND OTHER PUBLIC WELFARE INVESTMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

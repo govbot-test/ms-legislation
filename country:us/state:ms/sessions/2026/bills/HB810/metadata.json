@@ -1,0 +1,124 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB810",
+  "title": "Literacy-based Promotion Act; revise to expand intervention and strategies for literacy proficiency among students in Grades 4 through 8.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb810"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Faulkner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Faulkner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Summers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Denton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Denton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0810IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0810IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0810IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Faulkner.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Denton.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0810.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO EXPAND THE PROVISIONS OF THE LITERACY-BASED PROMOTION ACT IN ORDER TO PROVIDE CERTAIN INTERVENTION AND IMPLEMENTATION STRATEGIES FOR LITERACY PROFICIENCY AMONG STUDENTS IN GRADE 4 THROUGH GRADE 8; TO DEFINE TERMINOLOGY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PROVIDE A SYSTEM OF SUPPORT FOR SCHOOL AND DISTRICT INSTRUCTIONAL LEADERS, TEACHERS, LITERACY COACHES, INTERVENTIONISTS, TUTORS AND OTHER IDENTIFIED PERSONNEL OF FOURTH, FIFTH, SIXTH, SEVENTH AND EIGHTH GRADE STUDENTS TO ENSURE THAT THEY HAVE THE KNOWLEDGE AND SKILLS TO SUPPORT STUDENTS WITH READING DIFFICULTIES; TO PRESCRIBE WHAT THE SYSTEM OF SUPPORTS SHALL ENTAIL; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO DEVELOP AND PROMULGATE RULES FOR THE IMPLEMENTATION OF AN EVIDENCE-BASED PROGRAM OF LITERACY INTERVENTION FOR STUDENTS IN GRADE 4 THROUGH GRADE 8; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO DEVELOP A FORMULA TO IDENTIFY MIDDLE LITERACY SUPPORT SCHOOLS (M-LSS) BASED ON READING PROFICIENCY DATA AS DETERMINED BY THE MISSISSIPPI ACADEMIC ASSESSMENT PROGRAM (MAAP); TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE BY DECEMBER 1 OF EACH YEAR OF THE PROGRAM IMPLEMENTATION OVER THE COURSE OF THE PREVIOUS YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

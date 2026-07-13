@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB827",
+  "title": "Rick Kennedy Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Wildlife, Fisheries and Parks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb827"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Keen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Keen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kinkade",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kinkade\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tubb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tubb\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0827IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0827IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0827IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Keen.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harris.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Kinkade.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Tubb.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0827.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE RICK KENNEDY ACT; TO PROVIDE THAT IF A PERSON, WHILE TAKING ANY BIRD OR MAMMAL, WHO KILLS OR INJURES ANOTHER PERSON BY THE USE OF A FIREARM, BOW AND ARROW, OR OTHER WEAPON OR DEVICE USED IN SUCH TAKING, AND HE OR SHE IS SUBJECT TO CRIMINAL CHARGES AND CHARGED AS A RESULT OF SUCH KILLING OR INJURY, THE PERSON SHALL HAVE HIS OR HER HUNTING LICENSE SUSPENDED UNTIL ALL SUCH CRIMINAL CHARGES HAVE BEEN WITHDRAWN, DROPPED, OR OTHERWISE DISMISSED, OR UNTIL HE OR SHE HAS BEEN ACQUITTED OR FOUND NOT GUILTY OF ALL CRIMINAL CHARGES; TO PROVIDE THAT IN ORDER FOR SUCH PERSON TO HAVE HIS OR HER HUNTING LICENSE REINSTATED DUE TO NEGLIGENCE, HE OR SHE MUST HAVE BEEN ISSUED CERTIFICATION OF SATISFACTORY COMPLETION OF A HUNTER EDUCATION COURSE APPROVED BY THE DEPARTMENT, AND MUST APPEAR BEFORE THE COMMISSION TO HAVE HIS OR HER HUNTING LICENSE REINSTATED AFTER A ONE YEAR PROBATION PERIOD HAS ENDED; TO BRING FORWARD SECTION 49-4-31, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

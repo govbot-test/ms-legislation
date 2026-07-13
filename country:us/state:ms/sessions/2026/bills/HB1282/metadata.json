@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1282",
+  "title": "Supplemental Salary Pay for Law Enforcement Act of 2026; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1282"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harness",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harness\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1282IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1282IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1282IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harness.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1282.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE SUPPLEMENTAL SALARY PAY FOR LAW ENFORCEMENT ACT OF 2026; TO DEFINE CERTAIN TERMS; TO PROVIDE THAT ANY CERTIFIED LAW ENFORCEMENT OFFICER WHO HAS BEEN EMPLOYED IN LAW ENFORCEMENT FOR AT LEAST A YEAR SHALL BE ENTITLED TO ADDITIONAL COMPENSATION IN THE AMOUNT OF SIX HUNDRED DOLLARS PER YEAR; TO PROVIDE THAT SUCH SUPPLEMENTAL SALARY SHALL BE PAID BY THE STATE OF MISSISSIPPI; TO PROVIDE THAT IF SUCH ADDITIONAL PAY IS DENIED TO A LAW ENFORCEMENT OFFICER, THEN SUCH OFFICER SHALL HAVE A CERTAIN RIGHT OF APPEAL; TO CREATE A BOARD OF REVIEW TO ADDRESS QUESTIONS OF ELIGIBILITY FOR THE SUPPLEMENTAL SALARY; TO CREATE A SPECIAL FUND ENTITLED THE \"SUPPLEMENTAL SALARY PAY FOR LAW ENFORCEMENT FUND\"; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1711",
+  "title": "Medical cannabis; dispensary may sell directly to the designated caregiver without the qualifying patient being present.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1711"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1711IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1711IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1711IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1711.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-137-23, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A REGISTERED DESIGNATED CAREGIVER SHALL NOT BE REQUIRED TO HAVE A CRIMINAL BACKGROUND CHECK MORE FREQUENTLY THAN ONCE EVERY THREE YEARS FOR THE CAREGIVER TO RENEW HIS OR HER REGISTRY IDENTIFICATION CARD UNDER THE MEDICAL CANNABIS ACT; TO AMEND SECTION 41-137-39, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A DISPENSARY MAY DISPENSE MEDICAL CANNABIS DIRECTLY TO A REGISTERED DESIGNATED CAREGIVER ON BEHALF OF A REGISTERED QUALIFYING PATIENT, AND THE REGISTERED QUALIFYING PATIENT DOES NOT NEED TO BE PRESENT WITH THE REGISTERED DESIGNATED CAREGIVER WHEN THE CAREGIVER IS PURCHASING THE MEDICAL CANNABIS FROM THE DISPENSARY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2899",
+  "title": "General Fund; FY2027 appropriation to City of Pearl for lighting project on U.S. Highway 80.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2899"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kirby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kirby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2899IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2899IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2899IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Kirby.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2899.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT MAKING AN APPROPRIATION TO THE CITY OF PEARL, MISSISSIPPI, FOR THE PURPOSE OF PAYING COSTS ASSOCIATED WITH A LIGHTING PROJECT ON U.S. HIGHWAY 80 FROM CONCOURSE DRIVE TO THE EAST CITY LIMITS FOR THE FISCAL YEAR 2027."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

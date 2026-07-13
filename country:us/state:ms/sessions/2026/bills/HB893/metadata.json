@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB893",
+  "title": "Autistic and children with development disabilities; require school district to develop safety plan to prevent elopement from school campuses.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb893"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shanks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford (73rd)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ford (73rd)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0893IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0893IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0893IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0893.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DEFINE DISABILITY AND ELOPEMENT FOR PURPOSES OF ENSURING STUDENT SAFETY IN PUBLIC SCHOOLS; TO REQUIRE EACH PUBLIC SCHOOL TO ESTABLISH A SCHOOL STAFF ASSISTANCE FOR EMERGENCIES (SAFE) TEAM AND TO DEVELOP AND IMPLEMENT A COMPREHENSIVE SCHOOL ELOPEMENT PLAN FOR STUDENTS WITH AUTISM SPECTRUM DISORDER OR INTELLECTUAL DISABILITIES WHO ARE AT RISK OF ELOPEMENT; TO REQUIRE PROCEDURES FOR IMMEDIATE PARENTAL NOTIFICATION, COORDINATED ON-CAMPUS RESPONSE, AND LIMITED USE OF EMERGENCY SERVICES BASED ON VERIFIED RISK; TO PRESCRIBE THE COMPOSITION AND DUTIES OF THE SAFE TEAM, INCLUDING PLAN DEVELOPMENT, RESPONSE COORDINATION AND ANNUAL TRAINING OF SCHOOL PERSONNEL; TO REQUIRE THE DEVELOPMENT, MAINTENANCE AND DISTRIBUTION OF INDIVIDUALIZED STUDENT ELOPEMENT QUICK REFERENCE GUIDES IN COORDINATION WITH PARENTS OR GUARDIANS, INCLUDING IDENTIFYING INFORMATION, COMMUNICATION NEEDS, HEALTH CONSIDERATIONS, BEHAVIORAL PROFILES, POTENTIAL LOCATIONS AND AVAILABLE LOCATING TECHNOLOGIES; TO REQUIRE ANNUAL SUBMISSION OF EACH SCHOOL'S ELOPEMENT PLAN TO THE LOCAL SCHOOL BOARD; TO AUTHORIZE THE STATE BOARD OF EDUCATION TO PROMULGATE RULES NECESSARY FOR IMPLEMENTATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

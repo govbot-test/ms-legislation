@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2508",
+  "title": "Student 24/7 Teletherapy Pilot Project; establish within the State Department of Education.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2508"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2508IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2508IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2508IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2508.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"2026 YOUTH MENTAL HEALTH ACCESS FOR ALL ACT\"; TO PROVIDE LEGISLATIVE FINDINGS; TO ESTABLISH THE \"STUDENT 24/7 TELETHERAPY PILOT PROJECT\" WITHIN THE STATE DEPARTMENT OF EDUCATION TO AWARD GRANT FUNDING TO SCHOOL DISTRICTS, CHARTER SCHOOLS, AND NONPUBLIC SCHOOLS FOR THE PROVISION OF TELETHERAPY SERVICES TO STUDENTS IN GRADES 5 THROUGH 12; TO EXPRESS THE INTENT THAT THE PROJECT BE FUNDED FROM THE EDUCATION ENHANCEMENT FUND; TO AUTHORIZE THE DEPARTMENT TO USE UP TO 10% OF THE FUNDS APPROPRIATED FOR THE PROJECT TO ADMINISTER THE PROGRAM; TO LIST MINIMUM VENDOR QUALIFICATIONS; TO LIST REQUIRED FEATURES FOR THE VENDOR'S PLATFORM AND SERVICE MODEL; TO REQUIRE THE DEPARTMENT TO SUBMIT A REPORT TO THE LEGISLATURE BY OCTOBER 1, 2027, DETAILING THE PARTICIPATION RATES, USAGE DATA, AND STUDENT OUTCOMES OBSERVED DURING THE FIRST YEAR OF THE PILOT PROJECT; TO AMEND SECTION 37-61-33, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

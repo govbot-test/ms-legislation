@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1048",
+  "title": "Artifical intelligence; prohibit use of in professional mental and behavioral health care.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1048"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1048IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1048IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1048IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1048.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT THE USE OF ARTIFICIAL INTELLIGENCE FOR PROVIDING PROFESSIONAL MENTAL AND BEHAVIORAL HEALTH CARE; TO PROHIBIT AN ARTIFICIAL INTELLIGENCE PROVIDER FROM MAKING ANY REPRESENTATION OR STATEMENT THAT AN ARTIFICIAL INTELLIGENCE SYSTEM IS CAPABLE OF PROVIDING SUCH CARE OR PROGRAMMING A SYSTEM TO PROVIDE SUCH CARE; TO PROHIBIT A PERSON LICENSED TO PROVIDE PROFESSIONAL MENTAL AND BEHAVIORAL HEALTH CARE USING ARTIFICIAL INTELLIGENCE IN HIS OR HER PRACTICE; TO PROVIDE AN EXCEPTION FOR LICENSEES USING ARTIFICIAL INTELLIGENCE FOR CERTAIN ADMINISTRATIVE AND SUPPLEMENTARY SUPPORT SERVICES; TO AMEND SECTIONS 73-30-21, 73-31-21, 73-53-17, 73-54-29, 73-65-13 AND 73-66-17, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A LICENSEE WHO VIOLATES THIS ACT IS SUBJECT TO DISCIPLINARY ACTION BY THE LICENSING BOARD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

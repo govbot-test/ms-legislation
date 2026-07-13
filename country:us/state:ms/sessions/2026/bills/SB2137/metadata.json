@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2137",
+  "title": "The Mississippi Equal Pay for Equal Work Reform Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2137"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2137IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2137IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2137IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2137.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI EQUAL PAY FOR EQUAL WORK REFORM ACT; TO AMEND SECTION 71-17-3, MISSISSIPPI CODE OF 1972, TO DEFINE NEW TERMS; TO AUTHORIZE THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY TO DETERMINE PROTECTED CHARACTERISTICS; TO AMEND SECTION 71-17-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO EMPLOYER MAY PAY AN EMPLOYEE A WAGE AT A RATE LESS THAN THE RATE AT WHICH AN EMPLOYEE WHO DOES NOT HAVE A PROTECTED CHARACTERISTIC IN THE SAME ESTABLISHMENT IS PAID FOR EQUAL WORK ON A JOB, THE PERFORMANCE OF WHICH REQUIRES EQUAL SKILL, EDUCATION, EFFORT AND RESPONSIBILITY, AND WHICH IS PERFORMED UNDER SIMILAR WORKING CONDITIONS EXCEPT UNDER CERTAIN CIRCUMSTANCES; TO AUTHORIZE THE RECOVERY OF PUNITIVE DAMAGES IN CIVIL ACTIONS BY EMPLOYEES; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY TO FILE SUIT TO ENFORCE THIS CHAPTER; TO PROHIBIT EMPLOYERS FROM RETALIATING AGAINST ANY EMPLOYEE FOR DISCUSSING OR DISCLOSING HIS OR HER WAGES FOR THE PURPOSE OF IDENTIFYING WAGE DISPARITIES; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY TO ENFORCE CHAPTER 17 OF TITLE 71; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY TO INVESTIGATE CLAIMS AND MEDIATE CLAIMS BETWEEN AN EMPLOYER AND AN EMPLOYEE TO DIRECT CODIFICATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

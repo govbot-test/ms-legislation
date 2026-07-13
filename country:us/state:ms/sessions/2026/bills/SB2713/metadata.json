@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2713",
+  "title": "Real estate buyer's agent agreements; authorize showing of certain real property to prospective buyers without such agreement.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2713"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2713IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2713IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2713IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2713.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE A CONSUMER WHO IS A SELLER OR BUYER TO MAKE AN AFFIRMATIVE ELECTION OF A SPECIFIC TYPE OF BROKERAGE SERVICE THAT IS AVAILABLE FROM A REAL ESTATE COMPANY BY SIGNING A BROKERAGE AGREEMENT UNDER THE PROVISIONS OF CHAPTER 35, TITLE 73, MISSISSIPPI CODE OF 1972; TO REQUIRE SUCH AGREEMENT TO CONTAIN A STATEMENT OF THE TERMS AND CONDITIONS OF THE BROKERAGE SERVICES THAT THE COMPANY WILL PROVIDE AND INFORMATION ON HOW THE COMPANY AND LICENSEES WILL BE COMPENSATED FOR THE BROKERAGE SERVICES TO BE PROVIDED; TO PROVIDE THAT A LICENSEE SHALL NOT BE REQUIRED TO ENTER INTO A BROKERAGE AGREEMENT WITH A CUSTOMER WHO IS A PROSPECTIVE BUYER IN ORDER FOR A LICENSEE TO PROVIDE A TOUR OF A PROPERTY TO THAT PROSPECTIVE BUYER; TO SET FORTH WHEN A WRITTEN BROKERAGE AGREEMENT SHALL AND SHALL NOT BE REQUIRED; TO IDENTIFY TYPES OF REAL PROPERTY TO WHICH THE PRECEDING PROVISIONS APPLY AND TO EXCLUDE CERTAIN TRANSFERS FROM SUCH PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

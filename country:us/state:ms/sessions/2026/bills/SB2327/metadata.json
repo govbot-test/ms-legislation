@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2327",
+  "title": "Expungement; consolidate statutes concerning.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2327"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Norwood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2327IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2327IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2327IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Norwood.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2327.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CONSOLIDATE THE STATUTES CONCERNING EXPUNGEMENT; TO CREATE A UNIFIED EXPUNGEMENT STATUTE; TO PROVIDE FOR THE LEGAL EFFECT OF AN ORDER TO EXPUNGE; TO PROVIDE FOR EXPUNGEMENT OF MISDEMEANOR AND FELONY CONVICTIONS; TO SPECIFY RECORDS THAT MAY NOT BE EXPUNGED; TO PROVIDE FOR EXPUNGEMENT OF A FIRST-OFFENSE DUI CONVICTION; TO PROVIDE FOR EXPUNGEMENT UPON COMPLETION OF INTERVENTION COURT; TO PROVIDE FOR EXPUNGEMENT OF CONVICTIONS FOR PURCHASE OF LIGHT WINE OR BEER BY MINORS; TO PROVIDE FOR CERTAIN NONCONVICTIONS; TO SET FILING FEES ACCORDING TO PREEXISTING LAW; TO REQUIRE INTERSTATE IDENTIFICATION INDEX REPORTS; TO REQUIRE CLERKS OF COURT TO SUBMIT POST-EXPUNGEMENT RECORDS; TO AMEND SECTION 9-11-15, MISSISSIPPI CODE OF 1972, TO CONFORM EXPUNGEMENTS IN THE JUSTICE COURTS; TO AMEND SECTION 9-23-23, MISSISSIPPI CODE OF 1972, TO CONFORM EXPUNGEMENTS IN INTERVENTION COURTS; TO AMEND SECTION 21-23-7, MISSISSIPPI CODE OF 1972, TO CONFORM EXPUNGEMENT IN MUNICIPAL COURTS; TO AMEND SECTION 41-29-150, MISSISSIPPI CODE OF 1972, TO CONFORM EXPUNGEMENT OF CERTAIN DRUG CHARGES; TO AMEND SECTION 45-27-21, MISSISSIPPI CODE OF 1972, TO CONFORM RECORD-KEEPING REQUIREMENTS FOR THE CRIMINAL INFORMATION CENTER; TO AMEND SECTION 63-11-30, MISSISSIPPI CODE OF 1972, TO CONFORM THE EXPUNGEMENT OF DUI RECORDS; TO AMEND SECTION 99-15-26, MISSISSIPPI CODE OF 1972, TO CONFORM NONADJUDICATION PROVISIONS; TO REPEAL SECTION 99-15-59, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THAT ANY PERSON WHO IS ARRESTED, ISSUED A CITATION, OR HELD FOR ANY MISDEMEANOR AND NOT FORMALLY CHARGED OR PROSECUTED WITH AN OFFENSE WITHIN 12 MONTHS OF ARREST, OR UPON DISMISSAL OF THE CHARGE, MAY APPLY TO THE COURT WITH JURISDICTION OVER THE MATTER FOR THE CHARGES TO BE EXPUNGED; TO REPEAL SECTION 99-19-71, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR EXPUNGEMENT OF CERTAIN FELONY AND MISDEMEANOR CONVICTION RECORDS; TO REPEAL SECTION 99-19-72, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR FILING FEES FOR CERTAIN PETITIONS FOR EXPUNGEMENT AND THE DISPOSITION THEREOF; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

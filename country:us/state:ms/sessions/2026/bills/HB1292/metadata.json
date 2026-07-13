@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1292",
+  "title": "School Board members; require to be elected for term of four years at the statewide general election or presidential election.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1292"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Owen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Owen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1292CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1292CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1292IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1292IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1292CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Owen.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1292.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CODIFY NEW SECTION 37-6-17, MISSISSIPPI CODE OF 1972, TO REQUIRE THE ELECTION OF ALL SCHOOL BOARD MEMBERS; TO GIVE LOCAL SCHOOL BOARDS THE OPTION TO CHOOSE WHETHER ITS ELECTION CYCLE WILL RUN CONCURRENT WITH THE STATEWIDE GENERAL ELECTION BEGINNING IN NOVEMBER 2027 OR CONCURRENT WITH THE PRESIDENTIAL ELECTION BEGINNING IN NOVEMBER 2028; TO PROVIDE THAT THE LOCAL SCHOOL BOARD SHALL HAVE THE DISCRETION TO DETERMINE WHETHER ITS MEMBERS WILL BE ELECTED FROM SINGLE MEMBER DISTRICTS OR FROM WITHIN THE DISTRICT AT LARGE; TO PROVIDE THAT THE TERMS OF OFFICE OF ALL SCHOOL BOARD MEMBERS SHALL BE FOUR YEARS; TO PROVIDE FOR NOMINATING PETITIONS TO RUN FOR THE OFFICE OF SCHOOL BOARD MEMBER AND TO REQUIRE A UNIFORM NUMBER OF SIGNATURES ON PETITIONS OF NOMINATION; TO ESTABLISH THE PROCEDURE FOR FILLING VACANCIES ON THE SCHOOL BOARD; TO AMEND SECTION 37-5-1, MISSISSIPPI CODE OF 1972, TO REQUIRE SCHOOL BOARD MEMBER DISTRICTS IN COUNTY SCHOOL DISTRICTS TO BE COTERMINOUS WITH THE SUPERVISORS DISTRICTS OF THE COUNTY; TO AMEND SECTIONS 37-5-3, 37-5-7, 37-5-9, 37-5-19, 37-7-203, 37-7-207, 37-7-221 AND 37-7-703, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; TO REPEAL SECTION 37-5-18, MISSISSIPPI CODE OF 1972, WHICH REQUIRES THE ELECTION OF THE COUNTY BOARD OF EDUCATION MEMBERS FROM TERRITORY OUTSIDE THE FOUR MUNICIPAL SEPARATE SCHOOL DISTRICTS IN A CERTAIN COUNTY; TO REPEAL SECTIONS 37-7-204, 37-7-209, 37-7-211, 37-7-215, 37-7-217, 37-7-219, 37-7-223, 37-7-225, 37-7-227 AND 37-7-229, MISSISSIPPI CODE OF 1972, WHICH PROVIDE CERTAIN METHODS FOR ELECTING TRUSTEES OF MUNICIPAL AND SPECIAL MUNICIPAL SEPARATE SCHOOL DISTRICTS AND CONSOLIDATED AND LINE CONSOLIDATED SCHOOL DISTRICTS; TO REPEAL SECTIONS 37-7-705, 37-7-707, 37-7-709, 37-7-711, 37-7-713, 37-7-715 AND 37-7-717, MISSISSIPPI CODE OF 1972, WHICH PROVIDE ADDITIONAL METHODS FOR SELECTING TRUSTEES OF SPECIAL MUNICIPAL SEPARATE SCHOOL DISTRICTS; TO BRING FORWARD SECTION 37-7-104, MISSISSIPPI CODE OF 1972, WHICH REQUIRES THE CONSOLIDATION OF CERTAIN COUNTY SCHOOL DISTRICTS UNDER CONSERVATORSHIP, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 37-7-104.1, 37-7-104.2, 37-7-104.3, 37-7-104.4, 37-7-104.5, 37-7-104.6, 37-7-104.7 AND 37-7-104.8, MISSISSIPPI CODE OF 1972, WHICH REQUIRE THE ADMINISTRATIVE CONSOLIDATION OF SCHOOL DISTRICTS IN CERTAIN COUNTIES, FOR PURPOSES OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

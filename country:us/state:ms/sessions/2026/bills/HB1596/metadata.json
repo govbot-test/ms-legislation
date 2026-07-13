@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1596",
+  "title": "Money transmitters; require to implement certain data security measures and customer protections.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banking and Financial Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1596"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Banking and Financial Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aguirre",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aguirre\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1596IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1596IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1596IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Aguirre.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1596.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE A MONEY TRANSMITTER LICENSED UNDER THE MONEY TRANSMISSION MODERNIZATION ACT TO IMPLEMENT SAFEGUARDS TO PROTECT CUSTOMER INFORMATION AND INCREASE DATA SECURITY; TO REQUIRE A LICENSEE TO DESIGNATE A QUALIFIED INDIVIDUAL TO BE RESPONSIBLE FOR OVERSEEING, IMPLEMENTING AND ENFORCING AN INFORMATION SECURITY PROGRAM; TO PROVIDE THE MINIMUM STANDARDS AND REQUIREMENTS FOR THE INFORMATION SECURITY PROGRAM AND TO REQUIRE RISK ASSESSMENTS; TO REQUIRE NOTIFICATION TO THE COMMISSIONER OF BANKING AND CONSUMER FINANCE WHEN UNENCRYPTED CUSTOMER INFORMATION IS ACQUIRED WITHOUT THE AUTHORIZATION OF THE AFFECTED INDIVIDUAL; TO PROVIDE CERTAIN EXCEPTIONS; TO AMEND SECTION 75-16-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT FUNDS COMING INTO THE POSSESSION OF THE COMMISSIONER AS A RESULT OF THE MONEY TRANSMISSION MODERNIZATION ACT SHALL BE DEPOSITED INTO THE CONSUMER FINANCE FUND; TO AMEND SECTIONS 75-16-25, 75-16-31 AND 75-16-43, MISSISSIPPI CODE OF 1972, TO REGULATE VIRTUAL CURRENCY KIOSKS UNDER THE PROVISIONS OF THE MONEY TRANSMISSION MODERNIZATION ACT; TO AMEND SECTION 75-16-51, MISSISSIPPI CODE OF 1972, TO REQUIRE A LICENSEE TO PROVIDE TRAINING MATERIALS TO HELP AUTHORIZED DELEGATES RECOGNIZE FINANCIAL ABUSE AND FINANCIAL EXPLOITATION OF AN ELDER ADULT RESPOND APPROPRIATELY IN SUCH SITUATIONS; TO AMEND SECTION 75-16-65, MISSISSIPPI CODE OF 1972, TO INCLUDE THE WORD \"INVESTMENTS\"; TO CREATE NEW SECTION 75-16-89, MISSISSIPPI CODE OF 1972, TO REQUIRE A LICENSEE TO PROVIDE CERTAIN INFORMATION TO THE PURCHASER IN CONNECTION WITH EACH MONEY TRANSMISSION OR KIOSK TRANSACTION CONDUCTED BY THE LICENSEE DIRECTLY OR THROUGH AN AUTHORIZED DELEGATE; TO AMEND SECTION 81-3-15, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT RENEWALS OR AMENDMENTS TO A CHARTER OR ARTICLES OF INCORPORATION OF BANKING CORPORATIONS SHALL BE SENT DIRECTLY TO THE SECRETARY OF STATE UPON BEING APPROVED BY THE COMMISSIONER AND DO NOT REQUIRE APPROVAL FROM THE ATTORNEY GENERAL; TO AMEND SECTION 81-5-75, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A BANK TO DECLARE AND PAY DIVIDENDS NOT INCONSISTENT WITH THE BANK'S ARTICLES OF INCORPORATION OR BYLAWS; TO REQUIRE PRIOR WRITTEN APPROVAL OF THE COMMISSIONER ONLY WHEN CERTAIN CONDITIONS EXIST; TO AMEND SECTION 81-5-100, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PRIOR APPROVAL OF THE COMMISSIONER IS NOT REQUIRED FOR A STATE BANK OR THRIFT TO ESTABLISH OR DECOMMISSION ELECTRONIC TERMINALS; TO CREATE NEW SECTION 81-5-26, MISSISSIPPI CODE OF 1972, TO AUTHORIZE INVESTMENTS BY STATE CHARTERED FINANCIAL INSTITUTIONS IN COMMUNITY AND ECONOMIC DEVELOPMENT ENTITIES, COMMUNITY DEVELOPMENT PROJECTS AND OTHER PUBLIC WELFARE INVESTMENTS; TO BRING FORWARD SECTIONS 75-16-5, 75-16-13 AND 81-5-85, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

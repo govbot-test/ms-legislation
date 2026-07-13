@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB590",
+  "title": "Health Care Affordability Fund; create to reduce premiums and cost sharing for health insurance purchased on the exchange.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb590"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0590IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0590IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0590IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0590.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE HEALTH CARE AFFORDABILITY FUND AS A SPECIAL FUND IN THE STATE TREASURY AND PROVIDE THAT THE FUND SHALL BE ADMINISTERED BY THE COMMISSIONER OF INSURANCE; TO PROVIDE THAT THE PURPOSE OF THE FUND IS TO REDUCE HEALTH CARE PREMIUMS AND COST SHARING FOR MISSISSIPPI RESIDENTS WHO PURCHASE HEALTH CARE COVERAGE ON THE FEDERAL HEALTH INSURANCE MARKETPLACE IN MISSISSIPPI; TO PROVIDE THAT IF THE FEDERAL PATIENT PROTECTION AND AFFORDABLE CARE ACT IS REPEALED IN FULL OR IN PART BY AN ACT OF CONGRESS OR INVALIDATED BY THE UNITED STATES SUPREME COURT AND ELIMINATES OR REDUCES COMPREHENSIVE HEALTH CARE COVERAGE FOR MISSISSIPPI RESIDENTS THROUGH MEDICAID OR THE FEDERAL HEALTH INSURANCE MARKETPLACE IN MISSISSIPPI, THE FUND MAY BE USED TO MAINTAIN COVERAGE THROUGH THE FEDERAL HEALTH INSURANCE MARKETPLACE IN MISSISSIPPI; TO DIRECT THE COMMISSIONER OF INSURANCE TO PROMULGATE RULES TO PROVIDE ENHANCED PREMIUM AND COST-SHARING ASSISTANCE TO INDIVIDUALS AND FAMILIES FOR THE PURCHASE OF QUALIFIED HEALTH PLANS ON THE FEDERAL HEALTH INSURANCE MARKETPLACE IN MISSISSIPPI; TO AMEND SECTIONS 27-15-103 AND 27-15-109, MISSISSIPPI CODE OF 1972, TO PROVIDE AN ADDITIONAL ANNUAL LICENSE OR PRIVILEGE TAX OF 3% OF THE GROSS AMOUNT OF PREMIUM RECEIPTS RECEIVED FROM, AND ON INSURANCE POLICIES AND CONTRACTS WRITTEN IN, OR COVERING RISKS LOCATED IN THIS STATE BY FOREIGN AND DOMESTIC HEALTH INSURANCE COMPANIES AND ASSOCIATIONS DOING BUSINESS IN THIS STATE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

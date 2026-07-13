@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2729",
+  "title": "Prohibited noises; provide requirement for certain retail establishments within a municipality.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B",
+    "Municipalities"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2729"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Municipalities;Judiciary, Division B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: MU To JB",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blount",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blount\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2729CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2729IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blount.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2729.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT IT SHALL BE UNLAWFUL WITHIN A MUNICIPALITY FOR AN OWNER OF A RETAIL ESTABLISHMENT PERMITTED UNDER SECTION 67-1-51(1)(D) TO ALLOW SUSTAINED, PROHIBITED NOISES BETWEEN THE HOURS OF 12:00 A.M. AND 12:00 P.M. ON THE PREMISES OF SUCH AN ESTABLISHMENT; TO PROVIDE CIVIL PENALTIES FOR THE FIRST THREE VIOLATIONS OF THIS SECTION; TO PROVIDE CRIMINAL FINES AND PENALTIES FOR THE FOURTH AND SUBSEQUENT VIOLATIONS OF THIS SECTION; TO PROVIDE THAT THIS SECTION SHALL BE LEGAL AND BINDING WITHIN THE JURISDICTION OF EACH MUNICIPALITY IN THIS STATE; TO AUTHORIZE THE GOVERNING AUTHORITY OF A MUNICIPALITY TO OPT OUT OF THE PROVISIONS OF THIS SECTION THROUGH A VOTE OF THE GOVERNING AUTHORITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

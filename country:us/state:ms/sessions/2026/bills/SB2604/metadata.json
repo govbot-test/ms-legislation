@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2604",
+  "title": "Volunteer firefighters; create grants for tuition assistance and purchase and maintenance of equipment.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2604"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mumford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mumford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2604IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2604IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2604IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Mumford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2604.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI VOLUNTEER FIREFIGHTER TUITION GRANT FOR COMMUNITY COLLEGE STUDENTS; TO AUTHORIZE THE MISSISSIPPI OFFICE OF FINANCIAL AID TO ADMINISTER SUCH GRANT PROGRAM; TO DEFINE \"VOLUNTEER FIREFIGHTER\"; TO PROVIDE FOR APPROVAL OF SUCH GRANTS; TO STIPULATE USES FOR GRANT MONEY; TO PROVIDE FOR GRANTS AWARDED DUE TO DISHONEST CONDUCT; TO PROVIDE FOR RENEWAL OF ELIGIBILITY; TO CREATE THE VOLUNTEER FIRE DEPARTMENT EQUIPMENT AWARD PROGRAM; TO GRANT THE MISSISSIPPI INSURANCE DEPARTMENT CERTAIN POWERS OVER ADMINISTRATION OF THE PROGRAM; TO LIMIT THE USE OF AWARDS TO CERTAIN PURPOSES; TO PROVIDE FOR AWARDS GRANTED DUE TO DISHONEST CONDUCT; TO PROVIDE FOR RENEWAL OF ELIGIBILITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

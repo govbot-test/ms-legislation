@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1653",
+  "title": "Local Improvements Project Fund and IHL Capital Improvements Fund; revise certain projects funded with monies from.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1653"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Read",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Read\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cockerham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cockerham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1653IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1653IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1653IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Read.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Cockerham.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1653.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 10 OF CHAPTER 534, LAWS OF 2024, AS AMENDED BY SECTION 3 OF CHAPTER 510, LAWS OF 2025, TO REVISE A CERTAIN PROJECT FUNDED WITH MONIES DISBURSED FROM THE 2024 LOCAL IMPROVEMENTS PROJECTS FUND; TO AMEND SECTION 4 OF CHAPTER 549, LAWS OF 2023, AS AMENDED BY SECTION 2 OF CHAPTER 510, LAWS OF 2024, TO REVISE THE PURPOSE OF A CERTAIN PROJECT FUNDED WITH MONIES DISBURSED FROM THE 2022 IHL CAPITAL IMPROVEMENTS FUND; TO AMEND SECTION 5 OF CHAPTER 534, LAWS OF 2024, AS AMENDED BY SECTION 1 OF CHAPTER 510, LAWS OF 2025, TO REVISE THE PURPOSE OF A PROJECT FUNDED WITH MONIES DISBURSED FROM THE 2022 IHL CAPITAL IMPROVEMENTS FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

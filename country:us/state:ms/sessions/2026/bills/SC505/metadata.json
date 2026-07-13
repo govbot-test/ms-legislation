@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SC505",
+  "title": "Joint Rules; amend to allow cosponsorship of bills, joint resolutions and concurrent resolutions originating in other house.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Rules"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sc505"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Rules",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SC/SC0505IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SC/SC0505IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SC/SC0505IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SC/SC0505.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "A CONCURRENT RESOLUTION TO AMEND THE JOINT RULES OF THE MISSISSIPPI SENATE AND HOUSE OF REPRESENTATIVES BY CREATING NEW JOINT RULE 9B TO ALLOW LEGISLATORS TO COSPONSOR BILLS, JOINT RESOLUTIONS AND CONCURRENT RESOLUTIONS ORIGINATING IN THE OTHER HOUSE OF THE LEGISLATURE."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

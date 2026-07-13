@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1774",
+  "title": "ARPA Rural Water Associations Infrastructure Grant Program; extend repealer on exemption from certain Public Procurement Review Board requirements.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1774"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1774IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1774IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1774IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1774.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-3-16.1, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE EXEMPTION FROM THE APPROVAL REQUIREMENTS OF THE PUBLIC PROCUREMENT REVIEW BOARD FOR PERSONAL OR PROFESSIONAL SERVICES CONTRACTS ENTERED INTO BY THE STATE DEPARTMENT OF HEALTH UNDER THE ARPA RURAL WATER ASSOCIATIONS INFRASTRUCTURE GRANT PROGRAM; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS OF THIS ACT AND TO EXTEND THE DATE OF OTHER EXEMPTIONS IN THAT CODE SECTION WHICH ARE NOT RELATED TO THE ARPA RURAL WATER ASSOCIATIONS INFRASTRUCTURE GRANT PROGRAM BUT WHICH ARE ALSO SET TO EXPIRE IN 2026; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

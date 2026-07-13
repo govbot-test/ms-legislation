@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2486",
+  "title": "School and district consolidation; create plan with help of Standing Commission on School District Efficiency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2486"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2486CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2486CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2486IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2486IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2486CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2486.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-7-1001, MISSISSIPPI CODE OF 1972, TO TASK THE STANDING COMMISSION ON SCHOOL DISTRICT EFFICIENCY WITH STUDYING NEED TO CONSOLIDATE SCHOOL DISTRICTS THROUGHOUT THE STATE OF MISSISSIPPI; TO SPECIFY CERTAIN DATA ON SCHOOL DISTRICTS THAT MUST BE COMPILED IN A REPORT ON THE STUDY TO BE SUBMITTED TO THE LEGISLATURE AND THE GOVERNOR BY NOVEMBER 30, 2026, AND ON NOVEMBER 30 OF EVERY YEAR THEREAFTER; TO CREATE NEW SECTION 37-7-1003, MISSISSIPPI CODE OF 1972, TO EXPRESS THE INTENT OF THE LEGISLATURE TO DETERMINE THROUGH LEGISLATION, IN THE 2027 REGULAR SESSION AND SUBSEQUENT REGULAR SESSIONS, WHICH SCHOOL DISTRICTS SHALL BE CONSOLIDATED, AND A SCHEDULE FOR THE CONSOLIDATION OF EACH DISTRICT; TO ALLOW A DISTRICT SUBJECT TO CONSOLIDATION TO PROPOSE ITS OWN CONSOLIDATION PLAN; TO PROVIDE THAT, SHOULD A DISTRICT NOT PROPOSE A PLAN, OR SHOULD THE COMMISSION REJECT A DISTRICT'S PLAN, THE COMMISSION SHALL DEVELOP A PLAN FOR THE DISTRICT'S CONSOLIDATION; TO PROVIDE THAT THE COMMISSION SHALL APPOINT A TRANSITIONAL GOVERNING BOARD; TO PROVIDE THAT, DURING THE TIME IN WHICH THE TRANSITIONAL BOARD IS PERFORMING THE DUTIES OF A SCHOOL BOARD, BOTH BEFORE AND AFTER CONSOLIDATION, BOARD MEMBERS SHALL BE ENTITLED TO COMPENSATION AS PROVIDED IN SECTION 37-6-13; TO CREATE NEW SECTION 37-7-1005, MISSISSIPPI CODE OF 1972, TO SPECIFY CERTAIN DATA ON SCHOOLS WITHIN EACH DISTRICT NOT SUBJECT TO CONSOLIDATION THAT EACH SUCH DISTRICT SHALL COMPILE AND SUBMIT TO THE COMMISSION BY OCTOBER 31, 2027; TO REQUIRE THE COMMISSION TO SUBMIT A REPORT TO THE STATE BOARD OF EDUCATION AND THE STATE DEPARTMENT OF EDUCATION BY NOVEMBER 30, 2027, WITH THE COMPILED DATA AND THE COMMISSION'S JUDGMENT AS TO EACH DISTRICT'S CONCLUSIONS REGARDING SCHOOL CONSOLIDATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

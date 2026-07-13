@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB323",
+  "title": "Universities and colleges; require to allow MS residents to register for classes before nonresident students.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb323"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massengill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Massengill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0323IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0323IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0323IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Massengill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0323.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 37-4-3 AND 37-101-15, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MISSISSIPPI COMMUNITY COLLEGE BOARD AND THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO DEVELOP A SYSTEM OF CLASS REGISTRATION THAT WILL GIVE STUDENTS WHO ARE PERMANENT RESIDENTS OF THE STATE THE FIRST OPTION OF REGISTERING; TO PROVIDE THAT AFTER ALL MISSISSIPPI RESIDENTS HAVE BEEN AFFORDED THE OPPORTUNITY TO REGISTER, REGISTRATION SHALL THEN BE MADE AVAILABLE FOR NONRESIDENT STUDENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

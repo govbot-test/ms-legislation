@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2232",
+  "title": "Vehicle safety equipment; increase sanctions for failure to use and divert funds to driver safety programs.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2232"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2232IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2232IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2232IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2232.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 63-2-7, MISSISSIPPI CODE OF 1972, TO INCREASE THE CRIMINAL FINE FOR FAILURE TO WEAR A SEATBELT; TO DIVERT THE MONIES RECEIVED FROM SUCH FINES TO CERTAIN FUNDS TO BE DISBURSED SUBJECT TO APPROPRIATION BY THE LEGISLATURE FOR EDUCATION AND INFORMATION PROGRAMS; TO AMEND SECTION 63-7-309, MISSISSIPPI CODE OF 1972, TO INCREASE THE CRIMINAL FINE FOR FAILURE TO USE A CHILD PASSENGER RESTRAINT DEVICE; TO DIVERT THE MONIES RECEIVED FROM SUCH FINES TO CERTAIN FUNDS TO BE DISBURSED SUBJECT TO APPROPRIATION BY THE LEGISLATURE FOR EDUCATION AND INFORMATION PROGRAMS; TO MIRROR THE PROVISION OF LAW IN THE CHAPTER CONCERNING SEATBELTS THAT VIOLATIONS OF THIS SECTION SHALL NOT BE ENTERED ON DRIVING RECORDS; TO AMEND SECTION 63-2-5, MISSISSIPPI CODE OF 1972, TO CREATE THE USE OF SAFETY SEAT BELT EDUCATION FUND AS A SPECIAL FUND WITHIN THE STATE TREASURY; TO UPDATE AN OUTDATED REFERENCE TO THE FORMER STATE TAX COMMISSION; TO AMEND SECTIONS 37-25-17 AND 63-7-311, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

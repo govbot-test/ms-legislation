@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB309",
+  "title": "No Patient Left Alone Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb309"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0309IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0309IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0309IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0309.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE NO PATIENT LEFT ALONE ACT; TO PROVIDE THAT MINOR AND ADULT PATIENTS IN HEALTH CARE FACILITIES SHALL HAVE THE RIGHT TO DESIGNATE A VISITOR WITH VISITATION RIGHTS; TO AUTHORIZE HEALTH CARE FACILITIES TO ESTABLISH CERTAIN VISITATION POLICIES; TO AUTHORIZE HEALTH CARE FACILITIES TO MANDATE CERTAIN SAFETY PROTOCOLS AND TO REVOKE VISITATION RIGHTS FOR FAILURE TO COMPLY; TO PROHIBIT THE TERMINATION, SUSPENSION OR WAIVER OF VISITATION RIGHTS BY CERTAIN PARTIES; TO PROVIDE CERTAIN LIMITATIONS TO THESE RIGHTS; TO PROHIBIT HEALTH CARE FACILITIES FROM REQUIRING PATIENTS TO WAIVE CERTAIN RIGHTS; TO REQUIRE THE DEPARTMENT OF HEALTH TO DEVELOP CERTAIN INFORMATIONAL MATERIALS; TO AUTHORIZE THE DEPARTMENT TO FINE HEALTH CARE FACILITIES FOR VIOLATIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

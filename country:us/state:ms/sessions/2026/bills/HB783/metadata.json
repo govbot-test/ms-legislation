@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB783",
+  "title": "Food labeling; require any food containing any mRNA vaccines to be clearly and conspicuously labeled.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb783"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Agriculture;Public Health and Human Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eubanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eubanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0783IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0783IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0783IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Eubanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0783.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 75-35-15, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE SALE OF ANY FOOD THAT CONTAINS A MESSENGER RIBONUCLEIC ACID (MRNA) VACCINE OR VACCINE MATERIAL UNLESS THE FOOD LABELING CONTAINS A CONSPICUOUS NOTIFICATION OF THE PRESENCE OF THE MRNA VACCINE OR VACCINE MATERIAL IN THE FOOD; TO PROVIDE THAT NOTHING PROHIBITS A PERSON FROM LABELING MEAT OR A MEAT PRODUCT AS \"MRNA FREE\" IF THE ANIMALS FROM WHICH THE MEAT OR MEAT PRODUCT WAS DERIVED WERE NOT ADMINISTERED AN MRNA VACCINE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2124",
+  "title": "Tax sales; revise provisions related to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2124"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCaughn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McCaughn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2124IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2124IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2124IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McCaughn.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2124.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-43-3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A TAX SALE WHERE THE CLERK INADVERTENTLY FAILS TO SEND THE REQUIRED NOTICE IS VOIDABLE; TO PROVIDE THAT THE SALE SHALL NOT BE VOID IF THE TAX SALE PURCHASER PROVIDED THE REQUIRED NOTICE; TO AUTHORIZE THE TAX SALE PURCHASER TO PROVIDE A LANDOWNER WITH NOTICE; TO REQUIRE LANDOWNERS TO PROVIDE A MAILING ADDRESS WITH THE CHANCERY CLERK OF THE COUNTY IN WHICH THE REAL PROPERTY IS LOCATED; TO PROVIDE THAT A LANDOWNER WHO FAILS TO PROVIDE AN ADDRESS FOR THE SERVICE OF NOTICE UNDER THIS SECTION MAY NOT CLAIM LACK OF NOTICE UNDER THIS CHAPTER; TO AMEND SECTION 27-43-5, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A TAX SALE PURCHASER TO PROVIDE CERTAIN NOTICE TO MORTGAGEES, BENEFICIARIES AND HOLDERS OF VENDOR'S LIENS; TO AMEND SECTION 27-45-27, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE PURCHASER OF TAX SALE LANDS SHALL BE ENTITLED TO SUBSEQUENT YEARS TAXES, REASONABLE ATTORNEY FEES INCURRED BY THE TAX SALE PURCHASER IN DEFENDING HIS OR HER TITLE, THE AMOUNT PAID BY THE PURCHASER FOR REGULAR MAINTENANCE, CLEAN-UP EXPENSES, REPAIRS AND IMPROVEMENTS GENERATED THROUGH THE PURCHASER'S USE AND POSSESSION OF THE PROPERTY; TO PROHIBIT THE DEFENSE OF HOMESTEAD OR HOMESTEAD EXEMPTION IN CERTAIN ACTIONS; TO PROVIDE THAT IN THE EVENT THAT A TAX SALE IS DETERMINED VOID OR IS OTHERWISE SET ASIDE, A TAX SALE PURCHASER SHALL NOT BE CONSIDERED TO HAVE TRESPASSED ON SUCH PROPERTY WHEN ACTING IN ACCORDANCE WITH THEIR STATUTORY RIGHT OF POSSESSION; TO AMEND SECTION 29-1-21, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE COURTS FROM RECOGNIZING CLAIMS BY ANY OTHER PARTY OR POLITICAL SUBDIVISION WHERE A STATE AGENCY, COUNTY, MUNICIPALITY, OR OTHER POLITICAL SUBDIVISION OF THE STATE, HAS APPLIED FOR TRANSFER OR PURCHASE OF THE TAX LANDS; TO BRING FORWARD SECTION 27-45-3, MISSISSIPPI CODE OF 1972, WHICH GOVERNS WHICH PERSONS MAY REDEEM LAND SOLD AT A TAX SALE, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-45-23, MISSISSIPPI CODE OF 1972, WHICH DIRECTS THE CHANCERY CLERK TO EXECUTE DEEDS OF CONVEYANCE TO INDIVIDUALS PURCHASING LANDS AT TAX SALES, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1082",
+  "title": "Alcoholic beverages; revise certain provisions relating to sales to persons under the age of 21.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1082"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steverson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steverson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1082IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1082IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1082IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Steverson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1082.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 67-1-81, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, IN ADDITION TO OTHER PENALTIES AUTHORIZED AGAINST A PERMITTEE UNDER THE LOCAL OPTION ALCOHOLIC BEVERAGE CONTROL LAW FOR THE UNLAWFUL SALE, FURNISHING, GIVING OR CAUSING TO BE SOLD OF ALCOHOLIC BEVERAGES TO PERSONS UNDER THE AGE OF 21, THE COMMISSIONER OF REVENUE MAY REQUIRE, AFTER A THIRD OR SUBSEQUENT OFFENSE, THAT THE PERMITTEE HAVE AND USE AN INDEPENDENT, THIRD-PARTY AGE-VERIFICATION APP ON THE LICENSED PREMISES FOR THE PURPOSE OF DETERMINING WHETHER A PERSON TO WHOM ALCOHOLIC BEVERAGES ARE SOLD, FURNISHED, GIVEN OR CAUSED TO BE SOLD IS 21 YEARS OF AGE OR OLDER; TO AUTHORIZE THE COMMISSIONER TO PROMULGATE RULES AND REGULATIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2106",
+  "title": "Bail; require specific finding before granting bail for a crime of violence, remove justice court authority to take felony bond.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2106"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2106IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2106IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2106IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2106.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 99-5-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO BAIL MAY BE GIVEN BY A SURETY COMPANY FOR A DEFENDANT CHARGED WITH A CRIME OF VIOLENCE LISTED UNDER SECTION 97-3-2 UNLESS A SPECIFIC FINDING IS MADE BY THE COURT THAT ALLOWING SUCH WILL REASONABLY ASSURE THE DEFENDANT'S APPEARANCE AND WILL ELIMINATE OR MINIMIZE THE RISK OF HARM TO OTHERS OR TO THE PUBLIC AT LARGE; TO AMEND SECTIONS 99-5-11 AND 99-15-3, MISSISSIPPI CODE OF 1972, TO REMOVE THE AUTHORITY OF JUSTICE COURT JUDGES TO TAKE RECOGNIZANCE OR BOND OF A PERSON CHARGED WITH ANY FELONY OFFENSE; TO AMEND SECTIONS 99-15-5 AND 99-33-13, MISSISSIPPI CODE OF 1972, TO CONFORM; TO BRING FORWARD SECTION 99-15-1, MISSISSIPPI CODE OF 1972, FOR POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

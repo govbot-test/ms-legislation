@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2118",
+  "title": "Jail docket; require sheriff to include certain information about incarcerated persons awaiting trial in.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "County Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2118"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To County Affairs",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Turner-Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner-Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2118IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2118IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2118IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Turner-Ford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2118.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 19-25-63, MISSISSIPPI CODE OF 1972, TO REQUIRE SHERIFFS TO PRESENT THEIR JAIL DOCKETS TO THE COUNTY BOARD OF SUPERVISORS VIA THE CHANCERY CLERK PRIOR TO EACH MONTHLY MEETING; TO AMEND SECTION 47-1-21, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SHERIFF OF EACH COUNTY TO INCLUDE IN HIS OR HER JAIL DOCKET CERTAIN INFORMATION PERTAINING TO INCARCERATED PERSONS AWAITING TRIAL; TO REQUIRE THE SHERIFF TO INCLUDE SUCH INFORMATION IN HIS OR HER MONTHLY REPORT TO THE BOARD OF SUPERVISORS VIA THE CHANCERY CLERK; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

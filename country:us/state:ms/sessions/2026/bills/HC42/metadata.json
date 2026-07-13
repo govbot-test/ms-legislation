@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HC42",
+  "title": "Constitution; amend to create State Suffrage Restoration Panel and add additional disenfranchising crimes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Apportionment and Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hc42"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Adopted As Amended",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sanford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HC/HC0042IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0042IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0042IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Sanford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HC/HC0042.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "A CONCURRENT RESOLUTION PROPOSING AN AMENDMENT TO SECTION 253, MISSISSIPPI CONSTITUTION OF 1890, TO CREATE A STATE SUFFRAGE RESTORATION PANEL TO PROVIDE AN ALTERNATE METHOD FOR THE RIGHT TO VOTE TO BE RESTORED TO ELIGIBLE PERSONS CONVICTED OF A NONVIOLENT DISENFRANCHISING CRIME, AND TO SECTION 241, MISSISSIPPI CONSTITUTION OF 1890, TO INCLUDE HUMAN TRAFFICKING, ATTEMPTED MURDER AND SEXUAL BATTERY IN THE LIST OF DISENFRANCHISING CRIMES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

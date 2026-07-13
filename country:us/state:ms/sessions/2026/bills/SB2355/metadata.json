@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2355",
+  "title": "Intervention courts; bring forward code sections related to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2355"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2355IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2355IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2355IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2355.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BRING FORWARD SECTIONS 9-23-1 THROUGH 9-23-23, MISSISSIPPI CODE OF 1972, WHICH ARE THE PROVISIONS THAT ENACT THE ALYCE GRIFFIN CLARKE INTERVENTION COURT ACT; TO AMEND SECTION 9-23-11, MISSISSIPPI CODE OF 1972, TO MAKE A NONSUBSTANTIVE, TECHNICAL REVISION; TO BRING FORWARD SECTION 9-23-51, MISSISSIPPI CODE OF 1972, WHICH IS THE PROVISION THAT ESTABLISHES THE DRUG COURT FUND IN THE STATE TREASURY FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 9-25-1, MISSISSIPPI CODE OF 1972, WHICH IS THE PROVISION THAT CREATES THE VETERAN TREATMENT COURTS FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 9-27-1 THROUGH 9-27-21, MISSISSIPPI CODE OF 1972, WHICH ARE THE PROVISIONS THAT ENACT THE RIVERS MCGRAW MENTAL HEALTH TREATMENT COURT ACT FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

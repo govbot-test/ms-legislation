@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1461",
+  "title": "Advanced practice registered nurses; authorize to sign death certificates and POLST orders.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1461"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Oliver",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Oliver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1461IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1461IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1461IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Oliver.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1461.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE AN ADVANCED PRACTICE REGISTERED NURSE (APRN) TO COMPLETE, SIGN AND FILE A CERTIFICATE OF DEATH IF THE APRN WAS THE PROVIDER IN CHARGE OF THE PATIENT'S CARE FOR THE ILLNESS OR CONDITION THAT RESULTED IN DEATH, OR IF THE APRN IS PROVIDING COVERAGE FOR THE PATIENT'S PRIMARY PROVIDER; TO AMEND SECTIONS 41-57-13 AND 41-61-63, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO AMEND SECTION 41-41-302, MISSISSIPPI CODE OF 1972, TO AUTHORIZE AN APRN TO SIGN AND EXECUTE A PHYSICIAN ORDER FOR LIFE-SUSTAINING TREATMENT (POLST) FOR A PATIENT UNDER THE NURSE'S CARE; TO AMEND SECTION 41-41-303, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISION; TO AMEND SECTION 73-15-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE PRACTICE OF NURSING BY AN APRN INCLUDES THE AUTHORITY TO SIGN, CERTIFY, OR ENDORSE DOCUMENTS AS REQUIRED BY LAW, INCLUDING DEATH CERTIFICATES AND POLST ORDERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

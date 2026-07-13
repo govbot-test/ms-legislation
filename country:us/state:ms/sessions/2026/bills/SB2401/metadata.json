@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2401",
+  "title": "Workforce development; extend certain dates of repeal and make technical amendments.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2401"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2401IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2401IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2401IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2401.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF EXEMPTION FROM PUBLIC PROCUREMENT REQUIREMENTS FOR LEASING BY THE OFFICE OF WORKFORCE DEVELOPMENT; TO EXTEND THE EXEMPTION TO CERTAIN CONTRACTS; TO AMEND SECTION 37-153-5, MISSISSIPPI CODE OF 1972, TO MAKE TECHNICAL AMENDMENTS; TO AMEND SECTION 37-153-7, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF REPEAL ON THE OFFICE OF WORKFORCE DEVELOPMENT'S PARTIAL EXEMPTION TO CERTAIN PUBLIC PROCUREMENT REQUIREMENTS; TO AMEND SECTION 37-153-17, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF REPEAL FOR CERTAIN SECTIONS OF THE MISSISSIPPI COMPREHENSIVE WORKFORCE TRAINING AND EDUCATION CONSOLIDATION ACT; TO BRING FORWARD SECTION 37-153-15, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

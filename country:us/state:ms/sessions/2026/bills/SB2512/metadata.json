@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2512",
+  "title": "Public school districts; require implementation of a success sequence and character education curriculum in.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2512"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2512IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2512IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2512IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2512.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO INTEGRATE SUCCESS SEQUENCE AND CHARACTER EDUCATION INTO THE REQUIRED CURRICULUM FOR KINDERGARTEN THROUGH GRADE 12 OF THE PUBLIC SCHOOLS AND TO DEVELOP A SUCCESS SEQUENCE AND CHARACTER EDUCATION CURRICULUM FOR USE BY SCHOOL DISTRICTS; TO REQUIRE SCHOOL BOARDS TO IMPLEMENT, NOT LATER THAN THE START OF THE 2028-2029 SCHOOL YEAR, EITHER THE CURRICULUM DEVELOPED BY THE DEPARTMENT OR A CURRICULUM DEVELOPED BY THE SCHOOL BOARD AND APPROVED BY THE DEPARTMENT; TO PROVIDE THE REQUIRED CONTENT FOR SUCH A CURRICULUM; TO REQUIRE SCHOOL DISTRICTS TO CONSULT WITH PARENTS, EDUCATORS AND COMMUNITY MEMBERS IN THE DEVELOPMENT OF A CURRICULUM; TO SPECIFY THAT PROSELYTIZING OR INDOCTRINATING CONCERNING ANY SPECIFIC RELIGIOUS OR POLITICAL BELIEF IS NOT AUTHORIZED FOR THE CURRICULA; TO EXEMPT OPTIONAL AFTER-SCHOOL INSTRUCTION PROGRAMS LED BY THIRD PARTIES FROM SUCH PROHIBITION; TO REQUIRE DATA COMPILATION AND ANNUAL REPORTING BY THE DEPARTMENT; TO AUTHORIZE THE DEPARTMENT TO ACCEPT MONEY FROM THE FEDERAL GOVERNMENT AND PRIVATE SOURCES TO USE IN ASSISTING SCHOOL DISTRICTS IN IMPLEMENTING THE CURRICULA; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

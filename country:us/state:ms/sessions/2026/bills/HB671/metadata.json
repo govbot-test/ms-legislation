@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB671",
+  "title": "Alcoholic beverages; revise policy of state regarding prohibition of, revise certain provisions regarding delivery service permits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb671"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Powell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0671IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0671IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0671IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0671.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 67-1-3, MISSISSIPPI CODE OF 1972, TO RENOUNCE PROHIBITION AS THE POLICY OF THIS STATE IN FAVOR OF THE LEGAL MANUFACTURE, SALE, DISTRIBUTION AND TRANSPORTATION OF ALCOHOLIC BEVERAGES, EXCEPT IN COUNTIES THAT VOTE TO INSTITUTE PROHIBITION AFTER HOLDING AN ELECTION ON THE MATTER; TO AMEND SECTIONS 67-1-5, 67-1-7, 67-1-9, 67-1-15, 67-1-16, 67-1-17, 67-1-37, 67-1-51, 67-1-57, 67-1-85, 67-1-91, 67-1-101, 67-9-1, 27-71-15, 27-71-31 AND 97-31-47, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; TO AMEND SECTIONS 67-1-11, 67-1-13 AND 67-1-14, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO AND TO REVISE HOW OFTEN A COUNTY OR MUNICIPALITY MAY HOLD AN ELECTION ON THE QUESTION OF INSTITUTION PROHIBITION; TO AMEND SECTION 67-1-51.1, MISSISSIPPI CODE OF 1972, TO REVISE CERTAIN PROVISIONS RELATING TO RESPONSIBILITIES OF PACKAGE RETAILERS THAT CONTRACT WITH DELIVERY SERVICE PERMITTEES FOR DELIVERY OF ALCOHOLIC BEVERAGES OR BEER, LIGHT WINE AND LIGHT SPIRIT PRODUCT; TO BRING FORWARD SECTION 67-3-9, MISSISSIPPI CODE OF 1972, WHICH IS A SECTION OF LAW REGULATING THE MANUFACTURE, SALE, TRANSPORTATION AND DISTRIBUTION OF LIGHT WINE, LIGHT SPIRIT PRODUCT AND BEER, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

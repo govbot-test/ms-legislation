@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2435",
+  "title": "Black bear harvest permits; require issuance of 20 for the 2026-2027 hunting season with 10% annual increase thereafter.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Wildlife, Fisheries and Parks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2435"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2435IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2435IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2435IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2435.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE A NEW SECTION WITHIN CHAPTER 7, TITLE 49, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE MISSISSIPPI COMMISSION ON WILDLIFE, FISHERIES AND PARKS (COMMISSION) SHALL CONTROL, REGULATE AND MANAGE THE TAKING OF ALL BLACK BEARS; TO IMPOSE REQUIREMENTS FOR RESIDENTS AND NONRESIDENTS TO HUNT OR KILL ANY BLACK BEAR FOR ANY PURPOSE; TO REQUIRE THE COMMISSION, BEGINNING WITH THE 2026-2027 HUNTING SEASON, TO ESTABLISH A BLACK BEAR HARVEST PERMIT TO HUNT OR KILL BLACK BEARS AND TO ESTABLISH THE FEE FOR SUCH PERMIT; TO REQUIRE THE COMMISSION TO ISSUE A TOTAL OF 20 BLACK BEAR HARVEST PERMITS FOR THE 2026-2027 HUNTING SEASON AND TO INCREASE THE TOTAL NUMBER OF BLACK BEAR HARVEST PERMITS ISSUED BY 10% FOR EACH HUNTING SEASON THEREAFTER; TO SET THE PENALTY FOR VIOLATIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1570",
+  "title": "Mississippi Social Media Literacy and Online Safety Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1570"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Technology;Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nelson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1570IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1570IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1570IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1570.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI SOCIAL MEDIA LITERACY AND ONLINE SAFETY ACT\"; TO REQUIRE COMPLETION OF A SOCIAL MEDIA LITERACY COURSE BEFORE INITIAL OR CONTINUED USE OF SOCIAL MEDIA PLATFORMS BY MINORS; TO PROVIDE FOR DEVELOPMENT OF THE COURSE BY THE STATE DEPARTMENT OF EDUCATION IN COORDINATION WITH THE MISSISSIPPI DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES; TO ESTABLISH A DIVERSIONARY CONSEQUENCE PROGRAM FOR REPEATED ONLINE MISCONDUCT; TO PROTECT CONSTITUTIONAL RIGHTS AND CLARIFY THAT THE ACT DOES NOT REGULATE OR RESTRICT ONLINE SPEECH; TO PROVIDE ENFORCEMENT, RULEMAKING AUTHORITY AND PENALTIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

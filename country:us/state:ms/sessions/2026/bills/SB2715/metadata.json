@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2715",
+  "title": "Money Transmission Modernization Act; revise various provisions of and create new provisions related to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2715"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2715IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2715IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2715IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2715.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 75-16-11, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT ALL FUNDS COMING INTO THE POSSESSION OF THE COMMISSIONER OF THE DEPARTMENT OF BANKING AND CONSUMER FINANCE AS A RESULT OF THE MONEY TRANSMISSION MODERNIZATION ACT SHALL BE DEPOSITED INTO THE SPECIAL FUND IN THE STATE TREASURY KNOWN AS THE \"CONSUMER FINANCE FUND,\" AND SHALL BE EXPENDED BY THE COMMISSIONER SOLELY AND EXCLUSIVELY FOR THE ADMINISTRATION AND ENFORCEMENT OF THE ACT; TO AMEND SECTION 75-16-25, MISSISSIPPI CODE OF 1972, TO REQUIRE APPLICATIONS FOR A LICENSE TO CONTAIN A LIST OF THE APPLICANT'S VIRTUAL CURRENCY KIOSKS IN THIS STATE AT WHICH IT PROPOSES TO PROVIDE VIRTUAL CURRENCY KIOSK TRANSACTIONS; TO AMEND SECTION 75-16-31, MISSISSIPPI CODE OF 1972, TO REQUIRE RENEWAL REPORTS TO CONTAIN A LIST OF THE LOCATIONS IN THIS STATE WHERE THE LICENSEE OR AN AUTHORIZED DELEGATE OF THE LICENSEE ENGAGES IN VIRTUAL CURRENCY KIOSK TRANSACTIONS; TO AMEND SECTION 75-16-43, MISSISSIPPI CODE OF 1972, TO REQUIRE LICENSEES TO SUBMIT QUARTERLY REPORTS CONTAINING CERTAIN INFORMATION ABOUT LOCATIONS AT WHICH MONEY SERVICES ARE PROVIDED AND OF VIRTUAL CURRENCY KIOSKS; TO AMEND SECTION 75-16-51, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A LICENSEE'S WRITTEN CONTRACT SEEKING TO CONDUCT BUSINESS THROUGH AN AUTHORIZED DELEGATE MUST BE MADE AVAILABLE TO THE COMMISSIONER UPON REQUEST BEFORE THE LICENSEE IS AUTHORIZED TO CONDUCT SUCH BUSINESS; TO AMEND SECTION 75-16-65, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A LICENSEE SHALL ANNUALLY PROVIDE TRAINING MATERIALS TO EACH AUTHORIZED DELEGATE THROUGH WHICH IT ENGAGES IN THE BUSINESS OF MONEY TRANSMISSION ON RECOGNIZING FINANCIAL ABUSE AND EXPLOITATION OF AN ELDER ADULT; TO CREATE NEW SECTION 75-16-89, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT A LICENSEE PROVIDE ITS NAME AND MAILING ADDRESS OR TELEPHONE NUMBER TO THE PURCHASER IN CONNECTION WITH EACH MONEY TRANSMISSION OR KIOSK TRANSACTION CONDUCTED BY THE LICENSEE DIRECTLY OR THROUGH AN AUTHORIZED DELEGATE; TO CREATE NEW SECTIONS TO BE CODIFIED AS A NEW CHAPTER WITHIN TITLE 75, MISSISSIPPI CODE OF 1972, THAT MAY BE CITED AS THE \"DATA SECURITY FOR MONEY TRANSMITTERS ACT\"; TO DEFINE TERMS; TO CREATE STANDARDS FOR SAFEGUARDING CUSTOMER INFORMATION; TO SET FORTH REQUIRED ELEMENTS FOR INFORMATION SECURITY PROGRAMS; TO REQUIRE THAT A LICENSEE PROVIDE NOTIFICATION OF CERTAIN EVENTS TO THE COMMISSIONER; TO PROVIDE CERTAIN EXCEPTIONS; TO SET FORTH THE COMMISSIONER'S AUTHORITY RELATED TO THE ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2539",
+  "title": "Independent flight control authority; provide during flu season when ICU capacity is below 10% at any time for burn victims.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2539"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2539IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2539IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2539IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2539.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT THE STATE DEPARTMENT OF HEALTH SHALL HAVE AUTHORITY FOR INDEPENDENT AIR TRAFFIC CONTROL TO DIRECT AIR TRAFFIC FROM OR INTO ANY HOSPITAL WITHIN THE STATE DURING CERTAIN CIRCUMSTANCES; TO PROVIDE THAT IF THE STATE HEALTH OFFICER, OR HIS OR HER DESIGNEE, DETERMINES THAT AN EMERGENCY EXISTS WITH REGARD TO HOSPITAL BED AVAILABILITY DURING INFLUENZA SEASON OR DUE TO THE PRESENCE OF A BURN VICTIM, AND THAT ANY DELAY ASSOCIATED WITH A LACK OF INDEPENDENT AIR TRAFFIC CONTROL TO EFFECTUATE NECESSARY TRANSFERS WOULD THREATEN THE HEALTH OR SAFETY OF ANY PERSON, THEN THE STATE HEALTH OFFICER, OR HIS OR HER DESIGNEE, SHALL HAVE GENERAL OR SPECIFIC AUTHORITY TO DIRECT AIR TRAFFIC EACH YEAR FROM OCTOBER 1 THROUGH MARCH 1 OR DURING ANY PERIOD DESIGNATED AS INFLUENZA SEASON WHEN ICU BED CAPACITY FALLS BELOW 10%, AND SHALL HAVE SUCH AUTHORITY AT ANY TIME WITH REGARD TO BURN VICTIMS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

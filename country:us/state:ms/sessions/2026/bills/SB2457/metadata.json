@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2457",
+  "title": "Sudden death; require medical examiners to report vaccinations and emergency countermeasures within 90 days prior to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2457"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Seymour",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Seymour\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2457IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2457IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2457IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Seymour.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2457.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT CREATE A NEW SECTION WITHIN TITLE 41, CHAPTER 61, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE AUTOPSY IN THE CASE OF A SUDDEN AND UNEXPECTED DEATH OF AN INFANT OR CHILD, INCLUDING CASES OF SUDDEN INFANT DEATH SYNDROME (SIDS), SUDDEN UNEXPECTED INFANT DEATH (SUID) OR SUDDEN DEATH IN THE YOUNG (SDY), MUST INCLUDE MICROSCOPIC AND TOXICOLOGY STUDIES AND A REVIEW OF THE CHILD'S IMMUNIZATION AND MEDICAL RECORDS; TO REQUIRE THAT THE MEDICAL EXAMINER DOCUMENT IN THE AUTOPSY REPORT ANY IMMUNIZATIONS AND EMERGENCY COUNTERMEASURES ADMINISTERED TO THE INFANT OR CHILD WITHIN 90 DAYS BEFORE THE INFANT'S OR CHILD'S DEATH AND REPORT THE CASE TO THE SUID AND SDY CASE REGISTRY; TO PROVIDE THAT THE AUTOPSY IN THE CASE OF A SUDDEN AND UNEXPECTED DEATH SUSPECTED TO BE CAUSED BY SUDDEN ARRHYTHMIC DEATH SYNDROME (SADS) IN AN INDIVIDUAL OF ANY AGE MUST INCLUDE MICROSCOPIC AND TOXICOLOGY STUDIES AND A REVIEW OF THE INDIVIDUAL'S IMMUNIZATION AND MEDICAL RECORDS; TO REQUIRE THAT THE MEDICAL EXAMINER DOCUMENT IN THE AUTOPSY REPORT ANY IMMUNIZATIONS AND EMERGENCY COUNTERMEASURES ADMINISTERED TO THE INDIVIDUAL WITHIN 90 DAYS BEFORE HIS OR HER DEATH AND REPORT THE CASE TO THE SUID AND SDY CASE REGISTRY IF THE INDIVIDUAL WAS YOUNGER THAN 20 YEARS OF AGE AT THE TIME OF DEATH; TO ESTABLISH ADMINISTRATIVE PENALTIES TO BE IMPOSED AGAINST A COUNTY MEDICAL EXAMINER WHO FAILS TO REPORT A CASE OF SIDS, SUID OR SDY, OR OF SADS FOR INDIVIDUALS YOUNGER THAN 20 YEARS OF AGE, TO THE SUID AND SDY CASE REGISTRY WITHIN 30 DAYS AFTER COMPLETING THE AUTOPSY REPORT; TO DESIGNATE COMPLIANCE WITH SUCH REPORTING AND DOCUMENTATION REQUIREMENTS AS A PERMISSIBLE DISCLOSURE UNDER STATE AND FEDERAL MEDICAL PRIVACY LAWS; TO DEFINE TERMS; TO BRING FORWARD SECTIONS 41-61-59, 41-61-63 AND 41-61-65, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB116",
+  "title": "\"The Juvenile Offender Parole and Rehabilitation Act\"; enact.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb116"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0116IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0116IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0116IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0116.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE \"THE JUVENILE OFFENDER PAROLE AND REHABILITATION ACT\"; TO AMEND SECTION 47-7-2, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERMS \"ADULT\", \"JUVENILE\", \"MINOR\" AND \"YOUTHFUL\" UNDER THE PROBATION AND PAROLE LAW; TO AMEND SECTION 47-7-3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF A PERSON WAS UNDER THE AGE OF EIGHTEEN AT THE TIME HE OR SHE COMMITTED AN OFFENSE AND SUCH PERSON IS NOT OTHERWISE ELIGIBLE FOR PAROLE AT AN EARLIER DATE, THEN THE PERSON SHALL BE ELIGIBLE FOR PAROLE AFTER SERVING TWENTY YEARS OF HIS OR HER SENTENCE, AND TO EXTEND THE DATE OF REPEAL ON THIS SECTION; TO AMEND SECTION 47-7-3.2, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

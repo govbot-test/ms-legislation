@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2743",
+  "title": "Department of Employment Security; amend provisions concerning unemployment.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2743"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Suber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Suber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2743IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2743IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2743IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Suber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2743.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 71-5-127, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR RELEASE OF RECORDS; TO PROVIDE FOR THE RELEASE OF RECORDS TO THIRD PARTIES UNDER CERTAIN CONDITIONS; TO AMEND SECTION 71-5-133, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DEPARTMENT TO HOLD A HEARING TO DETERMINE IF GOOD CAUSE EXISTS FOR AN EMPLOYER FAILING TO RESPOND TO A SUBPOENA; TO AUTHORIZE THE DEPARTMENT TO ASSESS A PENALTY AFTER A HEARING; TO AUTHORIZE THE DEPARTMENT TO FILE A PETITION IN CIRCUIT COURT UPON THE FAILURE OF THE EMPLOYER TO PAY SUCH PENALTY; TO AMEND SECTION 71-5-139, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DEPARTMENT TO SCHEDULE AN ADMINISTRATIVE HEARING FOR GOOD CAUSE UPON AN EMPLOYER'S FAILURE TO PRODUCE RECORDS; TO GRANT THE DEPARTMENT AND ITS AGENTS AUTHORITY TO PERFORM CERTAIN ACTIONS; TO REQUIRE FINES COLLECTED TO BE DEPOSITED IN THE MISSISSIPPI SPECIAL EMPLOYMENT SECURITY ADMINISTRATION FUND; TO AUTHORIZE THE DEPARTMENT TO SEEK THE ASSISTANCE OF THE SHERIFF FOR COLLECTION OF THE PENALTY; TO CREATE NEW SECTION MISSISSIPPI CODE OF 1972, TO REQUIRE ELECTRONIC PAYMENT OF UNEMPLOYMENT INSURANCE AND TRAINING TAXES; TO AMEND SECTION 71-5-355, MISSISSIPPI CODE OF 1972, TO GRANT THE DEPARTMENT DISCRETION TO ADJUST APPLICATION OF CERTAIN RULES UPON A SHOWING OF GOOD CAUSE OR A SHOWING OF FRAUD UPON THE EMPLOYER BY ITS PREDECESSOR OR THE FIRM IT RETAINED TO FILE TAX REPORTS; TO AUTHORIZE EMPLOYERS TO SUBMIT A WRITTEN REQUEST FOR REVIEW AND REDETERMINATION OF THEIR CONTRIBUTION RATES SETTING FORTH GOOD CAUSE FOR FAILURE TO FILE ANY TWO QUARTERLY REPORTS WITHIN THE QUALIFYING PERIOD; TO AMEND SECTION 71-5-365, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT TO REVIEW THE REASONS GIVEN FOR FAILURE TO MAKE CONTRIBUTIONS; TO AUTHORIZE THE EXECUTIVE DIRECTOR TO WAIVE UNEMPLOYMENT AND TRAINING TAXES, PENALTIES, INTEREST AND PROCESS COSTS OR ANY COMBINATION THEREOF UPON A FINDING OF GOOD CAUSE BY THE DEPARTMENT; TO AMEND SECTION 71-5-543, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR INELIGIBILITY UPON CERTAIN CONDITIONS; TO REQUIRE ALL WAIVERS TO BE GRANTED BASED UPON A CONSIDERATION OF ABILITY TO REPAY, GOOD CAUSE, EQUITY AND GOOD CONSCIENCE AND FINANCIAL IMPACT OF THE WAIVER UPON THE UNEMPLOYMENT COMPENSATION TRUST FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

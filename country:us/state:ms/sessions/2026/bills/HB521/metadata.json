@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB521",
+  "title": "School boards; provide process for removal from office for just cause and remove authority to request ad valorem tax increase exceeding 2%.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb521"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Ways and Means",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karriem",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0521IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0521IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0521IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0521.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR THE REMOVAL OF SCHOOL BOARD MEMBERS FOR MALFEASANCE, MISFEASANCE OR NONFEASANCE IN OFFICE OR FOR OTHER JUST CAUSE, INCLUDING, NEGLECT TO PERFORM OFFICIAL DUTIES ASSOCIATED WITH THE CONDUCT OF PUBLIC SCHOOLS AND PROGRAMS, BREACH OF PUBLIC TRUST OR ABUSE OF AUTHORITY; TO REQUIRE THE LOCAL SCHOOL BOARD TO MAKE AN OFFICIAL RECOMMENDATION FOR REMOVAL TO THE APPROPRIATE LOCAL GOVERNING AUTHORITY; TO PRESCRIBE THE MANNER FOR NOTICE AND ADMINISTRATIVE PROCEEDINGS PROVIDED TO THE ACCUSED SCHOOL BOARD MEMBER RECOMMENDED FOR REMOVAL; TO PROVIDE THAT THE LOCAL GOVERNING AUTHORITY SHALL ACT AS THE REVIEWING BODY WHICH SHALL VOTE UPON ITS FINDINGS UPON THE CONCLUSION OF THE HEARING; TO PROVIDE THAT THE REMOVAL OR NONREMOVAL OF AN ACCUSED SCHOOL BOARD MEMBER SHALL REQUIRE A MAJORITY VOTE OF THE LOCAL GOVERNING AUTHORITY; TO PROVIDE AN APPEALS PROCESS FOR AN AGGRIEVED PARTY; TO AMEND SECTION 37-6-13, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT CHRONIC ABSENTEEISM FROM ATTENDING MEETINGS OF THE SCHOOL BOARD MAY CONSTITUTE GROUNDS FOR REMOVAL FOR NEGLECT TO PERFORM OFFICIAL DUTIES ASSOCIATED WITH THE CONDUCT OF PUBLIC SCHOOLS; TO AMEND SECTIONS 37-57-104, 37-57-105 AND 37-57-107, MISSISSIPPI CODE OF 1972, TO DELETE THE AUTHORITY OF SCHOOL BOARDS TO INCREASE AD VALOREM TAXES LEVIED FOR SCHOOL DISTRICT PURPOSES BY MORE THAN TWO PERCENT OVER THE AMOUNT LEVIED IN THE PRECEDING YEAR ABSENT APPROVAL BY A MAJORITY VOTE IN A REFERENDUM ON THE PROPOSED TAX INCREASE; TO AMEND SECTION 27-39-207, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

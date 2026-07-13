@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2275",
+  "title": "State Workplace Safety and Health Office; establish under State Board of Health.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Labor"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2275"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Labor;Accountability, Efficiency, Transparency",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2275IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2275IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2275IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2275.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 71-1-1, MISSISSIPPI CODE OF 1972, TO EMPOWER THE STATE BOARD OF HEALTH TO ESTABLISH AN OFFICE OF WORKPLACE SAFETY AND HEALTH; TO REGULATE OCCUPATIONAL HEALTH AND SAFETY STANDARDS IN THE STATE OF MISSISSIPPI; TO PRESCRIBE ITS POWERS AND RESPONSIBILITIES; TO AMEND SECTIONS 71-1-25 AND 71-1-27, MISSISSIPPI CODE OF 1972, TO EMPOWER THE OFFICE OF WORKPLACE SAFETY AND HEALTH TO ENFORCE CHILD LABOR LAWS IN THE STATE OF MISSISSIPPI; TO PRESCRIBE ITS POWERS AND RESPONSIBILITIES; TO AMEND SECTION 41-3-15, IN CONFORMITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

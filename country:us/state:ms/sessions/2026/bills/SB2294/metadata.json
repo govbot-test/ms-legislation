@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2294",
+  "title": "MS Future Innovators Act; enact to require high-school computer science or CTE with embedded computer science course.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2294"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2294IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2294IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2294IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2294.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 37-13-215, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, BEGINNING WITH THE ENTERING NINTH-GRADE CLASS OF 2029-2030, A PUBLIC HIGH SCHOOL STUDENT SHALL, BEFORE GRADUATION, BE REQUIRED TO EARN ONE UNIT OF CREDIT IN A HIGH-SCHOOL COMPUTER SCIENCE COURSE, OR ONE UNIT OF CREDIT IN AN INDUSTRY-ALIGNED CAREER AND TECHNICAL EDUCATION (CTE) WITH EMBEDDED COMPUTER SCIENCE COURSE; TO PROVIDE THE STATE GRADUATION REQUIREMENTS THAT MAY BE SATISFIED BY EITHER OF THESE COURSES; TO REQUIRE THAT SUCH COURSES INCLUDE INSTRUCTION ON THE FUNDAMENTAL CONCEPTS OF EMERGING COMPUTER SCIENCE TECHNOLOGIES, SUCH AS ARTIFICIAL INTELLIGENCE; TO AMEND SECTION 37-13-205, MISSISSIPPI CODE OF 1972, TO DEFINE \"CAREER AND TECHNICAL EDUCATION WITH EMBEDDED COMPUTER SCIENCE COURSE\" FOR PURPOSES OF THE MISSISSIPPI COMPUTER SCIENCE AND CYBER EDUCATION EQUALITY ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

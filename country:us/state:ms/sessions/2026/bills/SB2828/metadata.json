@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2828",
+  "title": "Money Transmission Modernization Act; require licensee to charge fee for PERS and 287(g), refundable via income tax credit.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2828"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2828CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2828IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2828.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE LICENSEES UNDER THE MONEY TRANSMISSION MODERNIZATION ACT TO COLLECT A FEE OF $7.50 FOR EACH TRANSACTION NOT IN EXCESS OF $500.00 AND 1.5% OF ANY AMOUNT IN EXCESS OF $500.00; TO REQUIRE THE FEE TO BE REMITTED QUARTERLY TO THE DEPARTMENT OF REVENUE; TO REQUIRE THE DEPARTMENT OF REVENUE TO REMIT SUCH FEES TO THE LAW ENFORCEMENT 287(G) PROGRAM FUND; TO REQUIRE LICENSEES TO POST NOTICE THAT FEES PAID MAY BE REIMBURSED THROUGH AN INCOME TAX CREDIT; TO PROVIDE FOR LICENSE SUSPENSION AND CLAIMS ON A LICENSEE'S SURETY BOND; TO CREATE THE LAW ENFORCEMENT 287(G) PROGRAM FUND TO ASSIST THE ENFORCEMENT EFFORTS OF STATE AND LOCAL LAW ENFORCEMENT OFFICERS PARTNERING WITH U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE) THROUGH THE 287(G) PROGRAM UNDER THE IMMIGRATION AND NATIONALITY ACT; TO CREATE AN INCOME TAX CREDIT FOR FEES PAID UNDER THIS ACT DURING CALENDAR YEAR 2026 OR ANY CALENDAR YEAR THEREAFTER; TO AMEND SECTION 75-16-5, MISSISSIPPI CODE OF 1972, TO DEFINE \"COMMISSIONER\" AS THE COMMISSIONER OF BANKING AND CONSUMER FINANCE, AND \"DEPARTMENT\" AS THE DEPARTMENT OF BANKING AND CONSUMER FINANCE, FOR PURPOSES OF THE MONEY TRANSMISSION MODERNIZATION ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

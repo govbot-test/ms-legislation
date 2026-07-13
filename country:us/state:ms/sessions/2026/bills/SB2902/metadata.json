@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2902",
+  "title": "PERS; reform Tier 5.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2902"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brumfield",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brumfield\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2902IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2902IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2902IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Brumfield.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2902.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 25-11-103, 25-11-105, 25-11-109, 25-11-111, 25-11-112, 25-11-113, 25-11-114, 25-11-115, 25-11-117, 25-11-119, 25-11-127 AND 25-11-147, MISSISSIPPI CODE OF 1972, TO REFORM THE FIFTH TIER OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI; TO REDUCE THE VESTING PERIOD FROM EIGHT TO SIX YEARS; TO REDUCE THE REQUIRED YEARS OF SERVICE FOR RETIRING REGARDLESS OF AGE FROM 35 TO 30; TO ALLOW RETIREMENT WHEN THE SUM OF A MEMBER'S AGE AND YEARS OF CREDITABLE SERVICE IS AT LEAST 80 YEARS; TO RAISE THE MULTIPLIER FOR THE DEFINED-BENEFIT PORTION OF THE PLAN FROM 1% TO 1.25% FOR EACH YEAR OF SERVICE EXCEEDING 20 YEARS OF CREDITABLE SERVICE; TO PROVIDE FOR A COST-OF-LIVING ADJUSTMENT (COLA) TIED TO THE CONSUMER PRICE INDEX FOR URBAN WAGE EARNERS AND CLERICAL WORKERS (CPI-W) BUT CAPPED AT 1.5%; TO PROVIDE THAT THERE SHALL BE NO COLA IF THE CPI-W FOR THE PAST 12 MONTHS IS ZERO OR LESS, OR IF THE UNFUNDED ACTUARIAL ACCRUED LIABILITY OF THE SYSTEM IS GREATER THAN 15%; TO REQUIRE THE BOARD TO CAUSE TO BE PUBLISHED ONLINE, ON AN ANNUAL BASIS, THE RESULTS OF ACTUARIAL SURVEYS TO ENABLE LAWMAKERS AND THE PUBLIC TO MONITOR THE FISCAL HEALTH OF THE SYSTEM; TO REQUIRE THE BOARD TO PROVIDE ANNUAL RETIREMENT PLANNING SEMINARS FOR ALL MEMBERS OF THE SYSTEM; TO PROVIDE FOR A DEFERRED RETIREMENT OPTION PLAN (DROP); TO PROVIDE A MINIMUM EMPLOYER MATCH FOR THE DEFINED-CONTRIBUTION PORTION OF 3%, OR A MINIMUM OF 5% FOR FIRST RESPONDERS; TO PROVIDE AN ENHANCED MATCH OF AN ADDITIONAL 1% FOR EVERY ADDITIONAL FIVE YEARS OF SERVICE AS A FIRST RESPONDER; TO PROVIDE THAT THE EMPLOYER SHALL CONTRIBUTE $2,000.00 TO THE DEFINED CONTRIBUTION ACCOUNT OF EVERY EMPLOYEE WHO HAS COMPLETED 10 YEARS OF MEMBERSHIP SERVICE; TO ALLOW FIRST RESPONDERS WHO ARE VESTED TO BUY BACK UP TO FIVE YEARS OF CREDITABLE SERVICE FOR SERVICE RENDERED BEFORE MARCH 1, 2026; TO ALLOW A MEMBER TO RETIRE AT THE AGE OF 55 AFTER 20 YEARS OF SERVICE AS A FIRST RESPONDER, OR AFTER HAVING COMPLETED AT LEAST 25 YEARS OF SERVICE AS A FIRST RESPONDER; TO PROVIDE A MULTIPLIER FOR THE DEFINED-BENEFIT PORTION OF THE PLAN OF 1.5% FOR FIRST RESPONDERS; TO PROVIDE A PARTIAL LUMP-SUM OPTION (PLSO); TO PROVIDE ENHANCED DISABILITY BENEFITS AND SURVIVOR BENEFITS FOR FIRST RESPONDERS; TO BRING FORWARD SECTION 25-11-123, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

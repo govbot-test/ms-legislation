@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1715",
+  "title": "\"Universal Changing Tables Installation Incentive Grant Program Act\"; create to provide incentives for installation of in public buildings.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1715"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Property;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Crawford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1715IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1715IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1715IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crawford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1715.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE UNIVERSAL CHANGING TABLES INSTALLATION INCENTIVE GRANT PROGRAM ACT FOR THE PURPOSES OF CREATING FINANCIAL INCENTIVES TO PUBLIC AND PRIVATE OR COMMERCIAL ENTITIES LOCATED WITHIN THE STATE OF MISSISSIPPI TO INSTALL UNIVERSAL CHANGING TABLES WITHIN THE RESTROOM OF FACILITIES UNDER THEIR CONTROL; TO PROVIDE THAT THE MISSISSIPPI DEPARTMENT OF REHABILITATION SERVICES SHALL ADMINISTER THE PROGRAM; TO PROVIDE THAT GRANTS SHALL BE FUNDED FROM MONIES APPROPRIATED BY THE LEGISLATURE AND ANY OTHER SOURCES OF FUNDS MADE AVAILABLE TO THE DEPARTMENT FOR THAT PURPOSE; TO PROVIDE THAT THE GRANTS SHALL BE AWARDED SUBJECT TO AVAILABLE FUNDING; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

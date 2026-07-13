@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1561",
+  "title": "South Mississippi Career Exploration Pilot Program; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1561"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1561IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1561IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1561IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1561.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE SOUTH MISSISSIPPI CAREER EXPLORATION PILOT PROGRAM; TO PROVIDE THAT FUNDING OF THE PROGRAM, IF APPROPRIATED, SHALL BE FROM THE EDUCATION ENHANCEMENT FUND; TO PROVIDE THE PURPOSE OF THE PILOT PROGRAM, WHICH IS TO ENHANCE COLLEGE AND CAREER READINESS FOR STUDENTS IN GRADES 6 THROUGH 12; TO PROVIDE THAT THE PILOT PROGRAM SHALL BE IN PUBLIC SCHOOL DISTRICTS IN JACKSON, GEORGE AND GREENE COUNTIES AND SHALL BE IMPLEMENTED THROUGH CAREER COACHES SERVING SUCH COUNTIES; TO DISTRIBUTE FUNDING TO UNITED WAY OF JACKSON, GEORGE AND GREENE COUNTIES, WHICH SHALL ADMINISTER THE FUNDS FOR  THE BENEFIT OF THE CAREER COACHES SERVING THOSE COUNTIES; TO REQUIRE CERTAIN REPORTING BE PROVIDED BY UNITED WAY CONCERNING THE PILOT PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

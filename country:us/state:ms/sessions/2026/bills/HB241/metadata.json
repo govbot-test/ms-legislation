@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB241",
+  "title": "Educational Facilities Construction, Infrastructure and Capital Improvements Grant Program; create for improvements.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb241"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0241IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0241IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0241IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0241.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE EDUCATIONAL FACILITIES CONSTRUCTION, INFRASTRUCTURE AND CAPITAL IMPROVEMENTS GRANT PROGRAM FOR THE PURPOSE OF CONSTRUCTING NEW AND IMPROVING EXISTING EDUCATIONAL FACILITIES IN THE STATE OF MISSISSIPPI; TO PROVIDE THAT THE STATE DEPARTMENT OF EDUCATION SHALL ADMINISTER THE PROGRAM AND PROMULGATE THE NECESSARY RULES AND REGULATIONS FOR ITS ADMINISTRATION; TO CREATE THE \"EDUCATIONAL FACILITIES CONSTRUCTION, INFRASTRUCTURE AND CAPITAL IMPROVEMENTS GRANT FUND IN THE STATE TREASURY; TO AUTHORIZE PUBLIC SCHOOL DISTRICTS TO SUBMIT APPLICATIONS TO THE DEPARTMENT OF EDUCATION FOR GRANTS FROM THE FUND; TO DESIGNATE THE PURPOSES FOR WHICH GRANTS MAY BE USED AND THE PERCENTAGE OF THE GRANT FUND TO BE MADE AVAILABLE FOR GRANTS TO DIFFERENT EDUCATIONAL INSTITUTIONS; TO ESTABLISH THE MAXIMUM GRANT AMOUNTS PER DISTRICT ALLOWABLE OVER THE COURSE OF FIVE FISCAL YEARS; TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO CHANGE THE ALLOCATION THAT WAS DIVERTED TO THE EDUCATIONAL ENHANCEMENT FUND TO BE ALLOCATED TO THE EDUCATIONAL FACILITIES CONSTRUCTION, INFRASTRUCTURE AND CAPITAL IMPROVEMENTS GRANT FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

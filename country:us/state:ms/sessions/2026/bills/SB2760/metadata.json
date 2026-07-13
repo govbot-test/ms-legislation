@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2760",
+  "title": "Mississippi Department of Environmental Quality; remove the state geologist from certain surface mining provisions.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Environment Prot, Cons and Water Res"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2760"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Environment Prot, Cons and Water Res",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2760IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2760IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2760IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2760.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 49-2-7, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT CHANGES TO A CONSOLIDATION PLAN ADOPTED BY THE COMMISSION MUST BE APPROVED BY THE COMMISSION; TO AMEND SECTION 53-7-5, MISSISSIPPI CODE OF 1972, TO REMOVE THE OFFICE OF GEOLOGY AND ENERGY RESOURCES OR ITS SUCCESSOR OFFICE FROM THE DEFINITION OF DEPARTMENT; TO AMEND SECTION 53-7-41, MISSISSIPPI CODE OF 1972, TO ALLOW THE HEAD OF THE OFFICE OF GEOLOGY AND ENERGY RESOURCES TO PARTICIPATE IN CERTAIN ACTIONS TAKEN BY THE PERMIT BOARD; TO EXPAND THE POWERS OF THE EXECUTIVE DIRECTOR FOR CERTAIN ACTIONS; TO AMEND SECTION 53-9-7, MISSISSIPPI CODE OF 1972, TO REMOVE THE DEFINITION FOR STATE GEOLOGIST; TO AMEND SECTION 53-9-31, MISSISSIPPI CODE OF 1972, TO STIPULATE THAT THE AMOUNT OF BOND SHALL BE DETERMINED BY THE PERMIT BOARD AFTER CONSULTATION WITH ONLY THE DEPARTMENT; TO AMEND SECTION 53-9-32, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STAFF OF THE DEPARTMENT TO PREPARE A BRIEF UPON RECEIPT OF A COMPLETE APPLICATION FOR A SURFACE COAL MINING AND RECLAMATION OPERATION; TO AMEND SECTION 53-9-33, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT TO MAKE AN ASSESSMENT OF CERTAIN CONDITIONS PRIOR TO ISSUING A PERMIT OR MODIFICATION; TO AMEND SECTION 53-9-69, MISSISSIPPI CODE OF 1972, TO GRANT THE EXECUTIVE DIRECTOR OR HIS OR HER DESIGNEE SOLE AUTHORITY TO INVESTIGATE VIOLATIONS; TO AMEND SECTION 53-9-71, MISSISSIPPI CODE OF 1972, TO STIPULATE THAT THE STAFF OF THE DEPARTMENT SHALL BE RESPONSIBLE FOR SURFACE COAL MINING LANDS REVIEW; TO AMEND SECTION 53-9-83, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STAFF OF THE DEPARTMENT TO CONSULT WITH SURFACE OWNERS WHOSE LAND IS PROPOSED TO BE INCLUDED IN LEASING TRACTS; TO AMEND SECTION 53-9-105, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT TO ESTABLISH AND MAINTAIN A STATE RECLAMATION PROGRAM FOR ABANDONED MINES; TO AMEND SECTIONS 57-21-9 AND 7-5-25, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

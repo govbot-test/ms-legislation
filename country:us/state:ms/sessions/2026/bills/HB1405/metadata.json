@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1405",
+  "title": "Unemployment benefits; align duration with statewide unemployment rate.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1405"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Burch\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1405IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1405IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1405IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Burch.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1405.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO MAKE CERTAIN LEGISLATIVE FINDINGS RELATING TO MISSISSIPPI'S UNEMPLOYMENT INSURANCE PROGRAM AND BENEFIT DURATION; TO AMEND SECTION 71-5-507, MISSISSIPPI CODE OF 1972, TO REVISE THE MAXIMUM NUMBER OF WEEKLY UNEMPLOYMENT BENEFITS AN INDIVIDUAL MAY RECEIVE BY ALIGNING THE DURATION WITH THE STATEWIDE UNEMPLOYMENT RATE; TO UTILIZE THE AVERAGE, SEASONALLY ADJUSTED UNEMPLOYMENT RATE FOR THE STATE FOR THE THREE MONTHS PRECEDING THE MONTH OF AN INDIVIDUAL'S FIRST CLAIM TO DETERMINE THE INDIVIDUAL'S MAXIMUM NUMBER OF WEEKLY BENEFITS AVAILABLE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2049",
+  "title": "Candidate qualifications; require all candidates running for elected offices in Mississippi be natural born US citizens.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2049"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Younger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2049IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2049IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2049IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2049.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 69-1-1, 65-1-3, 25-31-1, 23-15-300,  19-21-103, 19-3-3, 37-5-1, 21-3-9, 21-5-5, 23-15-309, 37-7-201, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT ELECTED OFFICIALS IN THE STATE OF MISSISSIPPI, INCLUDING, BUT NOT LIMITED TO, THE COMMISSIONER OF AGRICULTURE AND COMMERCE, TRANSPORTATION COMMISSIONERS, DISTRICT ATTORNEYS, SHERIFFS, CHANCERY CLERKS, CIRCUIT CLERKS, TAX ASSESSORS, TAX COLLECTORS, COUNTY COURT JUDGES, COUNTY ATTORNEYS, SURVEYORS, CORONERS, SUPERVISORS, JUSTICE COURT JUDGES, CONSTABLES, ELECTION COMMISSIONERS, SCHOOL BOARD MEMBERS, LEVEE COMMISSIONERS, MAYORS, ALDERMEN, COUNCILMEN, MUNICIPAL OFFICERS AND MEMBERS OF MUNICIPAL EXECUTIVE COMMITTEES, TO BE NATURAL BORN CITIZENS OF THE UNITED STATES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

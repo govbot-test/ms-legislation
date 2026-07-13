@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2196",
+  "title": "No Patient Left Alone Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2196"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chism",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chism\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2196IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2196IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2196IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Chism.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2196.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE NO PATIENT LEFT ALONE ACT; TO PROVIDE THAT A HEALTH CARE PROVIDER SHALL ALLOW CLIENTS TO RECEIVE VISITORS DURING THEIR ADMISSION TO, OR RESIDENCY AT, THE PROVIDER'S FACILITY IN ACCORDANCE WITH RULES PROMULGATED BY THE DEPARTMENT OF HEALTH; TO REQUIRE A PROVIDER TO ALLOW IN-PERSON VISITS IN CERTAIN CIRCUMSTANCES; TO PROVIDE THAT IF CIRCUMSTANCES REQUIRE A PROVIDER TO RESTRICT PUBLIC ACCESS TO THE FACILITY DUE TO HEALTH OR SAFETY CONCERNS, THE PROVIDER SHALL DEVELOP ALTERNATE VISITATION PROTOCOLS THAT ALLOW VISITATION TO THE GREATEST EXTENT POSSIBLE WHILE MAINTAINING CLIENT HEALTH AND SAFETY; TO PROVIDE THAT IF A PROVIDER DOES NOT CORRECT A VIOLATION IN THE TIME SPECIFIED BY THE DEPARTMENT OF HEALTH OR REPEATS A VIOLATION, THE DEPARTMENT OF HEALTH SHALL IMPOSE AN ADMINISTRATIVE FINE OF AT LEAST $500.00 PER VIOLATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

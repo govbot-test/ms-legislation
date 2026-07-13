@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2290",
+  "title": "Public schools; revise provisions concerning transportation of students.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2290"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2290IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2290IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2290IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2290.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-41-3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A SCHOOL BOARD MAY PROVIDE TRANSPORTATION FOR A STUDENT LIVING LESS THAN ONE MILE FROM THE SCHOOL WHEN A DEMONSTRABLE DANGER EXISTS TO THE SAFETY OF THE CHILD WALKING TO SCHOOL; TO AMEND SECTION 37-41-13, MISSISSIPPI CODE OF 1972, TO CONFORM, AND TO PROVIDE THAT TEMPORARY OR EMERGENCY TRANSPORTATION MAY ALSO BE PROVIDED FOR STUDENTS WHO DO NOT NORMALLY QUALIFY, WHEN AN IMMINENT OR NEWLY IDENTIFIED THREAT TO STUDENT SAFETY IS DOCUMENTED; TO AMEND SECTION 37-41-27, MISSISSIPPI CODE OF 1972, TO ALLOW THAT SCHOOL BOARDS TO ENTER INTO AGREEMENTS WITH LOCAL EMERGENCY MANAGEMENT OFFICIALS, LAW ENFORCEMENT, OR OTHER AGENCIES TO MAKE SCHOOL BUSES AVAILABLE FOR USE IN DECLARED EMERGENCIES, NATURAL DISASTERS, OR OTHER PUBLIC SAFETY NEEDS, PROVIDED THAT SUCH USE DOES NOT INTERFERE WITH THE TRANSPORTATION OF STUDENTS TO AND FROM SCHOOL; TO PROVIDE THAT VEHICLES DESIGNED TO TRANSPORT 10 TO 15 PASSENGERS MUST, WHEN TRANSPORTING STUDENTS, MEET FEDERAL SCHOOL BUS SAFETY STANDARDS; TO SPECIFY THAT THE OPERATION OF SUCH A VEHICLE DOES NOT REQUIRE A COMMERCIAL DRIVER'S LICENSE, PROVIDED THE VEHICLE IS NOT DESIGNED OR USED TO TRANSPORT 16 OR MORE PASSENGERS, INCLUDING THE DRIVER; TO AMEND SECTION 37-41-47, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT SCHOOL BUS DRIVERS, WHEN TRANSPORTING STUDENTS ON TRIPS OTHER THAN REGULAR ROUTES TO AND FROM SCHOOL, SHALL NOT DRIVE AT A SPEED GREATER THAN THE POSTED SPEED LIMIT, BUT IN NO EVENT ABOVE 65 MILES PER HOUR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

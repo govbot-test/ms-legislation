@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1463",
+  "title": "Student 24/7 Teletherapy Pilot Project; establish for implementation in schools.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1463"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: ED To AP",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aguirre",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aguirre\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McLean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLean\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1463IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1463IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1463IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Aguirre.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLean.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1463.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE 2026 YOUTH MENTAL HEALTH ACCESS FOR ALL ACT; TO STATE LEGISLATIVE FINDINGS REGARDING THE MENTAL HEALTH CRISIS AMONG MISSISSIPPI'S YOUTH; TO ESTABLISH A STUDENT 24/7 TELETHERAPY PILOT PROJECT TO BE ADMINISTERED BY THE STATE DEPARTMENT OF EDUCATION; TO AUTHORIZE THE DEPARTMENT TO AWARD GRANTS TO LOCAL SCHOOL DISTRICTS AND CONTRACT WITH VENDORS TO PROVIDE TELEHEALTH SERVICES FOR SCHOOLS PARTICIPATING IN THE PILOT PROJECT; TO CREATE A SPECIAL FUND IN THE STATE TREASURY FOR THE PURPOSE OF THE PILOT PROJECT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

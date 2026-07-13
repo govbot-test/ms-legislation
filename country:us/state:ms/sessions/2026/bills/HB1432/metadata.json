@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1432",
+  "title": "MS Legislature District Project Allocation Program; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1432"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crosby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Crosby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1432IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1432IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1432IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crosby.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1432.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI LEGISLATIVE DISTRICT PROJECT ALLOCATION PROGRAM, WHICH SHALL BE ADMINISTERED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO PROVIDE FUNDS FOR PUBLIC-PURPOSE PROJECTS IN LEGISLATIVE DISTRICTS OF THE MEMBERS OF THE HOUSE OF REPRESENTATIVES AND THE SENATE; TO AUTHORIZE EACH MEMBER OF THE LEGISLATURE TO DESIGNATE ONE OR MORE ELIGIBLE PROJECTS WITHIN HIS OR HER DISTRICT, SUBJECT TO ADMINISTRATIVE REVIEW FOR LEGAL AND FISCAL COMPLIANCE; TO SPECIFY THE TYPES OF PROJECTS THAT ARE ELIGIBLE USES FOR THE FUNDS; TO PROVIDE THAT THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL REVIEW ALL PROJECT DESIGNATIONS SOLELY FOR COMPLIANCE WITH APPLICABLE CONSTITUTIONAL, STATUTORY, AND FISCAL REQUIREMENTS, AND UPON APPROVAL, SHALL DISBURSE FUNDS IN ACCORDANCE WITH STATE PROCUREMENT, CONTRACTING, AND GRANT ADMINISTRATION LAWS; TO PROVIDE THAT NO MEMBER OF THE LEGISLATURE SHALL EXERCISE CONTROL OVER FUNDS AFTER PROJECT DESIGNATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

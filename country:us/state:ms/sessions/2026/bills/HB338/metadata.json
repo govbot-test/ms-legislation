@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB338",
+  "title": "2026 Construction Training Assistance Fund; create and provide funding for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb338"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Ways and Means",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: WD To WM",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: WM To WD",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0338IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0338IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0338IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0338.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO DEPOSIT A PORTION OF STATE SALES TAX REVENUE INTO THE 2026 CONSTRUCTION TRAINING ASSISTANCE FUND CREATED IN THIS ACT; TO PROVIDE THAT THE MISSISSIPPI OFFICE OF WORKFORCE DEVELOPMENT SHALL ESTABLISH A PROGRAM TO PROVIDE GRANTS TO ASSIST PUBLIC COMMUNITY COLLEGES AND JUNIOR COLLEGES AND K-12 SCHOOL SYSTEMS IN PAYING COSTS ASSOCIATED WITH PROVIDING CONSTRUCTION INDUSTRY RELATED TRAINING FOR STUDENTS AND FOR PAYING THE COSTS CHARGED BY A COMMUNITY COLLEGE OR JUNIOR COLLEGE FOR STUDENTS TO RECEIVE SUCH TRAINING; TO PROVIDE AN APPLICATION PROCESS FOR COMMUNITY COLLEGES, JUNIOR COLLEGES AND K-12 SCHOOL SYSTEMS THAT DESIRE TO PARTICIPATE IN THE GRANT PROGRAM; TO CREATE THE \"2026 CONSTRUCTION TRAINING ASSISTANCE FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE DISBURSED BY THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY, UPON APPROPRIATION BY THE LEGISLATURE, TO THE MISSISSIPPI OFFICE OF WORKFORCE DEVELOPMENT TO USE FOR THE PURPOSE OF PROVIDING GRANTS AUTHORIZED IN THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

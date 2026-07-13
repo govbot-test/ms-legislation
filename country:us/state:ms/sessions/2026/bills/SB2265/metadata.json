@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2265",
+  "title": "Recreational off-highway vehicles; authorize operation on county roads subject to certain requirements and cap tag fees for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Highways and Transportation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2265"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Highways and Transportation",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chism",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chism\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2265IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2265IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2265IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Chism.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2265.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 63-31-3, MISSISSIPPI CODE OF 1972, TO ALLOW ALL-TERRAIN VEHICLES AND RECREATIONAL OFF-HIGHWAY VEHICLES TO OPERATE ON COUNTY RURAL, GRAVEL OR PAVED ROADS; TO REQUIRE, FOR SUCH OPERATION, COMPLIANCE WITH LICENSING AND TAGGING REQUIREMENTS AND OTHER MOTOR VEHICLE REGULATIONS, EXCEPT THOSE REQUIRING EQUIPPING WITH WINDSHIELD WIPERS; TO SPECIFY THAT A LICENSE TAG SHALL NOT AUTHORIZE THE USE OF AN ALL-TERRAIN VEHICLE OR RECREATIONAL OFF-HIGHWAY VEHICLE FOR TOWING, OR FOR OPERATION ON AN INTERSTATE HIGHWAY OR ANY OTHER ROAD FOR WHICH THE SPEED LIMIT EXCEEDS 40 MILES PER HOUR, EXCEPT FOR CROSSING CERTAIN ROADS; TO AMEND SECTION 27-19-43, MISSISSIPPI CODE OF 1972, TO CONFORM AND TO PROVIDE THAT LICENSE TAGS SOLD AND ISSUED FOR ALL TERRAIN VEHICLES OR RECREATIONAL OFF-HIGHWAY VEHICLES SHALL NOT EXCEED $100.00; TO AMEND SECTIONS 27-19-3, 27-19-5, 27-51-5, 63-3-103, 63-15-3 AND 63-21-5, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

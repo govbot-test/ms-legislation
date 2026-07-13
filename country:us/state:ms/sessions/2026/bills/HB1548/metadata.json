@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1548",
+  "title": "Agriculture, Science, Commerce, Engineering, Nursing and Technical Skills (ASCENT) to Excellence Early College High School; create at Alcorn State University.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1548"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Holloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Holloway\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1548IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1548IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1548IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Holloway_(76th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1548.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE ALCORN STATE UNIVERSITY AGRICULTURE, SCIENCE, COMMERCE, ENGINEERING, NURSING, AND TECHNICAL SKILLS (ASCENT) TO EXCELLENCE EARLY COLLEGE HIGH SCHOOL; TO PROVIDE THAT THE MISSISSIPPI BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING SHALL OVERSEE THE DEVELOPMENT AND IMPLEMENTATION OF AN ON CAMPUS EARLY COLLEGE HIGH SCHOOL AT ALCORN STATE UNIVERSITY; TO PROVIDE THAT ELIGIBLE STUDENTS IN GRADES 9 THROUGH 12 MAY BE SELECTED FROM ACROSS VARIOUS SCHOOL DISTRICTS THROUGHOUT THE STATE OF MISSISSIPPI TO ATTEND THE ASCENT TO EXCELLENCE EARLY COLLEGE HIGH SCHOOL; TO REQUIRE ALCORN STATE UNIVERSITY TO PROVIDE THE SPACE, CURRICULUM, INSTRUCTORS, MINIMUM STANDARDS AND OTHER REQUIREMENTS FOR THE HIGH SCHOOL; TO PROVIDE A MAXIMUM AMOUNT OF ANNUAL FUNDS THAT MAY BE APPROPRIATED TO THE PROGRAM; TO BRING FORWARD SECTIONS 37-13-81, 37-13-83, 37-13-85, 37-13-87, 37-13-89, 37-13-91, 37-13-107, 37-101-1, 37-121-1, 37-15-31, 37-15-38, 37-16-3, 37-16-4, 37-16-5, 37-17-7, 37-17-6, 37-57-107, 37-151-93 AND 37-151-103, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

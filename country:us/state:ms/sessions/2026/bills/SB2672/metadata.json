@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2672",
+  "title": "Mississippi Department of Information Technology Services; bring forward code sections.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Economic and Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2672"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Economic and Workforce Development",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2672IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2672IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2672IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2672.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BRING FORWARD SECTIONS 25-53-1, 25-53-3, 25-53-5, 25-53-7, 25-53-9, 25-53-11, 25-53-13, 25-53-15, 25-53-17, 25-53-19, 25-53-21, 25-53-23, 25-53-25, 25-53-29, 25-53-51, 25-53-53, 25-53-55, 25-53-57, 25-53-59, 25-53-105, 25-53-107, 25-53-109, 25-53-111, 25-53-113, 25-53-113, 25-53-115, 25-53-117, 25-53-119, 25-53-121, 25-53-123, 25-53-125, 25-53-151, 25-53-171, 25-53-191, 25-53-193, 25-53-201, 25-53-231, 25-53-233, 25-53-235, 25-53-237, 25-53-239, 25-53-241, 25-53-251, 25-53-253, 25-53-255, 25-53-257, 25-53-261, 25-53-281, 25-53-301, AND 25-53-101 FOR PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 25-53-259, MISSISSIPPI CODE OF 1972, TO MAKE TECHNICAL, NONSUBSTANTIVE CHANGES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

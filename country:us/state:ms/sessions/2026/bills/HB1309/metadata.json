@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1309",
+  "title": "Gender dysmorphia; require school personnel to notify parents of students who request to be referred to as different gender.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1309"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1309IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1309IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1309IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1309.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE SCHOOL ADMINISTRATORS, TEACHERS, COUNSELORS OR OTHER PERSONNEL OF THE SCHOOL TO PROVIDE WRITTEN NOTIFICATION TO THE PARENT OR LEGAL GUARDIAN OF ANY STUDENT PUBLICLY IDENTIFYING AT SCHOOL AS A GENDER OR PRONOUN THAT DOES NOT ALIGN WITH THE CHILD'S SEX ON THEIR BIRTH CERTIFICATE, SEX ASSIGNED AT BIRTH OR USING SEX-SEGREGATED SCHOOL PROGRAMS AND ACTIVITIES OR SCHOOL FACILITIES THAT DO NOT ALIGN WITH THE CHILD'S SEX ASSIGNMENT AT BIRTH, WITHIN SEVEN DAYS OF BECOMING AWARE OF SUCH CONDUCT OR REQUEST BY THE AFFECTED STUDENT; TO PROVIDE THAT NO SCHOOL PERSONNEL SHALL BE DISCIPLINED OR SUFFER ANY UNLAWFUL REPRISAL FOR REFUSING TO ACKNOWLEDGE A STUDENT BY A PREFERRED GENDER, OR PRONOUN THAT IS INCONSISTENT WITH THE CHILD'S SEX ASSIGNMENT AT BIRTH; TO PROVIDE THAT NO NOTICE SHALL BE MADE TO PARENTS OR GUARDIANS FOR COMMUNICATIONS MADE CONFIDENTIALLY TO SCHOOL COUNSELORS, ADMINISTRATORS, TEACHERS AND OTHER PERSONNEL OF THE SCHOOL; TO PRESCRIBE THE LEGISLATIVE INTENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

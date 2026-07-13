@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1306",
+  "title": "Community Drinking Water Infrastructure Sustainability Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1306"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Powell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1306IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1306IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1306IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1306.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"COMMUNITY DRINKING WATER INFRASTRUCTURE SUSTAINABILITY ACT\"; PROVIDE A STATEWIDE SYSTEM OF ACCOUNTABILITY FOR COMMUNITY PUBLIC WATER SYSTEMS; TO PROVIDE FOR RULEMAKING BY THE MISSISSIPPI BOARD OF HEALTH; TO PROVIDE FOR DEVELOPMENT OF A LETTER GRADE SCHEDULE REFLECTIVE OF COMMUNITY PUBLIC WATER SYSTEM QUALITY AND PERFORMANCE; TO PROVIDE FOR PUBLICATION OF QUALITY AND PERFORMANCE SCORES AND LETTER GRADES; TO AMEND SECTION 19-5-151, MISSISSIPPI CODE OF 1972, TO AUTHORIZE CERTAIN UTILITY DISTRICTS TO DISSOLVE WHENEVER A MAJORITY OF THE LANDOWNERS OF ANY SUCH DISTRICT SIGN AND FILE WITH THE CLERK OF THE CHANCERY COURT BY WHICH SUCH DISTRICT WAS ORGANIZED, OR IN THE COUNTY IN WHICH SUCH DISTRICT WAS ORGANIZED, A PETITION FOR THE DISSOLUTION OF SUCH DISTRICT;  TO BRING FORWARD SECTION 19-5-165, MISSISSIPPI CODE OF 1972, WHICH RELATES TO NEWLY FORMED WATER DISTRICT ASSETS AND LIABILITIES, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 41-3-15 AND 41-26-3, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE STATE BOARD OF HEALTH, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

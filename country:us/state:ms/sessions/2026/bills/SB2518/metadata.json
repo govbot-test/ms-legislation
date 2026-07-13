@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2518",
+  "title": "Mississippi Safe Schools Information-Sharing Act of 2026; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2518"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2518IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2518IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2518IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2518.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"MISSISSIPPI SAFE SCHOOLS INFORMATION-SHARING ACT OF 2026\"; TO ESTABLISH A SECURE STATEWIDE ONLINE STUDENT SAFETY RISK-ASSESSMENT TRACKING AND INFORMATION-SHARING SYSTEM IN COORDINATION WITH THE JUVENILE COURT SYSTEM AND SCHOOL DISTRICTS; TO REQUIRE TIMELY DATA ENTRY OF RISK ASSESSMENTS; TO PROVIDE LIMITED ACCESS FOR PRIVACY PURPOSES; TO REQUIRE BEHAVIORAL THREAT ASSESSMENT AND MANAGEMENT (BTAM) TRAINING FOR CERTAIN DISTRICT LEADERSHIP; TO REQUIRE LOCAL LAW ENFORCEMENT NOTIFICATION TO A JUVENILE'S SCHOOL DISTRICT OF A JUVENILE FELONY ARREST WITHIN 24 HOURS AND AUTHORIZE TRANSMISSION THROUGH THE SYSTEM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

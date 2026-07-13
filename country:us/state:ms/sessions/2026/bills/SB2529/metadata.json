@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2529",
+  "title": "Rare diseases; establish Rare Disease Task Force and establish insurance coverage integrity for rare disease therapies.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2529"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McMahan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McMahan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2529IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2529IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2529IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McMahan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2529.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO STATE LEGISLATIVE FINDINGS CONCERNING RARE DISEASES; TO PROVIDE THE PURPOSE OF THIS ACT; TO DEFINE TERMS; TO ESTABLISH THE RARE DISEASE TASK FORCE; TO PROVIDE FOR THE MEMBERSHIP OF THE TASK FORCE; TO PROVIDE THE POWERS AND DUTIES OF THE TASK FORCE; TO PROVIDE FOR MEETINGS OF THE TASK FORCE; TO PROVIDE FOR COORDINATION AND OVERSIGHT OF THE TASK FORCE; TO ESTABLISH REPORTING REQUIREMENTS; TO PROVIDE THAT THE MISSISSIPPI INSURANCE DEPARTMENT SHALL PROVIDE STAFF AND CLERICAL SUPPORT TO THE TASK FORCE; TO GRANT THE MISSISSIPPI INSURANCE DEPARTMENT RULEMAKING AUTHORITY; TO ESTABLISH INSURANCE COVERAGE INTEGRITY FOR RARE DISEASE THERAPIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

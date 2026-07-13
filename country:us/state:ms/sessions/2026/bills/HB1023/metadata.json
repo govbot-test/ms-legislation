@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1023",
+  "title": "State agencies; require simultaneous repeal of two existing rules whenever proposed new rule takes effect.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1023"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ladner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ladner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1023IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1023IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1023IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ladner.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1023.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 25-43-3.100, MISSISSIPPI CODE OF 1972, TO REQUIRE A STATE AGENCY PROPOSING TO ADOPT A NEW RULE TO IDENTIFY AT LEAST TWO EXISTING RULES THAT WILL BE REPEALED SIMULTANEOUSLY WITH THE NEW RULE BECOMING EFFECTIVE; TO AMEND SECTION 25-43-3.102, MISSISSIPPI CODE OF 1972, TO REQUIRE AN AGENCY'S RULE-MAKING DOCKET TO INCLUDE THOSE RULES TO BE REPEALED WITH THE ADOPTION OF A PROPOSED RULE; TO AMEND SECTION 25-43-3.103, MISSISSIPPI CODE OF 1972, TO REQUIRE AN AGENCY TO INCLUDE THOSE RULES TO BE REPEALED IN ITS NOTICE OF PROPOSED RULE ADOPTION FILED WITH THE SECRETARY OF STATE FOR PUBLICATION IN THE ADMINISTRATIVE BULLETIN; TO AMEND SECTION 25-43-3.105, MISSISSIPPI CODE OF 1972, TO REQUIRE AN AGENCY'S ECONOMIC IMPACT STATEMENT RELATING TO A PROPOSED RULE ADOPTION TO INCLUDE AN ESTIMATE OF ANY OFFSET IN COSTS ASSOCIATED WITH IMPLEMENTING THE NEW RULE THAT WILL BE ACHIEVED BY THE ELIMINATION OF THOSE RULES IDENTIFIED FOR REPEAL; TO AMEND SECTION 25-43-3.110, MISSISSIPPI CODE OF 1972, TO REQUIRE AN AGENCY TO INCLUDE IN ITS RULE-MAKING RECORD THOSE RULES TO BE REPEALED WITH THE ADOPTION OF A PROPOSED RULE; TO AMEND SECTIONS 25-43-3.111, 25-43-3.113 AND 25-43-4.104, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

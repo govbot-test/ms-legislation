@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB674",
+  "title": "Alcoholic beverages; authorize the sale of wine at grocery stores.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb674"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Powell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0674IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0674IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0674IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0674.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 67-1-5, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"GROCERY STORE\" UNDER THE LOCAL OPTION ALCOHOLIC BEVERAGE CONTROL LAW; TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DEPARTMENT OF REVENUE TO ISSUE GROCERY STORE WINE-ONLY RETAILER'S PERMITS THAT AUTHORIZE THE HOLDER THEREOF TO SELL WINE AT RETAIL AT A GROCERY STORE IN ORIGINAL SEALED AND UNOPENED PACKAGES NOT TO BE CONSUMED ON THE PREMISES WHERE SOLD; TO PROVIDE THAT THE HOLDER OF A PACKAGE RETAILER'S PERMIT MAY SELL OTHER PRODUCTS AND MERCHANDISE, EXCEPT BEER, BUT MUST DERIVE AT LEAST 50% OF THE REVENUE OF THE LICENSED PREMISES FROM THE RETAIL SALE OF ALCOHOLIC BEVERAGES IN ORIGINAL SEALED AND UNOPENED PACKAGES NOT TO BE CONSUMED ON THE LICENSED PREMISES; TO REVISE THE TYPE OF PERMITS FOR WHICH CERTAIN TEMPORARY PERMITS MAY BE ISSUED; TO AUTHORIZE A PERSON TO OWN OR CONTROL ANY INTEREST IN NO MORE THAN SIX PACKAGE RETAILER'S PERMITS; TO AMEND SECTION 27-71-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THE LICENSE TAX REQUIRED FOR GROCERY STORE WINE-ONLY RETAILER'S PERMITS; TO AMEND SECTIONS 67-1-41, 67-1-75, 67-1-83 AND 67-1-85, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

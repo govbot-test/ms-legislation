@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1761",
+  "title": "Alcoholic beverages; extend repealers relating to festival wine permits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1761"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1761IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1761IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1761IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1761.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE AUTHORITY OF THE DEPARTMENT OF REVENUE TO ISSUE A FESTIVAL WINE PERMIT; TO AMEND SECTION 67-1-41, MISSISSIPPI CODE OF 1972, TO EXTEND THE EXPIRATION DATE OF THE EXCEPTION TO THE STATUTE REQUIRING THE DEPARTMENT OF REVENUE TO SERVE AS A WHOLESALE DISTRIBUTOR AND SELLER OF ALCOHOLIC BEVERAGES FOR THOSE ALCOHOLIC BEVERAGES SOLD BY THE HOLDER OF A FESTIVAL WINE PERMIT; TO AMEND SECTION 67-1-77, MISSISSIPPI CODE OF 1972, TO EXTEND THE EXPIRATION DATE ON THE AUTHORITY OF A DISTILLER, WINE MANUFACTURER, RECTIFIER, BLENDER OR BOTTLER TO HAVE A FINANCIAL INTEREST IN A FESTIVAL WINE PERMIT; TO AMEND SECTION 27-71-5, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE ANNUAL PRIVILEGE LICENSE TAX FOR A FESTIVAL PERMIT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

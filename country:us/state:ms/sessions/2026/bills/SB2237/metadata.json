@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2237",
+  "title": "Student School Stewardship Pilot Program; establish.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2237"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2237IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2237IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2237IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2237.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE STUDENT SCHOOL STEWARDSHIP PILOT PROGRAM TO IMPLEMENT STRUCTURED, STUDENT-LED CLEANING ACTIVITIES IN PUBLIC K-12 SCHOOLS; TO STIPULATE THAT THE PROGRAM OPERATE FOR NO LESS THAN TWO ACADEMIC YEARS; TO LIMIT THE NUMBER OF PARTICIPATING SCHOOLS TO TEN; TO REQUIRE SELECTED SCHOOLS TO REPRESENT DIVERSE AGES, LOCATIONS AND DEMOGRAPHICS; TO REQUIRE WRITTEN CONSENT FROM PARENTS OR GUARDIANS PRIOR TO A CHILD'S PARTICIPATION IN THE PROGRAM; TO REQUIRE PARTICIPATING SCHOOLS TO CREATE A LIST OF ACTIVITIES FOR APPROVAL; TO PROVIDE FOR OPERATION OF THE PROGRAM; TO ALLOW INSTRUCTORS TO INTEGRATE ASPECTS OF THE PROGRAM INTO INSTRUCTION; TO REQUIRE THE DEPARTMENT OF EDUCATION TO COLLECT DATA AND SUBMIT A REPORT TO THE LEGISLATURE NO LATER THAN DECEMBER 31, 2028; TO PROVIDE FOR ALLOCATION OF FUNDING, IF AVAILABLE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2543",
+  "title": "Interstate Dental and Dental Hygiene Licensure Compact; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2543"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2543IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2543IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2543IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2543.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT INTO LAW THE INTERSTATE DENTAL AND DENTAL HYGIENE LICENSURE COMPACT AND PROVIDE THAT THE STATE OF MISSISSIPPI ENTERS THE COMPACT WITH OTHER STATES AND JURISDICTIONS THAT JOIN IN THE COMPACT; TO PROVIDE THAT THE PURPOSE OF THE COMPACT IS TO EXPEDITE LICENSURE AND INCREASE ACCESS TO DENTAL HEALTH CARE THROUGH LICENSURE BOARDS ACTING IN COOPERATION; TO DEFINE TERMS; TO CREATE A COMPACT AND COMMISSION; TO SET FORTH DUTIES OF COMPACT MEMBER STATES AND POWERS AND DUTIES OF THE COMMISSION; TO SET FORTH APPLICATION AND ELIGIBILITY REQUIREMENTS AND MATTERS RELATED TO COMPACT LICENSE PRIVILEGE ISSUANCE; TO PROVIDE FOR JURISDICTION OVER COMPACT LICENSE PRIVILEGE HOLDERS, FEES, MILITARY WAIVER, INVESTIGATIONS, INFORMATION REQUESTS, RULEMAKING FUNCTIONS OF THE COMMISSION, COMPACT OVERSIGHT, ENFORCEMENT AND PROCEDURES, DISPUTE RESOLUTION, MEMBER STATE ELIGIBILITY, EFFECTIVE DATE OF THE COMPACT, WITHDRAWAL, COMPACT DISSOLUTION, SEVERABILITY AND CONSTRUCTION OF THE COMPACT PROVISIONS, BINDING EFFECT OF THE COMPACT AND RULES OF ORDER TO BE APPLIED AT MEETINGS; TO AMEND SECTIONS 73-9-1, 73-9-23, 73-9-35 AND 73-9-41, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2487",
+  "title": "Literacy in grades 4-8; develop intervention strategies to support the promotion of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2487"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2487CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2487IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2487.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE CERTAIN INTERVENTION AND IMPLEMENTATION STRATEGIES FOR LITERACY PROFICIENCY AMONG STUDENTS IN GRADES 4-8; TO DEFINE TERMINOLOGY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PROVIDE A SYSTEM OF SUPPORT FOR SCHOOL AND DISTRICT INSTRUCTIONAL LEADERS, CONTENT AREA TEACHERS, LITERACY COACHES, DYSLEXIA THERAPISTS, INTERVENTIONISTS, TUTORS, AND OTHER IDENTIFIED PERSONNEL TO ENSURE THEY HAVE THE KNOWLEDGE AND SKILLS TO SUPPORT STUDENTS IN GRADES 4-8 WITH READING DIFFICULTIES; TO PRESCRIBE WHAT THE SYSTEM OF SUPPORTS SHALL ENTAIL; TO REQUIRE THAT ANY STUDENT IN GRADES 4-8 EXHIBITING DEFICIENCIES IN READING SHALL RECEIVE AN INDIVIDUAL READING PLAN (IRP) NO LATER THAN 30 DAYS AFTER THE IDENTIFICATION OF THE READING DEFICIENCY; TO SPECIFY THAT THE IRP SHALL BE CREATED BY THE TEACHER, INTERVENTIONIST, PRINCIPAL, OTHER PERTINENT SCHOOL PERSONNEL, AND PARENT AND SHALL DESCRIBE THE SCIENTIFICALLY RESEARCHED AND EVIDENCED-BASED READING INTERVENTION SERVICES THE STUDENT SHALL RECEIVE TO REMEDY THE READING DEFICIT; TO REQUIRE WRITTEN NOTIFICATION OF THE PARENT OF ANY STUDENT IN GRADES 4-8 WITHIN 10 BUSINESS DAYS OF THE IDENTIFICATION OF A READING DEFICIENCY; TO REQUIRE THAT ANY INCOMING STUDENT IN GRADES 4-8 IDENTIFIED WITH A READING DEFICIENCY BE PROVIDED WITH SUPPLEMENTAL OR INTENSIVE INTERVENTIONS DEPENDENT UPON THE SEVERITY OF THE DEFICIT SKILLS TO ADDRESS THE SPECIFIC DEFICIENCY; TO SET OUT THE RESPONSIBILITIES OF SCHOOL DISTRICTS, THE STATE DEPARTMENT OF EDUCATION, AND EDUCATOR PREPARATION PROGRAMS; TO PROVIDE THAT THE STATE BOARD OF EDUCATION SHALL HAVE THE AUTHORITY TO ENFORCE THIS ACT AND MAY PROMULGATE RULES AND REGULATIONS AS NECESSARY FOR THE IMPLEMENTATION OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

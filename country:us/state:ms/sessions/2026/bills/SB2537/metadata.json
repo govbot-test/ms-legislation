@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2537",
+  "title": "Fetal and Infant Mortality Review Panel; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2537"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2537IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2537IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2537IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2537.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE FETAL AND INFANT MORTALITY REVIEW PANEL TO REVIEW FETAL DEATHS AND DEATHS OF INFANTS UP TO ONE YEAR OF AGE AND ESTABLISH STRATEGIES TO PREVENT INFANT DEATHS; TO PROVIDE THAT THE REVIEW PANEL SHALL BE MULTIDISCIPLINARY AND COMPOSED OF SUCH MEMBERS AS DEEMED APPROPRIATE BY THE STATE DEPARTMENT OF HEALTH; TO REQUIRE THE REVIEW PANEL TO SUBMIT A REPORT ANNUALLY TO THE HOUSE AND SENATE PUBLIC HEALTH COMMITTEES THAT INCLUDE THE NUMBERS, CAUSES AND RELEVANT DEMOGRAPHIC INFORMATION ON INFANT MORTALITY DEATHS IN MISSISSIPPI, AND APPROPRIATE RECOMMENDATIONS TO THE LEGISLATURE ON HOW TO MOST EFFECTIVELY DIRECT STATE RESOURCES TO DECREASE INFANT MORTALITY IN THE STATE; TO REQUIRE THAT DATA SHALL BE PROVIDED TO THE REVIEW PANEL BY THE STATE MEDICAL EXAMINER'S OFFICE, STATE DEPARTMENT OF HEALTH, DEPARTMENT OF HUMAN SERVICES, MEDICAL EXAMINERS, CORONERS, HEALTH CARE PROVIDERS, LAW ENFORCEMENT AGENCIES, AND ANY OTHER AGENCIES OR OFFICIALS HAVING INFORMATION THAT IS NECESSARY FOR THE REVIEW PANEL TO CARRY OUT ITS DUTIES; TO REQUIRE PHYSICIANS, HOSPITALS AND PHARMACIES TO PROVIDE REASONABLE ACCESS TO THE REVIEW PANEL TO ALL RELEVANT MEDICAL RECORDS ASSOCIATED WITH A CASE UNDER REVIEW BY THE REVIEW PANEL; TO PROVIDE THAT INFORMATION, RECORDS AND PROCEEDINGS OF THE REVIEW PANEL ARE CONFIDENTIAL AND NOT SUBJECT TO THE OPEN MEETINGS ACT, THE PUBLIC RECORDS ACT OR SUBPOENA, DISCOVERY OR INTRODUCTION INTO EVIDENCE; TO AUTHORIZE THE REVIEW PANEL TO INITIATE ENFORCEMENT ACTIONS AGAINST AGENCIES OR OFFICIALS THAT DO NOT PROVIDE INFORMATION TO THE PANEL IN A COMPLETE AND TIMELY MANNER; TO AMEND SECTION 25-41-3, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; TO CREATE A NEW SECTION WITHIN CHAPTER 61, TITLE 25, MISSISSIPPI CODE OF 1972, TO EXEMPT CERTAIN QUALITY ASSURANCE, QUALITY IMPROVEMENT, PERFORMANCE IMPROVEMENT, AND REVIEW RECORDS OF THE STATE DEPARTMENT OF HEALTH FROM THE PUBLIC RECORDS ACT; TO PROVIDE THAT SUCH RECORDS SHALL BE CONFIDENTIAL AND NOT SUBJECT TO DISCLOSURE, SUBPOENA, OR DISCOVERY; TO EXEMPT CERTAIN RADIOLOGICAL HEALTH AND RADIOACTIVE MATERIAL LICENSING INFORMATION FROM THE PUBLIC RECORDS ACT WHEN DISCLOSURE WOULD POSE A RISK TO PUBLIC HEALTH OR SECURITY; TO AMEND SECTION 25-41-7, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE STATE DEPARTMENT OF HEALTH AND CERTAIN PANELS, COMMITTEES, SYSTEMS, OR PROGRAMS ESTABLISHED, DESIGNATED, ADMINISTERED, OR SUPPORTED BY THE DEPARTMENT FOR PURPOSES OF QUALITY ASSURANCE, QUALITY IMPROVEMENT, PERFORMANCE IMPROVEMENT, PEER REVIEW, PATIENT SAFETY, MORBIDITY OR MORTALITY REVIEW, OR SYSTEM EVALUATION TO CONDUCT CLOSED MEETINGS OR EXECUTIVE SESSIONS FOR THE DISCUSSION OF CONFIDENTIAL QUALITY ASSURANCE AND PERFORMANCE IMPROVEMENT MATTERS; TO AMEND SECTION 41-111-1, MISSISSIPPI CODE OF 1972, TO MAKE TECHNICAL, NONSUBSTANTIVE AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1477",
+  "title": "Safe deposit boxes; provide escheatment process for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banking and Financial Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1477"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Banking and Financial Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aguirre",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aguirre\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1477CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1477IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Aguirre.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1477.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR A SAFE DEPOSIT BOX ESCHEATMENT PROCESS; TO REQUIRE BANKS AND FINANCIAL ORGANIZATIONS TO PROVIDE CERTAIN NOTICE TO PERSONS WHO HAVE NOT PAID RENT FOR THEIR SAFE DEPOSIT BOXES; TO AUTHORIZE SUCH BANKS AND FINANCIAL ORGANIZATIONS TO OPEN THE SAFE DEPOSIT BOX AFTER PROPER NOTICE; TO AUTHORIZE THE STATE TREASURER TO RECEIVE CONTENTS FROM THE ABANDONED SAFE DEPOSIT BOX AND SELL THE CONTENTS AT PUBLIC AUCTION; TO AMEND SECTION 89-12-3, MISSISSIPPI CODE OF 1972, TO DEFINE \"LAST KNOWN ADDRESS\" AND \"LAWFUL CHARGES\" FOR THE PURPOSES OF THIS ACT; TO AMEND SECTION 89-12-5, MISSISSIPPI CODE OF 1972, TO MODERNIZE CERTAIN PROVISIONS RELATING TO ABANDONED AND UNCLAIMED PROPERTY UNDER THE UNIFORM DISPOSITION OF UNCLAIMED PROPERTY ACT; TO BRING FORWARD SECTION 81-5-64, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

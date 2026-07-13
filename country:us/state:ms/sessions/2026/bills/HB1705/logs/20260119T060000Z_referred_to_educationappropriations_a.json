@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred To Education;Appropriations A",
+    "occurred_at": "2026-01-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1705IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1705.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1705"
+}

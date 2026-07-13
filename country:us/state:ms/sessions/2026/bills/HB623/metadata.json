@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB623",
+  "title": "Medicaid; revise certain provisions regarding managed care providers and payments during appeals.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb623"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0623IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0623IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0623IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0623.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-13-117, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DIRECT ON-SITE SUPERVISOR OF A PROVIDER IN A MANAGED CARE ORGANIZATION UNDER ANY MANAGED CARE PROGRAM IMPLEMENTED BY THE DIVISION OF MEDICAID WHO HAS BEGUN THE PROCESS FOR CREDENTIALING AND PREVIOUSLY HAS NOT BEEN DENIED CREDENTIALING TO SIGN OFF ON THE WORK OF THE PROVIDER DURING THE TIME THAT THE PROVIDER IS AWAITING A DECISION ON HIS OR HER CREDENTIALING, AND TO ALLOW THE PROVIDER TO RECEIVE REIMBURSEMENT FROM THE ORGANIZATION FOR THE WORK THAT HAS BEEN SIGNED OFF ON BY THE SUPERVISOR; TO AMEND SECTION 43-13-121, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHENEVER THE DIVISION DETERMINES AFTER A HEARING THAT A PROVIDER HAS VIOLATED ANY PROVISION OF THE MEDICAID LAW, THE DIVISION MAY NOT SUSPEND REIMBURSEMENT PAYMENTS TO THE PROVIDER DURING THE TIME THAT THE DECISION OF THE DIVISION IS ON APPEAL BY THE PROVIDER, UNLESS THE PROVIDER PREVIOUSLY HAS BEEN CONVICTED OF FRAUD IN CONNECTION WITH THE MEDICAID PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

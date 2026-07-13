@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2727",
+  "title": "Baby safety devices; provide for termination of parental rights and proceedings concerning the child.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2727"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2727IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2727IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2727IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2727.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-15-201, MISSISSIPPI CODE OF 1972, TO CLARIFY THAT PLACEMENT OF A CHILD IN A BABY SAFETY DEVICE IS A TERMINATION OF PARENTAL RIGHTS AND TO REMOVE THE REFERENCE TO A PERSON DESIGNATED BY THE PARENT; TO AMEND SECTION 43-15-203, MISSISSIPPI CODE OF 1972, TO REQUIRE THE YOUTH COURT IN THE COUNTY WHERE A BABY SAFETY DEVICE IS LOCATED TO HOLD A SHELTER HEARING WITHIN 48 HOURS OF THE DEPARTMENT OF CHILD PROTECTION SERVICES ASSUMING THE CARE, CONTROL AND CUSTODY OF THE CHILD; TO AMEND SECTION 43-21-551, MISSISSIPPI CODE OF 1972, TO INCLUDE A CHILD THAT HAS BEEN SURRENDERED TO A BABY SAFETY DEVICE TO THE LANGUAGE REQUIRING AN ADJUDICATORY HEARING TO BE HELD WITHIN 90 DAYS AFTER THE FILING OF THE PETITION; TO AMEND SECTION 43-21-603, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT REASONABLE EFFORTS TO MAINTAIN A CHILD WITHIN A HOME SHALL NOT BE REQUIRED WHEN A CHILD HAS BEEN SURRENDERED TO A BABY SAFETY DEVICE; TO AMEND SECTION 43-21-451, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PROCEEDINGS WHEN A CHILD HAS BEEN SURRENDERED TO A BABY SAFETY DEVICE SHALL BE INITIATED BY THE FILING OF A PETITION IN YOUTH COURT; TO AMEND SECTION 93-15-109, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A PARENT TO SURRENDER A CHILD BY PLACING THE BABY IN A BABY SAFETY DEVICE; TO AMEND SECTION 43-15-205, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

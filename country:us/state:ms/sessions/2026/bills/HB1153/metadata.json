@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1153",
+  "title": "Meat and cell-cultivated dairy products; revise the MS Dept. of Ag and Commerce's regulatory authority regarding.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1153"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Agriculture",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pigott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pigott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1153IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1153IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1153IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Pigott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1153.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 75-36-1, 75-36-3, 75-36-5, 75-36-7, 75-36-9, 75-36-11, 75-36-13 AND 75-36-15, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR THE LABELING OF PRODUCTS AT FOOD PROCESSING PLANTS, RETAILS OR OTHER ESTABLISHMENT, TO CLARIFY AND EXPAND DEFINITIONS RELATING TO MEAT, MANUFACTURED-PROTEIN, CULTIVATED-PROTEIN, INSECT-PROTEIN, PLANT-PROTEIN AND CELL-CULTURED DAIRY PRODUCTS; TO PROHIBIT THE MANUFACTURE, SALE OR OFFER FOR SALE OF CELL-CULTURED DAIRY PRODUCTS IN THIS STATE; TO STRENGTHEN AND CLARIFY MISBRANDING PROHIBITIONS INVOLVING THE USE OF IDENTIFYING MEAT TERMS AND REQUIRED QUALIFYING DISCLOSURES; TO REVISE INSPECTION AUTHORITY, COMPLAINT-BASED ENFORCEMENT PROCEDURES, STOP-SALE AND EMBARGO POWERS AND JUDICIAL ENFORCEMENT MECHANISMS OF THE MISSISSIPPI DEPARTMENT OF AGRICULTURE AND COMMERCE; TO REVISE CIVIL PENALTIES, DEPOSIT AND USE OF FINES AND APPEAL RIGHTS FOR VIOLATIONS; TO REQUIRE STATE AGENCIES, PUBLIC SCHOOLS AND INSTITUTIONS OF HIGHER LEARNING TO ADOPT PROCUREMENT POLICIES PREVENTING THE PURCHASE OF MISBRANDED OR CULTIVATED-PROTEIN FOOD PRODUCTS; TO REQUIRE CLEAR CONSUMER DISCLOSURE AT THE FINAL POINT OF SALE BY RETAILERS, DISTRIBUTORS, WHOLESALERS AND FOOD SERVICE ESTABLISHMENTS REGARDING THE AUTHENTICITY OF MEAT AND NONMEAT PRODUCTS; TO AUTHORIZE RECORD-KEEPING AND AUDIT TRAIL REQUIREMENTS TO ENSURE COMPLIANCE; TO MAKE TECHNICAL AND CONFORMING AMENDMENTS FOR CONSISTENCY, ENFORCEABILITY AND CLARITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

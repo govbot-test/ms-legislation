@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2123",
+  "title": "Gun shows; require background checks before transfer of firearm.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A",
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2123"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A;Judiciary, Division B",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2123IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2123IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2123IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2123.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE ANY PERSON WHO IS NOT A LICENSED GUN DEALER TO REQUIRE A BACKGROUND CHECK BEFORE THE TRANSFER OF A FIREARM AT A GUN SHOW; TO REQUIRE THE PROSPECTIVE FIREARM TRANSFEROR TO OBTAIN APPROVAL FROM THE DEPARTMENT OF PUBLIC SAFETY AFTER THE BACKGROUND CHECK HAS BEEN REQUESTED BY A LICENSED GUN DEALER; TO DEFINE TERMS; TO REQUIRE A PROSPECTIVE FIREARM TRANSFEROR WHO IS NOT A LICENSED GUN DEALER TO ARRANGE FOR A LICENSED GUN DEALER TO OBTAIN THE BACKGROUND CHECK REQUIRED BY THIS ACT; TO PROHIBIT A PROSPECTIVE FIREARM TRANSFEREE FROM ACCEPTING POSSESSION OF THE FIREARM UNLESS THE PROSPECTIVE FIREARM TRANSFEROR HAS OBTAINED APPROVAL OF THE TRANSFER FROM THE DEPARTMENT OF PUBLIC SAFETY AFTER A BACKGROUND CHECK HAS BEEN REQUESTED BY A LICENSED GUN DEALER PURSUANT TO THIS ACT; TO PROHIBIT A PROSPECTIVE FIREARM TRANSFEREE FROM KNOWINGLY PROVIDING FALSE INFORMATION TO A PROSPECTIVE FIREARM TRANSFEROR OR TO A LICENSED GUN DEALER FOR THE PURPOSE OF ACQUIRING A FIREARM; TO PROVIDE THAT A PERSON WHO TRANSFERS A FIREARM IN VIOLATION OF THE PROVISIONS OF THIS SECTION MAY BE JOINTLY AND SEVERALLY LIABLE FOR ANY CIVIL DAMAGES PROXIMATELY CAUSED BY THE TRANSFEREE'S SUBSEQUENT USE OF THE FIREARM; TO PROVIDE CERTAIN EXCEPTIONS TO THE REQUIREMENT OF A BACKGROUND CHECK; TO PROVIDE CRIMINAL PENALTIES FOR THE VIOLATION OF THIS ACT; TO PROVIDE THAT NOTHING IN THIS ACT SHALL BE INTERPRETED TO LIMIT OR OTHERWISE ALTER THE DUTIES OF A LICENSED GUN DEALER TRANSFERRING OR ATTEMPTING TO TRANSFER AT A GUN SHOW UNDER FEDERAL OR STATE LAW; TO AMEND SECTION 45-9-103, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

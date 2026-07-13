@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "DR - TSDP: ED To AP",
+    "occurred_at": "2026-01-21T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0752IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLean.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0752.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB752"
+}

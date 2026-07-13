@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1498",
+  "title": "Therapists; prohibit from sexual relationship with patients.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1498"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Evans",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Evans\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1498IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1498IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1498IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Evans.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1498.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 97-3-102, MISSISSIPPI CODE OF 1972, TO PROVIDE A CRIME FOR A THERAPIST WHO ENGAGES IN SEXUAL CONTACT WITH A PATIENT; TO AMEND SECTION 97-3-95, MISSISSIPPI CODE OF 1972, TO INCLUDE THE TERM \"THERAPIST\" IN THE PROVISION OF LAW THAT REGULATES THE CRIME OF SEXUAL BATTERY; TO AMEND SECTION 73-54-29, MISSISSIPPI CODE OF 1972, TO ADD ENGAGING IN SEXUAL CONTACT WITH A PATIENT TO THE GROUNDS FOR DISCIPLINARY ACTION OF MARRIAGE AND FAMILY THERAPISTS; TO AMEND SECTION 73-53-17, MISSISSIPPI CODE OF 1972, TO ADD ENGAGING IN SEXUAL CONTACT WITH A PATIENT TO THE GROUNDS FOR DISCIPLINARY ACTION OF SOCIAL WORKERS; TO AMEND SECTION 73-30-21, MISSISSIPPI CODE OF 1972, TO ADD ENGAGING IN SEXUAL CONTACT WITH A PATIENT TO THE GROUNDS FOR DISCIPLINARY ACTION OF LICENSED PROFESSIONAL COUNSELORS; TO AMEND SECTION 73-31-21, MISSISSIPPI CODE OF 1972, TO ADD ENGAGING IN SEXUAL CONTACT WITH A PATIENT TO THE GROUNDS FOR DISCIPLINARY ACTION OF PSYCHOLOGISTS; TO AMEND SECTION 73-25-29, MISSISSIPPI CODE OF 1972, TO ADD ENGAGING IN SEXUAL CONTACT WITH A PATIENT TO THE GROUNDS FOR DISCIPLINARY ACTION OF PHYSICIANS; TO BRING FORWARD SECTION 97-3-97, MISSISSIPPI CODE OF 1972, WHICH PROVIDES DEFINITIONS FOR THE CRIME OF SEXUAL BATTERY; TO BRING FORWARD SECTION 97-3-101, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THE PENALTIES FOR THE CRIME OF SEXUAL BATTERY; TO PROVIDE ADDITIONAL IMMUNITY FOR ANY PERSON WHO, IN GOOD FAITH, REPORTS ABUSE, NEGLECT OR COMMERCIAL SEXUAL EXPLOITATION; TO REQUIRE ANY PERSON OR ENTITY WHO LEARNS THAT AN ADULT WAS ABUSED AS A CHILD BY A PERSON WHO WAS OR IS ASSOCIATED WITH THE PERSON OR ENTITY; TO PROVIDE IMMUNITY TO SUCH PERSON FOR REPORTING; TO AMEND SECTIONS 43-21-353 AND 97-3-54.1, MISSISSIPPI CODE OF 1972, TO PROVIDE IMMUNITY FOR THE REPORTER OF SEXUAL ABUSE WHICH MAY BE INCURRED AS A RESULT OF REPORTING; TO BRING FORWARD SECTION 97-5-51, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR MANDATORY REPORTING, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

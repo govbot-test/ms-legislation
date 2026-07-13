@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2113",
+  "title": "Persistent Domestic Violence Offender Registry Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2113"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McLendon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLendon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2113IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2113IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2113IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLendon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2113.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE PERSISTENT DOMESTIC VIOLENCE OFFENDER REGISTRY ACT; TO DEFINE TERMS; TO CREATE THE PERSISTENT DOMESTIC VIOLENCE REGISTRY WITHIN THE DEPARTMENT OF PUBLIC SAFETY TO REGISTER PERSISTENT DOMESTIC VIOLENCE OFFENDERS; TO REQUIRE THE DEPARTMENT TO MAINTAIN THE REGISTRY; TO REQUIRE THE DEPARTMENT TO MAKE THE REGISTRY AVAILABLE FOR PUBLIC INQUIRY ON THE INTERNET; TO REQUIRE CERTAIN OFFENDERS WITH AT LEAST ONE PRIOR CONVICTION OF ABUSE TO REGISTER; TO DIRECT THE DEPARTMENT TO REMOVE THE NAME AND OTHER IDENTIFYING INFORMATION OF A PERSISTENT DOMESTIC VIOLENCE OFFENDER FROM THE REGISTRY WITHIN A CERTAIN TIMEFRAME; TO REQUIRE THE DEPARTMENT TO PROMULGATE RULES AND REGULATIONS TO EFFECTUATE THE PURPOSES OF THIS CHAPTER; TO PROVIDE FOR A FEE TO BE ASSESSED AGAINST THE DEFENDANT WHO IS REQUIRED TO REGISTER UNDER THIS CHAPTER; TO DIRECT A PORTION OF THE FEE TO BE DEPOSITED INTO THE VICTIMS OF DOMESTIC VIOLENCE FUND; TO BRING FORWARD SECTION 93-21-117, MISSISSIPPI CODE OF 1972, WHICH IS THE VICTIMS OF DOMESTIC VIOLENCE FUND, FOR POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

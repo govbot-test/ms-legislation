@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2013",
+  "title": "State Grand Jury Act; reinstate and expand scope.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2013"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wiggins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2013IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2013IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2013IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2013.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REENACT THE STATE GRAND JURY ACT, WHICH WAS REPEALED BY OPERATION OF LAW ON JULY 1, 2024; TO CODIFY THE LAW AT ITS FORMER LOCATION, SECTIONS 13-7-1 THROUGH 13-7-47, MISSISSIPPI CODE OF 1972; TO EXPAND THE SUBJECT MATTER JURISDICTION OF THE STATE GRAND JURY TO INCLUDE OFFICER-INVOLVED SHOOTINGS, CERTAIN EMBEZZLEMENT AND FRAUD INVESTIGATIONS AND PUBLIC CORRUPTION CONTINGENT UPON THE APPROVAL OF A PROPOSED AMENDMENT TO SECTION 26 OF THE MISSISSIPPI CONSTITUTION OF 1890; TO REMOVE THE REQUIREMENT THAT THE CRIMES MUST OCCUR WITHIN MORE THAN ONE CIRCUIT COURT DISTRICT OR HAVE TRANSPIRED OR HAVE SIGNIFICANCE IN MORE THAN ONE CIRCUIT COURT DISTRICT OF THIS STATE CONTINGENT UPON THE APPROVAL OF A PROPOSED AMENDMENT TO SECTION 26 OF THE MISSISSIPPI CONSTITUTION OF 1890; TO AUTHORIZE THE ATTORNEY GENERAL TO NOTIFY THE PANEL JUDGE IN LIEU OF PETITIONING THE JUDGE; TO REQUIRE THE PANEL JUDGE TO IMPANEL A JURY WITHIN 30 DAYS OF RECEIVING NOTICE FROM THE ATTORNEY GENERAL; TO REMOVE THE AUTHORITY OF THE PANEL JUDGE TO LIMIT THE AUTHORITY OF THE INVESTIGATION OF THE STATE GRAND JURY; TO AMEND THE QUALIFICATIONS OF JURORS FOR THE STATE GRAND JURY; TO AUTHORIZE THE PANEL JUDGE TO DENY THE REQUEST TO AMEND THE NOTICE AND ORDER IMPANELING THE GRAND JURY; TO DELETE THE AUTHORITY OF THE DEPARTMENT OF PUBLIC SAFETY AND THE MISSISSIPPI BUREAU OF NARCOTICS TO PROVIDE SPACE FOR THE STATE GRAND JURY; TO REQUIRE LOCAL GOVERNMENT OFFICIALS AND LAW ENFORCEMENT TO COOPERATE TO ASSIST IN PROVIDING ACCOMMODATION OF THE STATE GRAND JURY; TO AMEND SECTION 99-11-3, MISSISSIPPI CODE OF 1972, TO REINSTATE SECTION 99-11-3(2), WHICH WAS REPEALED BY OPERATION OF LAW ON JULY 1, 2024; TO DELETE THE DATE OF THE REPEALER ON THE PROVISION OF LAW RELATING TO VENUE FOR INDICTMENTS BY THE STATE GRAND JURY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

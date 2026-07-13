@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2038",
+  "title": "Our House Residential Multi-Service Center Program; establish as a pilot initiative within the Mississippi Department of Corrections.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2038"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brumfield",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brumfield\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2038CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2038IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Brumfield.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2038.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"OUR HOUSE RESIDENTIAL MULTI-SERVICE CENTER PROGRAM\" AS A PILOT INITIATIVE WITHIN THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO PROVIDE COMPREHENSIVE SERVICES TO RETURNING CITIZENS, UNDER COMMUNITY SUPERVISION, FOR AT LEAST TWO YEARS FOLLOWING RELEASE FROM INCARCERATION; TO SET FORTH CRITERIA THAT MUST BE MET TO BE ELIGIBLE FOR THE PROGRAM; TO OUTLINE PROGRAM STRUCTURE, SERVICES AND PHASES; TO IDENTIFY EXPECTED OUTCOMES OF THE PROGRAM; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF CORRECTIONS, IN CONJUNCTION WITH THE LEGISLATIVE BUDGET OFFICE, TO PROVIDE AN ANNUAL REPORT TO THE LEGISLATURE DETAILING PROGRAM OUTCOMES, PARTICIPANT PROGRESS AND FINANCIAL SAVINGS ACHIEVED THROUGH THE PROGRAM; TO REQUIRE THAT AN INDEPENDENT EVALUATION OF THE PROGRAM'S EFFECTIVENESS BE CONDUCTED EVERY TWO YEARS TO ASSESS ITS IMPACT ON RECIDIVISM AND OVERALL COMMUNITY REINTEGRATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

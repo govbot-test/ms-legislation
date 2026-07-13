@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2680",
+  "title": "Cash purchases; require merchants to round to the nearest five-cent denomination for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2680"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DuPree",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DuPree\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2680IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2680IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2680IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DuPree.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2680.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE MERCHANTS ENGAGED IN THE BUSINESS OF SELLING GOODS AND/OR SERVICES IN THIS STATE TO CALCULATE THE PRICE OF GOODS AND/OR SERVICES SOLD, LESS DISCOUNTS OR DEDUCTIONS, AND SUBJECT TO ANY APPLICABLE TAXES, TO INDIVIDUALS PAYING WITH CASH BY ROUNDING SUCH TOTAL TO THE NEAREST FIVE-CENT DENOMINATION; TO PROVIDE EXCEPTIONS FOR TRANSACTIONS FOR WHICH THE TOTAL AMOUNT IS FEWER THAN 4\u00a2 OR FOR TRANSACTIONS FOR WHICH PAYMENT IS MADE BY ANY DEMAND OR NEGOTIABLE INSTRUMENT, ELECTRONIC FUND TRANSFER, MONEY ORDER, CREDIT CARD, DEBIT CARD, ELECTRONIC PAYMENT OR OTHER LIKE INSTRUMENT; TO ENSURE THAT ANY TAXES IMPOSED ON THE PURCHASE SHALL NOT BE AFFECTED BY GAINS OR LOSSES RESULTING FROM ROUNDING TO THE NEAREST FIVE-CENT DENOMINATION; TO REQUIRE THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO PROMULGATE REGULATIONS TO IMPLEMENT THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

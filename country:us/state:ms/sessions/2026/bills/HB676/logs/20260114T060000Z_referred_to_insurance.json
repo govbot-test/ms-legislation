@@ -1,0 +1,80 @@
+{
+  "action": {
+    "description": "Referred To Insurance",
+    "occurred_at": "2026-01-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0676IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Sanders.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Estrada.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Fondren.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gibbs_(36th).xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hall.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Holloway_(27th).xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McCray.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Osborne.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Taylor.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Thompson.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Williams.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0676.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB676"
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2198",
+  "title": "SNAP and Medicaid benefits; confirm status as eligible alien under federal law to be eligible for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2198"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2198IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2198IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2198IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2198.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 43-12-10, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO INDIVIDUAL WHO IS NOT A UNITED STATES CITIZEN OR A NATIONAL OF THE UNITED STATES SHALL BE ELIGIBLE FOR PARTICIPATION IN THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM (SNAP) OR FOR MEDICAID UNLESS THE INDIVIDUAL MEETS THE DEFINITION OF AN ELIGIBLE ALIEN UNDER 7 USC \u00a7 2015(F) OR 42 USC \u00a7 1396B(V), AS THE CASE MAY BE, AND MEETS THE DEFINITION OF A QUALIFIED ALIEN UNDER 8 USC \u00a7 1641(B); TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES (DEPARTMENT) AND THE DIVISION OF MEDICAID (DIVISION) TO VERIFY  CITIZENSHIP OR ELIGIBLE ALIEN STATUS DURING ENROLLMENT AND ELIGIBILITY REDETERMINATIONS; TO REQUIRE THE DEPARTMENT AND THE DIVISION TO SUBMIT TO APPROPRIATE LAW ENFORCEMENT AUTHORITIES INFORMATION CONCERNING ANY HOUSEHOLD MEMBER DETERMINED TO BE AN UNLAWFULLY PRESENT ALIEN; TO REQUIRE THE DEPARTMENT AND THE DIVISION TO SUBMIT INFORMATION CONCERNING ANY HOUSEHOLD MEMBER FOR WHOM THEY ARE UNABLE TO VERIFY ELIGIBLE ALIEN STATUS; TO SET FORTH INCOME AND FINANCIAL RESOURCES TO BE CONSIDERED IN DETERMINING ELIGIBILITY FOR PARTICIPATION IN SNAP; TO REQUIRE THE DIVISION TO ADHERE TO CERTAIN REQUIREMENTS REGARDING THE REASONABLE OPPORTUNITY PERIOD FOR VERIFICATION OF UNITED STATES CITIZENSHIP OR ELIGIBLE ALIEN STATUS FOR MEDICAID AND TO REQUIRE A FIELD FOR CITIZENSHIP OR ELIGIBLE ALIEN STATUS ON ALL PRESUMPTIVE ELIGIBILITY APPLICATIONS; TO DIRECT THE DIVISION TO REQUIRE HOSPITALS THAT ACCEPT MEDICAID TO INCLUDE A PROVISION ON ADMISSION OR REGISTRATION FORMS FOR INFORMATION ABOUT A PATIENT'S CITIZENSHIP OR IMMIGRATION STATUS; TO PROVIDE THAT THE DIVISION SHALL REQUIRE SUCH HOSPITALS TO SUBMIT QUARTERLY REPORTS THAT INCLUDE THE NUMBER OF ADMISSIONS OR EMERGENCY DEPARTMENT VISITS BASED ON CITIZENSHIP AND IMMIGRATION STATUS; TO REQUIRE THE DIVISION TO SUBMIT ANNUAL REPORTS TO THE GOVERNOR, THE PRESIDENT OF THE SENATE, AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES THAT INCLUDE THE TOTAL NUMBER OF HOSPITAL ADMISSIONS AND EMERGENCY DEPARTMENT VISITS FROM HOSPITALS THAT ACCEPT MEDICAID FOR THE PRIOR YEAR BASED ON CITIZENSHIP AND IMMIGRATION STATUS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

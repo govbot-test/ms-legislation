@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB174",
+  "title": "State Board of Education; require to develop curriculum and implement programs of conflict resolution.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb174"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0174IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0174IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0174IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0174.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-11-54, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE BOARD OF EDUCATION TO DEVELOP THE CURRICULUM AND IMPLEMENT A PROGRAM OF CONFLICT RESOLUTION AND PEER MEDIATION TO BE USED BY LOCAL SCHOOL DISTRICTS; TO PROVIDE THAT THE CURRICULUM DEVELOPED FOR USE SHALL BE AGE AND GRADE APPROPRIATE; TO REQUIRE PROGRAMS OF CONFLICT RESOLUTION AND PEER MEDIATION IN FAILING DISTRICTS TO BE SUPERVISED BY THE SCHOOL RESOURCE OFFICER WITH THE ASSISTANCE OF OTHER DISTRICT PERSONNEL TO COMBAT VIOLENCE AND BULLYING; TO PROVIDE THAT THE PROGRAM OF CONFLICT RESOLUTION SHALL PROVIDE SCHOOL ADMINISTRATORS WITH ALTERNATIVES TO HANDLING STUDENT DISCIPLINARY MATTERS; TO AMEND SECTION 37-11-53, MISSISSIPPI CODE OF 1972, TO REQUIRE SCHOOL DISTRICTS TO ALLOW ANY PUBLIC SCHOOL STUDENT WHO HAS NEVER BEEN SUBJECT TO DISCIPLINARY ACTION WHO COMMITS AN ACT OR ENGAGES IN CONDUCT FOR WHICH THE STUDENT OTHERWISE WOULD BE SUSPENDED OR EXPELLED UNDER THE SCHOOL DISTRICT'S DISCIPLINE PLAN, AT THE ELECTION OF THE STUDENT, TO PARTICIPATE IN A COMMUNITY SERVICE PROGRAM AS AN ALTERNATIVE TO SUSPENSION OR EXPULSION; TO PROVIDE THAT WHILE PARTICIPATING IN THE PROGRAM, THE STUDENT SHALL RECEIVE YOUTH PEER COUNSELING DEEMED APPROPRIATE BY THE SCHOOL DISTRICT; TO AMEND SECTIONS 37-3-82 AND 37-3-83, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO BRING FORWARD SECTION 37-7-321, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

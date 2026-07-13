@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2630",
+  "title": "MS Grant and Subgrant Administration Transparency and Accountability of Non- Governmental Organizations Act; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2630"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2630IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2630IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2630IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2630.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI GRANT AND SUBGRANT ADMINISTRATION TRANSPARENCY AND ACCOUNTABILITY OF NON-GOVERNMENTAL ORGANIZATIONS ACT OF 2026; TO ESTABLISH THAT THIS ACT SHALL BE CREATED TO ESTABLISH REQUIREMENTS THAT ENHANCE OVERSIGHT, ACCOUNTABILITY AND TRANSPARENCY IN GRANT ADMINISTRATION OF STATE AND FEDERAL FUNDS; TO DEFINE RELEVANT TERMS; TO ESTABLISH GRANT PROGRAM PERFORMANCE METRICS AND REQUIREMENTS; TO ESTABLISH GRANT ADMINISTRATION, FINANCIAL REPORTING AND LEADERSHIP DISCLOSURE REQUIREMENTS; TO CLARIFY WHAT CONSTITUTES PROHIBITED ACTIVITIES FOR THE USAGE OF GRANT FUNDS; TO PROVIDE INFORMATION THAT SHALL BE SUBJECT TO AUDITS OF NON-GOVERNMENTAL ORGANIZATIONS AND QUASI-PUBLIC ENTITIES; TO REQUIRE THAT REPORTS REQUIRED BY THIS ACT SHALL BE FILED WITHIN 180 DAYS AFTER FISCAL YEAR END OF YEAR OSA PREFORMS OR DIRECTS A COMPLIANCE AUDIT; TO AUTHORIZE DFA TO ENFORCE THE POLICIES AND PROCEDURES OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2548",
+  "title": "Mississippi Veterinary Practice Act; revise various provisions of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2548"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berry\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2548IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2548IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2548IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Berry.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2548.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-39-53, MISSISSIPPI CODE OF 1972, TO CLARIFY RECENCY REQUIREMENTS FOR A VETERINARIAN-CLIENT-PATIENT RELATIONSHIP; TO AMEND SECTION 73-39-55, MISSISSIPPI CODE OF 1972, TO ADD ONE CERTIFIED VETERINARY TECHNICIAN AND ONE MEMBER OF THE PUBLIC TO THE BOARD OF VETERINARY MEDICINE (BOARD); TO PROVIDE THAT THE MEMBER OF THE PUBLIC ON THE BOARD SHALL BE APPOINTED BY THE BOARD OF ANIMAL HEALTH; TO AMEND SECTION 73-39-57, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO PUBLISH AN ANNUAL SCHEDULE OF CERTAIN FEES AND FINES; TO ALLOW THE BOARD TO DETERMINE THE FREQUENCY OF VETERINARY PREMISES AND EQUIPMENT INSPECTIONS AND TO DETERMINE ASSOCIATED INSPECTION FEES; TO AMEND SECTION 73-39-63, MISSISSIPPI CODE OF 1972, TO PROHIBIT A PERSON FROM USING THE TITLE \"CERTIFIED VETERINARY TECHNICIAN,\" AND RELATED TITLES UNLESS CREDENTIALED BY THE BOARD; TO AMEND SECTION 73-39-69, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT AN AGENCY APPROVED BY THE BOARD SHALL GOVERN EXAMINATIONS FOR VETERINARY CREDENTIALS; TO AUTHORIZE THE BOARD TO ADOPT AND USE THE RESULTS OF NATIONALLY RECOGNIZED TESTING ENTITIES SUCH AS THE INTERNATIONAL COUNCIL FOR VETERINARY ASSESSMENT OR AMERICAN ASSOCIATION OF VETERINARY STATE BOARDS; TO AMEND SECTION 73-39-71, MISSISSIPPI CODE OF 1972, TO MODIFY CRITERIA FOR ISSUANCE OF A VETERINARY LICENSE BY ENDORSEMENT; TO AMEND SECTION 73-39-75, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO DETERMINE REINSTATEMENT FEES; TO RAISE FROM 65 TO 70 THE AGE AT WHICH LICENSED VETERINARIANS MAY BE EXEMPTED FROM PAYMENT OF RENEWAL FEES FOR PART-TIME PRACTICE; TO AMEND SECTION 73-39-77, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO DETERMINE THE ADMINISTRATIVE FINES; TO AMEND SECTION 73-39-91, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO DETERMINE FINES FOR PRACTICE WITHOUT A LICENSE OR PROPER CREDENTIALS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

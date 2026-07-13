@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1758",
+  "title": "Foster Youth Earned Benefits Protection for Success Act; enact.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Youth and Family Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1758"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Youth and Family Affairs",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hurst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hurst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1758IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1758IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1758IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hurst.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anthony.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1758.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE FOSTER YOUTH EARNED BENEFITS PROTECTION FOR SUCCESS ACT; TO PROVIDE THAT WHEN A CHILD ENTERS INTO THE CARE AND CUSTODY OF THE DEPARTMENT OF CHILD PROTECTION SERVICE (CPS), THE DEPARTMENT SHALL DETERMINE IF A CHILD IS ELIGIBLE OR RECEIVING EARNED FEDERAL BENEFITS; TO PROVIDE THAT A REPRESENTATIVE PAYEE MAY BE APPROPRIATE IN CERTAIN CIRCUMSTANCES; TO REQUIRE CPS TO CONDUCT AN ANNUAL REVIEW REGARDING ELIGIBILITY OF SUCH BENEFITS FOR A CHILD; TO PROVIDE THAT CPS SHALL DEVELOP AND IMPLEMENT A SUCCESS SEQUENCE SAVINGS AND DISBURSEMENT PLAN FOR EACH CHILD WITH CONSERVED EARNED BENEFITS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2622",
+  "title": "One Door website; task ITS with developing a single website that allows users to access any state function.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Government Structure"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2622"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Government Structure",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2622IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2622IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2622IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2622.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI ONE DOOR WEBSITE ACT; TO REQUIRE THAT THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES DEVELOP, MONITOR AND UPDATE A WEBSITE FOR MISSISSIPPI STATE AGENCIES AND STATE SERVICES TO SHARE, THAT WILL ALLOW CONSUMERS TO LOGIN AND ACCESS ANY STATE FUNCTION THAT THE USER NEEDS TO ACCESS; TO REQUIRE THE DEPARTMENT TO DEVELOP A SYSTEM THAT ALLOWS STATE AGENCIES AND SERVICES TO SHARE DATA, WHILE MAINTAINING INFORMATION PRIVACY AND SECURITY STANDARDS; TO REQUIRE THE DEPARTMENT TO IMPLEMENT THE ABILITY FOR STATE AGENCIES, STATE SERVICES AND WEBSITE USERS TO REVIEW PREVIOUS FILINGS AND CROSS REFERENCE STATE-PROVIDED PROGRAMS TO SEE IF THE CONSUMER QUALIFIES AS A PARTICIPANT IN ANY OFFERED PROGRAMS OR FOR ASSISTANCE; TO PROVIDE THE DEPARTMENT WITH THE AUTHORITY TO PROMULGATE RULES AND REGULATIONS IN ORDER TO EXECUTE THE REQUIREMENTS OF THE MISSISSIPPI ONE DOOR WEBSITE; TO PROVIDE THAT THE ONE DOOR WEBSITE SHALL BE OPERABLE BY JANUARY 1, 2028; TO AMEND SECTION 25-53-5, MISSISSIPPI CODE OF 1972, TO ADD DEVELOPING, MONITORING AND UPDATING ONE DOOR WEBSITES REQUIRED BY THIS ACT; TO THE POWERS AND RESPONSIBILITIES OF THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

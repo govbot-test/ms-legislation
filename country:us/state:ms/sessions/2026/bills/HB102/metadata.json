@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB102",
+  "title": "Use of restitution centers by DOC; repeal and convert centers into post-release reentry centers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb102"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0102IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0102IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0102IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0102.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE DEPARTMENT OF CORRECTIONS TO CONVERT THE THREE RESTITUTION CENTERS IN THE STATE TO POST-RELEASE REENTRY CENTERS; TO PROVIDE THAT THE POST-RELEASE REENTRY CENTERS SHALL BE FOR INDIVIDUALS WHO ARE ELIGIBLE FOR RELEASE, INCLUDING THOSE ELIGIBLE FOR PAROLE AND EARLY RELEASE SUPERVISION, IF SUCH INDIVIDUALS DO NOT HAVE IMMEDIATE ACCESS TO HOUSING UPON RELEASE; TO REQUIRE THE DEPARTMENT TO ADMINISTER SERVICES IN THE POST-RELEASE REENTRY CENTERS AS WELL AS OTHER FACILITIES THAT PROVIDE POST-RELEASE REENTRY SERVICES; TO REQUIRE THE DEPARTMENT TO ASSIST RESIDENTS OF THE CENTERS IN OBTAINING CERTAIN REENTRY NECESSITIES SUCH AS HOUSING, JOB SKILLS TRAINING AND DRIVER'S LICENSES; TO AMEND SECTIONS 45-33-35 AND 47-5-110, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTIONS; TO REPEAL SECTION 99-37-19, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES THE DEPARTMENT OF CORRECTIONS TO OPERATE RESTITUTION CENTERS; TO REPEAL SECTION 99-37-21, MISSISSIPPI CODE OF 1972, WHICH PROVIDES CERTAIN POWERS AND DUTIES OF THE DEPARTMENT OF CORRECTIONS AND THE DEPARTMENT OF HUMAN SERVICES REGARDING RESTITUTION CENTERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1054",
+  "title": "Publication of child sexual exploitation; authorize civil liability for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1054"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1054IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1054IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1054IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1054.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE DEFINITIONS FOR CIVIL REMEDIES AGAINST THOSE WHO DISTRIBUTE CHILD EXPLOITATION MATERIALS; TO PROVIDE THAT ANY COMMERCIAL ENTITY THAT KNOWINGLY AND INTENTIONALLY PUBLISHES OR DISTRIBUTES OBSCENE MATERIAL, OR MATERIAL THAT DEPICTS, DESCRIBES, OR PROMOTES CHILD SEXUAL EXPLOITATION, ON THE INTERNET SHALL BE LIABLE FOR NOMINAL DAMAGES, ACTUAL DAMAGES, COURT COSTS AND REASONABLE ATTORNEY FEES AS ORDERED BY THE COURT; TO PROVIDE THAT AN INTERNET OR WIRELESS SERVICE PROVIDER, AFFILIATE, OR SUBSIDIARY OF AN INTERNET OR WIRELESS SERVICE PROVIDER, SEARCH ENGINE, OR CLOUD SERVICE PROVIDER SHALL NOT BE IN VIOLATION OF THIS ACT FOR PROVIDING ACCESS OR CONNECTION TO OR FROM A WEBSITE, WITH CERTAIN EXCEPTIONS; TO AUTHORIZE THE ATTORNEY GENERAL TO SEEK INJUNCTIVE AND OTHER EQUITABLE RELIEF AGAINST A COMMERCIAL ENTITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

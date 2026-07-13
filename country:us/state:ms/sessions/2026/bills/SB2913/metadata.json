@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2913",
+  "title": "Native wineries and native distilleries; update tax and permit provisions, and allow in state direct shipment.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2913"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seymour",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seymour\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2913IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2913IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2913IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Berry.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Seymour.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2913.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE LEGAL REQUIREMENTS TO BE OBSERVED BY NATIVE WINERIES AND NATIVE DISTILLERIES IN SELLING AND SHIPPING NATIVE WINES OR NATIVE SPIRITS DIRECTLY TO RESIDENTS IN THIS STATE; TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO REMOVE THE REPEALER ON THE FESTIVAL PERMIT; TO EXPAND THE NATIVE WINE RETAILER'S PERMIT AND THE NATIVE SPIRIT RETAILER'S PERMIT TO COVER UP TO TWO ADDITIONAL TASTING ROOMS IN THIS STATE; TO SPECIFY THAT A SEPARATE PERMIT IS REQUIRED FOR EACH TASTING ROOM; TO AMEND SECTIONS 67-5-11 AND 67-11-9, MISSISSIPPI CODE OF 1972, TO ALLOW NATIVE WINE AND NATIVE SPIRIT SALES TO CONSUMERS AT THE ADDITIONAL TASTING ROOMS; TO SPECIFY THAT THE 24.5% ADDITIONAL MARKUP DOES NOT APPLY TO NATIVE WINES OR NATIVE SPIRITS HELD AT THE NATIVE WINERY OR NATIVE DISTILLERY FOR ON-SITE PICKUP BY RETAILERS; TO AUTHORIZE NATIVE WINERIES AND NATIVE DISTILLERIES TO SELL AND SHIP NATIVE WINES DIRECTLY TO RESIDENTS IN THIS STATE, WITHOUT BEING REQUIRED TO TRANSACT THE SALE AND SHIPMENT THROUGH THE DEPARTMENT OF REVENUE'S ALCOHOLIC BEVERAGE CONTROL DIVISION; TO AMEND SECTIONS 67-1-41, 27-71-5 AND 27-71-11, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

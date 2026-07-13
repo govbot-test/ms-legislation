@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2653",
+  "title": "Mississippi IT Optimization Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2653"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Technology",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2653IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2653IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2653IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2653.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI IT OPTIMIZATION ACT; TO DEFINE TERMS; TO ESTABLISH THE STATEWIDE INFORMATION TECHNOLOGY OPTIMIZATION PROGRAM WHICH SHALL PROVIDE FOR THE COORDINATED PLANNING, DEVELOPMENT, IMPLEMENTATION AND OVERSIGHT OF THE ENTERPRISE INFORMATION TECHNOLOGY ARCHITECTURE; TO PROVIDE FOR THE RESPONSIBILITIES OF THE DEPARTMENT OF INFORMATION TECHNOLOGY IN EFFECTUATING THE PROGRAM; TO REQUIRE EACH AGENCY'S EXECUTIVE DIRECTOR OR AGENCY HEAD TO COMPLY WITH THIS ACT IN CERTAIN WAYS; TO PROVIDE THAT THE TECHNOLOGY OPTIMIZATION PROGRAM SHALL BE MANAGED BY ITS AND EXTERNALLY SUPPORTED BY THE CIO COUNCIL; TO PROVIDE THAT SENSITIVE INFORMATION, RECORDS AND DOCUMENTATION SHALL BE EXEMPT FROM THE REQUIREMENTS OF THE MISSISSIPPI PUBLIC RECORDS ACT AND THE OPEN MEETINGS ACT; TO PROVIDE THAT THE PROVISIONS OF THIS ACT SHALL BE IMPLEMENTED BY PHASE; TO GRANT PERMISSION TO CERTAIN PARTIES TO USE ACQUISITIONS MADE ON BEHALF OF OR BY ITS FOR PURPOSES OF SHARED USE; TO AUTHORIZE ITS TO RECEIVE DONATIONS, GRANTS AND OTHER FUNDING; TO AUTHORIZE ITS TO DEVELOP AND IMPLEMENT AN INTERNSHIP, FELLOWSHIP OR OTHER RELATED PROGRAM; TO PROVIDE FOR FUNDS DESIGNATED BY AGENCIES FOR PROCUREMENT OF INFORMATION TECHNOLOGY; TO AUTHORIZE ITS TO EXERCISE ALL POWERS NECESSARY TO EFFECTUATE THE PURPOSES OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

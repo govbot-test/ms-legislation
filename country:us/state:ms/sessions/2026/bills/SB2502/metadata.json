@@ -1,0 +1,124 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2502",
+  "title": "School-based clinics and school nurses; direct State Department of Education to establish minimum standards and salary schedule.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2502"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mumford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mumford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frazier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frazier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2502IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2502IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2502IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Mumford.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Frazier.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Jackson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2502.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-14-3, MISSISSIPPI CODE OF 1972, TO AUTHORIZE AND DIRECT THE OFFICE OF HEALTHY SCHOOLS OF THE STATE DEPARTMENT OF EDUCATION TO ESTABLISH SCHOOL-BASED CLINICS IN THE PUBLIC SCHOOLS, TO AUTHORIZE THE DEPARTMENT TO PROMULGATE STANDARDS FOR SUCH CLINICS WHICH SHALL INCLUDE THE EMPLOYMENT AND ASSIGNMENT OF PUBLIC SCHOOL NURSES ON SITE AT EACH PUBLIC SCHOOL AT LEAST TWO DAYS A WEEK DURING THE SCHOOL YEAR, TO DIRECT THE DEPARTMENT TO DEVELOP A MINIMUM SALARY SCHEDULE FOR SCHOOL NURSES BASED ON THEIR EDUCATION AND EXPERIENCE THAT ALL SCHOOL DISTRICTS SHALL USE WHEN EMPLOYING SCHOOL NURSES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

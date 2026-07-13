@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB979",
+  "title": "Medicaid; exclude from participation any providers that perform or are affiliated with performance of abortions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb979"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0979IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0979IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0979IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0979.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DIRECT ALL STATE AGENCIES, DEPARTMENTS AND INSTITUTIONS TO IMMEDIATELY CEASE PROVIDING STATE FUNDS TO ANY INDIVIDUAL OR ENTITY THAT IS DIRECTLY AFFILIATED WITH A PHYSICIAN, MEDICAL PRACTICE OR OTHER ORGANIZATION PROVIDING ABORTION SERVICES OR FACILITATING THE PROCUREMENT OF ABORTION SERVICES; TO AMEND SECTION 43-13-117.4, MISSISSIPPI CODE OF 1972, TO DIRECT THE DIVISION OF MEDICAID TO INITIATE A COMPREHENSIVE REVIEW AND REVISION OF ITS PROVIDER CREDENTIALING STANDARDS TO ENSURE THAT ONLY PROVIDERS WHO ARE FULLY ALIGNED WITH MISSISSIPPI'S PUBLIC POLICY OBJECTIVES, INCLUDING THE PROTECTION OF UNBORN LIFE, ARE ELIGIBLE TO PARTICIPATE IN THE MEDICAID PROGRAM; TO DIRECT THE DIVISION TO IMMEDIATELY TERMINATE OR DECLINE TO RENEW ANY CONTRACT, MEMORANDUM OR AGREEMENT WITH ANY MEDICAID PROVIDER OR ENTITY THAT IS NOT FULLY ALIGNED WITH MISSISSIPPI'S PUBLIC POLICY OBJECTIVES; TO DIRECT THE DIVISION TO UPDATE ITS CREDENTIALING AND CONTRACTING PROCEDURES TO EXCLUDE FROM NEW OR RENEWED  PARTICIPATION IN THE MEDICAID PROGRAM ANY PROVIDER OR ENTITY THAT PERFORMS, REFERS FOR, OR IS AFFILIATED WITH THE PERFORMANCE OF ABORTIONS NOT PERMITTED UNDER STATE LAW, OR IS UNDER COMMON OWNERSHIP OR CONTROL WITH AN ENTITY THAT IS ENGAGED IN ABORTION-RELATED ACTIVITIES INCONSISTENT WITH STATE LAW; TO DIRECT THE DIVISION TO REQUIRE, AS A CONDITION OF PARTICIPATION IN THE MEDICAID PROGRAM, THAT ALL PROVIDERS SUBMIT A SIGNED ATTESTATION DISCLOSING WHETHER THEY OR ANY RELATED ENTITIES ENGAGE IN ABORTION-RELATED ACTIVITIES; TO DIRECT THE DIVISION TO ADOPT APPROPRIATE PROCEDURES TO VERIFY COMPLIANCE WITH THE REQUIREMENTS OF THIS ACT AND AUTHORIZE THE DIVISION TO TAKE ANY NECESSARY ENFORCEMENT ACTIONS FOR ANY PROVIDER FOUND TO BE IN VIOLATION OF THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

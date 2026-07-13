@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB761",
+  "title": "Pawnbrokers, title pledge lenders and check cashers; reduce maximum rate of interest that may be charged for services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banking and Financial Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb761"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Banking and Financial Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Evans",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Evans\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0761IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0761IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0761IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Evans.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0761.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 75-67-313 AND 75-67-413, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE MAXIMUM AMOUNT THAT PAWNBROKERS AND TITLE PLEDGE LENDERS MAY CHARGE FOR THEIR SERVICES SHALL NOT EXCEED AN ANNUAL PERCENTAGE RATE OF 25% PER ANNUM ON THE AMOUNT OF THE PRINCIPAL AMOUNT ADVANCED IN THE TRANSACTION THAT REMAINS UNPAID; TO AMEND SECTION 75-67-519, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE MAXIMUM AMOUNT THAT CHECK CASHERS MAY CHARGE FOR CASHING A DELAYED DEPOSIT CHECK SHALL NOT EXCEED AN ANNUAL PERCENTAGE RATE OF 25% ON THE FACE AMOUNT OF THE CHECK; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

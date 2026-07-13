@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1400",
+  "title": "\"Mississippi High School Student-Athlete NIL Protection Act\"; enact.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1400"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harness",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harness\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1400IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1400IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1400IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harness.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1400.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI HIGH SCHOOL STUDENT-ATHLETE NIL PROTECTION ACT; TO DEFINE CERTAIN TERMS; TO AUTHORIZE ANY STUDENT-ATHLETE TO EARN COMPENSATION FOR USE OF HIS OR HER NAME, IMAGE AND LIKENESS (NIL) UNDER CERTAIN CONDITIONS; TO PROVIDE THAT ANY NIL CONTRACT EXECUTED WITHOUT PARENTAL OR GUARDIAN CONSENT SHALL BE VOID AND UNENFORCEABLE, IF SUCH CONTRACT WAS EXECUTED BY THE STUDENT-ATHLETE WHEN HE OR SHE WAS UNDER THE AGE OF 18; TO PROVIDE THAT IF NIL COMPENSATION THAT IS PAID TO A STUDENT-ATHLETE IS $10,000 OR LESS DURING A CALENDAR YEAR, THEN SUCH COMPENSATION MAY BE PAID DIRECTLY TO THE STUDENT-ATHLETE OR HIS OR HER PARENT OR LEGAL GUARDIAN; TO PROVIDE THAT IF NIL COMPENSATION THAT IS PAID TO A STUDENT-ATHLETE EXCEEDS $10,000 DURING A CALENDAR YEAR, THEN SUCH COMPENSATION OVER THE $10,000 AMOUNT SHALL BE DEPOSITED INTO A RESTRICTED TRUST ACCOUNT, WHICH IS ESTABLISHED FOR THE BENEFIT OF THE HIGHSCHOOL STUDENT-ATHLETES; TO PROVIDE THE CONDITIONS WHEN THE FUNDS OF SUCH TRUST ACCOUNT SHALL BE RELEASED TO SUCH STUDENT-ATHLETES; TO BRING FORWARD SECTION 93-19-17, MISSISSIPPI CODE OF 1972, WHICH PERTAINS TO STUDENT-ATHLETES EIGHTEEN YEARS OF AGE OR OLDER HAVING THE CAPACITY TO ENTER INTO CERTAIN LEGALLY BINDING CONTRACTS, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

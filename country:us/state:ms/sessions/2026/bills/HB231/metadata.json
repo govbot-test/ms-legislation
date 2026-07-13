@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB231",
+  "title": "Dropout Prevention and Student Re-engagement Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb231"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0231IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0231IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0231IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0231.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE \"DROPOUT PREVENTION AND STUDENT RE-ENGAGEMENT ACT\"; TO DECLARE THE LEGISLATIVE INTENT TO DECREASE THE HIGH SCHOOL DROPOUT RATE AND INCREASE THE GRADUATION RATE; TO DEFINE TERMS USED IN THIS ACT; TO AMEND SECTION 37-13-80, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE OFFICE OF DROPOUT PREVENTION TO USE CERTAIN FUNDING TO IMPLEMENT THIS ACT; TO REQUIRE THE OFFICE TO COLLABORATE WITH LOCAL EDUCATIONAL AGENCIES TO REDUCE THE STATEWIDE AND LOCAL STUDENT DROPOUT RATES AND TO INCREASE THE STATEWIDE AND LOCAL GRADUATION AND COMPLETION RATES IN THE STATE; TO REQUIRE THE OFFICE TO TAKE CERTAIN ACTIONS WITH REGARD TO THE EVALUATION AND IMPLEMENTATION OF POLICIES USED BY LOCAL EDUCATIONAL AGENCIES IN ANALYZING DROPOUT RATES AND GRADUATION AND COMPLETION RATES; TO REQUIRE THE OFFICE TO IDENTIFY LOCAL EDUCATIONAL AGENCIES FAILING TO MEET THEIR ESTABLISHED GRADUATION AND COMPLETION RATE EXPECTATIONS; TO REQUIRE THE DEPARTMENT TO PROVIDE TECHNICAL ASSISTANCE TO CERTAIN LOCAL EDUCATIONAL AGENCIES; TO REQUIRE THE OFFICE TO REVIEW THE EXISTING RESEARCH AND DATA AND COMPILE A REPORT OF EFFECTIVE DROPOUT PREVENTION AND STUDENT ENGAGEMENT AND RE-ENGAGEMENT POLICIES AND STRATEGIES IMPLEMENTED BY LOCAL EDUCATIONAL AGENCIES WITHIN THIS STATE AND IN OTHER STATES; TO AMEND SECTION 37-13-85, MISSISSIPPI CODE OF 1972, TO REQUIRE THE OFFICE OF COMPULSORY SCHOOL ATTENDANCE ENFORCEMENT TO ANALYZE DATA COLLECTED BY THE LOCAL EDUCATIONAL AGENCIES FOR PURPOSES OF COMPILING A REPORT TO BE SUBMITTED TO THE BOARD AND THE LEGISLATURE; TO REQUIRE HIGH PRIORITY AND PRIORITY LOCAL EDUCATIONAL AGENCIES TO CONDUCT A PRACTICES ASSESSMENT; TO REQUIRE HIGH PRIORITY LOCAL EDUCATIONAL AGENCIES TO ADOPT A STUDENT GRADUATION AND COMPLETION PLAN AND PRESCRIBE ITS REQUIRED COMPONENTS; TO REQUIRE LOCAL EDUCATIONAL AGENCIES TO NOTIFY A STUDENT'S PARENT IF THE STUDENT DROPS OUT OF SCHOOL; TO ESTABLISH THE STUDENT RE-ENGAGEMENT GRANT PROGRAM FUND IN THE STATE TREASURY FOR THE PURPOSE OF PROVIDING GRANTS TO LOCAL EDUCATIONAL AGENCIES FOR USE IN PROVIDING EDUCATIONAL SERVICES AND SUPPORTS TO STUDENTS AND TO PROVIDE FOR ITS FUNDING; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

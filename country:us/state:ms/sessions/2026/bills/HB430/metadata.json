@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB430",
+  "title": "Health insurance; require coverage for genetic testing for inherited mutation and evidence-based cancer imaging.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb430"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Felsher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Felsher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scoggin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scoggin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0430IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0430IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0430IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scoggin.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0430.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE ANY GROUP HEALTH PLAN, OR A HEALTH INSURANCE ISSUER OFFERING GROUP OR INDIVIDUAL HEALTH INSURANCE TO INCLUDE COVERAGE FOR CLINICAL GENETIC TESTING FOR AN INHERITED GENE MUTATION FOR INDIVIDUALS WITH A PERSONAL OR FAMILY HISTORY OF CANCER THAT IS RECOMMENDED BY A HEALTH CARE PROFESSIONAL AND EVIDENCED-BASED CANCER IMAGING FOR INDIVIDUALS WITH AN INCREASED RISK OF CANCER AS RECOMMENDED BY NCCN CLINICAL PRACTICE GUIDELINES; TO PROHIBIT GROUP HEALTH PLANS AND HEALTH INSURANCE ISSUERS THAT PROVIDE SUCH SERVICES FROM IMPOSING ANY COST-SHARING REQUIREMENTS FOR THOSE SERVICES; TO BRING FORWARD SECTION 25-15-9, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR THE FORMULATION OF THE STATE EMPLOYEES LIFE AND HEALTH INSURANCE PLAN; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

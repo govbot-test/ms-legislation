@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB455",
+  "title": "Misdemeanor crimes; require automatic expungement of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb455"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nelson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0455IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0455IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0455IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0455.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 99-19-71, MISSISSIPPI CODE OF 1972, TO REQUIRE AUTOMATIC EXPUNGEMENT OF MISDEMEANORS; TO AMEND SECTIONS 9-11-15 AND 21-23-7, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO AMEND SECTIONS 99-15-26 AND 99-15-59, MISSISSIPPI CODE OF 1972, TO REQUIRE THE APPROPRIATE COURT TO AUTOMATICALLY EXPUNGE THE RECORD OF ANY CASES IN WHICH AN ARREST WAS MADE, THE PERSON ARRESTED WAS RELEASED AND THE CASE WAS DISMISSED OR THE CHARGES WERE DROPPED, THERE WAS NO DISPOSITION OF SUCH CASE, OR THE PERSON WAS FOUND NOT GUILTY AT TRIAL; TO AMEND SECTION 45-27-9, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL LAW ENFORCEMENT AGENCIES TO REPORT SUCH EXPUNGEMENTS TO THE MISSISSIPPI JUSTICE INFORMATION CENTER; TO BRING FORWARD SECTIONS 45-27-5 AND 45-27-21, MISSISSIPPI CODE OF 1972, WHICH REGULATE DUTIES OF THE MISSISSIPPI JUSTICE INFORMATION CENTER, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 99-19-72, MISSISSIPPI CODE OF 1972, WHICH PROVIDES A FEE SCHEDULE FOR EXPUNGEMENT PETITIONS, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

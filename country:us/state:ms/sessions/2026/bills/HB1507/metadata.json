@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1507",
+  "title": "Assistant teachers; provide a $4,000.00 increase to the minimum starting salary of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1507"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bennett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bennett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1507IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1507IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1507IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bennett.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1507.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-21-7, MISSISSIPPI CODE OF 1972, TO PROVIDE A $4,000.00 INCREASE TO THE MINIMUM STARTING SALARY FOR ASSISTANT TEACHERS; TO PROVIDE THAT NO SCHOOL DISTRICT SHALL REDUCE THE LOCAL SUPPLEMENT OR PAY AN INDIVIDUAL ASSISTANT TEACHER LESS THAN THE STATE MINIMUM SALARY IN A YEAR IN WHICH THE STATE MINIMUM SALARY IS INCREASED; TO PROVIDE FOR A REDUCTION IN FUNDS FOR DISTRICTS THAT VIOLATE THIS SECTION; TO PROVIDE THAT NO DISTRICT SHALL PAY ANY ASSISTANT TEACHER LESS THAN THE STATE MINIMUM SALARY UNLESS DONE SO BY A PRO RATA DAILY AMOUNT WHERE THERE HAS BEEN A REDUCTION IN ADEQUATE EDUCATION PROGRAM ALLOCATIONS FOR SUCH DISTRICT IN SUCH YEAR OR IN THE AMOUNT OF FEDERAL FUNDS TO SUCH DISTRICT FROM THE PREVIOUS YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

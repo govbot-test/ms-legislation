@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1465",
+  "title": "MS Medical Education Pipeline and Readiness Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1465"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Summers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Porter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Porter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1465IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1465IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1465IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Porter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1465.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI MEDICAL EDUCATION PIPELINE AND READINESS ACT; TO STATE THE PURPOSE OF THE ACT IS TO ESTABLISH A COORDINATED MEDICAL EDUCATION PIPELINE BEGINNING IN HIGH SCHOOL AND CONTINUING THROUGH UNDERGRADUATE STUDY, SET UNIFORM READINESS STANDARDS FOR STUDENTS PURSUING MEDICAL EDUCATION, INCREASE THE NUMBER OF MISSISSIPPI STUDENTS ADMITTED TO MEDICAL SCHOOL, IMPROVE DIVERSITY IN THE MEDICAL WORKFORCE, AND STRENGTHEN THE STATE'S HEALTH CARE DELIVERY CAPACITY; TO ESTABLISH THE MISSISSIPPI MEDICAL EDUCATION PIPELINE PROGRAM, A STATEWIDE INITIATIVE JOINTLY ADMINISTERED BY THE MISSISSIPPI DEPARTMENT OF EDUCATION (MDE), THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING (IHL); AND THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER (UMMC), WHICH SHALL PROVIDE A STRUCTURED PATHWAY FROM HIGH SCHOOL THROUGH COLLEGE FOR STUDENTS SEEKING ADMISSION TO MEDICAL SCHOOL; TO PRESCRIBE THE DUTIES OF MDE, IHL AND UMMC; TO CREATE THE MISSISSIPPI MEDICAL PIPELINE ADVISORY COUNCIL TO OVERSEE IMPLEMENTATION OF THE PROGRAM; TO PROVIDE THAT STUDENTS MAY APPLY TO ENTER THE PIPELINE BEGINNING IN THE 9TH GRADE; TO PROVIDE THAT MDE, IHL AND UMMC SHALL JOINTLY PUBLISH AN ANNUAL REPORT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

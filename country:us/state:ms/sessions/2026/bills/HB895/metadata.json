@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB895",
+  "title": "Medical cannabis; eliminate mandatory follow-up visit and extend validity periods of certification and ID cards to 24 months.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb895"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Commerce",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0895CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0895CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0895IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0895IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0895CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0895.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-137-5, MISSISSIPPI CODE OF 1972, TO EXTEND THE VALIDITY PERIOD OF A PRACTITIONER'S WRITTEN CERTIFICATION OF DIAGNOSIS FOR A PERSON UNDER THE MEDICAL CANNABIS ACT TO 24 MONTHS; TO ELIMINATE THE MANDATORY SIX-MONTH FOLLOW-UP VISIT WITH THE PRACTITIONER AFTER THE PATIENT RECEIVES THE CERTIFICATION; TO AUTHORIZE THE PRACTITIONER TO REQUEST OR REQUIRE A FOLLOW-UP EVALUATION OF THE PATIENT; TO AMEND SECTION 41-137-25, MISSISSIPPI CODE OF 1972, TO EXTEND THE VALIDITY PERIOD FOR REGISTRY IDENTIFICATION CARDS FOR RESIDENTS TO 24 MONTHS AND THE VALIDITY PERIOD FOR REGISTRY IDENTIFICATION CARDS FOR RESIDENT DESIGNATED CAREGIVERS TO FIVE YEARS; TO EXTEND THE VALIDITY PERIOD FOR REGISTRY IDENTIFICATION CARDS FOR NONRESIDENTS TO 90 DAYS; TO AMEND SECTION 41-137-39, MISSISSIPPI CODE OF 1972, TO ALLOW NONRESIDENT CARDHOLDERS TO PURCHASE AND POSSESS THE SAME AMOUNTS OF MEDICAL CANNABIS AS ALLOWED FOR RESIDENTS; TO REMOVE THE THC POTENCY LIMITS FOR CANNABIS TINCTURES, OILS AND CONCENTRATES; TO EXTEND THE VALIDITY PERIOD FOR REGISTRY IDENTIFICATION CARDS FOR NONRESIDENTS TO 90 DAYS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

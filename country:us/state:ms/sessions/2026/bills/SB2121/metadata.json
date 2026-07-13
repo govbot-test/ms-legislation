@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2121",
+  "title": "Health Insurance Coverage for Fertility Preservation Services Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2121"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Frazier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Frazier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mumford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mumford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gillespie Isom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gillespie Isom\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2121IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2121IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2121IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Frazier.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mumford.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gillespie_Isom.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2121.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE HEALTH INSURANCE COVERAGE FOR FERTILITY PRESERVATION SERVICES ACT; TO ENSURE HEALTH INSURANCE COVERAGE FOR STANDARD FERTILITY PRESERVATION SERVICES WHEN MEDICALLY NECESSARY TREATMENT MAY DIRECTLY OR INDIRECTLY CAUSE IATROGENIC INFERTILITY CONSISTENT WITH ESTABLISHED MEDICAL PRACTICE AND PROFESSIONAL GUIDELINES; TO PROVIDE THAT A CARRIER OFFERING HEALTH INSURANCE COVERAGE IN THIS STATE SHALL PROVIDE COVERAGE FOR STANDARD FERTILITY PRESERVATION SERVICES FOR ANY COVERED INDIVIDUAL WHO MAY UNDERGO A MEDICALLY NECESSARY TREATMENT THAT MAY DIRECTLY OR INDIRECTLY CAUSE IATROGENIC INFERTILITY; TO PROHIBIT A CARRIER WHO OFFERS HEALTH INSURANCE COVERAGE IN THIS STATE FOR STANDARD FERTILITY PRESERVATION SERVICES FROM IMPOSING CERTAIN EXCLUSIONS, LIMITATIONS OR OTHER RESTRICTIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

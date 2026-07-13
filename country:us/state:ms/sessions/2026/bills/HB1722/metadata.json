@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1722",
+  "title": "Ivermectin; authorize pharmacists to provide to adults under collaborative pharmacy practice agreement.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1722"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1722IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1722IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1722IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1722.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE PHARMACISTS TO PROVIDE IVERMECTIN TO PATIENTS WHO ARE EIGHTEEN YEARS OF AGE OR OLDER PURSUANT TO A VALID COLLABORATIVE PHARMACY PRACTICE AGREEMENT CONTAINING A NON-PATIENT-SPECIFIC PRESCRIPTIVE ORDER AND STANDARDIZED PROCEDURES DEVELOPED AND EXECUTED BY ONE OR MORE AUTHORIZED PRACTITIONERS; TO DIRECT THE BOARD OF PHARMACY TO ADOPT RULES TO ESTABLISH STANDARD PROCEDURES FOR THE PROVISION OF IVERMECTIN BY PHARMACISTS, INCLUDING PROVIDING THE PATIENT WITH A SCREENING RISK ASSESSMENT TOOL, PROVIDING THE PATIENT WITH A STANDARDIZED FACTSHEET, AND EITHER DISPENSING THE IVERMECTIN OR REFERRING THE PATIENT TO A PHARMACY THAT MAY DISPENSE THE MEDICATION AS SOON AS PRACTICAL; TO AUTHORIZE THE CHARGING OF AN ADMINISTRATIVE FEE FOR SERVICES PROVIDED PURSUANT TO THIS ACT IN ADDITION TO COSTS ASSOCIATED WITH THE DISPENSING OF IVERMECTIN AND PAID BY THE PHARMACY BENEFIT; TO PROVIDE THAT A PHARMACIST OR PRACTITIONER ACTING IN GOOD FAITH AND WITH REASONABLE CARE INVOLVED IN THE PROVISION OF IVERMECTIN PURSUANT TO THIS ACT IS IMMUNE FROM DISCIPLINARY OR ADVERSE ADMINISTRATIVE ACTIONS FOR ACTS OR OMISSIONS DURING THE PROVISION OF IVERMECTIN; TO PROVIDE THAT A PHARMACIST OR PRACTITIONER INVOLVED IN THE PROVISION OF IVERMECTIN PURSUANT TO THIS ACT IS IMMUNE FROM CIVIL LIABILITY IN THE ABSENCE OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT FOR ACTIONS AUTHORIZED BY THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

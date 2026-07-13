@@ -1,0 +1,147 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2391",
+  "title": "Motor Vehicle Warranty Enforcement Act; amend to include coverage for the public purchase of firetrucks.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2391"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rhodes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Whaley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Whaley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Younger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2391IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2391IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2391IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Taylor.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Berry.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Whaley.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2391.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO INCLUDE THE PUBLIC PURCHASE OF A FIRETRUCK WITHIN THE COVERAGE AFFORDED BY THE MOTOR VEHICLE WARRANTY ENFORCEMENT ACT; TO AMEND SECTION 63-17-153, MISSISSIPPI CODE OF 1972, TO STATE LEGISLATIVE FINDINGS; TO AMEND SECTION 63-17-155, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"CONSUMER\" AND \"MOTOR VEHICLE\"; TO DEFINE THE TERM \"PUBLIC VEHICLE\" TO MEAN FIRETRUCKS; TO DEFINE THE TERM \"PUBLIC CONSUMER\" TO MEAN A PUBLIC FIRE DEPARTMENT OR VOLUNTEER FIRE DEPARTMENT THAT IS A CHARTERED NONPROFIT CORPORATION PROVIDING EMERGENCY SERVICES UNDER CONTRACT WITH A COUNTY OR MUNICIPALITY OR THE GOVERNMENTAL ENTITY THAT OWNS PUBLIC VEHICLES ON BEHALF OF THE PUBLIC CONSUMER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1028",
+  "title": "Unauthorized aliens; penalize transport into state by any person and prohibit forgery of documents.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1028"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1028IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1028IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1028IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1028.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT THE KNOWING AND WILLFUL TRANSPORT INTO THE STATE OF AN UNAUTHORIZED ALIEN; TO PROVIDE THAT SUCH CRIME SHALL BE A FELONY AND PRESCRIBE PENALTIES FOR SUCH; TO PROVIDE THAT THE FORGERY OF GOVERNMENT DOCUMENTS FOR UNAUTHORIZED ALIENS SHALL BE A CRIME; TO PROVIDE PENALTIES FOR VIOLATION OF SUCH; TO AMEND SECTION 45-1-3, MISSISSIPPI CODE OF 1972, TO CLARIFY THE DEPARTMENT OF PUBLIC SAFETY'S DUTIES TO ASSIST LOCAL LAW ENFORCEMENT IN EFFORTS TO ENFORCE STATE AND FEDERAL LAWS REGARDING UNAUTHORIZED ALIENS; TO AMEND SECTION 71-1-49, MISSISSIPPI CODE OF 1972, TO CLARIFY THE PROHIBITION AGAINST UNAUTHORIZED ALIENS SERVING AS LABOR REPRESENTATIVES; TO AMEND SECTION 71-11-1, MISSISSIPPI CODE OF 1972, TO CLARIFY THE STATE'S POSITION AGAINST PROVIDING STATE PUBLIC BENEFITS TO UNAUTHORIZED ALIENS; TO AMEND SECTION 71-11-3, MISSISSIPPI CODE OF 1972, TO INCREASE PENALTIES FOR VIOLATIONS OF E-VERIFICATION FOR EMPLOYMENT; TO AMEND SECTION 83-17-407, MISSISSIPPI CODE OF 1972, TO AUTHORIZE REJECTION OF A LICENSE FROM ANOTHER STATE IF THE HOLDER OF SUCH IS AN UNAUTHORIZED ALIEN; TO AMEND SECTION 41-9-67, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT STATISTICAL INFORMATION REGARDING THE NUMBER OF UNAUTHORIZED ALIENS SERVED BY HOSPITALS IS A PUBLIC RECORD; TO BRING FORWARD SECTIONS 97-3-54.1 AND 97-3-54.2, MISSISSIPPI CODE OF 1972, WHICH PROVIDE FOR HUMAN TRAFFICKING, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTIONS 63-1-19 AND 63-1-47, MISSISSIPPI CODE OF 1972, WHICH REGULATE DRIVER'S LICENSES, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTIONS 57-1-371 AND 57-1-373, MISSISSIPPI CODE OF 1972, WHICH PROHIBIT CERTAIN LOANS AND BENEFITS TO EMPLOYERS FOUND GUILTY OF HIRING ILLEGAL IMMIGRANTS, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

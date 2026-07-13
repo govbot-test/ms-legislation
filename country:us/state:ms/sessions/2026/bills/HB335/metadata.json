@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB335",
+  "title": "MS Workforce Dual Enrollment for Career and Technical Education Grant Program; create pilot program for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb335"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0335IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0335IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0335IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anthony.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0335.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE OFFICE OF WORKFORCE DEVELOPMENT TO PILOT THE MISSISSIPPI WORKFORCE DUAL ENROLLMENT FOR CAREER AND TECHNICAL EDUCATION GRANT PROGRAM; TO PROVIDE THAT THE OFFICE OF WORKFORCE DEVELOPMENT SHALL DISTRIBUTE ANY FUNDS RECEIVED FOR THE PROGRAM TO THE DELTA WORKFORCE INVESTMENT AREA, THE TWIN DISTRICTS WORKFORCE INVESTMENT AREA, THE MISSISSIPPI PARTNERSHIP WORKFORCE INVESTMENT AREA AND THE SOUTHCENTRAL MISSISSIPPI WORKFORCE INVESTMENT AREA FOR THE PURPOSE OF FUNDING DUAL ENROLLMENT COURSES AT COMMUNITY COLLEGES, WHERE SUCH COURSES QUALIFY AS A PRIORITY SECTOR STRATEGY, AS ESTABLISHED BY THE OFFICE; TO PROVIDE THE AMOUNT OF THE GRANT; TO PROVIDE WHAT THE GRANT MAY BE USED FOR; TO PROVIDE A REPORTING REQUIREMENT; TO PROVIDE A CERTAIN AMOUNT OF THE FUNDS THAT SHALL BE USED FOR THE ADMINISTRATION OF THE PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

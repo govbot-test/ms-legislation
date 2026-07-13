@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB749",
+  "title": "Ad valorem tax; extend time for partial exemption and fee-in-lieu of ad valorem tax agreement for certain renewable energy projects.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb749"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0749IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0749IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0749IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0749.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-31-46.1, MISSISSIPPI CODE OF 1972, TO EXTEND THE PERIOD IN WHICH CERTAIN RENEWABLE ENERGY PROJECTS MAY BEGIN CONSTRUCTION IN ORDER TO BE ELIGIBLE FOR A PARTIAL AD VALOREM TAX EXEMPTION; TO EXTEND THE TIME PERIOD WITHIN WHICH COUNTY BOARDS OF SUPERVISORS AND MUNICIPAL GOVERNING AUTHORITIES MAY AUTHORIZE A PARTIAL AD VALOREM TAX EXEMPTION FOR CERTAIN RENEWABLE ENERGY PROJECTS; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES COUNTY BOARDS OF SUPERVISORS AND MUNICIPAL GOVERNING AUTHORITIES TO ENTER INTO AGREEMENTS WITH CERTAIN ENTERPRISES GRANTING A FEE-IN-LIEU OF AD VALOREM TAXES, TO EXTEND THE TIME PERIOD WITHIN WHICH COUNTY BOARDS OF SUPERVISORS AND MUNICIPAL GOVERNING AUTHORITIES MAY ENTER INTO SUCH AGREEMENTS WITH CERTAIN RENEWABLE ENERGY PROJECTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

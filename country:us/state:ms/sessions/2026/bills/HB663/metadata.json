@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB663",
+  "title": "Health Care Trust Fund; reestablish and transfer $1 billion into.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb663"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0663IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0663IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0663IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0663.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REENACT AND AMEND SECTION 43-13-405, MISSISSIPPI CODE OF 1972, WHICH WAS REPEALED BY OPERATION OF LAW IN 2017, TO ESTABLISH THE HEALTH CARE TRUST FUND IN THE STATE TREASURY, INTO WHICH SHALL BE DEPOSITED ALL TOBACCO SETTLEMENT INSTALLMENT PAYMENTS MADE TO THE STATE EXCEPT AS OTHERWISE PROVIDED IN SECTION 41-113-11; TO PROVIDE THAT THE TRUST FUND SHALL REMAIN INVIOLATE AND SHALL NEVER BE EXPENDED, EXCEPT AS OTHERWISE PROVIDED BY LAW; TO AMEND SECTION 43-13-407, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTION 41-113-11, MISSISSIPPI CODE OF 1972, TO WHICH CREATED THE TOBACCO CONTROL PROGRAM FUND, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO DIRECT THE STATE TREASURER, IN CONJUNCTION WITH THE STATE FISCAL OFFICER, TO TRANSFER THE SUM OF ONE BILLION DOLLARS FROM THE CAPITAL EXPENSE FUND TO THE HEALTH CARE TRUST FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SN1",
+  "title": "Allison Grogan Crews, Canton, Mississippi, Board of Trustees of the Mississippi Outdoor Stewardship Trust Fund, four year term beginning July 1, 2025 and ending June 30, 2029.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "nomination"
+  ],
+  "subject": [
+    "Wildlife, Fisheries and Parks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sn1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "LT.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LT.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SN/SN0001.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

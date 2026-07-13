@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB258",
+  "title": "\"Mississippi Joint Municipal Law Enforcement Act\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb258"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0258IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0258IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0258IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0258.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI JOINT MUNICIPAL LAW ENFORCEMENT ACT\"; TO DEFINE CERTAIN TERMS; TO PROVIDE THAT TWO OR MORE MUNICIPALITIES IN A COUNTY MAY ESTABLISH A JOINT POLICE DEPARTMENT IF THE GOVERNING AUTHORITIES OF SUCH MUNICIPALITIES DETERMINE IT IS IN THE BEST INTERESTS OF THE MUNICIPALITIES; TO PROVIDE THAT A JOINT POLICE DEPARTMENT SHALL BE GOVERNED BY A BOARD; TO PROVIDE THE MEMBERSHIP OF SUCH BOARD; TO PRESCRIBE THE ESTABLISHMENT PROCESS OF A JOINT POLICE DEPARTMENT; TO PROVIDE THE RIGHTS AND DUTIES AS WELL AS THE FUNDING MECHANISM FOR A JOINT POLICE DEPARTMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

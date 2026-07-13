@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1039",
+  "title": "State Inspector General; create office to investigate waste, fraud and abuse in executive state agencies.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1039"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1039IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1039IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1039IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1039.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE OFFICE OF INSPECTOR GENERAL; TO DEFINE CERTAIN TERMS; TO REQUIRE THE OFFICE OF INSPECTOR GENERAL TO INVESTIGATE AND PURSUE CHARGES WITH RESPECT TO THE DETECTION AND ERADICATION OF FRAUD, WASTE AND ABUSE IN THE EXECUTIVE BRANCH OF STATE GOVERNMENT; TO REQUIRE THE GOVERNOR, WITH THE ADVICE AND CONSENT OF THE SENATE, TO APPOINT A STATE INSPECTOR GENERAL; TO REQUIRE THE STATE PERSONNEL BOARD TO FIX THE SALARY OF THE INSPECTOR GENERAL; TO ESTABLISH MINIMUM QUALIFICATIONS FOR THE STATE INSPECTOR GENERAL; TO PRESCRIBE THE POWERS AND DUTIES OF THE OFFICE OF INSPECTOR GENERAL; TO REQUIRE AGENCIES UNDER INVESTIGATION TO COOPERATE WITH THE OFFICE OF INSPECTOR GENERAL; TO PROHIBIT AN AGENCY FROM TAKING ADVERSE ACTION AGAINST AN EMPLOYEE FOR DISCLOSING PROHIBITED ACTIVITY TO THE INSPECTOR GENERAL; TO AUTHORIZE THE INSPECTOR GENERAL TO ADMINISTER OATHS AND ISSUE SUBPOENAS TO COMPEL THE ATTENDANCE OF WITNESSES AND THE PRODUCTION OF ITEMS CONSTITUTING EVIDENCE; TO AUTHORIZE THE INSPECTOR GENERAL TO EMPLOY PEACE OFFICERS TO ASSIST THE OFFICE IN CARRYING OUT ITS DUTIES AND CONDUCTING CRIMINAL INVESTIGATIONS; TO AMEND SECTION 25-9-171, MISSISSIPPI CODE OF 1972, TO INCLUDE THE OFFICE OF INSPECTOR GENERAL IN THE DEFINITION OF \"STATE INVESTIGATIVE BODY\" AS THAT TERM IS USED IN STATUTES GRANTING WHISTLEBLOWER PROTECTION TO PUBLIC EMPLOYEES; TO RESCIND EXECUTIVE ORDER NO. 728, DATED APRIL 5, 1993, WHICH CREATED THE POSITION OF STATE INSPECTOR GENERAL IN THE OFFICE OF THE GOVERNOR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

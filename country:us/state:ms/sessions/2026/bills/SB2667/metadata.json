@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2667",
+  "title": "\"Mississippi Veterans Mental Health and Addiction Therapy Quality of Care Act of 2026\"; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Veterans and Military Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2667"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Veterans and Military Affairs;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: VM To AP",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2667IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2667IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2667IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2667.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT ENTITLED THE \"MISSISSIPPI VETERANS MENTAL HEALTH AND ADDICTION THERAPY QUALITY OF CARE ACT OF 2026\"; TO SET FORTH THE PURPOSE OF THE ACT; TO CREATE THE MISSISSIPPI VETERANS SUICIDE PREVENTION LIFELINE PROGRAM; TO DESCRIBE THE ACTIVITIES OF THE BOARD IN MAINTAINING THE PROGRAM; TO REQUIRE THE STATE VETERANS AFFAIRS BOARD TO CREATE A PLAN FOR IMPLEMENTATION AND MAINTENANCE OF THE PROGRAM; TO OUTLINE CRITERIA THE PLAN MUST MEET; TO REQUIRE THE BOARD TO COMPLETE THE PLAN AND MAKE IT PUBLICLY AVAILABLE BEFORE DECEMBER 1, 2026; TO REQUIRE THE BOARD TO PERIODICALLY UPDATE THE PLAN AND MAKE SUCH UPDATES PUBLICLY AVAILABLE; TO PROHIBIT UNETHICAL CONDUCT AND IMPROPER COLLECTION OF FEES RELATING TO ASSISTANCE OR REFERRALS IN VETERANS BENEFITS MATTERS; TO PROVIDE THAT ANY PERSON WHO RECEIVES COMPENSATION FOR ASSISTING AN INDIVIDUAL REGARDING ANY VETERANS BENEFITS IS HELD TO THE SAME ETHICAL STANDARD AS AN ATTORNEY; TO PROVIDE THAT A VIOLATION OF THIS ACT SHALL BE DEEMED A DECEPTIVE TRADE PRACTICE ACTIONABLE BY THE ATTORNEY GENERAL'S OFFICE OF CONSUMER PROTECTION; TO AMEND SECTIONS 75-24-5, 75-24-15 AND 35-3-21, MISSISSIPPI CODE OF 1972, IN CONFORMITY; TO CREATE NEW SECTION 43-17-41, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE DEPARTMENT OF HUMAN SERVICES SHALL SET ASIDE A CERTAIN AMOUNT OF THE MONIES RECEIVED BY THE STATE UNDER THE FEDERAL TEMPORARY ASSISTANCE FOR NEEDY FAMILIES BLOCK GRANT DURING EACH FISCAL YEAR TO FUND GRANTS TO NONPROFIT ORGANIZATIONS SPECIFICALLY WORKING WITH MILITARY OR FIRST RESPONDER FAMILIES, OR BOTH, TO PROVIDE MARRIAGE COUNSELING, PREPARATION AND SUPPORT; TO AMEND SECTION 43-17-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISION; TO ENACT THE MISSISSIPPI VETERANS CLAIMS REPRESENTATION PROTECTION ACT; TO DEFINE TERMS; TO PROHIBIT UNACCREDITED REPRESENTATIVES FROM REPRESENTING, ADVISING OR ASSISTING VETERANS OR DEPENDENTS IN PREPARING OR FILING CLAIMS FOR VA BENEFITS; TO PROHIBIT UNACCREDITED REPRESENTATIVES FROM ADVERTISING OR HOLDING THEMSELVES OUT AS CAPABLE OF PROVIDING CERTAIN SERVICES; TO CREATE PENALTIES FOR VIOLATIONS OF THIS ACT; TO REQUIRE THE DEPARTMENT OF VETERANS AFFAIRS TO MAINTAIN A REGISTRY OF ACCREDITED VA CLAIMS REPRESENTATIVES AND PROVIDE PUBLIC NOTICE TO ASSIST VETERANS IN IDENTIFYING THE SAME; TO REQUIRE A STUDY ON THE QUALITY OF CARE DIFFERENCE BETWEEN MENTAL HEALTH AND ADDICTION THERAPY CARE PROVIDED BY HEALTH CARE PROVIDERS OF THE MISSISSIPPI DEPARTMENT OF VETERANS AFFAIRS COMPARED TO NONDEPARTMENT PROVIDERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

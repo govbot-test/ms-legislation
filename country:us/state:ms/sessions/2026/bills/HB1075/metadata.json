@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1075",
+  "title": "Housing Authorities; authorize pooling of liabilities with private developers for affordable housing.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Banking and Financial Services",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1075"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Banking and Financial Services;Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: BB To WM",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: WM To BB",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mickens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mickens\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1075IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1075IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1075IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mickens.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1075.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "\tAN ACT TO AMEND SECTION 43-33-1, MISSISSIPPI CODE OF 1972, TO AMEND THE HOUSING AUTHORITIES LAW BY ADDING AND DEFINING THE TERM \"MIXED-FINANCE PROJECT\" TO SUCH LAW; TO PROVIDE THAT MIXED-FINANCE PROJECT MEANS A PROJECT THAT IS FINANCIALLY ASSISTED BY PRIVATE RESOURCES WHICH MAY INCLUDE LOW INCOME HOUSING TAX CREDITS IN ADDITION TO AN AMOUNT PROVIDED UNDER ANY STATE OR FEDERAL PROGRAM; TO AMEND SECTION 43-33-11, MISSISSIPPI CODE OF 1972, TO AUTHORIZE HOUSING AUTHORITIES TO OWN, OPERATE, ASSIST OR OTHERWISE PARTICIPATE IN ONE OR MORE MIXED-FINANCE PROJECTS; TO AMEND SECTION 43-33-17, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A CERTAIN SELF INSURANCE AGREEMENT MAY BE FORMED WHEN ONE OR MORE HOUSING AUTHORITIES HAVE FORMED PARTNERSHIPS, LIMITED LIABILITY COMPANIES OR ENTITIES IN WHICH AN AUTHORITY OR AN ENTITY AFFILIATED WITH AN AUTHORITY IS A GENERAL PARTNER, MANAGING MEMBER OR OTHERWISE PARTICIPATES IN THE ACTIVITIES OF THE ENTITY WHEN UNDERTAKING A MIXED-FINANCE PROJECT; TO AMEND SECTION 43-33-17, MISSISSIPPI CODE OF 1972, TO AUTHORIZE ANY TWO OR MORE HOUSING AUTHORITIES TO COOPERATE WHEN UNDERTAKING A MIXED-FINANCE PROJECT; TO CREATE NEW SECTION 43-33-52, MISSISSIPPI CODE OF 1972, TO PROVIDE CERTAIN IMMUNITY TO INDIVIDUAL COMMISSIONERS, DIRECTORS, SUPERVISORY EMPLOYEES, AND SUPERVISORY AGENTS OF A HOUSING AUTHORITY WITH RESPECT TO A MIXED-FINANCE PROJECT IF SUCH INDIVIDUALS WHILE ACTING IN THE SCOPE OF THEIR DUTIES AS THEY RELATE TO SUCH PROJECTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

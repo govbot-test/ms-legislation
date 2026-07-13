@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1696",
+  "title": "MS Office of Apprenticeship; create under Department of Employment Security.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1696"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: WD To AP",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: AP To WD",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1696CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1696CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1696IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1696IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1696CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anthony.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1696.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 71-5-601, MISSISSIPPI CODE OF 1972, TO CREATE THE MISSISSIPPI OFFICE OF APPRENTICESHIP ACT; TO CREATE NEW SECTION 71-5-603, MISSISSIPPI CODE OF 1972, TO DEFINE CERTAIN TERMS; TO CREATE NEW SECTION 71-5-605, MISSISSIPPI CODE OF 1972, TO CREATE THE MISSISSIPPI OFFICE OF APPRENTICESHIP WITHIN THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY; TO STATE THE PURPOSES OF THE OFFICE; TO CREATE NEW SECTION 71-5-607, MISSISSIPPI CODE OF 1972, TO REQUIRE THE OFFICE OF APPRENTICESHIP TO PROMULGATE RULES NECESSARY FOR THE IMPLEMENTATION OF THIS ACT; TO CREATE NEW SECTION 71-5-609, MISSISSIPPI CODE OF 1972, TO PRESCRIBE THE DUTIES OF THE OFFICE OF APPRENTICESHIP; TO CREATE NEW SECTION 71-5-611, MISSISSIPPI CODE OF 1972, TO CREATE THE MISSISSIPPI APPRENTICESHIP COUNCIL AS AN ADVISORY COUNCIL TO THE OFFICE; TO REQUIRE THE GOVERNOR TO MAKE APPOINTMENTS TO THE COUNCIL; TO CREATE NEW SECTION 71-5-613, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT APPRENTICESHIP PROGRAMS AND SPONSORS ARE NOT REQUIRED TO REGISTER WITH THE OFFICE OF APPRENTICESHIP; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

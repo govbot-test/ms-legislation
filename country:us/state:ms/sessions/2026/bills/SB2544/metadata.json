@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2544",
+  "title": "Mississippi Active Pharmaceutical Ingredient Quality Assurance Act; enact to impose certain provisions for compounding.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2544"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2544IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2544IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2544IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2544.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI ACTIVE PHARMACEUTICAL INGREDIENT QUALITY ASSURANCE ACT\" WITHIN CHAPTER 21, TITLE 73, MISSISSIPPI CODE OF 1972; TO PROVIDE THAT IT IS UNLAWFUL FOR ANY PERSON OR ENTITY TO ENGAGE IN THE SALE, TRANSFER OR DISTRIBUTION OF A DRUG COMPOUNDED UNDER SECTION 503A OF THE FEDERAL FOOD, DRUG, AND COSMETIC ACT UNLESS THE COMPOUNDER OF THE DRUG SATISFIES CERTAIN REQUIREMENTS AND STANDARDS RELATING TO BULK DRUG SUBSTANCES; TO SET FORTH PENALTIES FOR VIOLATIONS OF THIS ACT; TO REQUIRE PERSONS OR ENTITIES ENGAGING IN THE SALE, TRANSFER OR DISTRIBUTION OF COMPOUNDED DRUGS TO MAINTAIN ALL RECORDS RELATED TO THE ACQUISITION, EXAMINATION AND TESTING OF THE BULK DRUG SUBSTANCE FOR AT LEAST TWO YEARS AFTER THE EXPIRATION DATE OF THE LAST LOT OF DRUG CONTAINING THE BULK DRUG SUBSTANCE; TO AUTHORIZE THE BOARD OF PHARMACY TO PERFORM INSPECTIONS FOR COMPLIANCE WITH THIS ACT AND TO PROMULGATE RULES AND REGULATIONS NECESSARY TO IMPLEMENT THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1434",
+  "title": "Auto-injectable epinephrine devices; authorize restaurants to obtain from Health Dept or from pharmacies under a standing order.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1434"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gibbs",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gibbs\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1434IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1434IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1434IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gibbs_(72nd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1434.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE RESTAURANT OWNERS TO OBTAIN AUTO-INJECTABLE EPINEPHRINE DEVICES FROM THE STATE DEPARTMENT OF HEALTH OR FROM A PHARMACY UNDER A STANDING ORDER ISSUED BY A HEALTH CARE PRACTITIONER; TO REQUIRE RESTAURANTS THAT OBTAIN AUTO-INJECTABLE EPINEPHRINE DEVICES TO REQUIRE AT LEAST ONE EMPLOYEE AT THE RESTAURANT TO RECEIVE TRAINING FROM A PRACTITIONER IN THE ADMINISTRATION OF AUTO-INJECTABLE\u00a0EPINEPHRINE; TO AUTHORIZE RESTAURANT EMPLOYEES WHO ARE TRAINED IN THE ADMINISTRATION OF AUTO-INJECTABLE EPINEPHRINE, ACTING IN GOOD FAITH AND WITH REASONABLE CARE TO A PERSON IN THE RESTAURANT WHOM THEY BELIEVE TO BE HAVING AN ANAPHYLACTIC REACTION, TO ADMINISTER TO SUCH PERSON AUTO-INJECTABLE EPINEPHRINE THAT WAS OBTAINED AS PROVIDED IN THIS ACT; TO AUTHORIZE THE STATE DEPARTMENT OF HEALTH TO OBTAIN AND DISTRIBUTE AUTO-INJECTABLE\u00a0EPINEPHRINE DEVICES TO THE OWNER OF A RESTAURANT UPON A REQUEST MADE IN WRITING; TO REQUIRE THE RESTAURANT OWNER TO PAY THE FULL COST OF THE AUTO-INJECTABLE EPINEPHRINE DEVICES OBTAINED FROM THE DEPARTMENT; TO AUTHORIZE PRACTITIONERS TO ISSUE A STANDING ORDER TO ONE OR MORE INDIVIDUAL PHARMACIES THAT AUTHORIZES THE PHARMACY TO DISPENSE           AUTO-INJECTABLE EPINEPHRINE DEVICES TO RESTAURANT OWNERS WITHOUT THEM NEEDING TO HAVE AN INDIVIDUAL PRESCRIPTION; TO AUTHORIZE PHARMACISTS TO DISPENSE AUTO-INJECTABLE\u00a0EPINEPHRINE DEVICES TO RESTAURANT OWNERS UNDER A STANDING ORDER ISSUED BY A PRACTITIONER; TO PROVIDE CIVIL AND CRIMINAL IMMUNITY TO TRAINED RESTAURANT EMPLOYEES WHO ADMINISTER OR ASSIST IN THE ADMINISTRATION OF AUTO-INJECTABLE EPINEPHRINE TO A PERSON IN THE RESTAURANT WHOM THEY BELIEVE TO BE HAVING AN ANAPHYLACTIC REACTION; TO ALSO PROVIDE CIVIL AND CRIMINAL IMMUNITY TO THE RESTAURANT, ANY PRACTITIONER WHO ISSUED THE STANDING ORDER FOR THE DEVICE, ANY PHARMACIST WHO DISPENSED THE DEVICE, ANY EMPLOYEE OF THE STATE DEPARTMENT OF HEALTH WHO DISTRIBUTED THE DEVICE, AND ANY PERSON WHO PROVIDED THE TRAINING IN THE USE OF THE DEVICE; TO AMEND SECTION 73-21-73, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

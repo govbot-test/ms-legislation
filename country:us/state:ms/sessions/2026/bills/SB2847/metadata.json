@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2847",
+  "title": "Final amounts owed to state or political subdivisions; require to be rounded to nearest 5\u00a2.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2847"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2847IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2847IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2847IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2847.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THAT ANY AMOUNT CHARGED TO A MEMBER OF THE PUBLIC BY ANY GOVERNING BODY OF THE STATE OF MISSISSIPPI OR ANY OF ITS POLITICAL SUBDIVISIONS THAT IS PERMITTED TO BE SATISFIED BY CASH PAYMENT SHALL BE FINALLY CALCULATED BY ROUNDING THE AMOUNT OWED TO THE NEAREST 5\u00a2; TO SPECIFY THAT THIS ACT SHALL NOT BE CONSTRUED AS PROHIBITING THE USE OF MONETARY UNITS SMALLER THAN 5\u00a2 IN INTERMEDIATE CALCULATIONS OF THE AMOUNT OWED BEFORE ROUNDING; TO SPECIFY THAT PRIVATE MERCHANTS ARE NOT REQUIRED TO ROUND SALES, USE, EXCISE OR OTHER TRANSACTION TAXES, OR THEIR TOTAL SALES PRICE INCLUDING SUCH TAXES, TO THE NEAREST 5\u00a2 IN THEIR SALES TRANSACTIONS, BUT IF THEY ELECT TO REMIT SUCH TAXES TO THE DEPARTMENT OF REVENUE IN CASH, THE AMOUNT OWED TO THE DEPARTMENT SHALL BE FINALLY CALCULATED BY ROUNDING TO THE NEAREST 5\u00a2; TO AMEND SECTIONS 25-3-21, 25-7-65, 27-15-153, 27-17-423, 27-19-81, 27-25-1, 27-31-79, 49-19-115, 65-1-46, 65-33-47, 69-7-263 AND 69-10-5, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

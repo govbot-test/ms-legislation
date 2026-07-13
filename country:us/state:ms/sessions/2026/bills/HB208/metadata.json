@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB208",
+  "title": "Children's services and programs; require all state agencies to provide information relating to such in a list to the Legislature.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb208"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0208IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0208IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0208IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0208.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE ALL AGENCIES, DEPARTMENTS, INSTITUTIONS AND POLITICAL SUBDIVISIONS OF THE STATE THAT PROVIDE PROGRAMS OR SERVICES TO CHILDREN IN THIS STATE TO CREATE, ANNUALLY, AN ITEMIZED LIST OF THE PROGRAMS AND SERVICES PROVIDED TO CHILDREN; TO REQUIRE THAT THE LIST CONTAINS A DESCRIPTION OF THE PROGRAMS AND SERVICES, A RESOURCE MAPPING OF ALL FEDERAL AND STATE FUNDS RECEIVED, COSTS ASSOCIATED WITH THE PROGRAMS AND SERVICES, THE NUMBER OF CHILDREN SERVED BY THE PROGRAMS AND SERVICES, AND ANY PERFORMANCE MEASURES USED TO ASSESS THE PROGRAMS AND SERVICES; TO PROVIDE THAT THE ITEMIZED LISTS OF PROGRAMS AND SERVICES SHALL BE PROVIDED TO THE JOHN C. STENNIS INSTITUTE OF GOVERNMENT AT MISSISSIPPI STATE UNIVERSITY NOT LATER THAN SEPTEMBER 1 OF EACH YEAR; TO PROVIDE THAT THE STENNIS INSTITUTE SHALL COMPILE THE INFORMATION IN THOSE LISTS INTO ONE DOCUMENT, AND SHALL MAKE THE COMPILED INFORMATION AVAILABLE TO CERTAIN COMMITTEES OF THE LEGISLATURE BY DECEMBER 1 OF EACH YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

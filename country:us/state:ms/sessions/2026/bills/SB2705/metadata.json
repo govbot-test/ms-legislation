@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2705",
+  "title": "Civil remedies; revise and provide for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2705"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2705IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2705IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2705IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2705.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 11-55-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IN ANY ACTION IN WHICH ATTORNEY FEES ARE AWARDED, THERE IS A STRONG PRESUMPTION THAT A LODESTAR FEE IS SUFFICIENT AND REASONABLE; TO DESCRIBE CIRCUMSTANCES IN WHICH SUCH PRESUMPTION MAY BE OVERCOME; TO PROVIDE CERTAIN RULES OF PROCEDURE FOR SUMMARY PROCEEDINGS AUTHORIZED IN LAW; TO PROVIDE THAT EITHER PARTY IS ENTITLED TO THE SUMMARY PROCEDURE CREATED IN SECTION 2 OF THIS ACT IN ACTIONS BROUGHT FOR DECLARATORY RELIEF IN STATE OR FEDERAL COURT TO DETERMINE INSURANCE COVERAGE AFTER AN INSURER HAS MADE A TOTAL COVERAGE DENIAL; TO PROVIDE FOR AWARDS OF REASONABLE ATTORNEY FEES; TO REQUIRE THAT CERTAIN ACTIONS FOUNDED ON NEGLIGENCE SHALL COMMENCE WITHIN TWO YEARS NEXT AFTER THE CAUSE OF ACTION ACCRUED; TO PROVIDE THAT IN SUCH ACTIONS INVOLVING LATENT INJURY OR DISEASE, THE CAUSE OF ACTION DOES NOT ACCRUE UNTIL THE PLAINTIFF HAS DISCOVERED OR REASONABLY SHOULD HAVE DISCOVERED THE INJURY; TO CREATE PROVISIONS CONCERNING ACTIONS FOR BAD FAITH INVOLVING LIABILITY INSURANCES CLAIMS; TO PROVIDE FOR FAILURE TO TENDER THE LESSER OF THE POLICY LIMITS OR THE AMOUNT DEMANDED BY THE CLAIMANT; TO CREATE PROVISIONS CONCERNING TWO OR MORE THIRD-PARTY COMPETING CLAIMS ARISING OUT OF A SINGLE OCCURRENCE; TO DEFINE TERMS; TO ALLOW CERTAIN EVIDENCE OFFERED TO PROVE THE AMOUNT OF DAMAGES FOR MEDICAL TREATMENT OR SERVICES IN PERSONAL INJURY OR WRONGFUL DEATH ACTIONS; TO STIPULATE THAT THERE IS NO AFFIRMATIVE DUTY TO SEEK A REDUCTION IN BILLED CHARGES TO WHICH THE PARTY IS NOT CONTRACTUALLY ENTITLED; TO PROTECT INDIVIDUAL CONTRACTS BETWEEN PROVIDERS AND AUTHORIZED COMMERCIAL INSURERS FROM DISCOVERY, DISCLOSURE AND ADMISSION INTO EVIDENCE; TO REQUIRE CLAIMANTS TO DISCLOSE CERTAIN INFORMATION AS A CONDITION PRECEDENT TO ASSERTING A CLAIM FOR MEDICAL EXPENSES RENDERED UNDER A LETTER OF PROTECTION IN A PERSONAL INJURY OR WRONGFUL DEATH ACTION; TO CREATE PROVISIONS CONCERNING THE AMOUNT OF DAMAGES THAT MAY BE RECOVERED BY A CLAIMANT IN A PERSONAL INJURY OR WRONGFUL DEATH ACTION FOR THE REASONABLE AND NECESSARY COST OR VALUE OF MEDICAL CARE RENDERED; TO DEFINE TERMS; TO PROVIDE THAT CERTAIN OWNERS OR PRINCIPAL OPERATORS OF A MULTIFAMILY RESIDENTIAL PROPERTY HAVE A PRESUMPTION AGAINST LIABILITY IN CONNECTION WITH CRIMINAL ACTS THAT OCCUR ON THE PREMISES AGAINST THIRD PARTIES WHO ARE NOT EMPLOYEES OR AGENTS OF THE OWNER OR OPERATOR; TO REQUIRE OWNERS AND OPERATORS OF MULTIFAMILY RESIDENTIAL PROPERTY TO PROVIDE PROPER CRIME DETERRENCE AND SAFETY TRAINING TO ITS EMPLOYEES; TO REQUIRE OWNERS AND OPERATORS TO MEET A BURDEN OF PROOF IN ORDER TO ESTABLISH A PRESUMPTION AGAINST LIABILITY; TO AMEND SECTION 11-7-15, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IN A NEGLIGENCE ACTION OTHER THAN AN ACTION BROUGH FOR PERSONAL INJURIES, OR WHERE SUCH INJURIES HAVE RESULTED IN DEATH, ANY PARTY FOUND TO BE GREATER THAN 50% AT FAULT MAY NOT RECOVER DAMAGES; TO PROVIDE THAT THIS ACT SHALL NOT IMPAIR ANY RIGHT UNDER AN INSURANCE CONTRACT IN EFFECT ON OR BEFORE THE EFFECTIVE DATE OF THIS ACT; TO PROVIDE THAT THIS ACT APPLIES TO AN INSURANCE CONTRACT ISSUED OR RENEWED AFTER THE EFFECTIVE DATE OF THIS ACT; TO PROVIDE THAT THIS ACT SHALL APPLY TO CAUSES OF ACTION FILED AFTER THE EFFECTIVE DATE OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

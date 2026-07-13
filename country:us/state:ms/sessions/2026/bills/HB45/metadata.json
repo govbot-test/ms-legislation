@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB45",
+  "title": "PERS; require employers to pay percentage of contract workers' compensation into the system.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb45"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0045IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0045IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0045IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0045.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-11-123, MISSISSIPPI CODE OF 1972, TO REQUIRE EACH EMPLOYER IN THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM THAT CONTRACTS WITH INDIVIDUALS TO PERFORM SERVICES FOR OR ON BEHALF OF THE EMPLOYER AS A CONTRACT WORKER, CONTRACTUAL EMPLOYEE OR INDEPENDENT CONTRACTOR TO PAY INTO THE EMPLOYER'S ACCUMULATION ACCOUNT OF THE SYSTEM A CERTAIN PERCENTAGE OF THE TOTAL COMPENSATION THAT IS PAID TO THE INDIVIDUAL UNDER THE CONTRACT, IF THE SERVICES CONTRACTED FOR ARE SERVICES THAT ARE TYPICALLY PERFORMED BY REGULAR EMPLOYEES OF THE EMPLOYER AND ARE STILL BEING PERFORMED BY OR WERE FORMERLY PERFORMED BY ACTIVE MEMBERS OF THE SYSTEM FOR OR ON BEHALF OF THE EMPLOYER; TO PROVIDE THAT THE PERCENTAGE SHALL BE THE SAME AS THE EMPLOYER'S CONTRIBUTION RATE THAT IS PAID ON ACCOUNT OF EACH MEMBER WHO BECAME A MEMBER OF THE SYSTEM BEFORE MARCH 1, 2026; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

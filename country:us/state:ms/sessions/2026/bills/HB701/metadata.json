@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB701",
+  "title": "\"Fatherhood Begins at Conception Act\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb701"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0701IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0701IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0701IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0701.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"FATHERHOOD BEGINS AT CONCEPTION ACT\"; TO AUTHORIZE COURT-ORDERED SUPPORT FOR PREGNANT WOMEN OUT OF LAWFUL MATRIMONY; TO AMEND SECTION 93-9-3, MISSISSIPPI CODE OF 1972, TO CLARIFY THE AUTHORITY OF THE CHANCERY COURT TO AWARD SUPPORT TO PREGNANT WOMEN OUT OF MATRIMONY; TO DEFINE UNBORN CHILD; TO AMEND SECTION 93-9-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE OBLIGATIONS OF THE FATHER EXTEND TO THE SUPPORT OF THE MOTHER OF AN UNBORN CHILD; TO AMEND SECTION 93-9-9, MISSISSIPPI CODE OF 1972, TO INCLUDE PETITIONS FOR THE SUPPORT OF THE MOTHER OF AN UNBORN CHILD; TO AMEND SECTION 93-9-11, MISSISSIPPI CODE OF 1972, TO REVISE THE LIMITATION ON RECOVERY OF SUPPORT FROM A FATHER; TO AMEND SECTION 93-9-13, MISSISSIPPI CODE OF 1972, TO REVISE THE LIMITATION ON RECOVERY OF SUPPORT FROM A FATHER'S ESTATE; TO AMEND SECTION 93-9-19, MISSISSIPPI CODE OF 1972, TO REMOVE THE PROHIBITION THAT PREGNANCY HALTS THE CUSTODY OR SUPPORT HEARINGS; TO AMEND SECTION 93-9-28, MISSISSIPPI CODE OF 1972, TO REVISE THE PROCEDURES FOR VOLUNTARY ACKNOWLEDGEMENT OF PATERNITY; TO AMEND SECTION 93-9-29, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A COURT ORDER MAY INCLUDE THE SUPPORT OF THE MOTHER OF AN UNBORN CHILD; TO AMEND SECTION 93-9-35, MISSISSIPPI CODE OF 1972, TO INCLUDE THE SUPPORT OF THE MOTHER OF AN UNBORN CHILD AS A RESPONSIBILITY OF THE FATHER OF THE CHILD; TO AMEND SECTION 93-11-65, MISSISSIPPI CODE OF 1972, TO INCLUDE EXPENSES TO THE PREGNANT MOTHER IN THE CUSTODY PROVISIONS; TO AMEND SECTION 93-11-71, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT AN ORDER OF CHILD SUPPORT CAN INCLUDE SUPPORT OF THE PREGNANT MOTHER; TO AMEND SECTIONS 93-11-101 AND 93-11-153, MISSISSIPPI CODE OF 1972, TO INCLUDE SUPPORT OF THE PREGNANT MOTHER IN THE ORDER OF SUPPORT; TO AMEND SECTION 43-19-31, MISSISSIPPI CODE OF 1972, TO REVISE THE DUTIES OF THE CHILD SUPPORT UNIT TO INCLUDE THE SUPPORT OF PREGNANT WOMEN; TO AMEND SECTION 43-19-33, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STIPULATED AGREEMENT BETWEEN A FATHER AND THE PREGNANT WOMAN OF HIS UNBORN CHILD MAY INCLUDE THE SUPPORT OF THE MOTHER; TO AMEND SECTION 43-19-35, MISSISSIPPI CODE OF 1972, TO INCLUDE PREGNANT MOTHERS WHO RECEIVE GOVERNMENTAL ASSISTANCE UNDER THE JURISDICTION OF THE CHILD SUPPORT UNIT; TO AMEND SECTION 43-19-101, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE COURT TO CONSIDER THE EXPENSES TO THE PREGNANT MOTHER FOR CHILD SUPPORT; TO BRING FORWARD SECTION 93-9-15, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR THE JURISDICTION OF THE COURTS TO PROVIDE REMEDIES FOR SUPPORT ORDERS INCLUDING PREGNANCY, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 93-9-21, MISSISSIPPI CODE OF 1972, WHICH PROVIDES BLOOD TESTS FOR PATERNITY TESTING, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 93-5-24, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR TYPES OF CUSTODY, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

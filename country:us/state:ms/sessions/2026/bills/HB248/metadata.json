@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB248",
+  "title": "Housing repair grant program; authorize issuance of bonds to provide funds for grants to low income individuals for home repairs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb248"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0248IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0248IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0248IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0248.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A HOUSING REPAIR GRANT PROGRAM TO PROVIDE GRANTS TO CERTAIN LOW INCOME INDIVIDUALS TO MAKE SIGNIFICANT REPAIRS TO THEIR HOMES; TO PROVIDE THAT THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL ADMINISTER THE GRANT PROGRAM; TO PROVIDE THE MAXIMUM AMOUNT OF A GRANT AUTHORIZED UNDER THE PROGRAM; TO PRESCRIBE THE REQUIREMENTS TO BE ELIGIBLE FOR A GRANT UNDER THE PROGRAM; TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO BE KNOWN AS THE \"MISSISSIPPI HOUSING REPAIR GRANT FUND\", WHICH SHALL BE USED FOR THE PROGRAM; TO AUTHORIZE THE ISSUANCE OF $50,000,000.00 OF STATE GENERAL OBLIGATION BONDS FOR THE PURPOSE OF PROVIDING FUNDS FOR THE PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

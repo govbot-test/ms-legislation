@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB897",
+  "title": "Interagency Task Force on Homelessness and Community Advisory Council on Homelessness; create within DHS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb897"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Summers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mansell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mansell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0897IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0897IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0897IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mansell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0897.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE INTERAGENCY TASK FORCE ON HOMELESSNESS WITHIN THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES TO FACILITATE AND IMPLEMENT INITIATIVES TO DECREASE HOMELESSNESS AND UNNECESSARY INSTITUTIONALIZATION IN THIS STATE, IMPROVE HEALTH AND HUMAN SERVICES OUTCOMES FOR PEOPLE WHO EXPERIENCE HOMELESSNESS, AND STRENGTHEN THE SAFETY NETS THAT CONTRIBUTE TO HOUSING STABILITY; TO PRESCRIBE THE DUTIES OF THE TASK FORCE; TO PROVIDE FOR THE MEMBERS OF THE TASK FORCE; TO REQUIRE THE TASK FORCE TO SUBMIT A REPORT TO THE GOVERNOR AND CERTAIN MEMBERS OF THE LEGISLATURE REGARDING THE TASK FORCE'S WORK DURING THE PRIOR YEAR AND ANY NEW RECOMMENDATIONS DEVELOPED BY THE TASK FORCE; TO CREATE THE COMMUNITY ADVISORY COUNCIL ON HOMELESSNESS WITHIN THE DEPARTMENT TO ADVISE THE INTERAGENCY TASK FORCE ON HOMELESSNESS ON ITS MISSION AND MAKE RECOMMENDATIONS TO THE TASK FORCE; TO PROVIDE FOR THE MEMBERS OF THE ADVISORY COUNCIL; TO REQUIRE THE ADVISORY COUNCIL TO SUBMIT RECOMMENDATIONS TO THE INTERAGENCY TASK FORCE ON HOMELESSNESS EACH YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

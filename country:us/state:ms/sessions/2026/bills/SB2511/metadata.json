@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2511",
+  "title": "Behavoral Threat Assessment Program; require State Department of Education and Department of Mental Health to establish.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2511"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hopson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2511IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2511IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2511IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2511.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A STATEWIDE BEHAVIORAL THREAT ASSESSMENT PROGRAM THROUGH COLLABORATION BETWEEN THE STATE DEPARTMENT OF EDUCATION AND THE MISSISSIPPI DEPARTMENT OF MENTAL HEALTH; TO PROVIDE FOR THE IMPLEMENTATION OF BEHAVIORAL THREAT ASSESSMENT PROGRAMS IN LINE WITH EVIDENCE-BASED MODELS, PARTICULARLY THE COMPREHENSIVE SCHOOL THREAT ASSESSMENT GUIDELINES (CSTAG) AND RECOMMENDATION OF THE UNITED STATES DEPARTMENT OF HOMELAND SECURITY; TO PROVIDE TRAINING FOR SCHOOL PERSONNEL VIA THE MISSISSIPPI OFFICE OF HOMELAND SECURITY; TO REQUIRE SCHOOL BOARDS TO PROVIDE FOR THREAT ASSESSMENT TEAMS AT EACH SCHOOL; TO REQUIRE THE THREAT ASSESSMENT TEAMS TO IDENTIFY STUDENTS OF CONCERN, ASSESSING RISKS, AND IMPLEMENTING INTERVENTIONS; TO REQUIRE THE TEAMS BE A MULTIDISCIPLINARY COMPOSITION TO INCLUDE MENTAL HEALTH PROFESSIONALS, LICENSED INSTRUCTIONAL STAFF, ADMINISTRATORS, SCHOOL RESOURCE OFFICERS AND DESIGNATED SCHOOL SAFETY SPECIALISTS; TO PRESCRIBE PROCEDURES FOR MENTAL HEALTH SERVICES, INCLUDING THE USE OF MOBILE CRISIS TEAMS AND LAW ENFORCEMENT CONSULTATION WHEN NEEDED; TO REQUIRE SCHOOL DISTRICTS TO COLLABORATE WITH LOCAL LAW ENFORCEMENT AGENCIES FOR REPORTING THREATS AND DEFINING THE ROLE OF SCHOOL RESOURCE OFFICERS IN HANDLING INCIDENTS; TO REQUIRE SCHOOL DISTRICTS TO ADOPT PARENTAL NOTIFICATION POLICIES THAT ALSO ENSURE COMPLIANCE WITH THE FAMILY EDUCATIONAL RIGHTS AND PRIVACY ACT; TO PROVIDE PROTECTIONS FOR EMPLOYMENT AND CONFIDENTIALITY OF THREAT ASSESSMENT RECORDS; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO DEVELOP PROTOCOLS FOR DOCUMENTING THREAT ASSESSMENTS AND TO SUBMIT AN ANNUAL LEGISLATIVE REPORT; TO AMEND SECTION 37-3-91, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PARTNER WITH THE MISSISSIPPI DEPARTMENT OF MENTAL HEALTH AND MISSISSIPPI OFFICE OF HOMELAND SECURITY TO PROVIDE BEHAVIORAL THREAT ASSESSMENT TRAINING; TO AMEND SECTION 37-3-93, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

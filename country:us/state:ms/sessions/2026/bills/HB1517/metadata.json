@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1517",
+  "title": "\"Mississippi Second Chance Act\"; enact.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1517"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1517IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1517IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1517IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Taylor.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1517.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE \"MISSISSIPPI SECOND CHANCE ACT\"; TO AMEND SECTION 47-7-3, MISSISSIPPI CODE OF 1972, TO REVISE PAROLE ELIGIBILITY FOR PERSONS SENTENCED FOR CRIMES OF VIOLENCE; TO PROVIDE THAT PERSONS SENTENCED FOR CERTAIN VIOLENT OFFENSES SHALL BE ELIGIBLE FOR PAROLE AFTER SERVING FIFTY PERCENT OR FIFTEEN YEARS, WHICHEVER IS LESS, OF THE SENTENCE OR SENTENCES IMPOSED; TO PROVIDE PAROLE ELIGIBILITY FOR PERSONS SENTENCED FOR MURDER IN THE FIRST DEGREE AFTER SERVING TWENTY-FIVE YEARS AND FOR PERSONS SENTENCED FOR MURDER IN THE SECOND DEGREE AFTER SERVING TWENTY YEARS; TO AMEND SECTION 47-7-3.2, MISSISSIPPI CODE OF 1972, TO DECREASE THE NUMBER OF YEARS SERVED FOR COMMITTING CERTAIN CRIMES OF VIOLENCE BEFORE BEING RELEASED BY THE DEPARTMENT OF CORRECTIONS; TO AMEND SECTIONS 99-19-81, 99-19-83, AND 99-19-87, MISSISSIPPI CODE OF 1972, TO PROVIDE PAROLE ELIGIBILITY FOR PERSONS SENTENCED AS HABITUAL OFFENDERS AFTER SERVING TEN YEARS; TO PROVIDE THAT THESE AMENDMENTS SHALL APPLY RETROACTIVELY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

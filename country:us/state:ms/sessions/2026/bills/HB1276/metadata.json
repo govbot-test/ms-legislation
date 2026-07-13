@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1276",
+  "title": "Statewide Utility Tax Reform Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Utilities",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1276"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Utilities;Ways and Means",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harness",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harness\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1276IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1276IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1276IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harness.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1276.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE \"STATEWIDE UTILITY TAX REFORM ACT\"; TO REQUIRE NUCLEAR FUEL, NUCLEAR FUEL BY-PRODUCTS AND RELATED MATERIALS TO BE SUBJECT TO AD VALOREM TAXATION AT THE SAME RATE AS OTHER TAXABLE PROPERTY IN MISSISSIPPI; TO ESTABLISH A TIERED DISTRIBUTION SYSTEM FOR THE ALLOCATION OF AD VALOREM TAX REVENUES COLLECTED IN A COUNTY HOSTING A HIGH-RISK FACILITY, INCLUDING A NUCLEAR POWER PLANT; TO REQUIRE UTILITIES OPERATING HIGH-RISK FACILITIES TO MAKE ANNUAL PAYMENTS IN LIEU OF TAXES (PILOT) TO HOST COUNTIES; TO PRESCRIBE THE AMOUNT AND PERMISSIBLE USES OF PILOT PAYMENTS; TO REQUIRE COUNTIES TO ALLOCATE REVENUES RECEIVED UNDER THIS ACT FOR CERTAIN SPECIFIED PURPOSES; TO REQUIRE THE DEPARTMENT OF REVENUE TO OVERSEE IMPLEMENTATION OF THIS ACT; TO REQUIRE ANNUAL REPORTS; TO AMEND SECTION 27-31-1, MISSISSIPPI CODE OF 1972, TO DELETE THE EXEMPTION OF NUCLEAR FUEL AND FUEL BY-PRODUCTS FROM AD VALOREM TAXATION; TO BRING FORWARD SECTIONS 19-9-151, 19-9-153, 19-9-155 AND 19-9-157, MISSISSIPPI CODE OF 1972, WHICH RELATE TO IN-LIEU PAYMENTS TO COUNTIES IN WHICH NUCLEAR GENERATING PLANTS ARE LOCATED, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-39-305, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES COUNTIES TO LEVY AD VALOREM TAXES FOR MAINTENANCE AND CONSTRUCTION OF ROADS AND BRIDGES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-39-320, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR LIMITATIONS ON INCREASES OF AD VALOREM TAX REVENUES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 33-15-51, MISSISSIPPI CODE OF 1972, WHICH CREATES THE GRAND GULF DISASTER ASSISTANCE TRUST FUND, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 37-57-105, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES AND PROVIDES THE PROCEDURE FOR THE LEVY OF CERTAIN AD VALOREM TAXES FOR SCHOOL DISTRICT PURPOSES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 37-151-87, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE REDUCTION OF LOCAL SUPPLEMENT OR SUPPORT FROM AD VALOREM TAXATION UNDER THE MISSISSIPPI STUDENT FUNDING FORMULA, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

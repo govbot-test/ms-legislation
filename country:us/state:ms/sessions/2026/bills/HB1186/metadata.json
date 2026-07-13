@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1186",
+  "title": "Students with disabilities; require school district to provide written notification to parents regarding modification or access to records.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1186"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Crawford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1186IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1186IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1186IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crawford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1186.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO EXEMPT ANY OFFICIAL, AGENT OR EMPLOYEE OF THE STATE OR A POLITICAL SUBDIVISION THEREOF FROM ENFORCING OR BEING ORDERED TO ENFORCE ANY FEDERAL DIRECTIVE THAT ALLOWS ANY MEDICAL, HEALTH CARE, BEHAVIORAL, OR MENTAL HEALTH TREATMENT, SERVICE, THERAPY OR COUNSELING TO PROVIDE ACCESS TO A STUDENT WITH A DISABILITY'S PERSONALLY IDENTIFIABLE INFORMATION, PUBLIC BENEFITS INFORMATION OR MAKE ANY MODIFICATION TO THAT STUDENT'S IEP OR SERVICE PLANS WITHOUT THE CONSENT OF THE CHILD'S PARENT OR LEGAL GUARDIAN; TO PROVIDE A CAUSE OF ACTION BY A PARENT OR LEGAL GUARDIAN AGAINST ANY PERSON, CORPORATION OR OTHER ENTITY, WHO VIOLATES THE MEDICAL AND MENTAL HEALTH RELATED PARENTAL NOTIFICATION AND CONSENT REQUIREMENTS; TO BRING FORWARD SECTION 41-41-3, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENTS; TO AMEND SECTION 37-23-137, MISSISSIPPI CODE OF 1972, TO REQUIRE WRITTEN PRIOR NOTICE AND REQUEST FOR CONSENT SHALL BE PROVIDED TO THE PARENTS OF A CHILD WITH A DISABILITY EACH TIME CERTAIN REVISIONS ARE MADE TO THE CHILD'S IEP, WHEN THE CHILD'S PUBLIC BENEFITS ARE SOUGHT TO BE ACCESSED AND WHEN THE CHILD'S PERSONAL IDENTIFIABLE INFORMATION IS SOUGHT TO BE DISCLOSED FOR BILLING PURPOSES; TO PROVIDE FOR THE SEVERABILITY OF THE PROVISIONS OF THIS SECTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

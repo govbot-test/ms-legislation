@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1094",
+  "title": "MS Breastfeeding Support and Equity Act; create to revise and strengthen statutes supporting and promoting.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1094"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Business and Commerce",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anderson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1094IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1094IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1094IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anderson_(110th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1094.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI BREASTFEEDING SUPPORT AND EQUITY ACT; TO AMEND SECTIONS 41-135-1 AND 41-135-3, MISSISSIPPI CODE OF 1972, TO REVISE THE LEGISLATIVE FINDINGS AND INTENT AND DEFINITIONS FOR THE PURPOSES OF THE STATUTES SUPPORTING AND PROMOTING BREASTFEEDING; TO AMEND SECTION 41-135-5, MISSISSIPPI CODE OF 1972, TO REQUIRE MATERNAL HEALTH CARE FACILITIES TO ADOPT AN INFANT FEEDING POLICY THAT SUPPORTS AND PROMOTES BREASTFEEDING; TO REQUIRE MATERNAL HEALTH CARE FACILITIES TO PROVIDE COUNSELING TO THE MOTHER ABOUT BREASTFEEDING BEFORE DISCHARGE; TO AMEND SECTION 41-135-7, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL MATERNAL HEALTH CARE FACILITIES TO POST A COPY OF THE \"BREASTFEEDING IN MISSISSIPPI:  GUIDELINES\" CONSPICUOUSLY IN A PUBLIC PLACE ON THEIR PREMISES; TO REQUIRE THAT THOSE GUIDELINES INCLUDE CERTAIN STATEMENTS; TO AMEND SECTION 41-135-9, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO PROVIDE THE VIDEO PREPARED BY THE DEPARTMENT WHICH CONTAINS INFORMATION ABOUT THE IMPORTANCE OF BREASTFEEDING INFANTS TO OTHER STATE AGENCIES THAT PROVIDE BENEFITS TO WOMEN OF CHILDBEARING AGE; TO CREATE NEW SECTION 41-135-11, MISSISSIPPI CODE OF 1972, TO REQUIRE EMPLOYERS TO PROVIDE EMPLOYEES WITH A REASONABLE BREAK TIME AND A PRIVATE SPACE TO EXPRESS MILK DURING WORK HOURS; TO AMEND SECTION 17-25-9, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IT IS A MISDEMEANOR FOR ANY PERSON TO VIOLATE A MOTHER'S RIGHT TO BREASTFEED HER CHILD IN ANY LOCATION WHERE SHE IS OTHERWISE AUTHORIZED TO BE; TO AMEND SECTIONS 43-20-31 AND 71-1-55, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

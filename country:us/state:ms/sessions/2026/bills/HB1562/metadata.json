@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1562",
+  "title": "Medicaid; direct division to apply for waiver to provide for coverage of consumer-directed personal care services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1562"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McLean",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McLean\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1562IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1562IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1562IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLean.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1562.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-13-117.1, MISSISSIPPI CODE OF 1972, TO DIRECT THE DIVISION OF MEDICAID TO MAKE APPLICATION FOR AN ELDERLY OR DISABLED WITH CONSUMER DIRECTION WAIVER TO ALLOW THE DIVISION TO PROVIDE FOR COVERAGE OF CONSUMER-DIRECTED PERSONAL CARE SERVICES THAT ARE APPROPRIATE AND MEDICALLY NECESSARY TO MAINTAIN INDIVIDUALS IN THEIR HOMES; TO SPECIFY THE CRITERIA FOR ELIGIBILITY TO RECEIVE THOSE SERVICES AND THE CRITERIA TO QUALIFY AS A CONSUMER-DIRECTED EMPLOYEE; TO PROVIDE THAT CONSUMER-DIRECTED EMPLOYERS AND EMPLOYEES SHALL BE RESPONSIBLE FOR COMPLETING AND SUBMITTING TIMESHEETS AND OTHER REQUIRED DOCUMENTATION; TO REQUIRE THAT INDIVIDUALS RECEIVING CONSUMER-DIRECTED PERSONAL CARE SERVICES MUST RECEIVE SUPPORT FROM A CONSUMER-DIRECTED SERVICES FACILITATOR, WHO WILL ASSIST THE INDIVIDUAL OR HIS OR HER FAMILY/CAREGIVER AS THEY BECOME EMPLOYERS FOR CONSUMER-DIRECTED SERVICES; TO SPECIFY THE FUNCTIONS OF THE SERVICES FACILITATOR AND REQUIRE THE SERVICES FACILITATOR TO MAKE A HOME VISIT TO CONDUCT AN INITIAL ASSESSMENT BEFORE THE START OF CARE FOR ALL INDIVIDUALS REQUESTING SERVICES; TO REQUIRE THE SERVICES FACILITATOR TO MAKE SUPERVISORY VISITS AS OFTEN AS NEEDED TO ENSURE BOTH QUALITY AND APPROPRIATENESS OF SERVICES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

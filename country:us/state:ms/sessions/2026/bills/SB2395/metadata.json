@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2395",
+  "title": "Food labeling; require disclosure of certain ingredients on food packaging and provide consumer notice disclaimer.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2395"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2395IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2395IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2395IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2395.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE SECTION 75-29-903, MISSISSIPPI CODE OF 1972, TO REQUIRE THE EXPLICIT DISCLOSURE OF CERTAIN INGREDIENTS ON THE FOOD LABELS OF FOOD PRODUCTS SOLD IN MISSISSIPPI; TO PROVIDE A COMPREHENSIVE LIST OF INGREDIENTS THAT MUST BE DISCLOSED IN COMPLIANCE WITH THE PROVISIONS OF THIS SECTION; TO REQUIRE THAT MANUFACTURERS INCLUDE A QR CODE THAT LEADS CONSUMERS TO A WEB PAGE THAT THE MANUFACTURER CONTROLS; TO REQUIRE THAT THE WEBSITE PROVIDES ADDITIONAL INFORMATION ABOUT THE DISCLOSED INGREDIENTS; TO PROVIDE WHEN PROVISIONS OF THIS SECTION DO AND DO NOT APPLY TO MANUFACTURERS; TO PROVIDE PENALTIES FOR MANUFACTURERS FOUND IN NONCOMPLIANCE WITH THE LABELING REQUIREMENTS OF THIS SECTION; TO CREATE SECTION 75-29-905, MISSISSIPPI CODE OF 1972, TO REQUIRE RETAIL FOOD SERVICE ESTABLISHMENTS TO DISCLOSE THE PRESENCE OF SEED OILS IN FOOD COOKED AND PREPARED FOR HUMAN CONSUMPTION; TO PROVIDE PENALTIES FOR RETAIL FOOD SERVICE ESTABLISHMENTS FOUND TO BE IN NONCOMPLIANCE WITH THE SEED OIL DISCLOSURE REQUIREMENTS ESTABLISHED BY THIS SECTION; TO CREATE SECTION 37-11-7.1, MISSISSIPPI CODE OF 1972, TO BAN THE INCLUSION OF CERTAIN PROHIBITED INGREDIENTS IN BREAKFAST, LUNCH AND AFTERSCHOOL CARE MEALS SERVED TO STUDENTS AT PUBLIC AND NONPUBLIC SCHOOLS THAT RECEIVE STATE FUNDING; TO PROVIDE EXEMPTIONS TO THE PROHIBITED INGREDIENTS REQUIREMENTS SET FORTH BY THIS SECTION; TO ENCOURAGE SCHOOL GOVERNING AUTHORITIES TO PURCHASE LOCALLY PRODUCED FOODS FOR STUDENT CONSUMPTION WHENEVER POSSIBLE; TO CREATE SECTION 73-25-41, MISSISSIPPI CODE OF 1972, TO REQUIRE THE RESPECTIVE STATE BOARDS OF MEDICAL LICENSURE TO REQUIRE NURSE PRACTITIONERS, PHYSICIAN ASSISTANTS AND PHYSICIANS PRACTICING CERTAIN FIELDS OF MEDICINE TO ATTEND CONTINUED EDUCATION COURSES CONCERNING NUTRITION AND METABOLIC HEALTH; TO PROVIDE THAT THE RESPECTIVE BOARDS SHALL DETERMINE THE CONTENT OF THE CONTINUED EDUCATION COURSE REQUIRED BY THIS SECTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

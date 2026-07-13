@@ -1,0 +1,42 @@
+{
+  "action": {
+    "description": "Died In Committee",
+    "occurred_at": "2026-02-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1071IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Pigott.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Keen.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mangold.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mattox.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1071.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1071"
+}

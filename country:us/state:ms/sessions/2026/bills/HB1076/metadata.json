@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1076",
+  "title": "Safeguarding American Veteran Empowerment (SAVE) Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Military Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1076"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Military Affairs",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carpenter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Newman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1076IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1076IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1076IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1076.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"SAFEGUARDING AMERICAN VETERAN EMPOWERMENT (SAVE) ACT OF 2026\"; TO PROHIBIT A PERSON FROM RECEIVING COMPENSATION FOR REFERRING AN INDIVIDUAL TO A PERSON TO ADVISE OR ASSIST THE INDIVIDUAL WITH A VETERANS' BENEFIT MATTER; TO PROHIBIT A PERSON FROM RECEIVING COMPENSATION FOR A SERVICE RENDERED IN CONNECTION WITH A CLAIM FILED WITHIN ONE YEAR OF A VETERAN'S PRESUMPTIVE PERIOD OF ACTIVE-DUTY RELEASE, UNLESS THE VETERAN ACKNOWLEDGES BY SIGNING A WAIVER THAT THE VETERAN IS WITHIN SUCH PERIOD AND CHOOSING TO DENY FREE SERVICES THAT ARE AVAILABLE TO THE VETERAN; TO REQUIRE A PERSON WHO SEEKS TO RECEIVE COMPENSATION FOR ADVISING, ASSISTING, OR CONSULTING WITH AN INDIVIDUAL IN CONNECTION WITH A VETERANS' BENEFIT MATTER TO, BEFORE RENDERING ANY SERVICES, MEMORIALIZE THE SPECIFIC TERMS UNDER WHICH THE AMOUNT TO BE PAID WILL BE DETERMINED IN A WRITTEN AGREEMENT SIGNED BY BOTH PARTIES; TO PROHIBIT A PERSON FROM CHARGING AN INITIAL OR NONREFUNDABLE FEE FOR ADVISING, ASSISTING, OR CONSULTING WITH AN INDIVIDUAL ON A VETERANS' BENEFIT MATTER; TO PROHIBIT A PERSON FROM GUARANTEEING, EITHER DIRECTLY OR BY IMPLICATION, A SUCCESSFUL OUTCOME OR THAT AN INDIVIDUAL IS CERTAIN TO RECEIVE SPECIFIC VETERAN BENEFITS OR A SPECIFIC LEVEL, PERCENTAGE, OR AMOUNT OF VETERAN BENEFITS; TO PROVIDE THAT A PERSON WHO ADVISES, ASSISTS, OR CONSULTS ON VETERANS' BENEFIT MATTERS FOR COMPENSATION MAY NOT USE A VETERAN'S PERSONAL LOG-IN, USERNAME, OR PASSWORD INFORMATION TO ACCESS THE VETERAN'S MEDICAL, FINANCIAL, OR GOVERNMENT BENEFITS INFORMATION AND MUST ENSURE THAT ANY INDIVIDUAL WHO HAS ACCESS TO A VETERAN'S MEDICAL OR FINANCIAL INFORMATION UNDERGOES A BACKGROUND CHECK PRIOR TO HAVING ACCESS TO SUCH INFORMATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

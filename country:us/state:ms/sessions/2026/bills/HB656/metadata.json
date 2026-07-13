@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB656",
+  "title": "Mississippi Special-Purpose Schools Oversight Board; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb656"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: ED To AP",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0656IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0656IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0656IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0656.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AND CITED AS THE \"MISSISSIPPI SPECIAL-PURPOSE SCHOOLS OVERSIGHT ACT OF 2026\"; TO DECLARE THE LEGISLATIVE PURPOSE OF IMPROVING ACADEMIC, LITERACY, AND WORKFORCE OUTCOMES FOR NEURODIVERGENT STUDENTS AND STUDENTS WITH SPECIFIC LEARNING DIFFERENCES THROUGH TARGETED REMEDIATION AND EARLY INTERVENTION; TO RECOGNIZE THE ROLE OF ACCREDITED SPECIAL-PURPOSE SCHOOLS IN SERVING STUDENTS WITH DYSLEXIA, ADHD, AUTISM SPECTRUM DISORDER, AND RELATED LEARNING DISABILITIES; TO CREATE THE MISSISSIPPI SPECIAL-PURPOSE SCHOOLS OVERSIGHT BOARD AS AN INDEPENDENT BOARD OF RECORD UNDER THE STATE DEPARTMENT OF EDUCATION FOR ADMINISTRATIVE PURPOSES ONLY; TO PRESCRIBE THE BOARD'S COMPOSITION, APPOINTMENT AUTHORITY, GEOGRAPHIC REPRESENTATION, PROFESSIONAL QUALIFICATIONS, TERMS OF OFFICE, ORGANIZATION, AND LIMITATIONS ON CONSECUTIVE SERVICE; TO VEST THE BOARD WITH FINAL AUTHORITY OVER THE AUTHORIZATION, REAUTHORIZATION, AND ACCREDITATION OF SPECIAL-PURPOSE SCHOOLS, SUBJECT ONLY TO JUDICIAL REVIEW; TO ENUMERATE THE POWERS AND DUTIES OF THE BOARD, INCLUDING ESTABLISHING STANDARDS FOR MEASURABLE STUDENT GROWTH, REMEDIATION EFFECTIVENESS, PROGRESS MONITORING, REINTEGRATION INTO GENERAL EDUCATION, DATA COLLABORATION WITH THE MISSISSIPPI STUDENT INFORMATION SYSTEM, ADVISORY RESPONSIBILITIES TO THE LEGISLATURE AND STATE DEPARTMENT OF EDUCATION, AND ANNUAL REPORTING REQUIREMENTS; TO AUTHORIZE THE BOARD TO PROMULGATE RULES AND REGULATIONS PURSUANT TO THE MISSISSIPPI ADMINISTRATIVE PROCEDURES ACT; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PROVIDE ADMINISTRATIVE AND LOGISTICAL SUPPORT WHILE PRESERVING THE BOARD'S INDEPENDENT DECISION-MAKING AUTHORITY; TO PROVIDE FOR FUNDING THROUGH LEGISLATIVE APPROPRIATIONS AND OTHER LAWFUL SOURCES, INCLUDING GRANTS AND FEDERAL FUNDS; TO AUTHORIZE THE EMPLOYMENT OF AN EXECUTIVE DIRECTOR AND NECESSARY STAFF AND TO PROVIDE FOR COMPENSATION, PER DIEM, AND TRAVEL REIMBURSEMENT OF BOARD MEMBERS; TO ESTABLISH AN EFFECTIVE DATE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

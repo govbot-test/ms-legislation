@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB988",
+  "title": "Strengthen Mississippi Homes Act; create catastrophic windstorm damage mitigation program in Department of Insurance.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb988"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0988IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0988IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0988IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0988.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE STRENGTHEN MISSISSIPPI HOMES ACT; TO AMEND SECTION 83-1-191, MISSISSIPPI CODE OF 1972, TO RENAME THE COMPREHENSIVE HURRICANE DAMAGE PROGRAM THE \"STRENGTHEN MISSISSIPPI HOMES PROGRAM\"; TO REQUIRE THE PROGRAM TO PROVIDE FOR HURRICANE, TORNADO AND OTHER CATASTROPHIC WINDSTORM DAMAGE MITIGATION; TO DELETE REQUIREMENTS FOR A COST-BENEFIT STUDY ON WIND HAZARD MITIGATION CONSTRUCTION MEASURES, WIND CERTIFICATION AND HURRICANE MITIGATION INSPECTIONS, AND AN ADVISORY COUNCIL; TO INCREASE THE MAXIMUM AMOUNT OF FINANCIAL GRANTS, PER HOME, OFFERED BY THE PROGRAM; TO REQUIRE THE COMMISSIONER OF INSURANCE TO PROMULGATE RULES FOR ISSUING GRANTS UNDER THE PROGRAM; TO RENAME THE COMPREHENSIVE HURRICANE DAMAGE MITIGATION PROGRAM FUND THE \"STRENGTHEN MISSISSIPPI HOMES PROGRAM FUND\"; TO DELETE THE REPEALER ON THE PROGRAM; TO REQUIRE THE COMMISSIONER OF INSURANCE TO SUBMIT AN ANNUAL REPORT TO THE GOVERNOR, LIEUTENANT GOVERNOR AND CHAIRS OF THE HOUSE AND SENATE INSURANCE COMMITTEES ON THE PROGRAM; TO AMEND SECTION 83-5-73, MISSISSIPPI CODE OF 1972, TO INCREASE THE FEE CHARGED BY THE COMMISSIONER OF INSURANCE FOR FILING AND PROCESSING AN AGENT'S CERTIFICATE OF AUTHORITY; TO REQUIRE HALF OF THE FEE TO BE DEPOSITED INTO THE STRENGTHEN MISSISSIPPI HOMES PROGRAM FUND AND HALF INTO THE STATE GENERAL FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

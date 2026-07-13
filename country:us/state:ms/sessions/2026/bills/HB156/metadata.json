@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB156",
+  "title": "\"Mississippi Universal Prekindergarten Program Act of 2026\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb156"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0156IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0156IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0156IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0156.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI UNIVERSAL PREKINDERGARTEN PROGRAM ACT OF 2026\"; TO DEFINE CERTAIN TERMS; TO PROVIDE FOR THE PUBLIC FUNDING OF THE PROGRAM, WHICH SHALL BE AVAILABLE TO PARENTS AND FAMILIES ON A VOLUNTARY PARTICIPATION BASIS; TO PRESCRIBE THE MINIMUM STANDARDS OF EDUCATION REQUIRED TO BE OFFERED TO CHILDREN ENROLLED IN THE PROGRAM; TO PRESCRIBE THE MANNER BY WHICH PAYMENTS WILL BE MADE TO PREKINDERGARTEN PROGRAMS, WHETHER SUCH PROGRAMS ARE OFFERED THROUGH THE PUBLIC SCHOOL DISTRICT OF RESIDENCE, AN OUTSIDE DISTRICT OR THROUGH A PREQUALIFIED PRIVATE PROVIDER; TO ESTABLISH THE MINIMUM STANDARDS REQUIRED FOR THE PREQUALIFICATION OF PRIVATE PROVIDERS; TO PRESCRIBE THE MANNER BY WHICH LOCAL SCHOOL DISTRICTS MUST ACCOUNT FOR STUDENTS ENROLLED IN PREKINDERGARTEN PROGRAMS FOR PURPOSES OF DETERMINING AVERAGE DAILY ATTENDANCE; TO REQUIRE THE PROGRAM TO BE JOINTLY ADMINISTERED BY THE STATE BOARD OF EDUCATION AND THE DIVISION OF EARLY CHILDHOOD CARE AND DEVELOPMENT; TO PROVIDE FOR THE EXPANSION OF SCHOOL-BASED PREKINDERGARTEN PROGRAMS; TO REQUIRE THE BOARD AND THE DIVISION TO ESTABLISH A PROCESS TO CALCULATE THE ANNUAL STATEWIDE TUITION RATE FOR PREKINDERGARTEN EDUCATION; TO PROVIDE FOR AN ADMINISTRATIVE PROCEDURES PROCESS FOR ENTITIES AGGRIEVED BY ACTIONS OF THE BOARD AND DIVISION; TO REQUIRE ANNUAL REPORTS ON THE PROGRAM AND ANY RECOMMENDATION FOR IMPROVEMENT OR DISCONTINUATION TO THE LEGISLATURE; TO BRING FORWARD SECTION 37-21-51, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

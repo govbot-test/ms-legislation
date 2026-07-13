@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2546",
+  "title": "MS Medical Cannabis Act; eliminate required follow-up visit and extend written certification and registry ID card validity periods.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2546"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2546IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2546IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2546IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2546.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-137-5, MISSISSIPPI CODE OF 1972, TO EXTEND FROM 12 TO 24 MONTHS THE PERIOD OF TIME FOR WHICH A WRITTEN CERTIFICATION OF A PERSON'S DIAGNOSIS FROM A PRACTITIONER OF A DEBILITATING MEDICAL CONDITION OR ASSOCIATED SYMPTOMS SHALL REMAIN CURRENT; TO REQUIRE THAT A WRITTEN CERTIFICATION BE ISSUED ONLY AFTER A LAWFUL ASSESSMENT OF A PATIENT BY A PRACTITIONER RATHER THAN AFTER AN IN-PERSON ASSESSMENT OF A PATIENT BY A PRACTITIONER, AND TO REQUIRE THAT THE PRACTITIONER BE PHYSICALLY PRESENT IN THE BOUNDARIES OF MISSISSIPPI; TO PROVIDE THAT AFTER A QUALIFYING PATIENT RECEIVES A WRITTEN CERTIFICATION FROM A PRACTITIONER, THE PRACTITIONER MAY, AT HIS OR HER DISCRETION, REQUEST OR REQUIRE A FOLLOW-UP EVALUATION; TO AMEND SECTION 41-137-25, MISSISSIPPI CODE OF 1972, TO EXTEND FROM ONE YEAR AFTER THE DATE OF ISSUANCE TO TWO YEARS AFTER THE DATE OF ISSUANCE THE EXPIRATION DATE FOR REGISTRY IDENTIFICATION CARDS FOR RESIDENTS; TO EXTEND FROM 15 DAYS AFTER THE DATE OF ISSUANCE TO 90 DAYS AFTER THE DATE OF ISSUANCE THE EXPIRATION DATE FOR REGISTRY IDENTIFICATION CARDS FOR NONRESIDENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

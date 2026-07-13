@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB221",
+  "title": "Boys Scouts and Girl Scouts; allow to speak to students regarding civic involvement, with principal's approval.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb221"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scoggin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scoggin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0221IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0221IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0221IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scoggin.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0221.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE SCHOOL PRINCIPALS TO PERMIT THE BOY SCOUTS OF AMERICA AND THE GIRL SCOUTS OF THE UNITED STATES OF AMERICA TO SPEAK WITH STUDENTS ABOUT CIVIC INVOLVEMENT AND THEIR PARTICIPATION; TO PROVIDE A PROCESS FOR APPROVAL OF REQUESTS TO SPEAK WITH STUDENTS; TO REQUIRE PARENTS TO BE NOTIFIED OF SUCH PRESENTATIONS BY THE BOY SCOUTS OR GIRL SCOUTS; TO REQUIRE PUBLIC SCHOOLS TO PROVIDE SPECIFIED INFORMATION TO CERTAIN PARENTS OR STUDENTS ON THE IMPORTANCE OF WATER SAFETY EDUCATION COURSES AND SWIMMING LESSONS; TO REQUIRE THE INFORMATION TO BE PROVIDED ELECTRONICALLY OR IN HARD COPY AND INCLUDE LOCAL OPTIONS FOR AGE-APPROPRIATE WATER SAFETY COURSES AND SWIMMING LESSONS THAT RESULT IN CERTIFICATION INDICATING SUCCESSFUL COMPLETION; TO DEFINE THE TERM \"WATER SAFETY\"; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

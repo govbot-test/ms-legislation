@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1768",
+  "title": "MS Medical Cannabis Act; extend repealers on exemptions to certain laws for Departments of Health and Revenue in relation to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1768"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1768IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1768IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1768IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1768.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-9-107, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE PROVISION OF LAW EXCLUDING FROM THE STATE SERVICE THOSE EMPLOYEES OF THE STATE DEPARTMENT OF HEALTH AND THE DEPARTMENT OF REVENUE WHOSE EMPLOYMENT IS SOLELY RELATED TO THE MISSISSIPPI MEDICAL CANNABIS ACT; TO AMEND SECTION 25-43-1.103, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THOSE DEPARTMENTS' EXEMPTION FROM THE MISSISSIPPI ADMINISTRATIVE PROCEDURES LAW\u00a0FOR PURPOSES RELATED TO THE MISSISSIPPI MEDICAL CANNABIS ACT; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE EXEMPTION FOR THOSE DEPARTMENTS' PERSONAL AND PROFESSIONAL SERVICE CONTRACTS RELATING TO THE MISSISSIPPI MEDICAL CANNABIS ACT FROM THE REQUIREMENTS OF THE PUBLIC PROCUREMENT REVIEW BOARD AND TO EXTEND THE DATE OF OTHER EXEMPTIONS IN THAT CODE SECTION WHICH ARE NOT RELATED TO THE MISSISSIPPI MEDICAL CANNABIS ACT BUT WHICH ARE ALSO SET TO EXPIRE IN 2026; TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE EXEMPTION FROM STATE BID REQUIREMENTS FOR PURCHASES MADE BY THOSE DEPARTMENTS IN CONNECTION WITH THEIR RESPONSIBILITIES UNDER THE MISSISSIPPI MEDICAL CANNABIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

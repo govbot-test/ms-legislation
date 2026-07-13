@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2083",
+  "title": "Criminal sentencing review; authorize and establish procedure for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2083"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2083IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2083IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2083IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2083.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE A COURT IN A CRIMINAL MATTER TO SET A DATE OF SENTENCING FOR THE REVIEW OF THE CRIMINAL SENTENCE; TO AUTHORIZE A COURT IN WHICH CRIMINAL SENTENCING WAS ENTERED UPON THE COURT'S OWN MOTION OR UPON A MOTION OF AN ELIGIBLE DEFENDANT TO REDUCE OR MODIFY THE SENTENCE ON THE GROUND THAT SUCH SENTENCE IS GREATER THAN NECESSARY TO ACHIEVE THE PURPOSES OF SENTENCING; TO PROVIDE ELIGIBILITY REQUIREMENTS FOR A CRIMINAL DEFENDANT; TO PROVIDE THAT A DEFENDANT WHO IS SERVING THE MINIMUM SENTENCE PERMITTED UNDER THE CRIMINAL LAW SHALL NOT BE ELIGIBLE TO FILE A MOTION UNDER THIS SECTION; TO PROVIDE THAT A MOTION UNDER THIS SECTION SHALL BE REFERRED FOR DETERMINATION TO THE JUDGE WHO IMPOSED THE ORIGINAL SENTENCE UPON THE DEFENDANT OR TO THE COURT THAT IMPOSED THE SENTENCE IF THE JUDGE IS NO LONGER A JUDGE OF A COMPETENT JURISDICTION; TO PROVIDE A PROCEDURE FOR THE JUDGE REVIEWING THE MOTION; TO AUTHORIZE A RENEWED MOTION AFTER A CERTAIN AMOUNT OF TIME UPON DENIAL OF THE MOTION; TO PROVIDE A RIGHT OF APPEAL; TO PROHIBIT A DEFENDANT FROM AGREEING TO WAIVE HIS OR HER RIGHT TO RELIEF UNDER THIS SECTION AS A COMPONENT OF A PLEA AGREEMENT; TO AMEND SECTION 99-39-7, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

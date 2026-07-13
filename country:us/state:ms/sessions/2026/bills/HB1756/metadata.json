@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1756",
+  "title": "Commercial hazardous waste management facilities; revise certain provisions relating to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Conservation and Water Resources"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1756"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Conservation and Water Resources",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ladner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ladner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1756IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1756IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1756IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ladner.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1756.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 49-17-29, MISSISSIPPI CODE OF 1972, TO ALLOW FOR HEARINGS REGARDING PERMITS FOR COMMERCIAL HAZARDOUS WASTE MANAGEMENT FACILITIES AND SOLID WASTE MANAGEMENT PERMITS FOR COMMERCIAL MUNICIPAL SOLID WASTE LANDFILLS OR INCINERATORS TO BE HELD AT THE DISCRETION OF THE MISSISSIPPI ENVIRONMENTAL QUALITY PERMIT BOARD; TO AMEND SECTION 49-35-11, MISSISSIPPI CODE OF 1972, TO ALLOW THE MISSISSIPPI COMMISSION ON ENVIRONMENTAL QUALITY TO AUTHORIZE THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY TO ISSUE ALL ORDERS REQUIRED UNDER THE MISSISSIPPI BROWNFIELDS VOLUNTARY CLEANUP AND REDEVELOPMENT ACT; TO AMEND SECTION 51-3-9, MISSISSIPPI CODE OF 1972, TO REDUCE THE COSTS ASSOCIATED WITH NOTIFYING PERMIT HOLDERS OF PERMIT EXPIRATION BY GIVING THE PERMIT BOARD DISCRETION OVER THE METHOD OF WRITTEN NOTICE; TO AMEND SECTION 51-3-31, MISSISSIPPI CODE OF 1972, TO ELIMINATE THE PERMIT APPLICATION FEE; TO BRING FORWARD SECTION 49-35-13, MISSISSIPPI CODE OF 1972, WHICH RELATES TO MISSISSIPPI BROWNFIELDS VOLUNTARY CLEANUP AND REDEVELOPMENT, FOR PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

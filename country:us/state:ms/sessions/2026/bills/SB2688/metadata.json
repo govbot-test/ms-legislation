@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2688",
+  "title": "Custody; create rebuttable presumption of joint custody with equal parenting time.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2688"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2688IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2688IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2688IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2688.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 93-5-24, MISSISSIPPI CODE OF 1972, TO CREATE A REBUTTABLE PRESUMPTION IN FAVOR OF JOINT CUSTODY WITH EQUAL PARENTING TIME IN ALL CUSTODY MATTERS; TO PROVIDE THAT THE PRESUMPTION SHALL BE REBUTTABLE BY A PREPONDERANCE OF THE EVIDENCE; TO PROVIDE THAT A COURT SHALL CONSIDER THE SAFETY AND WELL-BEING OF THE PARTIES AND CHILDREN; TO PROVIDE THAT THE PRESUMPTION THAT JOINT CUSTODY AND EQUALLY SHARED PARENTING TIME IS IN THE BEST INTEREST OF THE CHILD SHALL NOT APPLY IF A DOMESTIC ABUSE PROTECTION ORDER IS BEING OR HAS BEEN ENTERED AGAINST A PARTY BY ANOTHER PARTY OR ON BEHALF OF A CHILD AT ISSUE IN THE CUSTODY HEARING; TO REQUIRE A COURT TO DOCUMENT THE REASONS FROM DEVIATING FROM THE PRESUMPTION UNLESS BOTH PARENTS PETITION FOR A DEVIATION; TO CLARIFY THAT THIS SECTION SHALL APPLY TO ALL CUSTODY DETERMINATIONS; TO PROVIDE FOR THE CALCULATION OF CHILD SUPPORT WHERE THE COURT AWARDS JOINT CUSTODY WITH EQUALLY SHARED PARENTING TIME; TO AMEND SECTION 43-19-101, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

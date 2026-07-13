@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB927",
+  "title": "Mississippi School for Mathematics and Science; provide for administration and clarify employee hiring procedures and 10th grade enrollment option.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb927"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massengill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Massengill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McLean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLean\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0927IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0927IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0927IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Massengill.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLean.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0927.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 37-139-15, MISSISSIPPI CODE OF 1972, RELATING TO THE OPERATION OF THE MISSISSIPPI SCHOOL FOR MATHEMATICS AND SCIENCE (MSMS); TO PROVIDE THAT ADMINISTRATIVE AND INSTRUCTIONAL EMPLOYEES AT THE MISSISSIPPI SCHOOL FOR MATHEMATICS AND SCIENCE SHALL BE CONTRACT EMPLOYEES AND TO PROVIDE FOR THE EXECUTION OF SAID CONTRACTS; TO PROVIDE THAT THE NONINSTRUCTIONAL EMPLOYEES AT SAID SCHOOL SHALL SERVE AT THE WILL AND PLEASURE OF THE EXECUTIVE DIRECTOR OF THE MSMS; TO PROVIDE THAT THE PURCHASES OF EQUIPMENT AND COMMODITIES MADE BY THE MSMS ARE EXEMPT FROM THE REGULATIONS OF THE PUBLIC PROCUREMENT LAW; TO CREATE NEW SECTION 37-139-17, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF CREATING AN ADVISORY COUNCIL AND PROVIDING FOR THE APPOINTMENT OF ITS MEMBERS AND ITS FUNCTION TO ASSIST THE STATE BOARD OF EDUCATION IN DEVELOPING PLANS RELATING TO THE MSMS; TO AMEND SECTION 37-139-3, MISSISSIPPI CODE OF 1972, TO EXPAND ENROLLMENT OPTIONS TO STUDENTS IN THE TENTH GRADE UPON THE AVAILABILITY OF SPACE TO DO SO; TO AMEND SECTIONS 37-139-5, 37-139-9, 25-9-107, 31-7-1, 37-7-307, 37-9-17, 37-9-59 AND 37-9-103, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

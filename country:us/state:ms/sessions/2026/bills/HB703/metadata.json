@@ -1,0 +1,171 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB703",
+  "title": "Public purchasing laws; revise to include set asides for businesses owned by veterans and people with disabilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb703"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hulum",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hulum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bell (65th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bell (65th)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Foster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Foster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James-Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James-Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osborne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osborne\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0703IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0703IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0703IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(65th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Foster.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/James-Jones.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Osborne.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0703.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO REQUIRE THE PUBLIC PROCUREMENT REVIEW BOARD TO ADOPT REGULATIONS TO SET ASIDE AT LEAST FIVE PERCENT OF ANTICIPATED ANNUAL EXPENDITURES FOR THE PURCHASE OF COMMODITIES FROM MINORITY BUSINESSES; TO PROVIDE THAT BUSINESSES OWNED BY VETERANS AND BUSINESSES OWNED BY PEOPLE WITH DISABILITIES SHALL ALSO BE ELIGIBLE FOR THE SET-ASIDES; TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO AMEND THE PUBLIC PURCHASING LAW TO REQUIRE ANY AGENCY OR GOVERNING AUTHORITY TO SET ASIDE NOT MORE THAN TWENTY PERCENT OF ITS ANTICIPATED ANNUAL EXPENDITURES FOR THE PURCHASE OF COMMODITIES FROM MINORITY BUSINESSES; TO PROVIDE THAT BUSINESSES OWNED BY VETERANS AND BUSINESSES OWNED BY PEOPLE WITH DISABILITIES SHALL ALSO BE ELIGIBLE FOR THE SET-ASIDES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

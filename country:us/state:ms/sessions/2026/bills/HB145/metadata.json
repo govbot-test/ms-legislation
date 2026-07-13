@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB145",
+  "title": "Taxes; increase certain and use revenue to provide assistance to hospitals for uncompensated medical care services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb145"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0145IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0145IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0145IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0145.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-65-17, MISSISSIPPI CODE OF 1972, TO INCREASE THE SALES TAX RATE ON SALES OF FIREARMS, AMMUNITION, ARCHERY EQUIPMENT, MOTORCYCLES, ALL-TERRAIN VEHICLES AND JET SKIS; TO AMEND SECTION 27-65-25, MISSISSIPPI CODE OF 1972, TO INCREASE THE SALES TAX RATE ON RETAIL SALES OF ALCOHOLIC BEVERAGES; TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STATE SALES REVENUE COLLECTED FROM SUCH INCREASES TO SALES TAX RATES UNDER SECTIONS 27-65-17 AND 27-65-25 SHALL BE DEPOSITED, WITHOUT DIVERSION, INTO A SPECIAL FUND CREATED IN THE STATE TREASURY AS THE \"MISSISSIPPI HOSPITALS UNCOMPENSATED CARE ASSISTANCE FUND\"; TO AMEND SECTION 27-69-3, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"TOBACCO\" UNDER THE TOBACCO TAX LAW; TO DEFINE THE TERM \"VAPOR PRODUCT\" UNDER THE TOBACCO TAX LAW; TO AMEND SECTION 27-69-13, MISSISSIPPI CODE OF 1972, TO INCREASE THE EXCISE TAXES LEVIED ON CIGARETTES AND OTHER TOBACCO; TO AMEND SECTIONS 27-69-15, 27-69-27, 27-69-33 AND 27-69-35, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; TO AMEND SECTION 27-69-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT TOBACCO TAXES COLLECTED FROM THE INCREASES TO TOBACCO TAX RATES UNDER THIS ACT SHALL BE DEPOSITED INTO THE \"MISSISSIPPI HOSPITALS UNCOMPENSATED CARE ASSISTANCE FUND\"; TO CREATE THE \"MISSISSIPPI HOSPITALS UNCOMPENSATED CARE ASSISTANCE FUND\" AS A SPECIAL FUND IN THE STATE TREASURY TO BE ADMINISTERED BY THE DEPARTMENT OF HEALTH; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED TO PROVIDE ASSISTANCE TO HOSPITALS FOR THE COST OF UNCOMPENSATED MEDICAL CARE SERVICES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

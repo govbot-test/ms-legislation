@@ -1,0 +1,58 @@
+{
+  "action": {
+    "description": "DR - TSDPCS: ED To AP",
+    "occurred_at": "2026-02-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1126IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Owen.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McCarty.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hurst.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMillan.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Tubb.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lott.xml",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mansell.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1126.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1126"
+}

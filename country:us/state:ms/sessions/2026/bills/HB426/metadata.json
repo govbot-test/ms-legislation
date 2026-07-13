@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB426",
+  "title": "Patent confirmation process; fees and costs associated with may not be more than amount for which the land was purchased.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb426"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A;Ways and Means",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0426IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0426IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0426IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0426.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 29-1-33, 29-1-37 AND 29-1-95, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE FEES AND COSTS ASSOCIATED WITH THE PATENT CONFIRMATION PROCESS FOR STATE-FORFEITED TAX LANDS BEING MORE THAN THE AMOUNT FOR WHICH A PERSON PURCHASED THE LAND; TO BRING FORWARD SECTIONS 11-17-1, 11-17-3, 11-17-5, 11-17-7, 11-17-9, 11-17-11, 11-17-13, 11-17-15, 11-17-17, 11-17-19, 11-17-21, 11-17-23, 11-17-25, 11-17-27, 11-17-29, 11-17-31, 11-17-33, 11-17-34, 11-17-35 AND 11-17-37, MISSISSIPPI CODE OF 1972, WHICH RELATE TO LAWSUITS TO CONFIRM TITLE OR INTEREST AND TO REMOVE CLOUDS ON TITLE, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 29-1-5, 29-1-35, 29-1-51, 29-1-57, 29-1-93, 29-1-97 AND 29-1-145, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE STATE PURCHASE AND CONVEYANCE OF LAND, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

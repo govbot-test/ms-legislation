@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB153",
+  "title": "Early Commitment to College Program; establish in schools and districts assigned an \"F\" accountability rating.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb153"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Universities and Colleges",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0153IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0153IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0153IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0153.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE EARLY COMMITMENT TO COLLEGE PROGRAM; TO REQUIRE A SCHOOL OR SCHOOL DISTRICT WITH AN \"F\" ACCOUNTABILITY RATING, AS DEFINED BY THE STATE BOARD OF EDUCATION, TO BE DESIGNATED AS A COLLEGE OPPORTUNITY ZONE; TO REQUIRE THE SCHOOL OR SCHOOL DISTRICT TO PROVIDE ALL STUDENTS ENROLLED IN SIXTH THROUGH NINTH GRADES AN OPPORTUNITY TO SIGN A \"SAVE ME A SPOT IN COLLEGE\" PLEDGE; TO AUTHORIZE SCHOOLS OR DISTRICTS NOT HAVING THE COLLEGE OPPORTUNITY ZONE DESIGNATION TO ALLOW CERTAIN STUDENTS TO PARTICIPATE IN THE PROGRAM; TO PRESCRIBE THE DUTIES AND RESPONSIBILITIES OF THE STATE DEPARTMENT OF EDUCATION WITH RESPECT TO THE ADMINISTRATION OF THE PROGRAM; TO AUTHORIZE A FEE WAIVER FOR STUDENTS COMPLETING THE PROGRAM TO ATTEND A PUBLIC COMMUNITY OR JUNIOR COLLEGE OR STATE INSTITUTION OF HIGHER LEARNING; TO REQUIRE THE DEPARTMENT TO SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE; TO AUTHORIZE CERTAIN PUBLIC AND PRIVATE ENTITIES TO COLLABORATE AND TO PROVIDE SUPPORT SERVICES IN COORDINATION WITH LOCAL SCHOOL DISTRICTS TO EFFECTIVELY IMPLEMENT THIS ACT; TO PROVIDE FOR THE REPEAL OF THE PRECEDING PROVISIONS OF THIS ACT ON JULY 1, 2035; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

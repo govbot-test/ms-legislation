@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1576",
+  "title": "Interactive computer service providers; require parental consent and access to minor user's account history.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1576"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1576IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1576IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1576IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hood.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1576.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT INTERACTIVE COMPUTER SERVICE PROVIDERS FROM ENTERING INTO CONTRACTS WITH MINORS WITHOUT PARENTAL CONSENT; TO CREATE NEW SECTION 11-79-1, MISSISSIPPI CODE OF 1972, TO PROVIDE DEFINITIONS; TO CREATE NEW SECTION 11-79-3, MISSISSIPPI CODE OF 1972, TO REQUIRE INTERACTIVE COMPUTER SERVICE PROVIDERS TO GIVE PARENTS ACCESS TO THEIR CHILD'S USER HISTORY; TO PROVIDE REASONABLE METHODS OF AGE VERIFICATION; TO CREATE NEW SECTION 11-79-5, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE ATTORNEY GENERAL TO PROSECUTE VIOLATIONS OF THIS ACT; TO AUTHORIZE PARENTS TO FILE CIVIL COMPLAINTS AGAINST AN INTERACTIVE COMPUTER SERVICE PROVIDERS FOR VIOLATIONS OF THIS ACT; TO PROVIDE THE AMOUNT OF CIVIL PENALTIES IMPOSED FOR VIOLATIONS OF THIS ACT; TO BRING FORWARD SECTIONS 45-38-3, 45-38-5, 45-38-7, 45-38-9, 45-38-11, 45-38-13 AND 11-77-5, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

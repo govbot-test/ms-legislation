@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB365",
+  "title": "Early voting; authorize at the office of the registrar and additional early voting polling places.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb365"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Osborne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Osborne\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0365IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0365IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0365IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Osborne.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0365.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE EARLY VOTING ACT; TO PROVIDE DEFINITIONS; TO PROVIDE THE TIME FOR THE EARLY VOTING PERIOD; TO PROVIDE THAT EARLY VOTING SHALL BE FOR EACH PRIMARY, GENERAL, RUNOFF, SPECIAL AND MUNICIPAL ELECTION FOR PUBLIC OFFICE; TO PROVIDE THE HOURS FOR EARLY VOTING IN THE REGISTRAR'S OFFICE AND AT ADDITIONAL EARLY VOTING POLLING PLACES; TO PROVIDE THAT NOTICE OF EARLY VOTING SHALL BE PROVIDED IN THREE PUBLIC PLACES FOURTEEN DAYS BEFORE THE VOTING BEGINS; TO PROVIDE THE PROCEDURES TO FOLLOW WHEN CASTING A BALLOT DURING THE EARLY VOTING PERIOD; TO PROVIDE THE MANNER FOR CHALLENGING THE QUALIFICATIONS OF A VOTER DURING THE EARLY VOTING PERIOD; TO AMEND SECTIONS 23-15-625, 23-15-627, 23-15-629, 23-15-631, 23-15-635, 23-15-637, 23-15-639, 23-15-641, 23-15-647, 23-15-649, 23-15-657, 23-15-713, 23-15-715, 23-15-719 AND 23-15-735, MISSISSIPPI CODE OF 1972, TO REVISE THE VOTERS WHO ARE ELIGIBLE TO VOTE BY ABSENTEE BALLOT; TO PROHIBIT A VOTER FROM CASTING AN ABSENTEE BALLOT IN PERSON AT THE OFFICE OF THE COUNTY REGISTRAR; TO CONFORM TO THE PROVISIONS OF THIS ACT; TO AMEND SECTIONS 23-15-31, 23-15-37, 23-15-43, 23-15-47, 23-15-65, 23-15-127, 23-15-153, 23-15-171, 23-15-173, 23-15-191, 23-15-195, 23-15-197, 23-15-231, 23-15-233, 23-15-239, 23-15-241, 23-15-245, 23-15-247, 23-15-251, 23-15-255, 23-15-263, 23-15-265, 23-15-267, 23-15-309, 23-15-331, 23-15-333, 23-15-335, 23-15-353, 23-15-357, 23-15-359, 23-15-363, 23-15-367, 7-3-39, 23-15-511, 23-15-515, 23-15-545, 23-15-573, 23-15-781, 23-15-785, 23-15-807, 23-15-833, 23-15-843, 23-15-851, 23-15-853, 23-15-855, 23-15-857, 23-15-859, 23-15-895, 23-15-913, 23-15-963, 23-15-977, 23-15-1031, 23-15-1081, 23-15-1083, 23-15-1085, 23-15-1091, 21-3-3, 21-9-17, 37-5-9, 21-8-7, 9-4-5 AND 23-15-321, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

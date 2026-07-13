@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HC23",
+  "title": "Constitution; amend to restore voting rights to certain qualified electors once meeting sentencing requirements.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Constitution",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hc23"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Constitution",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anderson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HC/HC0023IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0023IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0023IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anderson_(110th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HC/HC0023.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "A CONCURRENT RESOLUTION PROPOSING AN AMENDMENT TO SECTION 241, MISSISSIPPI CONSTITUTION OF 1890, TO PROVIDE THAT A PERSON WHO IS OTHERWISE A QUALIFIED ELECTOR AND HAS BEEN CONVICTED OF VOTER FRAUD, BRIBERY, THEFT, ARSON, OBTAINING MONEY OR GOODS UNDER FALSE PRETENSE, PERJURY, FORGERY, EMBEZZLEMENT, BIGAMY OR ANY CRIME INTERPRETED AS DISENFRANCHISING IN LATER ATTORNEY GENERAL OPINIONS EXCEPT FOR MURDER AND RAPE SHALL HAVE HIS OR HER RIGHT TO VOTE SUSPENDED UPON CONVICTION AND SHALL HAVE HIS OR HER RIGHT TO VOTE RESTORED ONCE HE OR SHE HAS SATISFIED ALL OF THE SENTENCING REQUIREMENTS OF THE CONVICTION; AND PROPOSING THE REPEAL OF SECTION 253, MISSISSIPPI CONSTITUTION OF 1890, WHICH PROVIDES THAT THE LEGISLATURE MAY, BY A TWO-THIRDS VOTE OF BOTH HOUSES, OF ALL MEMBERS ELECTED, RESTORE THE RIGHT OF SUFFRAGE TO ANY PERSON DISQUALIFIED BY REASON OF CRIME."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

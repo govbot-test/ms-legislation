@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2570",
+  "title": "Regional health authorities; create the Delta Regional Health Authority.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2570"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hopson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2570CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2570CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2570IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2570IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2570CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2570.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI RURAL REGIONAL HEALTH AUTHORITIES ACT OF 2026; TO DECLARE THE LEGISLATIVE INTENT REGARDING THE PURPOSE OF REGIONAL HEALTH AUTHORITIES; TO CREATE THE DELTA REGIONAL HEALTH AUTHORITY; TO PROVIDE FOR THE APPOINTMENT OF THE GOVERNING BOARD OF SUCH AUTHORITY; TO PROVIDE FOR PARTICIPATION AGREEMENTS BETWEEN THE REGIONAL HEALTH AUTHORITY AND THE OWNERS OF COMMUNITY HOSPITALS FOR THE HOSPITALS TO PARTICIPATE IN THE REGIONAL HEALTH AUTHORITY; TO PROVIDE THAT PARTICIPATING COMMUNITY HOSPITALS WILL NO LONGER BE GOVERNED BY THE COMMUNITY HOSPITAL LAWS BUT WILL BE GOVERNED BY THE AUTHORITY BOARD; TO PROVIDE THAT THE AUTHORITY BOARD MAY APPOINT A CHIEF EXECUTIVE OFFICER OF THE AUTHORITY; TO SPECIFY THE POWERS AND DUTIES OF THE CHIEF EXECUTIVE OFFICER; TO PROVIDE THAT THE AUTHORITY BOARD SHALL HAVE ALL OF THE POWERS, AUTHORITY, RIGHTS, PRIVILEGES AND IMMUNITIES CONFERRED ON THE OWNERS AND THE BOARDS OF TRUSTEES OF COMMUNITY HOSPITALS; TO PRESCRIBE ADDITIONAL POWERS AND DUTIES OF THE REGIONAL HEALTH AUTHORITY; TO PROVIDE THAT THE AUTHORITY SHALL BE DEEMED A \"GOVERNMENTAL ENTITY\" AND \"POLITICAL SUBDIVISION\" FOR THE PURPOSE OF THE TORT CLAIMS ACT; TO AUTHORIZE THE AUTHORITY TO PARTICIPATE IN THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM AS A POLITICAL SUBDIVISION; TO PROVIDE THAT THE REGIONAL HEALTH AUTHORITY SHALL BE TREATED AS A NONSTATE GOVERNMENTAL HOSPITAL AND SHALL HAVE ALL RIGHTS, PRIVILEGES AND ENTITLEMENTS OF A NONSTATE GOVERNMENTAL HOSPITAL FOR PURPOSES OF THE MISSISSIPPI MEDICAID PROGRAM; TO DIRECT THE DIVISION OF MEDICAID TO CREATE AND IMPLEMENT A SUPPLEMENTAL PAYMENT PROGRAM TO SUPPORT THE ESSENTIAL SERVICES AND OPERATIONS OF THE DELTA REGIONAL HEALTH AUTHORITY; TO PROVIDE THAT ANY CONSOLIDATION OR COLLABORATION INVOLVING A REGIONAL HEALTH AUTHORITY AND OTHER PUBLIC, PRIVATE OR NONPROFIT HOSPITALS, HEALTH CARE FACILITIES OR PROVIDERS SHALL BE IMMUNE FROM LIABILITY UNDER THE FEDERAL AND STATE ANTITRUST OR COMPETITION LAWS TO THE FULLEST EXTENT ALLOWED BY LAW; TO AMEND SECTIONS 11-46-1, 41-7-173, 41-13-11, 41-13-15, 41-13-19, 41-13-35, 41-13-47 AND 41-13-101, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

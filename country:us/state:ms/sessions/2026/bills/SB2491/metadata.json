@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2491",
+  "title": "Cardiac Emergency Response Plans and Automated External Defibrillators; expand access and provide funding.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2491"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2491IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2491IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2491IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2491.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-11-85, MISSISSIPPI CODE OF 1972, TO DEFINE \"HIGH-NEEDS SCHOOL\" FOR PURPOSES OF PRIORITIZING FUNDING FOR IMPLEMENTING CARDIAC EMERGENCY RESPONSE PLANS (CERPS); TO AMEND SECTION 37-11-87, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT CERPS SHALL ENCOMPASS ATHLETIC VENUE GROUNDS, THAT MEMBERS OF A CARDIAC EMERGENCY RESPONSE TEAM SHALL HAVE CURRENT TRAINING ON CPR AND AUTOMATED EXTERNAL DEFIBRILLATORS (AEDs) FROM A NATIONALLY RECOGNIZED ORGANIZATION, AND THAT AN AED SHALL BE PLACED WITHIN THREE MINUTES OF EACH SCHOOL ATHLETIC VENUE; TO CREATE NEW SECTION 37-11-89, MISSISSIPPI CODE OF 1972, TO DIRECT THE STATE DEPARTMENT OF EDUCATION TO DESIGNATE $2,499,000.00 TO AID IN IMPLEMENTING CERPS; TO SPECIFY THAT FUNDING SHALL BE USED FOR ACTIVITIES AND EQUIPMENT PROMOTING CERP PREPAREDNESS IN SCHOOLS, AND THAT HIGH-NEEDS SCHOOLS SHALL BE GIVEN FUNDING PRIORITY; TO AUTHORIZE THE DEPARTMENT OF EDUCATION TO ESTABLISH A PROCEDURE FOR MONITORING SCHOOL COMPLIANCE WITH FUNDING REQUIREMENTS; TO AUTHORIZE SCHOOLS TO ACCEPT GIFTS, GRANTS AND DONATIONS FOR THE PURCHASE OF AEDs THAT MEET THE STANDARDS ESTABLISHED BY THE UNITED STATES FOOD AND DRUG ADMINISTRATION, AND FOR THE COSTS INCURRED IN INSPECTING AND MAINTAINING, AND TRAINING STAFF IN THE USE OF, SUCH DEVICES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

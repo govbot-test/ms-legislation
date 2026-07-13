@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1310",
+  "title": "\"Mississippi Open to Religion Act\"; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1310"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1310IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1310IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1310IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1310.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE AND CODIFY NEW SECTION 37-13-4.2, MISSISSIPPI CODE OF 1972, TO REQUIRE THE GOVERNING BOARD OF EACH PUBLIC SCHOOL DISTRICT AND NONSECTARIAN PUBLIC CHARTER SCHOOL TO ADOPT A POLICY PROVIDING A DAILY OPPORTUNITY FOR VOLUNTARY PARTICIPATION BY STUDENTS AND EMPLOYEES IN A PERIOD OF PRAYER AND THE READING OF THE BIBLE OR OTHER RELIGIOUS TEXT; TO REQUIRE SUCH POLICIES TO INCLUDE MANDATORY WRITTEN CONSENT, ACKNOWLEDGMENT OF VOLUNTARINESS AND AN EXPRESS WAIVER OF STATE AND FEDERAL CLAIMS, INCLUDING ESTABLISHMENT CLAUSE CLAIMS; TO PROHIBIT PARTICIPATION WITHOUT PRIOR WRITTEN CONSENT AND TO PROVIDE FOR REVOCATION OF CONSENT WHILE MAINTAINING THE ENFORCEABILITY OF EXECUTED WAIVERS; TO PROHIBIT THE BROADCAST OF PRAYER OR RELIGIOUS READINGS OVER PUBLIC ADDRESS SYSTEMS AND TO REQUIRE THAT SUCH PERIODS NOT SUPPLANT INSTRUCTIONAL TIME; TO REQUIRE SAFEGUARDS ENSURING THAT PRAYER OR RELIGIOUS READINGS ARE NOT KNOWINGLY OR INTENTIONALLY CONDUCTED IN THE PRESENCE OR HEARING OF NONCONSENTING INDIVIDUALS AND TO AUTHORIZE COMPLIANCE THROUGH SCHEDULING BEFORE NORMAL SCHOOL HOURS OR IN FULLY CONSENTED CLASSROOMS OR CAMPUSES; TO REQUIRE THE ATTORNEY GENERAL, UPON REQUEST, TO PROVIDE ADVISORY GUIDANCE, MODEL CONSENT FORMS, AND LEGAL DEFENSE TO PARTICIPATING DISTRICTS OR SCHOOLS AND TO PROVIDE FOR STATE LIABILITY FOR COSTS, JUDGMENTS OR SETTLEMENTS WHEN SUCH DEFENSE IS UNDERTAKEN; TO CLARIFY THAT THE ACT DOES NOT PROHIBIT INDIVIDUAL PRAYER OR RELIGIOUS EXPRESSION DURING OTHER PERIODS OF THE SCHOOL DAY AND DOES NOT CONFLICT WITH ARTICLE 8, SECTION 208 OF THE MISSISSIPPI CONSTITUTION OF 1890 OR EXISTING STATUTORY PROTECTIONS FOR STUDENT RELIGIOUS EXPRESSION; TO BRING FORWARD SECTIONS 37-12-7, 37-13-4, 37-13-4.1 AND 37-13-8, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2459",
+  "title": "Mississippi Hospital Recovery Trust Program; create to provide grants to public hospitals at high financial risk.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2459"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2459IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2459IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2459IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2459.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI HOSPITAL RECOVERY TRUST PROGRAM IN THE DEPARTMENT OF FINANCE AND ADMINISTRATION (DEPARTMENT) TO PROVIDE GRANTS TO PUBLIC HOSPITALS AT HIGH FINANCIAL RISK TO HELP THOSE HOSPITALS BE MORE FINANCIALLY VIABLE SO THAT THEY CAN CONTINUE TO OPERATE AND BE AVAILABLE TO PROVIDE HEALTH CARE SERVICES TO THE COMMUNITIES IN WHICH THEY ARE LOCATED; TO CREATE A SPECIAL FUND TO BE KNOWN AS THE MISSISSIPPI HOSPITAL RECOVERY TRUST FUND, WHICH SHALL BE ADMINISTERED BY THE DEPARTMENT AND EXPENDED FOR THE SOLE PURPOSE OF PROVIDING GRANTS TO PUBLIC HOSPITALS UNDER THE PROVISIONS OF THIS ACT; TO PROVIDE THAT TO BE ELIGIBLE FOR A GRANT, A PUBLIC HOSPITAL MUST APPLY FOR THE GRANT AND INCLUDE SUCH DOCUMENTATION AS SPECIFIED BY THE DEPARTMENT SHOWING THAT THE HOSPITAL IS AT HIGH FINANCIAL RISK; TO PROVIDE THAT THE AMOUNT OF EACH GRANT SHALL BE DETERMINED BY THE DEPARTMENT, WITH PRIORITY FOR LARGER GRANTS BEING GIVEN TO PUBLIC HOSPITALS THAT ARE AT IMMEDIATE RISK OF CLOSING AND WHOSE SURVIVAL IS CRITICALLY ESSENTIAL TO THE COMMUNITY IN WHICH IT IS LOCATED; TO PROVIDE THAT WITHIN FIVE BUSINESS DAYS AFTER RECEIPT OF AN APPLICATION WITH THE REQUIRED DOCUMENTATION SHOWING THAT THE PUBLIC HOSPITAL IS AT HIGH FINANCIAL RISK, THE DEPARTMENT SHALL APPROVE THE APPLICATION AND DISTRIBUTE THE GRANT TO THE HOSPITAL; TO REQUIRE THE DEPARTMENT TO MAKE AN ANNUAL REPORT TO THE JOINT LEGISLATIVE BUDGET COMMITTEE ABOUT EACH GRANT MADE UNDER THIS ACT; TO REQUIRE THE DEPARTMENT TO ALLOCATE $150,000,000.00 FOR THE MISSISSIPPI HOSPITAL RECOVERY TRUST FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

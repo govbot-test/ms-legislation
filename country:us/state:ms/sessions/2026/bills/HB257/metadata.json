@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB257",
+  "title": "Income tax; authorize credit for certain child care expenses, child care centers and child care center teachers and directors.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb257"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0257IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0257IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0257IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anthony.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0257.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE AN INCOME TAX CREDIT FOR CERTAIN TAXPAYERS WHO INCUR CHILD CARE EXPENSES FOR A DEPENDENT CHILD TO ATTEND A CHILD CARE CENTER THAT IS QUALIFIED AS A STANDARD CHILD CARE CENTER OR COMPREHENSIVE CHILD CARE CENTER UNDER THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES VOLUNTARY CHILD CARE PROGRAM; TO PROVIDE FOR THE AMOUNT OF THE TAX CREDIT; TO AUTHORIZE A REFUNDABLE INCOME TAX CREDIT FOR A TAXPAYER WHO IS QUALIFIED AS A STANDARD CHILD CARE CENTER OR COMPREHENSIVE CHILD CARE CENTER UNDER THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES VOLUNTARY CHILD CARE PROGRAM; TO PROVIDE FOR THE AMOUNT OF THE TAX CREDIT; TO AUTHORIZE A REFUNDABLE INCOME TAX CREDIT FOR A TAXPAYER WHO IS EMPLOYED AS A TEACHER OR DIRECTOR WITH A CHILD CARE CENTER THAT IS QUALIFIED AS A STANDARD CHILD CARE CENTER OR COMPREHENSIVE CHILD CARE CENTER UNDER THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES VOLUNTARY CHILD CARE PROGRAM; TO PROVIDE FOR THE AMOUNT OF THE TAX CREDIT; TO AUTHORIZE AN INCOME TAX CREDIT FOR A TAXPAYER WHO DONATES FUNDS TO A CHILD CARE CENTER THAT IS QUALIFIED AS A STANDARD CHILD CARE CENTER OR COMPREHENSIVE CHILD CARE CENTER UNDER THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES VOLUNTARY CHILD CARE PROGRAM; TO PROVIDE FOR THE AMOUNT OF THE TAX CREDIT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

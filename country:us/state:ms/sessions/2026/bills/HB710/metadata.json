@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB710",
+  "title": "Department of Wildlife, Fisheries and Parks; require reimbursement for statutory discounts relating to hunting and fishing licenses and other fees.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Wildlife, Fisheries and Parks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb710"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks;Appropriations A",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: WI To AP",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: AP To WI",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bounds",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bounds\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0710IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0710IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0710IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bounds.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0710.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE THE DEPARTMENT OF WILDLIFE, FISHERIES AND PARKS TO BE REIMBURSED FOR ANY LOST REVENUE RESULTING FROM THE ISSUANCE OF STATUTORY DISCOUNTS RELATING TO HUNTING AND FISHING LICENSES, ADMISSION TO STATE PARKS, AND OTHER FEES; TO REQUIRE THE DEPARTMENT TO MAINTAIN AN ACCOUNTING OF SUCH LOST REVENUE AND SUBMIT THE ACCOUNTING TO THE DEPARTMENT OF FINANCE AND ADMINISTRATION FOR THE PAYMENT OF MONIES FROM THE STATE GENERAL FUND IN AN AMOUNT EQUAL TO SUCH LOST REVENUE, ON OR BEFORE JUNE 30 OF EACH FISCAL YEAR; TO PROVIDE THAT WITHIN THIRTY DAYS OF THE RECEIPT OF SUCH ACCOUNTING FROM THE DEPARTMENT OF WILDLIFE, FISHERIES AND PARKS, THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL TRANSFER THE TOTAL AMOUNT OF SUCH LOST REVENUE FOR THE FISCAL YEAR INTO THE FISHERIES AND WILDLIFE FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

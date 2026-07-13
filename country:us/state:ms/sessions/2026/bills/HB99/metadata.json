@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB99",
+  "title": "Licensed contractors; require itemized statements and establish acceptable fees for residential builders and remodelers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb99"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Commerce",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0099IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0099IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0099IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0099.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 73-59-10, MISSISSIPPI CODE OF 1972, TO REQUIRE A PERSON LICENSED BY THE STATE BOARD OF CONTRACTORS AS A RESIDENTIAL BUILDER OR REMODELER TO SUBMIT, UPON REQUEST, AN ITEMIZED STATEMENT TO A CUSTOMER WITHIN 15 DAYS OF COMPLETING A JOB; TO REQUIRE THE STATE BOARD OF CONTRACTORS TO ESTABLISH AN ACCEPTABLE RANGE OF FEES FOR LARGE AND SMALL PROJECTS; TO SUBJECT A PERSON WHO VIOLATES THESE REQUIREMENTS TO DISCIPLINARY ACTION BY THE BOARD; TO AMEND SECTION 75-24-5, MISSISSIPPI CODE OF 1972, TO REQUIRE THE ACT OF CHARGING FEES IN EXCESS OF THE ACCEPTABLE RATE TO BE CONSIDERED AN UNFAIR METHOD OF COMPETITION OR UNFAIR OR DECEPTIVE TRADE PRACTICE UNDER THE CONSUMER PROTECTION LAWS; TO BRING FORWARD SECTION 73-59-13, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

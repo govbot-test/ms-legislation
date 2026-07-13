@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1373",
+  "title": "\"Alyssa's Law Pilot Program\"; enact to authorize implementation and installation of silent panic alarm systems in select public and charter schools.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1373"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Butler-Washington",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Butler-Washington\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1373IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1373IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1373IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler-Washington.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1373.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE \"ALYSSA'S LAW PILOT PROGRAM,\" TO REQUIRE SCHOOL DISTRICTS SELECTED FOR PARTICIPATION IN THE PILOT PROGRAM TO IMPLEMENT SILENT PANIC ALARM SYSTEMS FOR THE PURPOSE OF ENSURING THE SAFETY OF STUDENTS AND STATE IN THE PUBLIC SCHOOLS OR CHARTER SCHOOLS LOCATED THEREIN; TO DEFINE TERMINOLOGY; TO REQUIRE PARTICIPATING LOCAL SCHOOL DISTRICT OR CHARTER SCHOOL TO IMPLEMENT AND INSTALL A SILENT PANIC ALARM SYSTEM IN ALL ELIGIBLE SCHOOLS UNDER THEIR RESPECTIVE JURISDICTION BEGINNING WITH THE 2026-2027 SCHOOL YEAR; TO SPECIFY THE MINIMUM CAPABILITY AND FUNCTIONALITY REQUIREMENTS OF THE SILENT PANIC ALARM SYSTEMS; TO REQUIRE PARTICIPATING PUBLIC SCHOOLS OR CHARTER SCHOOLS TO PROVIDE EACH MEMBER OF ITS PERSONNEL WITH A WEARABLE PANIC ALERT DEVICE THROUGHOUT EACH SCHOOL FACILITY, WHICH ALLOWS FOR IMMEDIATE CONTACT WITH LOCAL LAW ENFORCEMENT AND EMERGENCY RESPONSE AGENCIES; TO PROVIDE GUIDELINES FOR COORDINATION BETWEEN PARTICIPATING SCHOOL DISTRICTS AND LOCAL LAW ENFORCEMENT AGENCIES; TO PROVIDE REGULAR TRAINING TO SCHOOL PERSONNEL AND LAW ENFORCEMENT ON THE PROTOCOL AND APPROPRIATE USE OF THE PANIC ALARM SYSTEM BEFORE THE START OF EACH SCHOOL YEAR; TO ENSURE ACCESS TO SECURITY DATA TO LOCAL LAW ENFORCEMENT AND EMERGENCY RESPONSE AGENCIES; TO PROVIDE FOR THE PROTECTION OF SUCH DATA AND EXEMPT THE DISCLOSURE THEREOF FROM THE PUBLIC RECORDS ACT, EXCEPT IN CERTAIN INSTANCES; TO REQUIRE EACH PARTICIPATING SCHOOL DISTRICT OR CHARTER SCHOOL TO SUBMIT AN ANNUAL REPORT TO THE STATE DEPARTMENT OF EDUCATION DETAILING COMPLIANCE WITH THIS ACT AND ANY INCIDENTS REQUIRING THE USE OF THE PANIC ALARM SYSTEM; TO REQUIRE THE STATE BOARD OF EDUCATION TO ADOPT RULES AND REGULATIONS FOR THE IMPLEMENTATION OF THIS ACT TO ESTABLISH A GRANT PROGRAM ADMINISTERED BY THE STATE DEPARTMENT OF EDUCATION TO ASSIST SCHOOL DISTRICTS IN COMPLIANCE; TO PRESCRIBE CRITERIA FOR ELIGIBILITY OF RECEIPT OF GRANT FUNDS AND THE PURPOSES FOR WHICH SUCH FUNDS MAY BE USED; TO REQUIRE THE LEGISLATURE TO ANNUALLY APPROPRIATE FUNDS FOR THE ADMINISTRATION OF THIS GRANT PROGRAM BY THE DEPARTMENT, WHICH SHALL ALLOCATE FUNDS TO SCHOOL DISTRICTS; TO PROVIDE FOR THE SEVERABILITY OF THE PROVISION OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

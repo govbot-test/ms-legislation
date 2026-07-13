@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB870",
+  "title": "Boyd Mason Act; create sales tax exemption for veterans having 100% permanent service-connected disability.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb870"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fondren",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fondren\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0870IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0870IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0870IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Fondren.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0870.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE BOYD MASON ACT; TO AMEND SECTION 27-65-111, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM SALES TAXATION SALES OF TANGIBLE PERSONAL PROPERTY OR SERVICES TO INDIVIDUALS WHO ARE RESIDENTS OF MISSISSIPPI AND HAVE BEEN HONORABLY DISCHARGED FROM ACTIVE SERVICE IN ANY BRANCH OF THE ARMED FORCES OF THE UNITED STATES OR THE MISSISSIPPI NATIONAL GUARD AND HAVE BEEN CERTIFIED BY THE UNITED STATES DEPARTMENT OF VETERANS AFFAIRS OR ITS SUCCESSOR AS HAVING 100% PERMANENT SERVICE-CONNECTED DISABILITY, SALES TO THE SURVIVING SPOUSE OF SUCH AN INDIVIDUAL AND SALES FOR THE BENEFIT OF SUCH AN INDIVIDUAL MADE TO A SPOUSE OF THE INDIVIDUAL OR TO A MEMBER OF THE HOUSEHOLD IN WHICH THE INDIVIDUAL RESIDES AND WHO IS AUTHORIZED TO MAKE PURCHASES ON THE INDIVIDUAL'S BEHALF, WHEN SUCH INDIVIDUAL IS NOT PRESENT AT THE SALE; TO LIMIT THE AMOUNT OF ANNUAL SALES TO WHICH THE EXEMPTION MAY APPLY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1223",
+  "title": "Motor vehicle license plate; allow reuse from one vehicle to another vehicle under certain conditions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1223"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1223IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1223IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1223IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hood.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1223.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-19-63, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF THE OWNER OR OPERATOR OF A PURCHASED VEHICLE ACQUIRED THE VEHICLE FROM A DEALER AND AS PART OF THE TRANSACTION OF PURCHASING THE VEHICLE TRADED IN A VEHICLE TO THE DEALER, THE PERSON MAY RETAIN THE LICENSE PLATE REMOVED FROM THE TRADED VEHICLE AND USE THE LICENSE PLATE ON THE VEHICLE PURCHASED AND REGISTERED IF THE LICENSE PLATE IS OF THE SAME SERIES AS THAT OF A NEW LICENSE PLATE REQUIRED FOR THE VEHICLE THAT IS PURCHASED AND TO BE REGISTERED, THE LICENSE PLATE IS AUTHORIZED FOR USE ON THE TYPE OF VEHICLE PURCHASED AND TO BE REGISTERED AND THE COUNTY IN WHICH THE LICENSE PLATE WAS ISSUED IS THE SAME AS THE COUNTY IN WHICH THE PURCHASED VEHICLE IS TO BE REGISTERED; AN ACT TO AMEND SECTION 27-19-141, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF A PERSON, OTHER THAN A DEALER OR AGENT, SELLS OR TRANSFERS A VEHICLE TO ANOTHER PERSON, IN LIEU OF SURRENDERING THE LICENSE PLATE, THE PERSON MAY RETAIN AND USE THE LICENSE PLATE ON ANOTHER VEHICLE THAT IS TO BE REGISTERED BY SUCH PERSON FOR THE FIRST TIME IF THE LICENSE PLATE IS OF THE SAME SERIES AS THAT OF A NEW LICENSE PLATE REQUIRED FOR SUCH VEHICLE THAT IS TO BE REGISTERED, THE LICENSE PLATE REMOVED FROM THE VEHICLE IS AUTHORIZED FOR USE ON THE TYPE OF VEHICLE TO BE REGISTERED AND THE COUNTY IN WHICH THE LICENSE PLATE WAS ISSUED IS THE SAME AS THE COUNTY IN WHICH THE VEHICLE IS TO BE REGISTERED; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

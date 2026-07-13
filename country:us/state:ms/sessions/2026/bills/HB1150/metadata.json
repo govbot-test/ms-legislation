@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1150",
+  "title": "Licensure of land surveyors; merge into licensure of engineers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1150"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1150IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1150IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1150IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1150.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 73-13-1, 73-13-3, 73-13-5, 73-13-7, 73-13-9, 73-13-11, 73-13-13, 73-13-15, 73-13-17, 73-13-19, 73-13-21, 73-13-23, 73-13-25, 73-13-27, 73-13-29, 73-13-31, 73-13-33, 73-13-35, 73-13-37, 73-13-39, 73-13-41, 73-13-43, AND 73-13-45, MISSISSIPPI CODE OF 1972, TO REVISE THE LICENSURE PROVISIONS FOR ENGINEERS TO INCLUDE LICENSURE FOR LAND SURVEYORS; TO INCLUDE DEFINITIONS RELATED TO SURVEYING; TO PROVIDE THE MEMBERS OF THE BOARD OF LICENSURE FOR PROFESSIONAL ENGINEERS AND SURVEYORS; TO PROVIDE THAT THE TERMS OF OFFICE FOR THE NEWLY CONSTITUTED BOARD SHALL BE SIX YEARS; TO REVISE THE QUALIFICATIONS OF THE BOARD MEMBERS; TO PROVIDE THAT MEMBERS OF THE BOARD SHALL HOLD FOUR QUARTERLY MEETINGS EACH YEAR, AND FAILURE TO ATTEND TWO CONSECUTIVE QUARTERLY MEETINGS MAY RESULT IN REMOVAL FROM THE BOARD; TO INCREASE THE APPLICATION FEES, THE RENEWAL FEES AND CERTIFICATE OF AUTHORITY FEES FOR LICENSURE AS A PROFESSIONAL ENGINEER OR PROFESSIONAL SURVEYOR; TO PROVIDE THAT A SOLE PROPRIETORSHIP, OWNED AND OPERATED BY A LICENSEE, AND A PROFESSIONAL ASSOCIATION OF LICENSED PROFESSIONAL ENGINEERS OR LICENSED PROFESSIONAL SURVEYORS SHALL NOT BE REQUIRED TO OBTAIN A CERTIFICATE OF AUTHORITY; TO CREATE NEW SECTION 73-13-47, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A SURVEYOR MAY ENTER IN OR UPON CERTAIN LANDS WITHOUT CRIMINAL LIABILITY FOR TRESPASS; TO PROVIDE LIMITED CIVIL LIABILITY FOR THE SURVEYOR; TO CREATE NEW SECTION 73-13-49, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE APPLICABILITY OF THE SECTIONS RELATED TO LICENSURE OF PROFESSIONAL ENGINEERS AND PROFESSIONAL SURVEYORS AND THAT CERTAIN ACTIVITIES SHALL NOT BE PREVENTED OR AFFECTED AS A RESULT OF THOSE SECTIONS; TO REPEAL SECTIONS 73-13-71 THROUGH 73-13-105, MISSISSIPPI CODE OF 1972, WHICH PROVIDE FOR THE LICENSURE OF LAND SURVEYORS; TO AMEND SECTIONS 19-27-1, 73-63-5, 85-7-401, 97-17-85, 97-17-93 AND 97-17-97, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

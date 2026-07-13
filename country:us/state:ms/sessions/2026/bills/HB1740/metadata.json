@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1740",
+  "title": "MDOC; prohibit charging of inmates seeking certain healthcare services and provide kiosks at facilities for inmate requests for healthcare appointments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1740"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: CN To AP",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1740IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1740IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1740IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1740.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT THE DEPARTMENT OF CORRECTIONS' COMPREHENSIVE CORRECTIONAL HEALTHCARE SERVICES PROVIDER FROM CHARGING STATE INMATES FOR CERTAIN HEALTHCARE SERVICES; TO REQUIRE THE DEPARTMENT OF CORRECTIONS TO PROVIDE COMMUNAL KIOSKS AT CORRECTIONAL FACILITIES SO THAT INMATES CAN MAKE REQUESTS FOR MEDICAL OR DENTAL APPOINTMENTS ELECTRONICALLY; TO REQUIRE CERTAIN DISPENSATION OF MEDICATION FOR STATE INMATES TO HELP ENSURE EFFECTIVE MEDICATION MANAGEMENT; TO REQUIRE THE DEPARTMENT TO EMPLOY ONE LICENSED OR REGISTERED DIETICIAN FOR ALL OF ITS CORRECTIONAL FACILITIES; TO REQUIRE THAT CERTAIN ACCESS BE PROVIDED TO STATE INMATES FOR MEDICAL CARE AT ALL TIMES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

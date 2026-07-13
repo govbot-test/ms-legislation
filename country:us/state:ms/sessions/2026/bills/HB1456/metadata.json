@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1456",
+  "title": "University campus events; require enhanced security measures and collaboration among law enforcement for large events.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1456"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Holloway",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Holloway\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1456IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1456IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1456IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Holloway_(76th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1456.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY AND THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO COORDINATE TO PROVIDE ENHANCED SECURITY MEASURES AND PROMOTE COLLABORATION AMONG LAW ENFORCEMENT ON UNIVERSITY CAMPUSES FOR LARGE EVENTS; TO PRESCRIBE DUTIES OF THE DEPARTMENT OF PUBLIC SAFETY UNDER THIS ACT; TO REQUIRE THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO REQUIRE EACH INSTITUTION OF HIGHER LEARNING TO POST A PROMINENT LINK TO THE TIP SUBMISSION PLATFORM DEVELOPED BY THE DEPARTMENT OF PUBLIC SAFETY; TO AMEND SECTION 45-1-2, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSIONER OF PUBLIC SAFETY TO APPOINT A STATEWIDE SAFETY TRAINING OFFICER WHOSE DUTY IT SHALL BE TO PERFORM PUBLIC TRAINING FOR CAMPUS LAW ENFORCEMENT; TO BRING FORWARD SECTION 45-1-3, MISSISSIPPI CODE OF 1972, FOR POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 37-101-15, MISSISSIPPI CODE OF 1972, FOR POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

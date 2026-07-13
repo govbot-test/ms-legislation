@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1063",
+  "title": "Ad valorem tax; add categories for energy projects and extend deadline for certain exemptions, extend deadlines and revise fee-in-lieu minimum for certain projects.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1063"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1063IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1063IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1063IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1063.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-31-46, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"PROJECT\" TO INCLUDE FACILITIES STORING ENERGY USING BATTERY ENERGY STORAGE SYSTEMS, FOR PURPOSES OF A COUNTY'S AUTHORITY TO GRANT CERTAIN AD VALOREM TAX EXEMPTIONS OF UP TO 50% OF THE TOTAL ASSESSED VALUE OF CERTAIN PROJECTS; TO AMEND SECTION 27-31-46.1, MISSISSIPPI CODE OF 1972, TO EXTEND THE INITIAL CONSTRUCTION DEADLINE FOR PURPOSES OF ELIGIBILITY OF CERTAIN ENERGY PROJECTS FOR CERTAIN AD VALOREM TAX EXEMPTIONS OF UP TO 50% OF THE TOTAL ASSESSED VALUE OF THE PROJECTS; TO EXTEND THE DEADLINE BY WHICH COUNTIES AND MUNICIPALITIES MAY AUTHORIZE SUCH EXEMPTIONS; TO AMEND SECTION 27-31-101, MISSISSIPPI CODE OF 1972, TO ADD ENTERPRISES OWNING OR OPERATING A FACILITY FOR THE MANUFACTURE, ASSEMBLY OR OPERATION OF SYSTEMS OR DEVICES USED IN THE GENERATION OR STORAGE OF ENERGY, FOR PURPOSES OF A COUNTY'S OR A MUNICIPALITY'S AUTHORITY TO GRANT CERTAIN AD VALOREM TAX EXEMPTIONS; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE BY WHICH A FEE-IN-LIEU AGREEMENT MAY BE ENTERED WITH CERTAIN QUALIFIED BUSINESSES FOR PURPOSES OF THE MINIMUM FEE-IN-LIEU AMOUNT OF 1/10 OF THE TOTAL OF ALL AD VALOREM TAXES OTHERWISE PAYABLE AS ANNUALLY DETERMINED; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

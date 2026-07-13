@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2239",
+  "title": "Public schools; allow voluntary prayer, require Ten Commandments to be displayed, and require certain size of U.S. flag.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2239"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2239IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2239IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2239IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2239.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 37-12-5, 37-12-7, 37-12-11,  37-13-6, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A FRAMED COPY OF THE TEN COMMANDMENTS SHALL BE ON DISPLAY IN EVERY CLASSROOM; TO SET THE SIZE REQUIREMENTS FOR THE TEN COMMANDMENTS AND THE U.S. FLAG THAT MUST BE DISPLAYED IN EVERY CLASSROOM; TO PROHIBIT STAFF AND FACULTY OF SCHOOL DISTRICTS FROM DISCRIMINATION AND REPRISAL BASED ON RELIGIOUS VIEWS AND BELIEFS; TO PROVIDE THAT THERE SHALL BE A NONDENOMINAL PRAYER SAID AT THE START OF EACH SCHOOL DAY IN EACH PUBLIC AND CHARTER SCHOOL IN THE STATE; TO PROVIDE THAT ANY STUDENT OR FACULTY MEMBER NOT WISHING TO TAKE PART IN THE DAILY PRAYER OR PLEDGE OF ALLEGIANCE SHALL NOT BE REQUIRED TO PARTICIPATE; TO REQUIRE THAT THIS ACT APPLY BEGINNING IN THE 2026-2027 SCHOOL YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1000",
+  "title": "Mississippi Paid Family and Medical Leave Act; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1000"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Butler-Washington",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Butler-Washington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James-Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James-Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1000IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1000IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1000IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler-Washington.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/James-Jones.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1000.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI PAID FAMILY AND MEDICAL LEAVE ACT; TO PROVIDE CERTAIN APPLICABLE DEFINITIONS; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY TO ESTABLISH AND ADMINISTER A FAMILY AND MEDICAL LEAVE INSURANCE PROGRAM; TO PROVIDE COVERED INDIVIDUALS WITH THE RIGHT TO PAID FAMILY AND MEDICAL LEAVE; TO DETERMINE THE AMOUNT OF FAMILY AND MEDICAL LEAVE INSURANCE BENEFITS FOR COVERED INDIVIDUALS; TO CREATE THE FAMILY AND MEDICAL LEAVE INSURANCE FUND IN THE STATE TREASURY; TO PROVIDE FOR THE DETERMINATION OF INSURANCE PREMIUMS BY THE STATE TREASURER; TO PROTECT THE EMPLOYMENT OF COVERED INDIVIDUALS WHILE THEY ARE ON LEAVE; TO PROHIBIT EMPLOYERS FROM VIOLATING RIGHTS PROTECTED IN THIS ACT; TO REQUIRE THE DIRECTOR OF THE DEPARTMENT TO HOLD VIOLATING EMPLOYERS LIABLE; TO PROVIDE THAT THIS ACT IS TO BE CONSTRUED ALONGSIDE SIMILAR PROVISIONS IN THE FEDERAL FAMILY AND MEDICAL LEAVE ACT; TO REQUIRE THAT CLAIMS BE MADE IN ACCORDANCE WITH RULES PRESCRIBED BY THE DIRECTOR OF THE DEPARTMENT; TO DISQUALIFY COVERED INDIVIDUALS FROM COVERAGE FOR FRAUD, MISREPRESENTATION, OR ERRONEOUS PAYMENT; TO ALLOW COVERED INDIVIDUALS TO ELECT FOR INITIAL COVERAGE OR SUBSEQUENT COVERAGE; TO PRESCRIBE CERTAIN REQUIREMENTS FOR THE FORMATION AND ADMINISTRATION OF THE FAMILY AND MEDICAL LEAVE INSURANCE PROGRAM; TO REQUIRE CERTAIN ACTIONS BY THE DEPARTMENT IF THE INSURANCE BENEFITS IN THIS ACT ARE SUBJECT TO FEDERAL INCOME TAX; TO ALLOW FOR INTERMITTENT OR REDUCED LEAVE; TO REQUIRE THE DEPARTMENT TO MAKE AN ANNUAL REPORT TO THE LEGISLATURE; TO REQUIRE THE DEPARTMENT TO CONDUCT A PUBLIC EDUCATION CAMPAIGN ABOUT THE PROGRAM; TO ENCOURAGE THE DEPARTMENT TO COLLECT DATA FOR THE PURPOSE OF LIMITING THE COST OF THE PROGRAM; TO REQUIRE EMPLOYERS TO PROVIDE WRITTEN NOTICE OF THE PROGRAM TO EMPLOYEES UPON HIRING AND ANNUALLY THEREAFTER; TO AMEND SECTION 25-3-105, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO BRING FORWARD SECTIONS 25-3-91, 25-3-92, 25-3-93 AND 25-3-95, MISSISSIPPI CODE OF 1972, WHICH PROVIDE FOR ADMINISTRATIVE, PERSONAL AND MAJOR MEDICAL LEAVE FOR STATE EMPLOYEES, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

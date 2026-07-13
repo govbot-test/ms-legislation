@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB668",
+  "title": "Cemeteries on private property; provide right of access to for certain persons.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb668"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hulum",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hulum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James-Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James-Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0668IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0668IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0668IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/James-Jones.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0668.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 41-43-9, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT OWNERS AND LESSEES OF PRIVATE LAND ON WHICH A CEMETERY, GRAVES OR BURIAL SITES ARE LOCATED SHALL HAVE A DUTY TO ALLOW REASONABLE ACCESS TO THE CEMETERY, GRAVES OR BURIAL SITES BY CERTAIN PERSONS WHO HAVE GIVEN REASONABLE NOTICE TO THE OWNER OR LESSEES; TO PROVIDE THAT ANY PERSON ENTERING ONTO PRIVATE LAND AS AUTHORIZED BY THIS SECTION SHALL BE RESPONSIBLE FOR CONDUCTING HIMSELF OR HERSELF IN A MANNER THAT DOES NOT DAMAGE THE PRIVATE LAND, CEMETERY, GRAVESITE OR BURIAL SITE, AND SHALL BE LIABLE TO THE OWNER OR LESSEE OF THE PROPERTY FOR ANY DAMAGE CAUSED AS THE RESULT OF HIS OR HER ACCESS; TO PROVIDE IMMUNITY FROM LIABILITY TO THE LANDOWNER AND LESSEE IN ANY CIVIL ACTION ARISING OUT OF THE ACCESS GRANTED BY THIS SECTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

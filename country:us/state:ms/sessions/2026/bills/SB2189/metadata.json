@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2189",
+  "title": "Budget; bring forward code sections related to and provide for transfers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2189"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hopson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2189IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2189IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2189IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2189.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BRING FORWARD SECTION 27-103-125, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE BUDGET PROCESS, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-103-139, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE BUDGET PROCESS, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-103-203, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE BUDGET PROCESS, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-103-211, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE BUDGET PROCESS, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-103-213, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE BUDGET PROCESS, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-103-303, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE BUDGET PROCESS, FOR PURPOSES OF POSSIBLE AMENDMENT; TO DIRECT THE STATE TREASURER, IN CONJUNCTION WITH THE STATE FISCAL OFFICER, TO TRANSFER CERTAIN FUNDS DURING FISCAL YEAR 2027 FROM THE CAPITAL EXPENSE FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

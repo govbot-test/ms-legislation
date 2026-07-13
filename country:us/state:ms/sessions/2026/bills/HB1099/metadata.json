@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1099",
+  "title": "Emergency Medical Care Clarity Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1099"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Porter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Porter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Summers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1099IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1099IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1099IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Porter.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1099.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE EMERGENCY MEDICAL CARE CLARITY ACT; TO PROVIDE THAT A HOSPITAL SHALL PROVIDE AN APPROPRIATE MEDICAL SCREENING EXAMINATION AND EMERGENCY MEDICAL SERVICES TO ANY INDIVIDUAL WHO COMES TO THE EMERGENCY DEPARTMENT AND REQUESTS EXAMINATION OR TREATMENT, OR HAS SUCH A REQUEST MADE ON THEIR BEHALF, TO DETERMINE WHETHER AN EMERGENCY MEDICAL CONDITION EXISTS; TO PROVIDE THAT IF AN EMERGENCY MEDICAL CONDITION IS IDENTIFIED, THE HOSPITAL AND ITS MEDICAL STAFF SHALL HAVE A DUTY OF CARE TO PROVIDE STABILIZING TREATMENT WITHIN THEIR CAPABILITY AND CAPACITY; TO PROVIDE THAT EMERGENCY MEDICAL SERVICES OR STABILIZING TREATMENT SHALL NOT BE DELAYED OR DENIED FOR NON-MEDICAL REASONS; TO PROVIDE THAT IF A PATIENT HAS RECEIVED AN APPROPRIATE MEDICAL SCREENING EXAMINATION, AND THE EXAMINING HEALTH CARE PROVIDER DETERMINES THAT AN EMERGENCY MEDICAL CONDITION EXISTS AND THE CONDITION HAS NOT BEEN STABILIZED, THE HOSPITAL SHALL NOT TRANSFER THE PATIENT UNLESS CERTAIN CONDITIONS ARE MET; TO PROVIDE THAT THE ATTORNEY GENERAL AND THE STATE DEPARTMENT OF HEALTH MAY INVESTIGATE AND BRING A CIVIL ACTION AGAINST ANY HOSPITAL OR PROVIDER WHO VIOLATES THIS ACT; TO PROVIDE THAT ANY INDIVIDUAL WHO SUFFERS HARM FROM A VIOLATION OF THIS ACT MAY BRING A CIVIL ACTION IN A COURT OF COMPETENT JURISDICTION FOR  COMPENSATORY AND PUNITIVE DAMAGES AND EQUITABLE RELIEF;  TO PROVIDE THAT HOSPITALS MAY NOT PENALIZE PROVIDERS WHO STABILIZE PATIENTS CONSISTENT WITH MEDICAL STANDARDS OF CARE; TO PROVIDE THAT HOSPITAL EMPLOYEES ARE PROTECTED FROM RETALIATION FOR REPORTING VIOLATIONS; TO PROVIDE THAT HOSPITALS WITH SPECIALIZED FACILITIES MUST ACCEPT APPROPRIATE TRANSFERS IF CAPACITY EXISTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

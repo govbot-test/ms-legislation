@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2848",
+  "title": "Motor vehicles; revise notices procedures to owners and lienholders regarding towing and sale of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2848"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harkins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2848IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2848IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2848IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Harkins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2848.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 85-7-251, 63-23-5 AND 63-23-9, MISSISSIPPI CODE OF 1972, TO REQUIRE TOWING COMPANIES TO USE A THIRD-PARTY VENDOR MEETING THE REQUIREMENTS OF THE DEPARTMENT OF REVENUE TO LOCATE AND NOTIFY OWNERS AND LIENHOLDERS OF TOWED VEHICLES OF THE TOWING AND PENDING SALE OF SUCH VEHICLES; TO SHORTEN THE PERIODS IN WHICH SUCH LOCATION AND NOTIFICATION IS TO OCCUR; TO REQUIRE NOTIFICATION BY CERTIFIED MAIL; TO PROVIDE THAT, IF NO CLAIM IS MADE ON THE VEHICLE WITHIN 30 DAYS OF RECEIPT OF THE REQUIRED NOTIFICATIONS TO LIENHOLDERS, THE THIRD-PARTY VENDOR SHALL IMMEDIATELY NOTIFY THE DEPARTMENT OF REVENUE THAT NO CLAIM HAS BEEN MADE, AND, UPON RECEIPT OF ADEQUATE EVIDENCE THAT THE LIENHOLDERS WERE NOTIFIED AS REQUIRED, THE DEPARTMENT SHALL REMOVE ALL OUTSTANDING LIENS FROM THE MOTOR VEHICLE IN THE DEPARTMENT'S AUTOMATED STATEWIDE MOTOR VEHICLE REGISTRATION SYSTEM; TO REQUIRE EVERY TOWING COMPANY TO MAINTAIN ACCURATE RECORDS FOR THREE YEARS IDENTIFYING THE VEHICLES IT HAS TOWED AND STORED AND ALL PROCEDURES IT HAS TAKEN TO COMPLY WITH THE ABANDONED MOTOR VEHICLES LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

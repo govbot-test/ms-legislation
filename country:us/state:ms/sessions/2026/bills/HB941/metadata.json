@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB941",
+  "title": "MS Health Care Industry Zone Act; extend repealer on act and related tax incentives.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb941"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0941IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0941IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0941IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0941.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REENACT SECTIONS 57-117-1 THROUGH 57-117-9, MISSISSIPPI CODE OF 1972, WHICH ARE THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT; TO AMEND SECTION 57-117-11, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT; TO AMEND SECTION 27-31-101, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REVERTER ON THE STATUTE AUTHORIZING COUNTIES AND MUNICIPALITIES TO GRANT AN AD VALOREM TAX EXEMPTION TO HEALTH CARE INDUSTRY FACILITIES; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REVERTER ON THE STATUTE AUTHORIZING COUNTIES AND MUNICIPALITIES TO GRANT A FEE-IN-LIEU OF AD VALOREM TAXES TO QUALIFIED BUSINESSES UNDER THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT WHICH MEET MINIMUM CRITERIA ESTABLISHED BY THE MISSISSIPPI DEVELOPMENT AUTHORITY; TO AMEND SECTION 27-65-101, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE PROVISION OF LAW THAT EXEMPTS FROM SALES TAXATION SALES OF MATERIALS USED IN THE CONSTRUCTION OF, OR ADDITION OR IMPROVEMENTS TO, A HEALTH CARE INDUSTRY FACILITY AND CERTAIN SALES OF MACHINERY AND EQUIPMENT TO BE USED IN THE FACILITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

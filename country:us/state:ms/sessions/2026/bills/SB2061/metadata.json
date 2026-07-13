@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2061",
+  "title": "Hinshaw natural gas pipeline systems; consider as public utilities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy",
+    "Public Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2061"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy;Public Property",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2061IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2061IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2061IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Carter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2061.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 77-3-3, MISSISSIPPI CODE OF 1972, TO DEFINE \"HINSHAW NATURAL GAS PIPELINE SYSTEM\" AND INCLUDE IT IN THE DEFINITION OF \"PUBLIC UTILITY\"; TO AMEND SECTION 77-3-5, MISSISSIPPI CODE OF 1972, TO GIVE THE PUBLIC SERVICE COMMISSION JURISDICTION OVER HINSHAW NATURAL GAS PIPELINE SYSTEMS; TO AMEND SECTION 77-3-11, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR CERTIFICATION AND APPROVAL OF HINSHAW NATURAL GAS PIPELINE SYSTEMS; TO STIPULATE INSTANCES WHEN HINSHAW NATURAL GAS PIPELINE SYSTEMS MUST SEEK APPROVAL FROM THE COMMISSION; TO PROVIDE FOR THE CREATION OF JURISDICTIONAL CONTRACTS BETWEEN HINSHAW NATURAL GAS PIPELINE SYSTEMS AND THIRD PARTIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

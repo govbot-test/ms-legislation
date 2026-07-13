@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1019",
+  "title": "Association Self-Funded Health Benefit Plan Coverage Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1019"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Turner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arnold",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arnold\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carpenter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carpenter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1019IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1019IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1019IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Turner.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Arnold.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1019.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE ASSOCIATION SELF-FUNDED HEALTH BENEFIT PLAN COVERAGE ACT; TO DEFINE CERTAIN TERMS; TO AUTHORIZE A PROFESSIONAL OR TRADE ASSOCIATION IN MISSISSIPPI TO PURCHASE HOSPITAL, SURGICAL AND MEDICAL EXPENSE BENEFITS COVERAGE FROM A SELF-FUNDED ASSOCIATION PLAN SUBJECT TO THE JURISDICTION OF ANOTHER STATE INSURANCE DEPARTMENT OR THE FEDERAL GOVERNMENT; TO EXEMPT SUCH PLANS SUBJECT TO THE JURISDICTION OF ANOTHER STATE OR THE FEDERAL GOVERNMENT FROM THE INSURANCE LAWS OF THIS STATE AND REGULATIONS OF THE DEPARTMENT OF INSURANCE UPON DEMONSTRATING TO THE COMMISSIONER OF INSURANCE THAT CERTAIN REQUIREMENTS HAVE BEEN MET; TO REQUIRE WRITTEN NOTICE TO BE PROVIDED TO PLAN PARTICIPANTS AND PROSPECTIVE PURCHASERS THAT THE PLAN IS NOT REGULATED BY MISSISSIPPI LAW; TO AUTHORIZE THE COMMISSIONER TO RETAIN PROFESSIONALS TO ASSIST IN REVIEWING A PLAN'S REQUEST TO BE EXEMPT FROM STATE INSURANCE LAWS AND REGULATIONS; TO REQUIRE SUCH PLANS TO DESIGNATE THE COMMISSIONER AS ITS AGENT FOR SERVICE OF PROCESS IN MISSISSIPPI; TO AUTHORIZE THE COMMISSIONER TO ADOPT RULES AND REGULATIONS TO CARRY OUT THE PROVISIONS OF THE ACT; TO AMEND SECTION 83-5-3, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

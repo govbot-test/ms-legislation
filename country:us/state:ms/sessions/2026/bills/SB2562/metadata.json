@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2562",
+  "title": "Mississippi Veterans PTSD Ibogaine Research Pilot Program; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2562"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2562IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2562IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2562IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2562.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI VETERANS PTSD IBOGAINE RESEARCH PILOT PROGRAM WITHIN THE STATE DEPARTMENT OF HEALTH TO SUPPORT LAWFUL CLINICAL RESEARCH INVOLVING IBOGAINE WITH VOLUNTEER MISSISSIPPI VETERANS DIAGNOSED WITH PTSD, SUBJECT TO STRICT SAFEGUARDS AND FULL COMPLIANCE WITH APPLICABLE STATE AND FEDERAL LAW; TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO ADOPT AND DEVELOP A RESEARCH PROTOCOL; TO PROVIDE ELIGIBILITY REQUIREMENTS FOR PARTICIPANTS; TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO PROVIDE AN ANNUAL REPORT TO THE LEGISLATURE; TO PROVIDE THAT THIS SECTION SHALL REPEAL BY OPERATION OF LAW ON JULY 1, 2028; TO AMEND SECTIONS 41-29-113 AND 41-29-115, MISSISSIPPI CODE OF 1972, TO RESCHEDULE IBOGAINE FROM SCHEDULE I TO SCHEDULE II OF THE UNIFORM CONTROLLED SUBSTANCES ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

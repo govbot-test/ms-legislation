@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1245",
+  "title": "Hunting and fishing license; authorize Native Americans to receive free of charge upon providing tribal identification card.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Wildlife, Fisheries and Parks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1245"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Crawford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1245IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1245IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1245IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crawford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1245.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 49-7-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY RESIDENT, WHO IS A QUALIFIED NATIVE AMERICAN, SHALL RECEIVE, UPON APPLICATION, A RESIDENT HUNTING LICENSE AND/OR RESIDENT FISHING LICENSE, FREE OF CHARGE, UPON PROVIDING A TRIBAL IDENTIFICATION CARD AT THE TIME OF LICENSE ISSUANCE; TO DEFINE THE TERM \"TRIBAL IDENTIFICATION CARD\"; TO AMEND SECTIONS 49-7-9, 49-7-17 AND 49-7-21, MISSISSIPPI CODE OF 1972, WHICH RELATE TO RESIDENT COMBINATION HUNTING AND FISHING LICENSES, THE SALE OF HUNTING AND FISHING LICENSE CERTIFICATES, AND CERTAIN REQUIREMENTS FOR FORMS THAT ARE PROVIDED TO APPLICANTS WHEN APPLYING FOR HUNTING AND FISHING LICENSES, TO CONFORM WITH THE PRECEDING PROVISION; TO BRING FORWARD SECTIONS 49-7-3, 49-7-8, 49-7-12, 49-7-22, 49-7-23, 49-7-27 AND 49-7-153, MISSISSIPPI CODE OF 1972, WHICH RELATE TO ISSUING RESIDENT AND NONRESIDENT HUNTING AND FISHING LICENSES, MULTI-YEAR LICENSES, PENALTIES FOR HUNTING AND FISHING WITHOUT A LICENSE AND LIFETIME SPORTSMAN HUNTING AND FISHING LICENSES, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

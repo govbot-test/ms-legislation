@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2755",
+  "title": "ITS; create additional powers and responsibilities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2755"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Technology",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeLano",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeLano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2755IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2755IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2755IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeLano.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2755.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-53-5, MISSISSIPPI CODE OF 1972, TO CREATE ADDITIONAL POWERS AND RESPONSIBILITIES FOR THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES; TO AUTHORIZE ITS TO ESTABLISH AND ADMINISTER PROCUREMENT LISTS FOR CERTAIN PURPOSES; TO PROVIDE FOR COVERAGE OF TECHNOLOGY AND TELECOMMUNICATIONS HARDWARE NOT OTHERWISE AVAILABLE THROUGH PROCUREMENT; TO AUTHORIZE AWARD OF CERTAIN PROCUREMENTS BASED ON BEST VALUE; TO REQUIRE ITS TO ESTABLISH AND MAINTAIN A MANUFACTURER-BASED PROCUREMENT FRAMEWORK FOR CYBERSECURITY HARDWARE, CYBERSECURITY SOFTWARE, AND ASSOCIATED SERVICES; TO PROVIDE FOR ESTABLISHMENT OF CYBERSECURITY MANUFACTURER-BASED PROCUREMENT FRAMEWORK; TO PROVIDE THAT ANY CYBERSECURITY MANUFACTURER MEETING MINIMUM STANDARDS SHALL BE ELIGIBLE FOR INCLUSION IN THE CYBERSECURITY MANUFACTURER-BASED PROCUREMENT FRAMEWORK; TO AUTHORIZE ELIGIBLE ENTITIES TO SELECT CYBERSECURITY PRODUCTS OR SERVICES FROM ANY QUALIFIED MANUFACTURER UNDER THE FRAMEWORK; TO PRESCRIBE ELIGIBLE USERS; TO STIPULATE THAT PROCUREMENTS UNDER THIS ACT SHALL REMAIN SUBJECT TO OVERSIGHT BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION, THE PUBLIC PROCUREMENT REVIEW BOARD AND THE STATE AUDITOR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

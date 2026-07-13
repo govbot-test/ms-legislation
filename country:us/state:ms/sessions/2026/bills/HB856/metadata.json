@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB856",
+  "title": "Advanced, metastatic cancer; delete repealer on prohibition against health plans requiring step therapy before covering certain drugs to treat.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb856"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Felsher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Felsher\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0856IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0856IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0856IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0856.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REENACT SECTION 83-9-8.1, MISSISSIPPI CODE OF 1972, WHICH PROHIBITS A HEALTH BENEFIT PLAN FROM REQUIRING STEP THERAPY OR FAIL-FIRST PROTOCOLS BEFORE THE PLAN PROVIDES COVERAGE OF CERTAIN PRESCRIPTION DRUGS TO TREAT ADVANCED, METASTATIC CANCER AND ASSOCIATED CONDITIONS; TO REENACT SECTION 83-9-36, MISSISSIPPI CODE OF 1972, WHICH PRESCRIBES THE PROCESS BY WHICH A PRESCRIBING PRACTITIONER MAY REQUEST AN OVERRIDE OF AN INSURER'S RESTRICTION ON MEDICATION FOR USE BY A STEP THERAPY OR FAIL-FIRST PROTOCOL; TO AMEND SECTION 3, CHAPTER 379, LAWS OF 2024, TO DELETE THE REPEALER ON SECTIONS 83-9-8.1 AND 83-9-36, MISSISSIPPI CODE OF 1972; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

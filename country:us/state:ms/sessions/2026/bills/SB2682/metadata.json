@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2682",
+  "title": "Athletes Agents Reform Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2682"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2682IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2682IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2682IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2682.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE ATHLETES AGENTS REFORM ACT; TO REQUIRE ATHLETE AGENTS TO MAKE CERTAIN DISCLOSURES TO STUDENT-ATHLETES BEFORE EXECUTING AN AGENCY CONTRACT OR ENDORSEMENT CONTRACT; TO CREATE THE STUDENT-ATHLETE PROTECTION FUND AS A SPECIAL FUND WITHIN THE TREASURY; TO AUTHORIZE THE SECRETARY OF STATE TO COMPENSATE CERTAIN STUDENT-ATHLETES; TO PROVIDE THAT A STUDENT- ATHLETE HAS A RIGHT OF ACTION AGAINST AN ATHLETE AGENT FOR DAMAGES CAUSED BY A VIOLATION OF THIS ACT; TO AUTHORIZE A COURT TO DIRECT COMPENSATION FROM THE STUDENT-ATHLETE PROTECTION FUND; TO AMEND SECTION 73-42-3, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"ATHLETE AGENT\" TO INCLUDE ATTORNEYS, MARKETERS, OR PROFESSIONAL ADVISORS OF STUDENT-ATHLETES; TO AMEND SECTION 73-42-17, MISSISSIPPI CODE OF 1972, TO INCREASE THE FEES FOR REGISTRATION AND RENEWAL OF LICENSES UNDER THIS CHAPTER; TO PROVIDE THAT 33% OF THE FUNDS COLLECTED FOR LICENSE REGISTRATION AND RENEWAL BE DEPOSITED INTO THE STUDENT-ATHLETE PROTECTION FUND; TO AMEND SECTION 73-42-27, MISSISSIPPI CODE OF 1972, TO PROHIBIT ATHLETE AGENTS FROM ENTERING INTO AGREEMENTS THAT WOULD CREATE CONFLICTS OF INTEREST WITHOUT WRITTEN CONSENT OF THE STUDENT-ATHLETE; TO PROHIBIT ATHLETE AGENTS FROM ENTERING INTO AGREEMENTS THAT RESULT IN DUAL REPRESENTATION WITHOUT WRITTEN CONSENT OF THE STUDENT-ATHLETE; TO AMEND SECTION 73-42-29, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ACTING AS AN ATHLETE AGENT IN THIS STATE BEFORE BEING ISSUED A CERTIFICATE OF REGISTRATION IS A FELONY; TO AMEND SECTION 73-42-33, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE SECRETARY OF STATE TO PENALIZE ANY INDIVIDUAL ACTING AS AN ATHLETE AGENT IN THIS STATE BEFORE BEING ISSUED A CERTIFICATE OF REGISTRATION; TO AMEND SECTION 73\u009642\u009619, MISSISSIPPI CODE OF 1972, TO CONFORM; TO DIRECT CODIFICATION OF CERTAIN SECTIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

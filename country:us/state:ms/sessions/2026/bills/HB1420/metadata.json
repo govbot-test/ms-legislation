@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1420",
+  "title": "Spring-Step Teacher Pay Bridge Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1420"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Summers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1420IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1420IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1420IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1420.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE SPRING-STEP TEACHER PAY BRIDGE ACT; TO PROVIDE FOR A PREDICTABLE, ANNUAL SPRING-STEP PAY BRIDGE ON JANUARY 7 OF EACH YEAR FOR FIVE CONSECUTIVE YEARS FOLLOWING A TEACHER'S OR OTHER INSTRUCTIONAL STAFF'S RETURN FROM THE CHRISTMAS BREAK; TO PROVIDE THAT THE PAYMENT SHALL BE AUTOMATIC, REQUIRING NO ADDITIONAL APPLICATION OR VERIFICATION FROM THE EMPLOYEE; TO PROVIDE THAT THE PAYMENT SHALL BE CALCULATED AS ONE-HALF OF THE EMPLOYEE'S REGULAR BIWEEKLY PAY, OR A FIXED AMOUNT ESTABLISHED ANNUALLY BY THE STATE DEPARTMENT OF EDUCATION BASED ON AVAILABLE APPROPRIATIONS, WHICHEVER IS GREATER; TO PROVIDE THAT THE PAYMENT SHALL NOT REDUCE, REPLACE, OR INTERFERE WITH ANY STEP INCREASES, RAISES, OR SUPPLEMENTS OTHERWISE DUE TO THE EMPLOYEE; TO PROVIDE THAT THE LEGISLATURE SHALL APPROPRIATE FUNDS ANNUALLY TO THE DEPARTMENT FOR THE PURPOSE OF ADMINISTERING THE SPRING-STEP PAY BRIDGE; TO PROVIDE THAT FUNDS SHALL BE DISTRIBUTED TO SCHOOL DISTRICTS THROUGH THE MISSISSIPPI STUDENT FUNDING FORMULA OR A DESIGNATED SUPPLEMENTAL LINE ITEM; TO REQUIRE THE DEPARTMENT TO SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE; TO PROVIDE THAT AFTER FIVE YEARS, THE LEGISLATURE SHALL REVIEW THE PROGRAM FOR CONTINUATION, EXPANSION, OR PERMANENT ADOPTION; TO BRING FORWARD SECTION 37-19-7, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

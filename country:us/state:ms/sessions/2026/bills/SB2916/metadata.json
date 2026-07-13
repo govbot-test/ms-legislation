@@ -1,0 +1,147 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2916",
+  "title": "Alcoholic beverages; authorize the sale of wine in grocery stores.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2916"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "England",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wiggins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DeLano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DeLano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hickman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2916IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2916IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2916IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Michel.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/DeLano.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2916.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 67-1-5, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"GROCERY STORE\"; TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DEPARTMENT OF REVENUE TO ISSUE GROCERY STORE WINE-ONLY RETAILER'S PERMITS THAT AUTHORIZE THE HOLDER THEREOF TO SELL WINE AT RETAIL AT A GROCERY STORE IN ORIGINAL SEALED AND UNOPENED PACKAGES NOT TO BE CONSUMED ON THE PREMISES WHERE SOLD; TO PROVIDE THAT THE HOLDER OF A PACKAGE RETAILER'S PERMIT MAY SELL OTHER PRODUCTS AND MERCHANDISE, EXCEPT BEER, BUT MUST DERIVE AT LEAST 50% OF THE REVENUE OF THE LICENSED PREMISES FROM THE RETAIL SALE OF ALCOHOLIC BEVERAGES IN ORIGINAL SEALED AND UNOPENED PACKAGES NOT TO BE CONSUMED ON THE LICENSED PREMISES; TO AUTHORIZE A PERSON TO OWN OR CONTROL ANY INTEREST IN MORE THAN SIX PACKAGE RETAILER'S PERMITS; TO AMEND SECTION 27-71-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THE LICENSE TAX REQUIRED FOR GROCERY STORE WINE-ONLY RETAILER'S PERMITS; TO AMEND SECTIONS 67-1-41, 67-1-75, 67-1-83 AND 67-1-85, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

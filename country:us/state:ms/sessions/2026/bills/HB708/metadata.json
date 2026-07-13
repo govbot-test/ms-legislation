@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB708",
+  "title": "App store providers and developers; require to obtain age verification and parental consent for minor's activity.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb708"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Powell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0708IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0708IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0708IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0708.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE APP STORE PROVIDERS TO REQUEST AND VERIFY A USER'S AGE CATEGORY AT THE TIME THE USER CREATES AN ACCOUNT, TO REQUIRE A MINOR'S ACCOUNT TO BE AFFILIATED WITH A PARENT ACCOUNT, TO OBTAIN VERIFIABLE PARENTAL CONSENT BEFORE ALLOWING THE MINOR TO DOWNLOAD AN APP, PURCHASE AN APP, OR MAKE AN IN-APP PURCHASE, AND TO SHARE AGE CATEGORY DATA WITH DEVELOPERS; TO PROHIBIT APP STORE PROVIDERS AND DEVELOPERS FROM ENFORCING CONTRACTS AGAINST MINORS WITHOUT VERIFIABLE PARENTAL CONSENT AND FROM MISREPRESENTING PARENTAL CONSENT DISCLOSURES; TO REQUIRE DEVELOPERS TO VERIFY AGE CATEGORY DATA OF ACCOUNT HOLDERS AND TO DETERMINE WHETHER VERIFIABLE PARENTAL CONSENT HAS BEEN OBTAINED; TO REQUIRE THE OFFICE OF CONSUMER PROTECTION TO ESTABLISH STANDARDS FOR AGE VERIFICATION METHODS; TO CREATE A PRIVATE RIGHT OF ACTION FOR PARENTS OF MINORS HARMED BY A VIOLATION OF THIS ACT; TO AUTHORIZE THE ATTORNEY GENERAL TO BRING AN ACTION AGAINST AN APP STORE PROVIDER OR A DEVELOPER WHO VIOLATES THIS ACT; TO PROVIDE A SAFE HARBOR FOR COMPLIANT DEVELOPERS; TO AMEND SECTION 75-24-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A VIOLATION OF THIS ACT IS AN UNFAIR METHOD OF COMPETITION OR UNFAIR OR DECEPTIVE TRADE PRACTICE UNDER THE CONSUMER PROTECTION LAWS; TO BRING FORWARD SECTIONS 45-38-3 THROUGH 45-38-13, MISSISSIPPI CODE OF 1972, WHICH ARE THE PROVISIONS OF THE WALKER MONTGOMERY PROTECTING CHILDREN ONLINE ACT, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

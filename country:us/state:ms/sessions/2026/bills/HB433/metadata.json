@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB433",
+  "title": "Voter registration; authorize upon completion of sentence.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb433"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections;Judiciary B",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Porter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Porter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0433IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0433IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0433IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Porter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0433.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FULL SUFFRAGE RESTORATION TO ANY PERSON DISQUALIFIED BY REASON OF CRIMINAL CONVICTION; TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO REVISE WHO SHALL BE CONSIDERED A QUALIFIED ELECTOR; TO AMEND SECTION 23-15-19, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SECRETARY OF STATE AND THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO COLLABORATE TO ENSURE VOTERS ARE PLACED BACK ON VOTER ROLLS; TO AMEND SECTION 23-15-47, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO AMEND SECTION 23-15-213, MISSISSIPPI CODE OF 1972, TO REQUIRE TRAINING FOR ELECTION COMMISSIONERS TO ENSURE VOTERS WHO WERE DISENFRANCHISED ARE ALLOWED TO REGISTER TO VOTE; TO AMEND SECTIONS 23-15-223, 23-15-125, 23-15-151, 23-15-153 AND 23-15-165, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTIONS 97-39-3 AND 99-19-37, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

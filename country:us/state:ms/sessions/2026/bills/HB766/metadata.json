@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB766",
+  "title": "Public defenders; authorize new assistants and provide for office space and expenses for those in Hinds County.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb766"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0766IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0766IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0766IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(65th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0766.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-32-4, MISSISSIPPI CODE OF 1972, TO INCREASE THE AUTHORIZED NUMBER OF FULL-TIME ASSISTANT PUBLIC DEFENDERS WHO WILL PERFORM DUTIES IN THE SEVENTH CIRCUIT COURT DISTRICT AND THE CAPITOL COMPLEX IMPROVEMENT DISTRICT (CCID) INFERIOR COURT; TO PROVIDE THAT THOSE FULL-TIME ASSISTANT PUBLIC DEFENDERS SHALL BE PROVIDED WITH OFFICE SPACE, EQUIPMENT AND SUPPLIES, TWO INVESTIGATORS, TWO LEGAL SECRETARIES, AND ALL REASONABLE EXPENSES OF OPERATING THE OFFICE, AT LEAST EQUAL TO OR MORE THAN THE DISTRICT ATTORNEY OF THE SEVENTH CIRCUIT COURT DISTRICT, SUBJECT TO AVAILABLE FUNDS SPECIFICALLY APPROPRIATED BY THE LEGISLATURE; TO BRING FORWARD SECTIONS 25-32-3, 25-32-5 AND 25-32-7, MISSISSIPPI CODE OF 1972, WHICH RELATE TO APPOINTMENT OF PUBLIC DEFENDERS AND ASSISTANT PUBLIC DEFENDERS, COMPENSATION FOR PUBLIC DEFENDERS, AND OFFICE SPACE AND EXPENSES FOR PUBLIC DEFENDERS, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1074",
+  "title": "MS Long-Term Care Ombudsman Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1074"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sanford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1074IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1074IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1074IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Sanford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1074.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE BE KNOWN AS THE MISSISSIPPI LONG TERM CARE OMBUDSMAN ACT; TO CREATE THE STATE LONG-TERM CARE OMBUDSMAN PROGRAM IN THE DEPARTMENT OF HUMAN SERVICES, WITHIN THE DIVISION OF AGING AND ADULT SERVICES; TO PROVIDE THAT THE OMBUDSMAN PROGRAM SHALL BE HEADED BY THE STATE LONG-TERM CARE OMBUDSMAN, WHO SHALL BE APPOINTED BY THE EXECUTIVE DIRECTOR OF HUMAN SERVICES; TO PROVIDE THAT THE DIVISION OF AGING AND ADULT SERVICES SHALL HAVE A DESIGNATED LEGAL COUNSEL TO ADVISE, ASSIST AND AID THE STATE OMBUDSMAN; TO PRESCRIBE PURPOSE OF THE OMBUDSMAN PROGRAM; TO SPECIFY THE DUTIES AND AUTHORITY OF THE STATE LONG-TERM CARE OMBUDSMAN; TO REQUIRE THE STATE OMBUDSMAN TO DESIGNATE DISTRICTS TO CARRY OUT THE DUTIES OF THE OMBUDSMAN PROGRAM WITHIN LOCAL COMMUNITIES; TO PROVIDE FOR THE APPOINTMENT OF REPRESENTATIVES OF THE OMBUDSMAN PROGRAM AND PRESCRIBE THEIR DUTIES; TO REQUIRE THE DEPARTMENT TO ADOPT STATE AND LOCAL COMPLAINT PROCEDURES; TO PROVIDE FOR INVESTIGATIONS BY REPRESENTATIVES OF THE OMBUDSMAN PROGRAM AND ONSITE FACILITY VISITS; TO PROVIDE FOR COMPLAINT NOTIFICATION AND RESOLUTION PROCEDURES; TO PROVIDE THAT CERTAIN INFORMATION AND RECORDS OF THE OMBUDSMAN ARE CONFIDENTIAL; TO PROVIDE UPON ADMISSION TO A LONG-TERM CARE FACILITY, EACH RESIDENT OR REPRESENTATIVE OF A RESIDENT MUST RECEIVE INFORMATION REGARDING THE OMBUDSMAN PROGRAM; TO PROVIDE IMMUNITY FOR ANY PERSON MAKING A COMPLAINT PURSUANT TO THIS ACT IN GOOD FAITH; TO PROHIBIT RETALIATION AGAINST A PERSON FOR FILING A COMPLAINT WITH, PROVIDING INFORMATION TO, OR OTHERWISE COOPERATING WITH ANY REPRESENTATIVE OF THE OMBUDSMAN PROGRAM; TO REQUIRE THE STATE OMBUDSMAN TO ENSURE THAT APPROPRIATE TRAINING IS PROVIDED TO ALL REPRESENTATIVES OF THE STATE OMBUDSMAN PROGRAM; TO AMEND SECTIONS 43-47-7 AND 43-47-37, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; TO REPEAL SECTIONS 43-7-51 THROUGH 43-7-79, MISSISSIPPI CODE OF 1972, WHICH ARE THE LONG-TERM CARE FACILITIES OMBUDSMAN ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

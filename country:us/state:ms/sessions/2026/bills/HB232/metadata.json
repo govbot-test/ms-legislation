@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB232",
+  "title": "Specialty Doctors to Rural Hospitals Grant Program; establish and provide eligibility.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb232"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0232IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0232IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0232IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0232.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 41-9-353, MISSISSIPPI CODE OF 1972, TO CREATE THE SPECIALTY DOCTORS TO RURAL HOSPITALS GRANT PROGRAM FOR THE PURPOSE OF ENSURING THE AVAILABILITY OF SPECIALTY DOCTORS IN RURAL HOSPITALS WHEN A MAJOR HOSPITAL INDICATES TO A RURAL HOSPITAL EMERGENCY DOCTOR THAT THE MAJOR HOSPITAL IS ON DIVERSION; TO PROVIDE THAT THE DEPARTMENT OF HEALTH SHALL ADMINISTER AND DISTRIBUTE GRANT FUNDS TO RURAL HOSPITALS FOR SUCH PURPOSE; TO PROVIDE CERTAIN CONSIDERATIONS THAT THE DEPARTMENT SHALL MAKE FOR ESTABLISHING A PAYMENT STRUCTURE; TO REQUIRE THE DEPARTMENT OF HEALTH TO PROMULGATE RULES AND REGULATIONS TO ACCOMPLISH THE PURPOSE OF THE PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

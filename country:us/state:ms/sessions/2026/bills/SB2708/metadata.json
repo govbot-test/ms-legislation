@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2708",
+  "title": "Postpartum depression; create new laws and revise existing provisions related to.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2708"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2708CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2708IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2708.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE HEALTH CARE PROFESSIONALS TO SCREEN BIRTH MOTHERS FOR DEPRESSION AT THE TIME OF BIRTH; TO REQUIRE HEALTH INSURANCE ISSUERS TO COVER SUCH SCREENING; TO PROVIDE EXEMPTIONS TO HEALTH INSURANCE ISSUERS THAT ARE REQUIRED TO COVER SUCH SCREENING; TO CREATE NEW SECTION 83-9-47, MISSISSIPPI CODE OF 1972, TO PROHIBIT INSURERS PROVIDING PRESCRIPTION DRUG COVERAGE FROM REQUIRING OR IMPOSING ANY STEP THERAPY PROTOCOL WITH RESPECT TO DRUGS APPROVED BY THE UNITED STATES FOOD AND DRUG ADMINISTRATION (FDA) FOR THE TREATMENT OF POSTPARTUM DEPRESSION; TO DEFINE \"INSURER\"; TO AMEND SECTION 43-13-117, MISSISSIPPI CODE OF 1972, TO REQUIRE COVERAGE AND REIMBURSEMENT FOR POSTPARTUM DEPRESSION SCREENING; TO CREATE NEW SECTION 41-140-1, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW SECTION 41-140-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO DEVELOP AND PROMULGATE WRITTEN EDUCATIONAL MATERIALS AND INFORMATION FOR HEALTH CARE PROFESSIONALS AND PATIENTS ABOUT MATERNAL MENTAL HEALTH CONDITIONS; TO REQUIRE HOSPITALS PROVIDING BIRTH SERVICES TO PROVIDE SUCH EDUCATIONAL MATERIALS TO NEW PARENTS AND, AS APPROPRIATE, OTHER FAMILY MEMBERS; TO REQUIRE SUCH MATERIALS BE PROVIDED TO ANY WOMAN WHO PRESENTS WITH SIGNS OF A MATERNAL MENTAL HEALTH DISORDER; TO CREATE NEW SECTION 41-140-5, MISSISSIPPI CODE OF 1972, TO REQUIRE ANY HEALTH CARE PROVIDER OR NURSE MIDWIFE WHO RENDERS POSTNATAL CARE OR PEDIATRIC INFANT CARE TO ENSURE THAT THE POSTNATAL CARE PATIENT OR BIRTHING MOTHER OF THE PEDIATRIC INFANT CARE PATIENT, AS APPLICABLE, IS OFFERED SCREENING FOR POSTPARTUM DEPRESSION AND TO PROVIDE APPROPRIATE REFERRALS IF SUCH PATIENT OR MOTHER IS DEEMED LIKELY TO BE SUFFERING FROM POSTPARTUM DEPRESSION; TO CREATE NEW SECTION 83-9-48, MISSISSIPPI CODE OF 1972, TO DEFINE \"INSURER\" AND REQUIRE INSURERS TO PROVIDE COVERAGE FOR POSTPARTUM DEPRESSION SCREENING; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

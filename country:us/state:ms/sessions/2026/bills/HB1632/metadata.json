@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1632",
+  "title": "Community Public Wastewater System Infrastructure Sustainability Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Utilities"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1632"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Utilities",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Powell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Powell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1632CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1632IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Powell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1632.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"COMMUNITY PUBLIC WASTEWATER SYSTEM INFRASTRUCTURE SUSTAINABILITY ACT\"; TO PROVIDE A STATEWIDE SYSTEM OF ACCOUNTABILITY FOR COMMUNITY PUBLIC WASTEWATER SYSTEMS; TO PROVIDE FOR RULEMAKING BY THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY AND THE MISSISSIPPI COMMISSION ON ENVIRONMENTAL QUALITY; TO PROVIDE FOR DEVELOPMENT OF A LETTER GRADE SCHEDULE REFLECTIVE OF COMMUNITY PUBLIC WASTEWATER SYSTEM QUALITY AND PERFORMANCE; TO PROVIDE FOR PUBLICATION OF QUALITY AND PERFORMANCE SCORES AND LETTER GRADES; TO BRING FORWARD SECTION 49-2-9, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE COMMISSION ON ENVIRONMENTAL QUALITY FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 49-2-13, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE DEPARTMENT OF ENVIRONMENTAL QUALITY, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 77-3-2 AND 77-3-5, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE PUBLIC SERVICE COMMISSION'S POWERS, DUTIES AND JURISDICTION; TO BRING FORWARD SECTION 19-5-175, MISSISSIPPI CODE OF 1972, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 21-27-7, 21-27-13 AND 21-27-203, MISSISSIPPI CODE OF 1972, WHICH RELATE TO MUNICIPALLY OWNED UTILITIES; TO BRING FORWARD SECTION 49-17-743, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE POWERS OF COUNTY AUTHORITIES, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 49-17-745, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE PROMULGATION OF RULES AND REGULATIONS RELATING TO OPERATION AND MAINTENANCE OF COUNTY WATER AND WASTEWATER SYSTEMS, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 41-67-3, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE MISSISSIPPI INDIVIDUAL ON-SITE WASTEWATER DISPOSAL SYSTEM LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

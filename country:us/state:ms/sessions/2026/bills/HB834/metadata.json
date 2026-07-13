@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB834",
+  "title": "Medication aides; provide for certification of by State Department of Health.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb834"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0834IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0834IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0834IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0834.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MEDICATION AIDE ACT; TO PROVIDE FOR THE CERTIFICATION OF MEDICATION AIDES BY THE STATE DEPARTMENT OF HEALTH; TO PROVIDE THAT A MEDICATION AIDE MAY PARTICIPATE IN MEDICATION ADMINISTRATION WHEN CERTIFIED THROUGH A MEDICATION AIDE CERTIFICATION PROGRAM IN ACCORDANCE WITH THIS ACT AND GENERALLY MANAGED BY A LICENSED HEALTH CARE PROFESSIONAL AT A NURSING FACILITY; TO SPECIFY THE MINIMUM COMPETENCIES FOR A MEDICATION AIDE; TO SPECIFY THE COMPONENTS OF A MEDICATION AIDE CERTIFICATION PROGRAM, WHICH MAY BE OFFERED BY TECHNICAL OR COMMUNITY COLLEGES OR BY A LICENSED HEALTH CARE PROFESSIONAL EMPLOYED AT A NURSING FACILITY; TO REQUIRE APPLICANTS TO COMPLETE MEDICATION AIDE CERTIFICATION TRAINING AND PASS AN EXAMINATION IN ORDER TO BE CERTIFIED; TO REQUIRE EACH FACILITY OPERATOR USING CERTIFIED MEDICATION AIDES TO HAVE A WRITTEN POLICY GOVERNING THE PROVISION OF MEDICATIONS BY CERTIFIED MEDICATION AIDES; TO REQUIRE NURSING FACILITIES TO DISCLOSE TO THEIR RESIDENTS AND THEIR FAMILIES THAT THE FACILITY EMPLOYS AND USES MEDICATION AIDES; TO PRESCRIBE THE CURRICULUM STANDARDS FOR THE MEDICATION AIDE CERTIFICATION PROGRAM AND THE REQUIRED INFORMATION IN THE PROGRAM INSTRUCTION; TO PROVIDE THAT THE DEPARTMENT SHALL HAVE A MEDICATION AIDE REGISTRY FOR PERSONS WHO HAVE BEEN CERTIFIED AS A MEDICATION AIDE; TO PROVIDE THAT THE DEPARTMENT MAY DENY REGISTRATION OR REFUSE RENEWAL OF OR REMOVE A REGISTRATION FROM THE MEDICATION AIDE REGISTRY FOR FAILURE TO MEET THE STANDARDS AND COMPETENCIES OR FOR VIOLATION OF ANY PROVISION OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

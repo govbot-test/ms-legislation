@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2388",
+  "title": "Kids Online Protection and Anti-Grooming Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2388"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2388IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2388IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2388IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2388.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE KIDS ONLINE PROTECTION AND ANTI-GROOMING ACT; TO DEFINE TERMS; TO PROVIDE THAT EVERY OWNER OR OPERATOR OF A COVERED PLATFORM WHO CONTRACTS WITH A MINOR SHALL OWE A DUTY OF CARE TO THE MINOR; TO PROVIDE THAT THE DUTY OF CARE SHALL REQUIRE THE COVERED PLATFORM TO TAKE CERTAIN REASONABLE MEASURES; TO REQUIRE A COVERED PLATFORM TO NOTIFY THE LEGAL REPRESENTATIVE OF A MINOR IF A MINOR MAKES A MICROTRANSACTION ON A COVERED PLATFORM, A MINOR IS EXPOSED TO SEXUALLY EXPLICIT MATERIAL ON A COVERED PLATFORM OR A CONNECTION IS MADE BETWEEN AN ADULT AND A MINOR ON A COVERED PLATFORM; TO AUTHORIZE A LEGAL REPRESENTATIVE OF A MINOR TO OPT OUT OF THE PROTECTIONS REQUIRED IN THIS ACT BY PROVIDING EXPRESS WRITTEN CONSENT TO A COVERED PLATFORM; TO PROVIDE THAT ANY OWNER OR OPERATOR OF A COVERED PLATFORM WHO IS FOUND TO HAVE VIOLATED THIS ACT SHALL BE LIABLE TO AN INDIVIDUAL FOR DAMAGES, COURT COSTS, AND REASONABLE ATTORNEY'S FEES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

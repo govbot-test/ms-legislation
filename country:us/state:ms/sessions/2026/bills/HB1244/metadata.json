@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1244",
+  "title": "Vaccine exemption; authorize for religious, philosophical or conscientious reasons.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1244"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Crawford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1244IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1244IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1244IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crawford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1244.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-23-37, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A CHILD WILL BE EXEMPT FROM THE REQUIREMENT TO HAVE ANY SPECIFIC VACCINATION IN ORDER TO ATTEND A SCHOOL OR POSTSECONDARY EDUCATIONAL INSTITUTION IF THE CHILD'S PARENT OR GUARDIAN SUBMITS TO THE SCHOOL OR POSTSECONDARY EDUCATIONAL INSTITUTION A LETTER OR AFFIDAVIT THAT DOCUMENTS WHICH REQUIRED VACCINATIONS HAVE BEEN GIVEN, AND WHICH VACCINATIONS HAVE NOT BEEN GIVEN ON THE BASIS THAT THEY ARE CONTRARY TO HIS OR HER RELIGIOUS, PHILOSOPHICAL OR CONSCIENTIOUS BELIEFS; TO PRESCRIBE THE CONTENT TO BE INCLUDED IN THE LETTER OR AFFIDAVIT SUBMITTED TO THE SCHOOL DISTRICT, SCHOOL OR POSTSECONDARY EDUCATIONAL INSTITUTION OF ENROLLMENT; TO AMEND SECTION 43-20-8, MISSISSIPPI CODE OF 1972, TO AUTHORIZE EXEMPTIONS FROM THE IMMUNIZATION REQUIREMENTS LICENSED CHILD CARE FACILITIES WHEN A PARENT OR LEGAL GUARDIAN OBJECTS TO IMMUNIZATION OF THE CHILD ON THE GROUNDS THAT THE IMMUNIZATION CONFLICTS WITH THE RELIGIOUS, PHILOSOPHICAL OR CONSCIENTIOUS BELIEFS OF THE PARENT OR GUARDIAN; TO PROVIDE THAT A PARENT OR GUARDIAN MUST FIRST FURNISH THE RESPONSIBLE OFFICIAL OF THE FACILITY AN AFFIDAVIT IN WHICH THE PARENT OR GUARDIAN SWEARS OR AFFIRMS THAT THE IMMUNIZATION REQUIRED CONFLICTS WITH THE RELIGIOUS, PHILOSOPHICAL OR CONSCIENTIOUS BELIEFS OF THE PARENT OR GUARDIAN BEFORE A CHILD IS EXEMPTED FROM IMMUNIZATION ON RELIGIOUS GROUNDS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

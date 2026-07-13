@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2607",
+  "title": "Pilot program; establish for community and junior college facilities performance contracting.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2607"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "England",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2607IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2607IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2607IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2607.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 31-7-14, MISSISSIPPI CODE OF 1972, TO ESTABLISH A PILOT PROGRAM AUTHORIZING THE USE OF PERFORMANCE-BASED CONTRACTS TO IMPROVE, OPERATE AND MAINTAIN PUBLIC FACILITIES ON COMMUNITY AND JUNIOR COLLEGE CAMPUSES; TO PROVIDE THAT THE PROGRAM SHALL OPERATE FOR NO MORE THAN SEVEN YEARS, SUBJECT TO EXTENSION OR EXPANSION BY THE LEGISLATURE; TO DEFINE \"FACILITIES PERFORMANCE CONTRACT\"; TO EXPAND THE DEFINITION OF \"SAVINGS\"; TO WAIVE THE PAYBACK PERIOD LIMITATION; TO PROVIDE THAT A FACILITIES PERFORMANCE CONTRACT UNDER THIS ACT MAY INCLUDE LONG-TERM OPERATION, MAINTENANCE, REPAIR, REPLACEMENT AND MANAGEMENT SERVICES; TO REQUIRE CERTAIN PROVISIONS IN EACH CONTRACT UNDER THIS ACT; TO PROVIDE FOR PROCUREMENT; TO CREATE REPORTING REQUIREMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

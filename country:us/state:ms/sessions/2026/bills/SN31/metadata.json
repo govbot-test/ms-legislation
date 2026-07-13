@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SN31",
+  "title": "Jack Ryan Norris, Gulfport, Mississippi, MS Commission on Environmental Quality as a representative from the Second Supreme Court District, seven year term effective July 1, 2025 and ending June 30, 2032, vice John Dane, III.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "nomination"
+  ],
+  "subject": [
+    "Environment Prot, Cons and Water Res"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sn31"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Environment Prot, Cons and Water Res",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "GOVERNOR",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"GOVERNOR\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SN/SN0031.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

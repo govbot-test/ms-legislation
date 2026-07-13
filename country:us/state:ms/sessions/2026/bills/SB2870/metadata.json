@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2870",
+  "title": "\"Stop Predatory Investing Act of 2026\"; deny tax deductions for large institutional real estate investors.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2870"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McLendon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McLendon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2870IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2870IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2870IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McLendon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2870.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT ENTITLED THE \"STOP PREDATORY INVESTING ACT OF 2026\" TO LIMIT LARGE-SCALE CORPORATE PURCHASES OF SINGLE-FAMILY HOMES BY DENYING TAX DEDUCTIONS FOR INTEREST AND DEPRECIATION ON PROPERTIES OWNED BY INSTITUTIONAL REAL ESTATE INVESTORS HOLDING 50 OR MORE SUCH HOMES WITH EXCEPTIONS FOR SALES TO HOMEBUYERS OR NONPROFITS;  TO PROVIDE DEFINITIONS; TO AMEND SECTION 27-7-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE MISSISSIPPI INCOME TAX LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

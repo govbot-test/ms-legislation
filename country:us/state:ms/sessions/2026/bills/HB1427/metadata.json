@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1427",
+  "title": "\"MS Anti-Lynching Act\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1427"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karriem",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1427IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1427IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1427IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1427.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI ANTI-LYNCHING ACT\"; TO DEFINE LYNCHING AS A DISCRIMINATORY KILLING COMMITTED BY TWO OR MORE PERSONS UNDER THE PRETEXT OF ADMINISTERING JUSTICE FOR AN ALLEGED OFFENSE; TO CREATE THE STANDALONE FELONY OFFENSE OF LYNCHING PUNISHABLE BY LIFE IMPRISONMENT WITHOUT ELIGIBILITY FOR PAROLE; TO PROVIDE FOR THE FELONY OFFENSE OF ATTEMPTED LYNCHING WITH A MANDATORY MINIMUM SENTENCE; TO PROVIDE FOR AIDING AND ABETTING, ORGANIZING OR INCITING, AND CONSPIRACY; TO ESTABLISH DISCRIMINATORY DEATH TRIGGERS AND MANDATORY INVESTIGATIVE PROTOCOLS; TO REQUIRE APPOINTMENT OF AN INDEPENDENT PROSECUTOR BY DEFAULT; TO REQUIRE MANDATORY REPORTING BY LOCAL AGENCIES TO THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY AND THE OFFICE OF THE ATTORNEY GENERAL; TO REQUIRE A UNIFORM STATEWIDE TRACKING DATABASE AND ANNUAL REPORTS TO THE LEGISLATURE; TO REQUIRE PSYCHOLOGICAL AUTOPSIES AND FORENSIC PROTOCOLS IN CERTAIN CASES; TO REQUIRE ATTENDANCE BY AN INDEPENDENT PATHOLOGIST SELECTED BY THE FAMILY IN CERTAIN CASES; TO ESTABLISH FAMILY RIGHTS AND ANTI-INTIMIDATION PROTECTIONS; TO CREATE A CIVIL CAUSE OF ACTION FOR SURVIVAL AND WRONGFUL DEATH CLAIMS AGAINST PERPETRATORS AND ORGANIZERS, INCLUDING DAMAGES, CIVIL PENALTIES, AND ATTORNEY'S FEES; TO PROVIDE SANCTIONS FOR OFFICIAL MISCONDUCT FOR WILLFUL FAILURE TO REPORT, INVESTIGATE, OR PROSECUTE; TO CREATE AN ANTI-LYNCHING INVESTIGATION AND ACCOUNTABILITY FUND AND GRANT PROGRAM; TO PROVIDE FOR SEVERABILITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2339",
+  "title": "Firearms; criminalize possession of by certain persons and order removal after a hearing with a specific finding of risk.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2339"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wiggins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2339IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2339IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2339IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2339.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT IT SHALL BE UNLAWFUL FOR ANY PERSON WHO IS THE SUBJECT OF CERTAIN DOMESTIC RESTRAINING ORDERS OR WHO HAS BEEN CONVICTED OF A MISDEMEANOR CRIME OF DOMESTIC VIOLENCE TO POSSESS ANY FIREARM OR AMMUNITION; TO PROVIDE A CRIMINAL PENALTY; TO AMEND SECTION 93\u009621\u00969, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PETITIONER WHO REQUESTS THE REMOVAL OF FIREARMS OR AMMUNITION FROM AN INDIVIDUAL ALLEGED TO HAVE COMMITTED ABUSE AS RELIEF IN A DOMESTIC ABUSE PROTECTION ORDER SHALL STATE THE FACTS AND CIRCUMSTANCES THAT MERIT SUCH RELIEF WITH PARTICULARITY; TO REQUIRE THE MISSISSIPPI JUDICIAL COLLEGE TO ANNUALLY REVIEW THE STANDARDIZED FORM REQUIRED UNDER THIS SECTION AND DISTRIBUTE ANY REVISED FORM TO THE COURTS; TO AMEND SECTION 93\u009621\u009615, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A COURT IN A TEMPORARY OR FINAL DOMESTIC ABUSE PROTECTION ORDER TO ORDER LAW ENFORCEMENT TO REMOVE A RESPONDENT'S FIREARMS AND AMMUNITION FOR THE DURATION OF THE ORDER WHERE A SEPARATE FINDING HAS BEEN MADE THAT THE RESPONDENT'S CONTINUED RETENTION OF FIREARMS AND AMMUNITION POSES A RISK TO THE HEALTH AND SAFETY OF THE PETITIONER, ANY MINOR CHILDREN, OR ANY PERSON ALLEGED TO BE INCOMPETENT; TO AMEND SECTION 93\u009621\u009625, MISSISSIPPI CODE OF 1972, TO REQUIRE THE CLERK OF THE ISSUING COURT TO ENTER ORDERS REQUIRING THE REMOVAL OF FIREARMS INTO THE MISSISSIPPI PROTECTION ORDER REGISTRY WITHIN 12 HOURS OF ISSUANCE; TO ALLOW DELIVERY OF A COPY TO THE SHERIFF'S DEPARTMENT IN ELECTRONIC FORMAT; TO REQUIRE THE CLERK OF THE ISSUING COURT TO HAND DELIVER THE COPY OF THE ORDER IF THE RECEIPT OF THE COPY IN ELECTRONIC FORMAT IS NOT ACKNOWLEDGED BY THE SHERIFF'S DEPARTMENT WITHIN 12 HOURS OF TRANSMITTAL; TO AMEND SECTION 93\u009621\u009627, MISSISSIPPI CODE OF 1972, TO PROVIDE A PRESUMPTION OF GOOD FAITH TO LAW ENFORCEMENT OFFICERS REMOVING FIREARMS PURSUANT TO A PROTECTION ORDER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB146",
+  "title": "Medicaid; require managed care organizations to use certain level of care guidelines in determining medical necessity.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb146"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0146IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0146IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0146IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0146.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-13-117, MISSISSIPPI CODE OF 1972, TO REQUIRE MANAGED CARE ORGANIZATIONS UNDER ANY MANAGED CARE PROGRAM IMPLEMENTED BY THE DIVISION OF MEDICAID TO USE A CLEAR SET OF LEVEL OF CARE GUIDELINES IN THE DETERMINATION OF MEDICAL NECESSITY AND IN ALL UTILIZATION MANAGEMENT PRACTICES THAT ARE CONSISTENT WITH WIDELY ACCEPTED PROFESSIONAL STANDARDS OF CARE; TO PROHIBIT THOSE ORGANIZATIONS FROM USING ANY ADDITIONAL CRITERIA THAT WOULD RESULT IN DENIAL OF CARE THAT WOULD BE DETERMINED APPROPRIATE AND, THEREFORE, MEDICALLY NECESSARY BY THE GUIDELINES AND CERTAIN SPECIFIED PRINCIPLES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

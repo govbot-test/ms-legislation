@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2503",
+  "title": "Public schools; revise accountability framework.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2503"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Turner-Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner-Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2503IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2503IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2503IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Turner-Ford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2503.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-17-6, MISSISSIPPI CODE OF 1972, TO AMEND THE STATE'S ACCOUNTABILITY FRAMEWORK FOR SCHOOLS RECEIVING FEDERAL AND/OR STATE FUNDING; TO REQUIRE THAT THE STATE BOARD OF EDUCATION SHALL ESTABLISH STATEWIDE EDUCATIONAL GOALS AND STANDARDS FOR ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS IN THE STATE; TO REQUIRE THAT THE BOARD SHALL UPDATE STANDARDS TO ENSURE COMPETENCIES ARE REMAINING UP TO DATE AND PROVIDE PUBLIC SCHOOL STUDENTS WITH A HIGH-QUALITY EDUCATION; TO ESTABLISH CRITERIA FOR COMPETENCY CERTIFICATIONS; TO PROVIDE THAT SUBJECT TO APPROPRIATIONS, THE SCHOOL BOARD SHALL ESTABLISH GRANT PROGRAMS FOR PUBLIC SCHOOLS PROVIDING ADVANCED PLACEMENT COURSES AND STUDENTS THE OPPORTUNITIES TO QUALIFY FOR ADVANCED PLACEMENT EXAM FEE WAIVERS; TO REQUIRE THAT THE BOARD SHALL PROVIDE ANNUAL EVALUATIONS FOR BOTH INDIVIDUAL PUBLIC SCHOOLS AND PUBLIC SCHOOL DISTRICTS; TO PROVIDE THAT THE SUPERINTENDENT OF THE DEPARTMENT OF EDUCATION SHOULD COLLECT THE INFORMATION NECESSARY TO ASSESS THE EFFICACY AND EQUITY OF STATE AND FEDERAL MANDATED PROGRAMS, AND THAT THE DEPARTMENT SHALL ESTABLISH A SYSTEM TO COLLECT AND STORE THE NECESSARY INFORMATION TO PERFORM SAID ASSESSMENT; TO REQUIRE THAT EACH SCHOOL DISTRICT TO FILE A THREE-YEAR IMPROVEMENT PLAN WITH THE SUPERINTENDENT OF THE DEPARTMENT OF EDUCATION AND AN ANNUAL ACTION PLAN; TO REQUIRE SCHOOL BOARDS TO ANNUALLY ADOPT ACTION PLANS THAT ALIGN WITH THE DISTRICTS STRATEGIC IMPROVEMENT PLAN; TO REQUIRE THE SUPERINTENDENT TO REPORT ON THE PROGRESS OF GENOCIDE EDUCATION PROGRAMS IN PUBLIC SCHOOLS AND SCHOOL DISTRICTS; TO REQUIRE EACH SCHOOL DISTRICT AND CHARTER SCHOOL TO ANNUALLY SUBMIT A REPORT PROVIDING DATA CONCERNING STUDENTS RECEIVING TIERED INTERVENTION SERVICES AND ENGLISH AS A SECOND LANGUAGE LEARNER PROGRAMS; TO AUTHORIZE THE SUPERINTENDENT TO DESIGNATE SCHOOLS AS UNDERPERFORMING OR CHRONICALLY UNDERPERFORMING BASED ON PERFORMANCE DATA COLLECTED FROM THE SCHOOL DISTRICTS; TO REQUIRE THE SUPERINTENDENT TO WORK WITH SCHOOLS AND SCHOOL DISTRICTS TO CREATE AND IMPLEMENT TURNAROUND PLANS IN ORDER TO AID A SCHOOL IN IMPROVING AND NO LONGER QUALIFYING AS AN UNDERPERFORMING OR CHRONICALLY UNDERPERFORMING SCHOOL; TO OUTLINE REQUIREMENTS AND PROCEDURES THAT SHOULD BE FOLLOWED AND IMPLEMENTED WITHIN TURNAROUND PLANS FOR AN UNDERPERFORMING OR CHRONICALLY UNDERPERFORMING SCHOOL; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

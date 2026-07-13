@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2139",
+  "title": "Mississippi Guaranteeing Fair Banking Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2139"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2139IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2139IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2139IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2139.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTIONS 81-31-1 THROUGH 81-31-17, MISSISSIPPI CODE OF 1972, TO ENACT THE MISSISSIPPI GUARANTEEING FAIR BANKING ACT; TO PROVIDE THAT A PERSON AGAINST WHOM A FINANCIAL INSTITUTION TAKES AN ADVERSE ACTION MAY REQUEST A STATEMENT OF SPECIFIC REASONS FOR THE ADVERSE ACTION WITHIN 90 DAYS AFTER RECEIVING NOTICE OF THE ACTION; TO REQUIRE A FINANCIAL INSTITUTION TO TRANSMIT THE STATEMENT WITHIN 30 DAYS AFTER RECEIVING THE REQUEST; TO PROHIBIT A FINANCIAL INSTITUTION FROM DISCRIMINATING IN THE PROVISION OF FINANCIAL SERVICES TO A PERSON AND FROM FAILING TO PROVIDE OR PROVIDING FALSE OR INTENTIONALLY MISLEADING INFORMATION IN THE STATEMENT OF SPECIFIC REASONS FOR THE ADVERSE ACTION; TO EXEMPT CERTAIN ACTIONS TAKEN BY A FINANCIAL INSTITUTION, PROVIDED THAT THE ACTION WAS MADE IN GOOD FAITH AND NOT MOTIVATED BY ANIMUS OR A DESIRE TO DISCRIMINATE IN THE PROVISION OF COVERED FINANCIAL SERVICES AGAINST A PERSON; TO PROVIDE THAT ANY VIOLATION OF THE MISSISSIPPI GUARANTEEING FAIR BANKING ACT SHALL CONSTITUTE AN UNFAIR OR DECEPTIVE ACT OR PRACTICE PROHIBITED BY SECTION 75-24-1, ET SEQ.; TO SET FORTH LEGAL REMEDIES FOR VIOLATIONS; TO ENTITLE A FINANCIAL INSTITUTION, UPON A SHOWING OF CLEAR AND CONVINCING EVIDENCE, TO REASONABLE ATTORNEY'S FEES AND COURT COSTS FROM A PLAINTIFF WHO FILES A CIVIL ACTION UNDER THE MISSISSIPPI GUARANTEEING FAIR BANKING ACT IN BAD FAITH; TO SET FORTH RULES OF CONSTRUCTION; TO DEFINE CERTAIN TERMS AND PHRASES; TO AMEND SECTION 75-24-5, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

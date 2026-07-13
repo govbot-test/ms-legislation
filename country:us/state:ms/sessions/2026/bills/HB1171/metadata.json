@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1171",
+  "title": "Grants; increase oversight, accountability and transparency in administration of by state agencies.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1171"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1171IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1171IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1171IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1171.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE STATE AGENCIES THAT ADMINISTER GRANTS TO ESTABLISH OBJECTIVES AND OUTCOMES RELATING TO THE PURPOSE OF THE GRANT; TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO ESTABLISH A SCHEDULE FOR PERIODIC REVIEW OF ALL GRANT PROGRAMS ADMINISTERED BY STATE AGENCIES; TO PROHIBIT PREFERENCE TO CERTAIN GROUPS FOR GRANT AWARDS; TO PROHIBIT RECIPIENTS OF GRANT FUNDS FROM ENGAGING IN CERTAIN VOTER REGISTRATION ACTIVITIES; TO REQUIRE PRIMARY RECIPIENTS OF GRANT AWARDS TO SUBMIT DETAILED QUARTERLY FINANCIAL REPORTS; TO REQUIRE SIGNED DISCLOSURE STATEMENTS FROM EXECUTIVE OFFICERS AND MEMBERS OF THE GOVERNING BOARD OF RECIPIENTS DETAILING CERTAIN INFORMATION; TO REQUIRE PRIMARY RECIPIENTS AND SUBRECIPIENTS OF GRANT AWARDS TO UNDERGO AN ANNUAL COMPLIANCE AUDIT BY OR UNDER THE DIRECTION OF THE STATE AUDITOR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

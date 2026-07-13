@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1130",
+  "title": "Trauma-Informed Student Assessment Exemption Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1130"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Foster",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Foster\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1130IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1130IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1130IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Foster.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1130.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AND CITED AS THE \"TRAUMA-INFORMED STUDENT ASSESSMENT EXEMPTION ACT\"; TO RECOGNIZE THE ADVERSE ACADEMIC IMPACT OF GRIEF, TRAUMA AND LOSS ON STUDENTS REQUIRED TO PARTICIPATE IN HIGH-STAKES TESTING; TO AUTHORIZE TEMPORARY EXEMPTIONS FROM PARTICIPATION IN HIGH-STAKES ASSESSMENTS FOR STUDENTS EXPERIENCING QUALIFYING TRAUMA-OR-LOSS EVENTS; TO ENSURE THAT SUCH EXEMPTIONS DO NOT NEGATIVELY AFFECT STUDENT PROMOTION, GRADUATION ELIGIBILITY, SCHOLARSHIP OR FINANCIAL AID CONSIDERATION OR ACCESS TO ADVANCED OR SPECIALIZED ACADEMIC PROGRAMS; TO EXCLUDE EXEMPTED STUDENTS FROM STATE AND FEDERAL ACCOUNTABILITY METRICS DURING THE EXEMPTION PERIOD AND AUTHORIZE THE USE OF ALTERNATIVE MEASURES OF STUDENT PROGRESS; TO ESTABLISH PROCEDURES FOR REQUESTING, REVIEWING, APPROVING OR DENYING EXEMPTIONS IN A MANNER THAT IS TIMELY, EQUITABLE, MINIMALLY BURDENSOME AND TRAUMA-SENSITIVE; TO REQUIRE WRITTEN NOTICE OF EXEMPTION DETERMINATIONS AND THE SAFEGUARDING OF STUDENT PRIVACY; TO PROHIBIT THE IMPOSITION OF ACCOUNTABILITY PENALTIES ON SCHOOLS OR DISTRICTS FOR HONORING APPROVED EXEMPTIONS; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO ISSUE GUIDANCE AND PROVIDE PROFESSIONAL DEVELOPMENT ON TRAUMA-RESPONSIVE ASSESSMENT PRACTICES; TO MANDATE ANNUAL REPORTING TO THE LEGISLATURE ON EXEMPTION USAGE AND IMPACT WITHOUT DISCLOSURE OF PERSONALLY IDENTIFIABLE STUDENT INFORMATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

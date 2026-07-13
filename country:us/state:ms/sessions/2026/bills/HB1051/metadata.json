@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1051",
+  "title": "Mississippi Consumer Privacy Protection Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1051"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1051IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1051IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1051IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1051.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI CONSUMER PRIVACY PROTECTION ACT; TO DEFINE TERMS; TO PROVIDE THAT THIS ACT APPLIES TO CERTAIN PERSONS CONDUCTING BUSINESS WITHIN THE STATE THAT EXCEEDS TWENTY-FIVE MILLION DOLLARS IN REVENUE; TO EXEMPT CERTAIN PERSONS AND CERTAIN DATA FROM THIS ACT; TO GRANT CONSUMERS THE RIGHT TO REQUEST A CONTROLLER OF THE CONSUMER'S PERSONAL INFORMATION TO GRANT ACCESS TO, CORRECT INACCURACIES IN, DELETE OR OPT OUT OF THE PROCESSING OF SUCH PERSONAL INFORMATION; TO PROVIDE THAT A CONSUMER MAY INVOKE THE CONSUMER RIGHTS GRANTED UNDER THIS ACT AT ANY TIME BY SUBMITTING A REQUEST TO A CONTROLLER OF PERSONAL INFORMATION; TO REQUIRE A CONTROLLER TO RESPOND TO A CONSUMER WITHIN AT LEAST FORTY-FIVE DAYS; TO REQUIRE A CONTROLLER TO ESTABLISH AN APPEAL PROCESS FOR A CONSUMER TO APPEAL THE CONTROLLER'S REFUSAL TO TAKE ACTION AS REQUESTED BY THE CONSUMER; TO REQUIRE A CONTROLLER TO ADOPT AND IMPLEMENT REASONABLE ADMINISTRATIVE, TECHNICAL AND PHYSICAL DATA SECURITY PRACTICES TO PROTECT THE CONFIDENTIALITY, INTEGRITY AND ACCESSIBILITY OF PERSONAL INFORMATION; TO REQUIRE THE CONTROLLER TO PROVIDE CONSUMERS WITH A REASONABLY ACCESSIBLE, CLEAR AND MEANINGFUL PRIVACY NOTICE, WHICH SHALL INCLUDE THE METHODS BY WHICH A CONSUMER CAN REQUEST TO EXERCISE THE RIGHTS GRANTED UNDER THIS ACT; TO REQUIRE A CONTROLLER WHO SELLS A CONSUMER'S PERSONAL INFORMATION TO THIRD PARTIES OR ENGAGES IN TARGETED ADVERTISING TO PROVIDE CLEAR AND CONSPICUOUS DISCLOSURE OF SUCH ACTIVITY TO A CONSUMER; TO REQUIRE PROCESSORS OF PERSONAL INFORMATION TO ASSIST CONTROLLERS IN THE DUTIES IMPOSED UNDER THIS ACT; TO REQUIRE CONTROLLERS TO CONDUCT AND DOCUMENT A DATA PROTECTION ASSESSMENT OF CERTAIN PROCESSING ACTIVITIES INVOLVING PERSONAL INFORMATION; TO REQUIRE A CONTROLLER IN POSSESSION OF DE-IDENTIFIED DATA TO TAKE REASONABLE MEASURES TO ENSURE THE DATA CANNOT BE ASSOCIATED WITH A NATURAL PERSON; TO PROVIDE THAT NOTHING IN THIS ACT RESTRICTS A CONTROLLER OR PROCESSOR'S ABILITY TO COMPLY WITH OTHER LAWS, INVESTIGATIONS OR LAW ENFORCEMENT REQUESTS, TO DEFEND LEGAL CLAIMS, TO PROVIDE CERTAIN PRODUCTS OR SERVICES SPECIFICALLY REQUESTED BY THE CONSUMER, TO PERFORM UNDER A VALID CONTRACT, TO RESPOND TO SECURITY INCIDENTS, OR TO ENGAGE IN SCIENTIFIC OR STATISTICAL RESEARCH; TO PROVIDE THAT NOTHING IN THIS ACT RESTRICTS A CONTROLLER OR PROCESSOR'S ABILITY TO USE DATA TO CONDUCT RESEARCH, EFFECTUATE A PRODUCT RECALL, RESPOND TO TECHNICAL ERRORS, OR PERFORM CERTAIN INTERNAL OPERATIONS; TO PROVIDE THAT THE ATTORNEY GENERAL SHALL HAVE THE EXCLUSIVE AUTHORITY TO ENFORCE THIS ACT; TO AUTHORIZE THE ATTORNEY GENERAL TO INVESTIGATE POTENTIAL VIOLATIONS OF THIS ACT AND ISSUE CIVIL INVESTIGATIVE DEMANDS; TO PROVIDE CERTAIN RELIEF AND CIVIL PENALTIES FOR VIOLATIONS OF THIS ACT; TO AMEND SECTION 45-38-9, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE REQUIREMENTS OF THE WALKER MONTGOMERY PROTECTING CHILDREN ONLINE ACT SHALL CONTROL IN THE CASE OF A CONFLICT WITH THIS ACT; TO BRING FORWARD SECTION 11-77-5, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

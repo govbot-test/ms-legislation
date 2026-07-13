@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2202",
+  "title": "Economic development incentives; require agreements to secure employee freedom and privacy regarding unionization decisions.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2202"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harkins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2202IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2202IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2202IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Harkins.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2202.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT, TO BE ELIGIBLE FOR AN ECONOMIC DEVELOPMENT INCENTIVE, AN EMPLOYER MUST NOT GRANT RECOGNITION RIGHTS FOR EMPLOYEES SOLELY AND EXCLUSIVELY ON THE BASIS OF SIGNED UNION AUTHORIZATION CARDS IF THE SELECTION OF A BARGAINING REPRESENTATIVE MAY INSTEAD BE CONDUCTED THROUGH A SECRET BALLOT ELECTION CONDUCTED BY THE NATIONAL LABOR RELATIONS BOARD, MUST NOT VOLUNTARILY DISCLOSE AN EMPLOYEE'S PERSONAL CONTACT INFORMATION TO A LABOR ORGANIZATION, OR TO A THIRD PARTY ACTING ON BEHALF OF A LABOR ORGANIZATION, WITHOUT THE EMPLOYEE'S PRIOR WRITTEN CONSENT, UNLESS OTHERWISE REQUIRED BY STATE OR FEDERAL LAW, MUST NOT SIGN A NEUTRALITY AGREEMENT WITH A LABOR ORGANIZATION, AND MUST NOT REQUIRE A SUBCONTRACTOR PERFORMING WORK FOR OR PROVIDING SERVICES TO THE EMPLOYER TO ENGAGE IN THESE PROHIBITED ACTIVITIES; TO PROVIDE FOR REPORTING OF VIOLATIONS TO THE MISSISSIPPI ATTORNEY GENERAL; TO SPECIFY THAT THE REQUIREMENTS OF THIS ACT APPLY ONLY TO AGREEMENTS EXECUTED ON OR AFTER THE EFFECTIVE DATE OF THIS ACT; TO REQUIRE THE STATE TO EXECUTE A SEPARATE AGREEMENT WITH THE RECIPIENT OF AN ECONOMIC DEVELOPMENT INCENTIVE RESERVING THE RIGHT OF THE STATE TO RECOVER THE MONIES DISBURSED BY THE STATE IF THE RECIPIENT BENEFITTING FROM SUCH INCENTIVE FAILS TO COMPLY WITH THIS ACT; TO SPECIFY THE REQUIRED TERM FOR SUCH AN AGREEMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

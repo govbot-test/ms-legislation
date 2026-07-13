@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB697",
+  "title": "Nuclear Energy Supply Chain Investment Fund; create to provide grants to support nuclear power-related companies.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb697"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy;Appropriations A",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steverson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steverson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0697IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0697IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0697IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Steverson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0697.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO BE KNOWN AS THE NUCLEAR ENERGY SUPPLY CHAIN INVESTMENT FUND FOR THE PURPOSE OF PROMOTING NUCLEAR DEVELOPMENT AND MANUFACTURING IN THE STATE; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED TO MAKE GRANTS TO SUPPORT NUCLEAR POWER-RELATED COMPANIES, WORKFORCE DEVELOPMENT PROGRAMS, AND SITE DEVELOPMENT ACROSS MISSISSIPPI; TO PROVIDE THAT THE FUND SHALL BE ADMINISTERED BY THE MISSISSIPPI DEVELOPMENT AUTHORITY (MDA); TO REQUIRE THE MDA TO ESTABLISH A GRANT PROGRAM TO PROVIDE FUNDING THROUGH GRANTS TO COMPANIES FOR CERTAIN NUCLEAR POWER-RELATED PROJECTS; TO SPECIFY THE CRITERIA THAT THE MDA SHALL USE TO EVALUATE COMPANIES IN REVIEWING APPLICATIONS FOR GRANTS; TO PRESCRIBE THE ELIGIBLE EXPENSES FOR WHICH GRANTS FROM THE FUND MAY BE USED; TO PROVIDE THAT THE FUNDING FOR A PROJECT SHALL BE MADE IN THE FORM OF A REIMBURSEMENT GRANT FOR ELIGIBLE EXPENSES MADE BY A COMPANY; TO PROVIDE THAT IN ADDITION TO PROVIDING GRANTS FROM THE FUND, THE MDA SHALL WORK TOGETHER WITH COMPANIES AND THE DEPARTMENT OF REVENUE TO ENSURE THAT ALL AVAILABLE TAX CREDITS AND EXEMPTIONS THAT A PROJECT IS ELIGIBLE FOR UNDER MISSISSIPPI LAW ARE APPLIED TO THE COMPANY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

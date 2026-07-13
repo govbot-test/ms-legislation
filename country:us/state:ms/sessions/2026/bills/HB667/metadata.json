@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB667",
+  "title": "Elections; establish procedure for automatic registration of certain voters who apply for driver's license or register for selective service.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb667"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hulum",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hulum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James-Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James-Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0667IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0667IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0667IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/James-Jones.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0667.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE ANY PERSON WHO IS QUALIFIED TO REGISTER TO VOTE IN THE STATE OF MISSISSIPPI TO REGISTER TO VOTE WHEN THAT PERSON APPLIES FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY TO OBTAIN CERTAIN INFORMATION FROM A PERSON WHO DESIRES TO REGISTER TO VOTE WHILE APPLYING FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO PROVIDE AN OPT-OUT PROCEDURE FOR PERSONS WHO CHOOSE NOT TO REGISTER TO VOTE WHILE APPLYING FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO PROVIDE FOR THE FORWARDING OF VOTER REGISTRATION APPLICATIONS TO THE PERSON'S COUNTY OF RESIDENCE; TO AMEND SECTIONS 23-15-11, 23-15-33, 23-15-35, 23-15-39, 23-15-41, 23-15-79, 23-15-95 AND 63-1-19, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO AMEND SECTIONS 63-1-19, 45-35-7 AND 63-1-210, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHEN A MALE REGISTERS UNDER THE MILITARY SELECTIVE SERVICE ACT, HE MAY ALSO BE REGISTERED TO VOTE UNLESS HE AFFIRMATIVELY DECLINES; TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY TO COLLECT CERTAIN INFORMATION IN TO REGISTER THE PERSON TO VOTE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

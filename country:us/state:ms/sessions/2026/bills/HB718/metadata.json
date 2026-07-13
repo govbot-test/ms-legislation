@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB718",
+  "title": "Ad valorem tax; revise distribution of portion of paid by taxpayer disallowed homestead exemption.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb718"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0718IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0718IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0718IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0718.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-33-51, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT FOR AD VALOREM TAXES COLLECTED ON PROPERTY FOR WHICH HOMESTEAD EXEMPTION IS DISAPPROVED OR DISALLOWED BECAUSE A TAXPAYER OR THE TAXPAYER'S SPOUSE HAS FAILED TO COMPLY WITH THE INCOME TAX LAWS OF THIS STATE, THE TAX COLLECTOR SHALL REMIT TO THE DEPARTMENT OF REVENUE AN AMOUNT EQUAL TO THE ADDITIONAL AD VALOREM TAXES PAID ON THE PROPERTY DUE TO HOMESTEAD EXEMPTION BEING DISAPPROVED OR DISALLOWED FOR THE PROPERTY, NOT TO EXCEED THE AMOUNT OF THE OBLIGATION FOR WHICH THE TAXPAYER OR TAXPAYER'S SPOUSE IS NOT IN COMPLIANCE WITH THE INCOME TAX LAWS OF THIS STATE; TO PROVIDE THAT THE DEPARTMENT OF REVENUE SHALL APPLY SUCH AMOUNT AGAINST THE TAXPAYER'S INCOME TAX OBLIGATION; TO BRING FORWARD SECTION 27-41-77, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE DISPOSITION OF EXCESS PROCEEDS RESULTING FROM THE SALE OF LAND FOR NONPAYMENT OF AD VALOREM TAXES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 27-45-1 AND 27-45-5, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE REDEMPTION OF LAND SOLD FOR NONPAYMENT OF AD VALOREM TAXES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2567",
+  "title": "Mississippi Pediatric Access To Critical Health Care Protection Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2567"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2567IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2567IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2567IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2567.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI PEDIATRIC ACCESS TO CRITICAL HEALTH CARE PROTECTION ACT; TO REQUIRE THE DIVISION OF MEDICAID TO MAKE PAYMENTS TO A BORDER CITY UNIVERSITY-AFFILIATED PEDIATRIC TEACHING HOSPITAL IF THE CENTERS FOR MEDICARE AND MEDICAID SERVICES (CMS) APPROVE AN INCREASE IN THE ANNUAL REQUEST FOR THE PROVIDER PAYMENT INITIATIVE AUTHORIZED UNDER 42 CFR \u00a7 438.6(C) IN AN AMOUNT EQUAL TO OR GREATER THAN THE ESTIMATED ANNUAL PAYMENT TO BE MADE TO THE BORDER CITY UNIVERSITY-AFFILIATED PEDIATRIC TEACHING HOSPITAL; TO PROVIDE THAT THE INTENT OF THE LEGISLATURE IS THAT THE COST OF PROVIDING SERVICES TO MISSISSIPPI MEDICAID BENEFICIARIES UNDER THE AGE OF TWENTY-ONE YEARS WHO ARE TREATED BY A BORDER CITY UNIVERSITY-AFFILIATED PEDIATRIC TEACHING HOSPITAL SHALL NOT EXCEED THE COST OF PROVIDING THE SAME SERVICES TO INDIVIDUALS IN HOSPITALS IN THE STATE, AND THAT SUCH PAYMENTS SHALL NOT RESULT IN ANY IN-STATE HOSPITAL RECEIVING PAYMENTS LOWER THAN THEY WOULD OTHERWISE RECEIVE IF NOT FOR THE PAYMENTS MADE TO ANY BORDER CITY UNIVERSITY-AFFILIATED PEDIATRIC TEACHING HOSPITAL; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

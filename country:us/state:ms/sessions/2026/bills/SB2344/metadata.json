@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2344",
+  "title": "Financial literacy; require as component of postsecondary education.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2344"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hickman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2344IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2344IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2344IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2344.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DECLARE LEGISLATIVE FINDINGS; TO REQUIRE STUDENTS AT STATE INSTITUTIONS OF HIGHER LEARNING, COMMUNITY COLLEGES AND JUNIOR COLLEGES TO COMPLETE A FINANCIAL LITERACY COURSE AS A CONDITION OF GRADUATION; TO OUTLINE MINIMUM REQUIREMENTS FOR SUCH FINANCIAL LITERACY COURSE; TO PROVIDE GUIDELINES FOR IMPLEMENTATION FOR INSTITUTIONS AND COLLEGES; TO GRANT THE BOARD OF TRUSTEES OF THE STATE INSTITUTIONS OF HIGHER LEARNING AND THE MISSISSIPPI COMMUNITY COLLEGE BOARD AUTHORITY TO PROMULGATE RULES AND REGULATIONS NECESSARY FOR IMPLEMENTATION; TO GIVE THE BOARD OF TRUSTEES OF THE STATE INSTITUTIONS OF HIGHER LEARNING AND THE MISSISSIPPI COMMUNITY COLLEGE BOARD THE AUTHORITY TO ESTABLISH MINIMUM LEARNING OUTCOMES AND COMPETENCY STANDARDS; TO ALLOW THE BOARDS TO COORDINATE; TO CREATE COMPLIANCE PROCEDURES; TO PROVIDE FOR HIGH SCHOOL FINANCIAL LITERACY COURSES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

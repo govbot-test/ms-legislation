@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1569",
+  "title": "Efficiency and transparency; revise certain laws to increase in education programs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1569"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Felsher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Felsher\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1569IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1569IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1569IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1569.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE PEER COMMITTEE TO PREPARE A REPORT ON CERTAIN SCHOOL DISTRICT IMPLEMENTATION OF EFFICIENCY MEASURES; TO AMEND SECTION 37-3-5, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT OF EDUCATION TO AID SCHOOL DISTRICTS IN CREATING TECHNOLOGY AND DISASTER RECOVERY PLANS; TO REQUIRE THE DEPARTMENT TO DEVELOP A PLAN TEMPLATE AND PROVIDE GUIDANCE DOCUMENTS FOR TECHNOLOGY STAFF DEVELOPING SUCH PLANS; TO REQUIRE THE DEPARTMENT TO CONDUCT CERTAIN SURVEYS RELATED TO TECHNOLOGY PROGRAMS AT LEAST EVERY TWO YEARS; TO AMEND SECTION 37-13-137, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT TO DEVELOP GUIDANCE FOR SCHOOL DISTRICTS TO INCREASE EFFICIENCY AND PRODUCTIVITY IN NUTRITION PROGRAMS; TO AMEND SECTION 37-28-7, MISSISSIPPI CODE OF 1972, TO ESTABLISH STAGGERED TERMS OF OFFICE FOR THE MISSISSIPPI CHARTER SCHOOL AUTHORIZER BOARD; TO AMEND SECTION 37-28-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE MISSISSIPPI CHARTER SCHOOL AUTHORIZER BOARD MAY RECEIVE UP TO 3% OF ANNUAL PER-PUPIL ALLOCATIONS RECEIVED BY A CHARTER SCHOOL FROM STATE AND LOCAL FUNDS FOR EACH CHARTER SCHOOL IT AUTHORIZES; TO AMEND SECTION 37-37-1, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT TO ANNUALLY REVIEW ITS ACCOUNTING MANUAL TO DETERMINE WHETHER REVISIONS WOULD IMPROVE DETAIL, CLARITY AND ACCURACY OF SCHOOL DISTRICT REVENUES AND EXPENSES; TO AMEND SECTION 37-41-13, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT TO DEVELOP GUIDANCE FOR SCHOOL DISTRICTS TO IMPROVE TRANSPORTATION SERVICES AND REDUCE COSTS RELATED TO BUS ROUTES; TO AMEND SECTION 37-151-211, MISSISSIPPI CODE OF 1972, TO REVISE THE ENROLLMENT FIGURES USED IN THE PRO RATA LOCAL AD VALOREM TAX CALCULATION; TO BRING FORWARD SECTION 5-3-61, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

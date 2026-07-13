@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2306",
+  "title": "Commission on School Accreditation; task with governing professional conduct of school board members.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2306"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2306IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2306IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2306IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2306.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-17-5, MISSISSIPPI CODE OF 1972, TO DIRECT THE STATE BOARD OF EDUCATION, BY AND THROUGH THE COMMISSION ON SCHOOL ACCREDITATION, TO PROMULGATE RULES AND REGULATIONS REGARDING THE PROFESSIONAL CONDUCT AND GOVERNANCE OF SCHOOL BOARD MEMBERS AND ESTABLISH PENALTIES FOR VIOLATIONS OF SUCH RULES; TO PROVIDE THAT, IF A MEMBER OF A SCHOOL BOARD IS CITED BY THE DEPARTMENT OF EDUCATION FOR VIOLATIONS, THE DEPARTMENT SHALL BE AUTHORIZED TO DIRECT THE SCHOOL BOARD TO REDUCE OR REMOVE THE COMPENSATION FOR THE SCHOOL BOARD MEMBER IN ACCORDANCE WITH SUCH RULES AND REGULATIONS; TO PROVIDE THAT A SUBCOMMITTEE OF THE COMMISSION ON SCHOOL ACCREDITATION SHALL BE ESTABLISHED TO ASSIST THE DEPARTMENT IN REVIEWING AND RESPONDING TO INFRACTIONS AND VIOLATIONS REGARDING THE PROFESSIONAL CONDUCT AND GOVERNANCE OF SCHOOL BOARD MEMBERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

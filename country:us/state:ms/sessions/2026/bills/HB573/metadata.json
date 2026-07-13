@@ -1,0 +1,160 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB573",
+  "title": "School board members; authorize grounds and prescribe procedures for removal from office.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb573"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Apportionment and Elections",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Remak",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eubanks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eubanks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hulum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hulum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holloway (76th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holloway (76th)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0573IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0573IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0573IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Eubanks.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harris.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Keen.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Holloway_(76th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0573.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR THE REMOVAL OF SCHOOL BOARD MEMBERS FOR MALFEASANCE, MISFEASANCE OR NONFEASANCE IN OFFICE OR FOR OTHER JUST CAUSE, INCLUDING, NEGLECT TO PERFORM OFFICIAL DUTIES ASSOCIATED WITH THE CONDUCT OF PUBLIC SCHOOLS AND PROGRAMS, BREACH OF PUBLIC TRUST OR ABUSE OF AUTHORITY; TO REQUIRE THE LOCAL SCHOOL BOARD TO MAKE AN OFFICIAL RECOMMENDATION FOR REMOVAL TO THE APPROPRIATE LOCAL GOVERNING AUTHORITY; TO PRESCRIBE THE MANNER FOR NOTICE AND ADMINISTRATIVE PROCEEDINGS PROVIDED TO THE ACCUSED SCHOOL BOARD MEMBER RECOMMENDED FOR REMOVAL; TO PROVIDE THAT THE LOCAL GOVERNING AUTHORITY SHALL ACT AS THE REVIEWING BODY WHICH SHALL VOTE UPON ITS FINDINGS UPON THE CONCLUSION OF THE HEARING; TO PROVIDE THAT THE REMOVAL OR NONREMOVAL OF AN ACCUSED SCHOOL BOARD MEMBER SHALL REQUIRE A MAJORITY VOTE OF THE LOCAL GOVERNING AUTHORITY; TO PROVIDE AN APPEALS PROCESS FOR AN AGGRIEVED PARTY; TO AMEND SECTION 37-6-13, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT CHRONIC ABSENTEEISM FROM ATTENDING MEETINGS OF THE SCHOOL BOARD MAY CONSTITUTE GROUNDS FOR REMOVAL FOR NEGLECT TO PERFORM OFFICIAL DUTIES ASSOCIATED WITH THE CONDUCT OF PUBLIC SCHOOLS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

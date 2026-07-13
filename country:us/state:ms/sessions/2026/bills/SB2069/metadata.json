@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2069",
+  "title": "Education; require public schools to adopt policies prohibiting or restricting cell phone possession or use by students in class.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2069"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2069IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2069IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2069IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2069.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE EACH PUBLIC SCHOOL DISTRICT, PUBLIC CHARTER SCHOOL AND AGRICULTURAL HIGH SCHOOL, AND CERTAIN STATE HIGH SCHOOLS, TO ADOPT AND SEND TO THE STATE DEPARTMENT OF EDUCATION, NO LATER THAN JANUARY 1, 2027, A SPECIFIC POLICY BANNING THE POSSESSION, OR RESTRICTING THE USE, OF CELL PHONES BY STUDENTS DURING CLASS OR WHILE UNDER THE SUPERVISION AND CONTROL OF A SCHOOL EMPLOYEE; TO PROVIDE THAT, IF A SCHOOL OR SCHOOL DISTRICT FAILS TO ADOPT AND TRANSMIT A POLICY AS REQUIRED, THE STATE DEPARTMENT OF EDUCATION SHALL DEDUCT ONE DAY'S WORTH OF THE SCHOOL'S OR DISTRICT'S FUNDS UNDER THE TOTAL FUNDING FORMULA FOR EACH DAY AFTER JANUARY 1, 2027, THAT THE SCHOOL OR DISTRICT IS NONCOMPLIANT; TO PROVIDE FOR POTENTIAL EXCEPTIONS WHICH ALLOW STUDENTS TO POSSESS OR USE CELL PHONES UNDER CERTAIN CIRCUMSTANCES; TO PROVIDE THAT SUFFICIENT CAUSE FOR SUSPENSION OR EXPULSION MAY NOT CONSIST OF ONLY A VIOLATION OF THE CELL PHONE POSSESSION AND USE POLICY DEVELOPED AND IMPLEMENTED UNDER THIS ACT, EXCEPT THAT SUSPENSION MAY BE USED AS A DISCIPLINARY MEASURE OF LAST RESORT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2215",
+  "title": "Suffrage; provide for restoration upon completion of sentence or placement on probation.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2215"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2215IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2215IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2215IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2215.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO RESTORE THE RIGHT OF SUFFRAGE TO CERTAIN PERSONS DISQUALIFIED BY REASON OF CONVICTION OF A DISENFRANCHISING CRIME; TO PROVIDE THAT SUCH PERSONS SHALL BE ENFRANCHISED AFTER COMPLETING THE TERM OF INCARCERATION AND PAROLE OR UPON THE IMPOSITION OF A PROBATION-ONLY SENTENCE FOR SUCH CRIMES; TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 23-15-19, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE REMOVAL OF A PERSON'S NAME FROM THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM UNLESS THE PERSON IS SERVING A TERM OF INCARCERATION OR PAROLE FOR A DISENFRANCHISING CRIME AT THE TIME OF REMOVAL; TO PROVIDE THAT A COURT'S CERTIFICATION OF A CONVICTION FOR PURPOSES OF REMOVAL FROM THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM MUST INDICATE THE TYPE OF SENTENCE IMPOSED; TO AMEND SECTION 23-15-151, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE CIRCUIT CLERK'S ENROLLMENT BOOK LISTING THE NAMES OF PERSONS CONVICTED OF DISENFRANCHISING CRIMES MUST BE UPDATED TO EXCLUDE THE NAMES OF THOSE PERSONS ENFRANCHISED UNDER THIS ACT; TO AMEND SECTIONS 23-15-125 AND 23-15-153, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE VOTER ROLL AND POLLBOOKS MUST BE UPDATED IN A MANNER CONSISTENT WITH THIS ACT; TO AMEND SECTIONS 23-15-39 AND 23-15-47, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE SECRETARY OF STATE WILL ADOPT VOTER REGISTRATION APPLICATIONS WHICH STATE THAT A PERSON RESTORED THE RIGHT OF SUFFRAGE UNDER THIS ACT IS NOT DISQUALIFIED FROM REGISTERING TO VOTE; TO AMEND SECTIONS 23-15-213, 23-15-223 AND 23-15-239, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE SECRETARY OF STATE WILL DEVELOP AND IMPLEMENT TRAINING FOR ELECTION COMMISSIONERS, REGISTRARS AND POLL MANAGERS WHICH WILL INSTRUCT THEM ON THEIR DUTIES WITH REGARD TO PERSONS RESTORED THE RIGHT OF SUFFRAGE UNDER THIS ACT; TO AMEND SECTION 23-15-165, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE SECRETARY OF STATE WILL UPDATE THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM IN A MANNER THAT WILL ALLOW LOCAL ELECTION OFFICIALS TO VERIFY WHETHER A PERSON HAS A DISQUALIFYING CONVICTION; TO BRING FORWARD SECTION 23-15-573, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THE PROCEDURE FOR CASTING AN AFFIDAVIT BALLOT, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

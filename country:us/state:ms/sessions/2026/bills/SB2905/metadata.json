@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2905",
+  "title": "Legislature; allow PERS retirees to receive retirement allowance while serving as a member of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2905"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Norwood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2905IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2905IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2905IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Norwood.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2905.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 25-11-126.1, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PERSONS WHO ARE RECEIVING A RETIREMENT ALLOWANCE FROM THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM WHO ARE ELECTED AS A MEMBER OF THE LEGISLATURE AFTER RETIREMENT, AND MEMBERS OF THE LEGISLATURE WHO ARE ELIGIBLE TO RECEIVE A RETIREMENT ALLOWANCE FROM THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM WHILE SERVING AS A MEMBER OF THE LEGISLATURE, MAY RECEIVE A RETIREMENT ALLOWANCE FROM THE SYSTEM WHILE SERVING AS A MEMBER OF THE LEGISLATURE IN ADDITION TO RECEIVING THE REGULAR COMPENSATION FOR MEMBERS OF THE LEGISLATURE; TO PROVIDE THAT THOSE PERSONS SHALL NOT BE ACTIVE MEMBERS OF THE RETIREMENT SYSTEM AND SHALL NOT RECEIVE ANY CREDITABLE SERVICE FOR THE PERIOD DURING WHICH THEY RECEIVE A RETIREMENT ALLOWANCE WHILE SERVING AS A MEMBER OF THE LEGISLATURE; TO AMEND SECTION 25-11-105, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO AMEND SECTION 25-11-127, MISSISSIPPI CODE OF 1972, TO REQUIRE THOSE PERSONS TO PAY THE FULL AMOUNT OF THE EMPLOYEE'S CONTRIBUTIONS ON THE AMOUNT OF COMPENSATION RECEIVED FOR SERVING AS A MEMBER OF THE LEGISLATURE; TO PROVIDE THAT THOSE PERSONS WILL NOT RECEIVE ANY ADDITIONAL CREDITABLE SERVICE IN THE RETIREMENT SYSTEM AS A RESULT OF THE PAYMENT OF THE EMPLOYEE'S CONTRIBUTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

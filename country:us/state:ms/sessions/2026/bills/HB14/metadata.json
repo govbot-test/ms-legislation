@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB14",
+  "title": "Authority of Secretary of State to approve leases on Public Trust Tidelands; clarify.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gaming",
+    "Marine Resources"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb14"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Marine Resources;Gaming",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: MR To GA",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anderson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0014IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0014IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0014IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Anderson_(122nd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0014.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DEFINE STATE JURISDICTION OVER PUBLIC TRUST TIDELANDS AND THE AUTHORITY OF THE SECRETARY OF STATE TO APPROVE LEASES LOCATED ON PUBLIC TRUST TIDELANDS; TO AMEND SECTIONS 7-11-11, 29-1-107, 29-15-1, 29-15-3, 29-15-5, 29-15-9, 29-15-10 AND 29-15-13, MISSISSIPPI CODE OF 1972, AND TO CODIFY SECTION 29-15-2, MISSISSIPPI CODE OF 1972, TO DECLARE LEGISLATIVE INTENT RELATIVE TO PUBLIC TRUST TIDELANDS, TO CLARIFY THE REQUIREMENT OF A SEPARATE LEASE FROM THE SECRETARY OF STATE TO RENT LAND ON PUBLIC TRUST TIDELANDS PROPERTY, TO CLARIFY THAT THE LEASE NEEDED TO MOVE ON SHORE IS ONE WITH THE STATE OR THE STATE PORT AT GULFPORT, TO REVISE DEFINITIONS, TO PROVIDE THAT STATE-HELD TIDELANDS SUBJECT TO PUBLIC TRUST ARE PRESCRIBED IN TIDELANDS MAPS AND BOUNDARY AGREEMENTS AND COURT ORDERS CONFIRMING THE MAPS, TO CONFIRM ALL AUTHORITY OVER TIDELANDS IN THE STATE UNLESS SPECIFICALLY SEVERED OR GIVEN TO A SPECIFIC STATE AGENCY OR POLITICAL SUBDIVISION, TO CONFIRM AUTHORITY, MANAGEMENT AND ADMINISTRATIVE CONTROL OVER TIDELANDS IN THE SECRETARY OF STATE, TO CLARIFY THAT ONLY SPECIFIC ACTION BY THE LEGISLATURE CAN DIVEST THE SECRETARY OF STATE OF SUCH MANAGEMENT AND CONTROL; TO AMEND SECTIONS 59-7-405 AND 59-15-1, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE LOCAL GOVERNING AUTHORITY SHALL NOT LEASE, SUBLEASE, RENT OR PROVIDE ACCESS FOR ANY GAMING PURPOSES UNDER THIS AUTHORITY; TO AMEND SECTIONS 75-76-67, 87-1-5, 97-33-1, 97-33-7, 97-33-17, 97-33-25 AND 97-33-27, MISSISSIPPI CODE OF 1972, TO DEFINE AND CLARIFY THE AUTHORITY OF THE MISSISSIPPI GAMING COMMISSION IN DETERMINING LEGAL GAMING SITES AND PRELIMINARY SITE APPROVAL AND TO CLARIFY AREAS AUTHORIZED FOR GAMING CASINO OPERATIONS AND THE AUTHORITY OF THE COMMISSION TO REGULATE MINIMUM SIZE, MINIMUM IMPROVEMENTS AND OTHER PROJECT REQUIREMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

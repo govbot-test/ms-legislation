@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB594",
+  "title": "Mississippi Equal Pay for Equal Work Act; revise certain provisions related to wage history.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce",
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb594"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Commerce;Judiciary A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Summers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0594IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0594IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0594IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0594.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 71-17-3, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"WAGE HISTORY\"; TO AMEND SECTION 71-17-5, MISSISSIPPI CODE OF 1972, TO PROVIDE HOW A PERSON'S WAGE HISTORY MAY AND MAY NOT BE USED WHILE THAT PERSON IS AN APPLICANT FOR EMPLOYMENT; TO PROVIDE PENALTIES FOR THOSE EMPLOYERS WHO VIOLATE THE PROVISIONS RELATED TO WAGE HISTORY; TO AMEND SECTION 71-17-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT CERTAIN PRECEDENTS SHALL BE CONSIDERED MANDATORY AUTHORITY FOR CLAIMS BROUGHT AS A RESULT OF VIOLATIONS OF THE PROVISIONS RELATED TO WAGE HISTORY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB71",
+  "title": "Mississippi Hospital Recovery Trust Program; create to provide grants to public hospitals at high financial risk.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb71"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0071IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0071IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0071IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0071.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI HOSPITAL RECOVERY TRUST PROGRAM IN THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO PROVIDE GRANTS TO PUBLIC HOSPITALS AT HIGH FINANCIAL RISK TO HELP THOSE HOSPITALS BE MORE FINANCIALLY VIABLE SO THAT THEY CAN CONTINUE TO OPERATE AND BE AVAILABLE TO PROVIDE HEALTH CARE SERVICES TO THE COMMUNITIES IN WHICH THEY ARE LOCATED; TO CREATE A SPECIAL FUND TO BE KNOWN AS THE MISSISSIPPI HOSPITAL RECOVERY TRUST FUND, WHICH SHALL BE ADMINISTERED BY THE DEPARTMENT AND EXPENDED FOR THE SOLE PURPOSE OF PROVIDING GRANTS TO PUBLIC HOSPITALS UNDER THE PROVISIONS OF THIS ACT; TO PROVIDE THAT TO BE ELIGIBLE FOR A GRANT, A PUBLIC HOSPITAL MUST APPLY FOR THE GRANT AND INCLUDE SUCH DOCUMENTATION AS SPECIFIED BY THE DEPARTMENT SHOWING THAT THE HOSPITAL IS AT HIGH FINANCIAL RISK; TO PROVIDE THAT THE AMOUNT OF EACH GRANT SHALL BE DETERMINED BY THE DEPARTMENT, WITH PRIORITY FOR LARGER GRANTS BEING GIVEN TO PUBLIC HOSPITALS THAT ARE AT IMMEDIATE RISK OF CLOSING AND WHOSE SURVIVAL IS CRITICALLY ESSENTIAL TO THE COMMUNITIES IN WHICH THEY ARE LOCATED; TO PROVIDE THAT WITHIN FIVE BUSINESS DAYS AFTER RECEIPT OF AN APPLICATION WITH THE REQUIRED DOCUMENTATION SHOWING THAT THE PUBLIC HOSPITAL IS AT HIGH FINANCIAL RISK, THE DEPARTMENT SHALL APPROVE THE APPLICATION AND DISTRIBUTE THE GRANT TO THE HOSPITAL; TO REQUIRE THE DEPARTMENT TO MAKE ANNUAL REPORTS TO THE JOINT LEGISLATIVE BUDGET COMMITTEE ABOUT EACH GRANT MADE UNDER THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

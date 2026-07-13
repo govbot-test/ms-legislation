@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2915",
+  "title": "Alcoholic beverages; revise provisions concerning native wine retailer's permits and festival permits.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2915"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McMahan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McMahan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2915CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2915IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McMahan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2915.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE HOLDER OF A NATIVE WINE RETAILER'S PERMIT TO MAKE RETAIL SALES OF NATIVE WINES AT ANY TASTING ROOM LOCATIONS WITHIN THE SAME COUNTY AS THE NATIVE WINERY, TO HAVE ONE PERMANENT SATELLITE TASTING ROOM SALES LOCATION IN ANY OTHER LOCATION IN THE STATE THAT OTHERWISE ALLOWS THE SALE OF ALCOHOLIC BEVERAGES, AND, WHEN SELLING TO CONSUMERS FOR ON-PREMISES CONSUMPTION, TO SELL ALCOHOLIC BEVERAGES PRODUCED BY OTHER SUPPLIERS; TO REMOVE THE REPEALER ON THE AUTHORITY OF THE DEPARTMENT OF REVENUE TO ISSUE A FESTIVAL PERMIT; TO AMEND SECTION 67-1-41, MISSISSIPPI CODE OF 1972, TO REMOVE THE EXPIRATION DATE OF THE EXCEPTION FOR ALCOHOLIC BEVERAGES AUTHORIZED TO BE SOLD BY THE HOLDER OF A FESTIVAL PERMIT TO THE STATUTE REQUIRING THE DEPARTMENT OF REVENUE TO SERVE AS A WHOLESALE DISTRIBUTOR AND SELLER OF ALCOHOLIC BEVERAGES; TO DIRECT THE DEPARTMENT TO PROVIDE TWO BUSINESS DAYS PER MONTH IN WHICH ANY PACKAGE RETAILER PURCHASING A TRUCKLOAD OF ALCOHOLIC BEVERAGES FROM THE DEPARTMENT MAY PICK UP SUCH BEVERAGES FROM THE ALCOHOLIC BEVERAGE CONTROL DIVISION WAREHOUSE; TO AMEND SECTION 67-1-77, MISSISSIPPI CODE OF 1972, TO REMOVE THE EXPIRATION DATE ON THE AUTHORITY OF A DISTILLER, WINE MANUFACTURER, RECTIFIER, BLENDER OR BOTTLER TO HAVE A FINANCIAL INTEREST IN A FESTIVAL PERMIT; TO AMEND SECTION 67-1-309, MISSISSIPPI CODE OF 1972, TO ADD AN EXCEPTION FOR NATIVE WINE TO THE PROHIBITION ON A DIRECT WINE SHIPPER SELLING OR SHIPPING WINE THAT IS CONTRACTED THROUGH MISSISSIPPI DISTRIBUTORS, BROKERS, AND SOLICITORS WITHIN THE STATE; TO AMEND SECTION 67-5-11, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 27-71-5, MISSISSIPPI CODE OF 1972, TO REMOVE THE REPEALER ON THE ANNUAL PRIVILEGE LICENSE TAX FOR A FESTIVAL PERMIT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

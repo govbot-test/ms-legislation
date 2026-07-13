@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB938",
+  "title": "Youth court; extend repealers on statutes relating to MS Youth Court Information Delivery System (MYCIDS) and records.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb938"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0938IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0938IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0938IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0938.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-21-261, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE STATUTE GOVERNING THE DISCLOSURE OF YOUTH COURT RECORDS INVOLVING CHILDREN; TO AMEND SECTION 43-21-351, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE STATUTE REQUIRING YOUTH COURT INTAKE OFFICERS TO ENTER INTAKE AND CASE INFORMATION INTO THE MISSISSIPPI YOUTH COURT INFORMATION DELIVERY SYSTEM (MYCIDS); TO AMEND SECTION 43-21-801, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE YOUTH COURT SUPPORT PROGRAM AND THE YOUTH COURT SUPPORT FUND IN THE STATE TREASURY; TO AMEND SECTION 45-33-61, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE STATUTE PROHIBITING A PERSON CONVICTED OF A SEX OFFENSE FROM ACCESSING MYCIDS; TO AMEND SECTION 93-31-3, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE STATUTE AUTHORIZING A PARENT TO EXECUTE A POWER OF ATTORNEY TO DELEGATE TO ANOTHER PERSON CERTAIN POWERS REGARDING THE CARE AND CUSTODY OF A CHILD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

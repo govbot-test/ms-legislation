@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2884",
+  "title": "Property Tax Elimination and Replacement Study Committee; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2884"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berry\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2884IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2884IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2884IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Berry.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2884.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE PROPERTY TAX ELIMINATION AND REPLACEMENT STUDY COMMITTEE TO EXAMINE, EVALUATE AND DEVELOP RECOMMENDATIONS REGARDING THE MEANS FOR AND EFFECTS OF ELIMINATING AD VALOREM TAXES ON REAL PROPERTY, AND THE MOST EFFECTIVE WAYS OF REPLACING THE REVENUE THAT WOULD BE LOST AS A RESULT OF SUCH ELIMINATION; TO PROVIDE FOR THE COMPOSITION, ORGANIZATION AND RESPONSIBILITIES OF THE COMMITTEE; TO PROVIDE THAT THE COMMITTEE SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE LEGISLATURE NO LATER THAN DECEMBER 1, 2026; TO DIRECT THE DEPARTMENT OF REVENUE TO PROVIDE NECESSARY STAFF AND ADMINISTRATIVE SUPPORT TO THE COMMITTEE; TO ALLOW FOR ADDITIONAL SUPPORT FROM THE JOINT LEGISLATIVE COMMITTEE ON PERFORMANCE EVALUATION AND EXPENDITURE REVIEW (PEER), UPON REQUEST AND SUBJECT TO AVAILABLE RESOURCES; TO PROVIDE FOR COMPENSATION ACCORDING TO LAW FOR LEGISLATIVE MEMBERS AND TRAVEL EXPENSE REIMBURSEMENT FOR NON-LEGISLATIVE MEMBERS; TO PROVIDE FOR THE DISSOLUTION OF THE COMMITTEE ON JANUARY 1, 2027, OR UPON THE SUBMISSION OF ITS FINAL REPORT, WHICHEVER IS EARLIER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

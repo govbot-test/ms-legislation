@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1449",
+  "title": "Fire protection; revise provisions regarding mandatory retirement of fire apparatus and response distance.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1449"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Turner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1449IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1449IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1449IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Turner.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1449.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT MANDATORY FIRE APPARATUS RETIREMENT BASED SOLELY ON AGE WHEN CONDITION, TESTING AND MAINTENANCE CRITERIA ARE SATISFIED; TO AMEND SECTION 83-3-24, MISSISSIPPI CODE OF 1972, TO ESTABLISH THE RESPONSE DISTANCE FROM A FIRE STATION THAT MUST BE UTILIZED BY THE MISSISSIPPI STATE RATING BUREAU WHEN GRADING MUNICIPALITIES OR FIRE DISTRICTS FOR FIRE INSURANCE RATING PURPOSES; TO BRING FORWARD SECTION 83-1-37, MISSISSIPPI CODE OF 1972, WHICH REQUIRES CERTAIN FUNDS COLLECTED ON THE GROSS PREMIUMS OF FIRE INSURANCE POLICIES TO BE EARMARKED FOR THE MUNICIPAL FIRE DEPARTMENT FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 83-1-39, MISSISSIPPI CODE OF 1972, WHICH REQUIRES CERTAIN FUNDS FROM THE INSURANCE PREMIUM TAX TO BE EARMARKED FOR THE COUNTY VOLUNTEER FIRE DEPARTMENT FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

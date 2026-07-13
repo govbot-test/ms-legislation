@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB130",
+  "title": "Medicaid; create Medicaid Commission to administer program and abolish Division of Medicaid.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb130"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid;Accountability, Efficiency, Transparency",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0130IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0130IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0130IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0130.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-13-107, MISSISSIPPI CODE OF 1972, TO CREATE THE MISSISSIPPI MEDICAID COMMISSION TO ADMINISTER THE MEDICAID PROGRAM; TO PROVIDE FOR THE MEMBERSHIP AND APPOINTMENT OF THE COMMISSION; TO PROVIDE THAT THE EXECUTIVE DIRECTOR OF THE COMMISSION SHALL BE APPOINTED BY THE COMMISSION; TO ABOLISH THE DIVISION OF MEDICAID AND TRANSFER THE POWERS, DUTIES, PROPERTY AND EMPLOYEES OF THE DIVISION TO THE MEDICAID COMMISSION; TO AMEND SECTIONS 43-13-103, 43-13-105, 43-13-109, 43-13-113, 43-13-115, 43-13-116, 43-13-117, 43-13-120, 43-13-121, 43-13-123, 43-13-125, 43-13-139 AND 43-13-145, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

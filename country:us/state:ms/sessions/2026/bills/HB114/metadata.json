@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB114",
+  "title": "Medicaid; direct Division of Medicaid to apply for federal waivers to expand Medicaid eligibility.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb114"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0114IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0114IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0114IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0114.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI HEALTH CARE SECURITY AND PROMOTION ACT OF 2026; TO EXPRESS THE INTENT OF THE LEGISLATURE REGARDING EXPANSION OF THE MEDICAID PROGRAM; TO PROVIDE DEFINITIONS FOR THE PURPOSES OF THIS ACT; TO PROVIDE THAT ANY EXPANSION OF THE MEDICAID PROGRAM AND ITS ELIGIBILITY CRITERIA OR COVERED BENEFITS SHALL FALL INTO THE CATEGORIES OUTLINED IN THIS ACT AND BE DEFINED BY THE SECTIONS OF THIS ACT; TO DIRECT THE DIVISION OF MEDICAID TO SUBMIT TO THE CENTERS FOR MEDICARE AND MEDICAID SERVICES (CMS) AN APPLICATION FOR A WAIVER OR STATE PLAN AMENDMENT THAT WILL ALLOW THE DIVISION TO EXPAND COVERAGE TO ELIGIBLE INDIVIDUALS WHOSE INCOME IS AT OR BELOW 100% OF THE FEDERAL POVERTY LEVEL; TO DIRECT THE DIVISION TO SUBMIT TO CMS A REQUEST FOR A SECTION 1115 WAIVER THAT WILL ALLOW THE DIVISION TO EXPAND COVERAGE TO ELIGIBLE INDIVIDUALS WHO ARE UNINSURED AND WHOSE INCOME IS NOT LESS THAN 101% OR MORE THAN 200% OF THE FEDERAL POVERTY LEVEL; TO PROVIDE THAT UNINSURED INDIVIDUALS WITH TOTAL HOUSEHOLD INCOME OF NOT LESS THAN 101% OR MORE THAN 200% OF THE FEDERAL POVERTY LEVEL SHALL BE ELIGIBLE FOR EXPANDED COVERAGE THROUGH AN INDIVIDUAL QUALIFIED HEALTH INSURANCE PLAN; TO PROVIDE THAT INDIVIDUALS WITH CURRENT EMPLOYER HEALTH INSURANCE COVERAGE AND UNINSURED INDIVIDUALS WHO ARE OFFERED EMPLOYER HEALTH INSURANCE COVERAGE WITH TOTAL HOUSEHOLD INCOMES OF NOT LESS THAN 101% OR MORE THAN 200% OF THE FEDERAL POVERTY LEVEL SHALL BE ELIGIBLE FOR PREMIUM ASSISTANCE FOR EMPLOYER HEALTH INSURANCE COVERAGE; TO PROVIDE THAT UPON CMS APPROVAL OF REQUESTED WAIVERS OR AMENDMENTS, THE DIVISION SHALL, IN CONJUNCTION AND CONSULTATION WITH RELATED STATE AGENCIES, IMPLEMENT THE APPROVED WAIVER COMPONENTS TO EXPAND ELIGIBILITY CRITERIA FOR THE MEDICAID PROGRAM AS PROVIDED UNDER THE APPLICABLE WAIVER; TO PROVIDE THAT ELIGIBILITY FOR MEDICAID AS DESCRIBED IN THIS ACT SHALL NOT BE DELAYED IF CMS FAILS TO APPROVE ANY REQUESTED WAIVERS OF THE STATE PLAN FOR WHICH THE DIVISION APPLIES, AND SUCH ELIGIBILITY SHALL NOT BE DELAYED WHILE THE DIVISION IS CONSIDERING OR NEGOTIATING ANY WAIVERS TO THE STATE PLAN; TO PROVIDE THAT IF CMS HAS NOT APPROVED A REQUESTED WAIVER OR STATE PLAN AMENDMENT SUBMITTED BY THE DIVISION ON OR BEFORE DECEMBER 31, 2027, ELIGIBILITY FOR THE MEDICAID PROGRAM SHALL BE EXPANDED TO INCLUDE ALL ELIGIBLE POPULATIONS AND ESSENTIAL HEALTH BENEFITS AS PROVIDED IN THE FEDERAL PATIENT PROTECTION AND AFFORDABLE CARE ACT OF 2010; TO AMEND SECTION 43-13-115, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1040",
+  "title": "Illegal immigration; strengthen enforcement to prevent.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1040"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1040IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1040IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1040IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1040.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI SUPPORT OUR LAW ENFORCEMENT AND SAFE NEIGHBORHOODS ACT; TO SET FORTH LEGISLATIVE INTENT AND SHORT TITLE; TO REQUIRE COOPERATION AND ASSISTANCE IN ENFORCEMENT OF IMMIGRATION LAWS AND TO INDEMNIFY LAW ENFORCEMENT OFFICERS FOR IMPLEMENTATION OF THIS ACT; TO PROHIBIT ILLEGAL ALIENS FROM ENTERING INTO BUSINESS TRANSACTIONS WITH THE STATE; TO AMEND SECTION 99-3-7, MISSISSIPPI CODE OF 1972, TO CONFORM THE ARREST WITHOUT WARRANT STATUTE; TO AMEND SECTION 71-11-3, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR RETENTION OF E-VERIFY CONFIRMATIONS FOR AT LEAST THREE YEARS; TO CREATE THE SPECIAL FUND TO BE KNOWN AS THE IMMIGRATION REIMBURSEMENT FUND; TO AUTHORIZE ALL MISSISSIPPI LAW ENFORCEMENT OFFICERS TO ASSIST FEDERAL AGENCIES IN ENFORCEMENT OF IMMIGRATION LAW; TO REQUIRE THE BOARD OF PUBLIC CONTRACTORS TO REVIEW CONTRACTOR COMPLIANCE WITH E-VERIFY REQUIREMENTS; TO PROVIDE FOR THE DISSEMINATION OF INFORMATION REGARDING EMPLOYMENT OPPORTUNITIES; TO PROVIDE FOR SEVERABILITY, IMPLEMENTATION AND CONSTRUCTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

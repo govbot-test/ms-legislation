@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1224",
+  "title": "Mississippi Keeping Kids Safe Online Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1224"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford (73rd)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ford (73rd)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mansell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mansell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1224CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1224CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1224IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1224IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1224CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hood.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mansell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1224.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI KEEPING KIDS SAFE ONLINE ACT; TO PROHIBIT INTERACTIVE COMPUTER SERVICE PROVIDERS FROM ENTERING INTO CONTRACTS WITH MINORS WITHOUT PARENTAL CONSENT; TO CREATE NEW SECTION 11-79-1, MISSISSIPPI CODE OF 1972, TO PROVIDE DEFINITIONS; TO CREATE NEW SECTION 11-79-3, MISSISSIPPI CODE OF 1972, TO PROHIBIT INTERACTIVE COMPUTER SERVICE PROVIDERS FROM KNOWINGLY ALLOWING MINORS TO USE THE SERVICE TO ACCESS MATERIAL HARMFUL TO MINORS OR COMMUNICATE WITH ADULTS AND FROM ALLOWING OTHER PERSONS TO ACCESS THE PERSONA OF A MINOR; TO PROVIDE THAT AN INTERACTIVE COMPUTER SERVICE THAT PERFORMS REASONABLE METHODS OF AGE-VERIFICATION OR OBTAINS WRITTEN CONSENT FROM AND PROVIDES CONTINUOUS USAGE HISTORY TO THE MINOR USER'S PARENT IS NOT LIABLE UNDER THIS ACT; TO PROVIDE REASONABLE METHODS OF AGE VERIFICATION; TO CREATE NEW SECTION 11-79-5, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE ATTORNEY GENERAL TO PROSECUTE VIOLATIONS OF THIS ACT; TO PROVIDE THE AMOUNT OF CIVIL PENALTIES IMPOSED FOR VIOLATIONS OF THIS ACT; TO BRING FORWARD SECTIONS 45-38-3, 45-38-5, 45-38-7, 45-38-9, 45-38-11, 45-38-13 AND 11-77-5, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

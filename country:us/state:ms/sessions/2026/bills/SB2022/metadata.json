@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2022",
+  "title": "Environmental protection; prohibit contamination of clean soil with \"forever chemicals.\"",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Environment Prot, Cons and Water Res"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2022"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Environment Prot, Cons and Water Res",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Frazier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Frazier\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2022IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2022IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2022IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Frazier.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2022.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"MISSISSIPPI ACT TO PROHIBIT THE CONTAMINATION OF CLEAN SOILS WITH SO-CALLED FOREVER CHEMICALS\"; TO DEFINE RELEVANT TERMS; TO ALLOW THE MISSISSIPPI AIR AND WATER POLLUTION CONTROL COMMISSION TO REQUIRE INDIVIDUALS LICENSED TO DISCHARGE WASTEWATER TO SAMPLE THE WASTEWATER AND REPORT THE SAMPLE TO THE COMMISSION; TO PROHIBIT THE COMMISSION FROM ISSUING NEW LICENSES TO APPLY OR SPREAD SEPTAGE; TO ALLOW THE COMMISSION TO REVOKE LICENSES IF LEVELS OF PERFLUOROALKYL AND POLYFLUOROALKYL EXCEED ACCEPTABLE AMOUNTS; TO ESTABLISH PARAMETERS FOR THE APPLICATION OR SPREADING OF SLUDGE AND SEPTAGE; TO LIST EXCEPTIONS TO THE PARAMETERS ESTABLISHED; TO REQUIRE THE MISSISSIPPI AIR AND WATER POLLUTION CONTROL COMMISSION TO DEVELOP A PLAN FOR PROHIBITING THE LAND APPLICATION OF SEPTAGE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2326",
+  "title": "Law enforcement pursuits; require municipalities and counties to develop policies regarding.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2326"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Norwood",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2326IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2326IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2326IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Norwood.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2326.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE COUNTY AND MUNICIPAL LAW ENFORCEMENT AGENCIES TO DEVELOP AND IMPLEMENT A MOTOR VEHICLE POLICE PURSUIT POLICY BY A CERTAIN DATE; TO PROVIDE CERTAIN CRITERIA FOR THE POLICY; TO PROVIDE THAT A PURSUIT MAY ONLY PROCEED AND CONTINUE INTO ANOTHER POLITICAL SUBDIVISION UNDER CERTAIN CIRCUMSTANCES IF THERE IS NO AGREEMENT WITH THE OTHER POLITICAL SUBDIVISION; TO PROVIDE THAT IF A LOCAL LAW ENFORCEMENT AGENCY FAILS TO ADOPT A POLICY, THEN THE AGENCY SHALL NOT RECEIVE CERTAIN ACCREDITATION; TO PROVIDE THAT THE OFFICE OF STANDARDS AND TRAINING OF THE DEPARTMENT OF PUBLIC SAFETY SHALL DETERMINE WHETHER THE AGENCIES HAVE IMPLEMENTED A POLICY; TO REQUIRE THE DEPARTMENT TO ISSUE CERTAIN NOTICE TO THE AGENCIES FOR NONCOMPLIANCE; TO AUTHORIZE THE DEPARTMENT TO ISSUE A CERTIFICATE OF NONCOMPLIANCE TO THE DEPARTMENT OF REVENUE TO WITHHOLD CERTAIN PAYMENTS AND ALLOCATIONS THAT WOULD OTHERWISE BE PAYABLE TO A COUNTY OR MUNICIPALITY UNTIL SUCH TIME THAT THE DEPARTMENT OF REVENUE RECEIVES WRITTEN NOTICE OF THE CANCELLATION OF A CERTIFICATE OF NONCOMPLIANCE FROM THE DEPARTMENT OF PUBLIC SAFETY; TO AMEND SECTIONS 27-5-101, 27-65-75, 45-1-43, 65-33-45 AND 99-3-13, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1049",
+  "title": "Wastewater treatment and rural water associations; bring forward provisions related to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Utilities"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1049"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Utilities",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1049CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1049CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1049IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1049IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1049CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1049.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BRING FORWARD SECTIONS 41-67-1, 41-67-2, 41-67-3,  41-67-4, 41-67-5, 41-67-6, 41-67-7, 41-67-9, 41-67-10, 41-67-11, 41-67-12, 41-67-15, 41-67-19, 41-67-21, 41-67-23, 41-67-25, 41-67-27, 41-67-28, 41-67-29, 41-67-33, 41-67-37, 41-67-39, 41-67-41, 41-67-101, 11-27-81, 49-2-131, 49-17-745, 97-25-59, 17-25-13, 17-25-29, 19-5-131, 19-5-167, 19-5-175, 21-25-51, 21-25-53, 21-25-55, 21-25-57, 21-25-59, 21-27-7, 21-27-75, 27-104-7, 31-7-9, 41-3-16, 41-3-16.1, 41-26-23, 41-26-101, 77-13-29, 41-3-15, 45-23-15, 65-1-8, 19-31-5, 19-31-19, 19-31-21, 21-27-203, 21-27-205, 21-27-207, 21-27-211, 21-27-213, 27-104-301, 27-104-371, 41-26-14, 47-5-94, 49-17-29, 49-17-83, 49-17-403, 49-17-703, 49-17-705, 49-17-739, 49-17-743, 49-17-747, 49-17-751, 49-17-753, 49-19-35, 51-8-1, 51-8-3, 51-39-7, 51-43-3, 57-75-9, 57-75-11, 57-75-37, 63-3-809, 77-1-11 AND 77-3-97, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

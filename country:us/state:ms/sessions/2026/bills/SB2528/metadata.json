@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2528",
+  "title": "Mississippi Farmland, Migratory Bird, and Rural Protection from Industrial Wind Facilities Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2528"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2528IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2528IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2528IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Carter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2528.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"MISSISSIPPI FARMLAND, MIGRATORY BIRD, AND RURAL PROTECTION FROM INDUSTRIAL WIND FACILITIES ACT\"; TO STATE LEGISLATIVE PURPOSES AND FINDINGS; TO DEFINE TERMS; TO PROHIBIT CERTAIN APPROVALS OF NEW INDUSTRIAL WIND FACILITIES; TO VOID CERTAIN AUTHORIZATIONS; TO PREEMPT COUNTIES, MUNICIPALITIES AND OTHER POLITICAL SUBDIVISIONS FROM AUTHORIZING ACTION PROHIBITED UNDER THIS ACT; TO PROVIDE EXCEPTIONS; TO PROHIBIT INDUSTRIAL WIND FACILITIES FROM BEING SITED ON OR WITHIN TWO MILES OF PRIME OR UNIQUE FARMLAND; TO PROVIDE SETBACKS; TO PROTECT WATER RESOURCES; TO PROHIBIT WIND TURBINE LOCATIONS IN AGRICULTURAL AVIATION OPERATIONS AREAS; TO PROVIDE FOR NOISE AND SHADOW FLICKER; TO REQUIRE WIND ENERGY SYSTEMS TO COMPLY WITH WILDLIFE LAWS; TO PROHIBIT CERTAIN AREAS FOR SITING, CONSTRUCTION OR OPERATION OF WIND TURBINES; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF WILDLIFE, FISHERIES, AND PARKS TO ESTABLISH RULES CONCERNING WILDLIFE PROTECTION; TO PROVIDE FOR CORRECTIVE ACTION AND DECOMMISSIONING OF WIND TURBINES; TO PROVIDE FOR GRANDFATHERED FACILITIES; TO REQUIRE EACH INDUSTRIAL FACILITY SUBJECT TO THIS ACT TO MAINTAIN A DECOMMISSIONING PLAN; TO REQUIRE OWNERS AND OPERATORS TO POST AND MAINTAIN FINANCIAL ASSURANCE IN CERTAIN FORMS; TO PROVIDE FOR FAILURE TO DECOMMISSION; TO DELEGATE ENFORCEMENT AUTHORITY; TO PROVIDE AVAILABLE REMEDIES; TO CREATE A PRIVATE RIGHT OF ACTION; TO PROVIDE FOR ATTORNEYS' FEES; TO REQUIRE FAA NOTICE AND OBSTRUCTION EVALUATION; TO PROHIBIT ACTION FOLLOWING A HAZARD DETERMINATION BY THE FAA; TO PROVIDE FOR RADAR INTERFERENCE REVIEW; TO REQUIRE COORDINATION AMONG CERTAIN STATE AGENCIES; TO PREVENT POLLUTION; TO REQUIRE INDUSTRIAL WIND FACILITIES TO MAINTAIN AN OIL, GREASE AND FLUID MANAGEMENT PLAN; TO REQUIRE SUCH PLAN TO MEET CERTAIN CRITERIA; TO PROVIDE FOR BLADE AND COMPONENT DECOMMISSIONING; TO PROVIDE FOR SEVERABILITY OF ANY PROVISION OF THIS ACT UPON A HOLDING OF INVALIDITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

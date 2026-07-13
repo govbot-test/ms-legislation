@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2216",
+  "title": "Ease Access to Suffrage (EASE) Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2216"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2216IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2216IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2216IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2216.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE EASE ACCESS TO SUFFRAGE (EASE) ACT; TO ESTABLISH THE EASE ACCESS TO SUFFRAGE PROGRAM WITHIN THE EXTERNAL AFFAIRS DIVISION OF THE OFFICE OF THE SECRETARY OF STATE; TO PROVIDE THAT THE PURPOSE OF THE PROGRAM SHALL BE TO PUBLISH THE CRITERIA FOR THE RESTORATION OF SUFFRAGE IN MISSISSIPPI, TO CREATE A PUBLIC PORTAL FOR APPLICATIONS, TO RAISE AWARENESS ABOUT THE SUFFRAGE RESTORATION PROCESS AND TO ENSURE THAT A PERSON'S RIGHT TO VOTE IS FULLY RESTORED FOR THE NEXT ELECTION AFTER THE RESTORATION OF THE RIGHT BY THE LEGISLATURE UNDER ARTICLE 12, SECTION 253 OF THE MISSISSIPPI CONSTITUTION OF 1890; TO SET FORTH CERTAIN CRITERIA FOR THE RESTORATION OF THE RIGHT TO SUFFRAGE; TO REQUIRE THE DIVISION TO CREATE A PUBLIC PORTAL FOR APPLICATIONS; TO REQUIRE THE OFFICE OF THE SECRETARY OF STATE TO RAISE AWARENESS OF THE PROGRAM THROUGH A MEDIA CAMPAIGN; TO REQUIRE THE SECRETARY OF STATE TO COORDINATE WITH CERTAIN MEMBERS OF THE LEGISLATURE IN DETERMINING THE CRITERIA FOR THE RESTORATION OF SUFFRAGE AND THE PROGRAM; TO AUTHORIZE THE OFFICE OF THE SECRETARY OF STATE TO PROMULGATE RULES OR REGULATIONS TO ADMINISTER THIS SECTION; TO REQUIRE THE OFFICE OF THE SECRETARY OF STATE TO PROMULGATE CLEAR RULES AND REGULATIONS TO ENSURE THAT A PERSON'S RIGHT TO VOTE IS FULLY RESTORED FOR THE NEXT ELECTION AFTER THE RESTORATION OF SUFFRAGE UNDER ARTICLE 12, SECTION 253 OF THE MISSISSIPPI CONSTITUTION OF 1890; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

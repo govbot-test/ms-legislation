@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB13",
+  "title": "Prescription drugs; authorize to be imported into the State of Mississippi.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Drug Policy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb13"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Drug Policy",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0013CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0013CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0013IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0013IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0013CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0013.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE PRESCRIPTION DRUGS TO BE IMPORTED INTO THE STATE OF MISSISSIPPI FOR THE PURPOSE OF PROVIDING SAFE AND EFFECTIVE PRESCRIPTION DRUGS THAT HAVE THE HIGHEST POTENTIAL FOR COST SAVINGS TO THE STATE; TO DEFINE CERTAIN TERMS RELATING TO THE IMPORTATION AND EXPORTATION OF PRESCRIPTION DRUGS; TO AUTHORIZE AN ELIGIBLE IMPORTER TO IMPORT A PRESCRIPTION DRUG INTO THE STATE OF MISSISSIPPI FROM AN ELIGIBLE EXPORTER IF THE DRUG MEETS THE UNITED STATES FOOD AND DRUG ADMINISTRATION'S STANDARDS RELATED TO SAFETY, EFFECTIVENESS, MISBRANDING, AND ADULTERATION, AND IF IMPORTING THE DRUG WOULD NOT VIOLATE THE PATENT LAWS OF THE UNITED STATES; TO PROVIDE THAT AN ELIGIBLE EXPORTER IS EITHER AN INTERNATIONAL PRESCRIPTION DRUG WHOLESALE DISTRIBUTOR, A NONRESIDENT PRESCRIPTION DRUG MANUFACTURER, OR AN INTERNATIONAL EXPORT PHARMACY; TO PROVIDE THAT AN ELIGIBLE IMPORTER IS EITHER A WHOLESALE DISTRIBUTOR, A LICENSED PHARMACIST, OR A PHARMACY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

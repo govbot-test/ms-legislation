@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2773",
+  "title": "\"Improving Mental Healthcare in the Re-Entry System Act of 2026\"; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2773"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2773IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2773IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2773IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Jackson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2773.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT ENTITLED THE \"IMPROVING MENTAL HEALTHCARE IN THE RE-ENTRY SYSTEM ACT OF 2026\"; TO AUTHORIZE THE COMMISSIONER OF CORRECTIONS, WITH THE ASSISTANCE OF THE ATTORNEY GENERAL, TO ESTABLISH A GRANT PROGRAM TO IMPLEMENT AND ADMINISTER MENTAL HEALTH SCREENINGS TO INDIVIDUALS AT INTAKE INTO AN ELIGIBLE DETENTION CENTER AND REFER SUCH INDIVIDUALS TO MENTAL HEALTHCARE PROVIDERS BEFORE OR IMMEDIATELY AFTER EXIT FROM AN ELIGIBLE DETENTION CENTER, AS APPLICABLE, TO PROVIDE FOR THE EMPLOYMENT OF MENTAL HEALTH LIAISON STAFF AT EACH ELIGIBLE DETENTION CENTER; TO PROVIDE FOR BRIEF MENTAL HEALTH SURVEYS FOR SUCH INDIVIDUALS; TO PROVIDE FOR MENTAL HEALTH OUTREACH TEAMS TO MAKE CONTACT ATTEMPTS WITH SUCH INDIVIDUALS; TO PROVIDE FOR IMPACT EVALUATION REQUIREMENTS; TO PROVIDE THAT IMPLEMENTATION OF THE GRANT PROGRAM SHALL BE THROUGH THE MISSISSIPPI DEPARTMENT OF CORRECTIONS IN COORDINATION WITH THE MISSISSIPPI DEPARTMENT OF MENTAL HEALTH; TO PROVIDE FOR MANDATORY PSYCHIATRIC EVALUATION AND VOLUNTARY PARTICIPATION IN TREATMENT PROGRAMS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

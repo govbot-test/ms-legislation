@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2744",
+  "title": "Mental health treatment court; provide clear authorization for, revise eligibility for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2744"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mumford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mumford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gillespie Isom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gillespie Isom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pope\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2744IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2744IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2744IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Mumford.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Jackson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gillespie_Isom.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Pope.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2744.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 9-27-5, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"COURT\" OR \"MENTAL HEALTH TREATMENT COURT\"; TO AMEND SECTION 9-27-7, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE PRESIDING JUDGE OF ANY CIRCUIT, COUNTY OR MUNICIPAL COURT TO ESTABLISH A MENTAL HEALTH TREATMENT COURT; TO AUTHORIZE A MENTAL HEALTH TREATMENT COURT TO OPERATE WITHIN AN EXISTING COURT OR INTERVENTION COURT; TO PROVIDE THAT SUBJECT TO APPROPRIATION BY THE LEGISLATURE A MENTAL HEALTH TREATMENT COURT SHALL OPERATE USING A MULTIDISCIPLINARY TEAM; TO AMEND SECTION 9-27-11, MISSISSIPPI CODE OF 1972, TO REVISE THE ELIGIBILITY REQUIREMENTS OF A MENTAL HEALTH TREATMENT COURT; TO AMEND SECTION 9-27-19, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE COURT TO IMPOSE SANCTION OR TERMINATE THE PARTICIPATION OF THE OFFENDER AND REFER THE CASE TO THE COURT OF ORIGIN TO RESUME CRIMINAL PROCEEDINGS IF THE PARTICIPANT FAILS TO COMPLY WITH THE REQUIREMENTS OF A MENTAL HEALTH TREATMENT COURT; TO BRING FORWARD SECTIONS 9-27-1, 9-27-3, 9-27-9, 9-27-13, 9-27-15, 9-27-17 AND 9-27-21, MISSISSIPPI CODE OF 1972, WHICH ARE THE REMAINING PROVISION WITHIN CHAPTER 27 OF TITLE 9, FOR POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

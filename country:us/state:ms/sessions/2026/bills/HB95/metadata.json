@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB95",
+  "title": "Child Care for Working Families Study Committee; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Workforce Development",
+    "Youth and Family Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb95"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Youth and Family Affairs;Workforce Development",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0095IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0095IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0095IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0095.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE CHILD CARE FOR WORKING FAMILIES STUDY COMMITTEE; TO PROVIDE THAT THE COMMITTEE SHALL DEVELOP RECOMMENDATIONS FOR ENSURING EVERY WORKING PARENT IN MISSISSIPPI CAN ACCESS AND AFFORD CHILD CARE SO THEY CAN PARTICIPATE IN THE LABOR FORCE; TO PROVIDE THAT THE COMMITTEE SHALL IDENTIFY AND EXAMINE ALL FEDERAL REVENUE RECEIVED BY THE STATE AND ALL STATE FUNDS SPENT ON FEDERAL MATCHING OR MAINTENANCE OF EFFORT REQUIREMENTS THAT CAN ALLOWABLY BE SPENT, ALLOCATED, TRANSFERRED, GRANTED OR EXPENDED DIRECTLY TO THE CHILD CARE PAYMENT PROGRAM FOR PURPOSES OF INCREASING THE NUMBER OF ELIGIBLE PARENTS AND CHILDREN SERVED; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

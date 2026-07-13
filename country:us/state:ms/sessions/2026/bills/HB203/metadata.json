@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB203",
+  "title": "Disabilities, persons with; modernize terminology used to refer to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb203"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0203IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0203IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0203IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0203.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-6-171, MISSISSIPPI CODE OF 1972, TO REVISE THE REQUIREMENTS FOR LEGISLATIVE DRAFTING OFFICES AND STATE AGENCIES TO USE CERTAIN RESPECTFUL REFERENCES TO INDIVIDUALS WITH DISABILITIES IN PREPARING LEGISLATION AND RULES; TO AMEND SECTIONS 13-1-305, 19-5-45, 21-37-6, 25-9-149, 25-15-3, 25-15-9, 27-19-56, 29-5-65, 37-16-9, 37-31-31, 37-31-33, 37-31-35, 37-31-39, 37-33-13, 37-41-3, 41-3-15, 41-7-173, 41-11-102, 41-11-105, 41-11-109, 41-11-111, 41-11-113, 41-13-35, 41-19-33, 41-19-205, 41-19-237, 41-19-257, 41-19-261, 41-19-291, 41-21-131, 41-21-139, 41-31-15, 41-41-403, 41-79-5, 43-6-1, 43-6-3, 43-6-5, 43-6-13, 43-6-15, 43-6-113, 43-6-125, 43-11-1, 43-13-117, 43-18-1, 43-27-25, 43-33-703, 43-33-717, 43-33-723, 45-1-2, 45-35-53, 47-5-1351, 49-7-39, 49-7-40, 71-3-3, 71-3-7, 71-3-105, 71-7-13, 73-3-353, 75-74-9, 83-9-32, 93-7-3 AND 97-3-4, MISSISSIPPI CODE OF 1972, TO MODERNIZE THE TERMINOLOGY THAT IS USED TO REFER TO PERSONS WITH MENTAL ILLNESS, PERSONS WITH AN INTELLECTUAL DISABILITY, HANDICAPPED PERSONS AND CRIPPLED PERSONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

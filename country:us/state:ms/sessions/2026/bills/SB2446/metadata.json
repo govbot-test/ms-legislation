@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2446",
+  "title": "Healing Outreach, Prevention and Education (HOPE) Act; enact to require nurse training on and reporting of suspected human trafficking.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2446"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gillespie Isom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gillespie Isom\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2446CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2446IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gillespie_Isom.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2446.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \u0093HEALING OUTREACH, PREVENTION AND EDUCATION (HOPE) ACT\u0094; TO SET FORTH LEGISLATIVE FINDINGS; TO REQUIRE THAT, BEGINNING JANUARY 1, 2027, EVERY NURSE UNDER THE PURVIEW OF THE MISSISSIPPI BOARD OF NURSING WHO APPLIES FOR A NURSING LICENSE OR LICENSE RENEWAL SHALL CERTIFY TO THE BOARD THAT HE OR SHE HAS COMPLETED ONE HOUR OF HUMAN TRAFFICKING TRAINING THAT INCLUDES A TRAUMA-INFORMED CURRICULUM DESIGNED TO EDUCATE NURSES ON IDENTIFYING, RESPONDING TO AND REPORTING HUMAN TRAFFICKING; TO REQUIRE SUCH NURSES TO REPORT ANY SUSPECTED CASE OF HUMAN TRAFFICKING INVOLVING A MINOR TO THE MISSISSIPPI DEPARTMENT OF CHILD PROTECTION SERVICES, IN ACCORDANCE WITH SECTIONS 43-21-353 AND 97-5-51, AND TO REPORT ANY SUSPECTED CASE OF HUMAN TRAFFICKING INVOLVING AN ADULT TO APPROPRIATE LAW ENFORCEMENT AUTHORITIES WHEN A VICTIM IS IN IMMINENT DANGER, AFTER CONFIRMING A VICTIM\u0092S CONSENT, OR IN ANY OTHER CIRCUMSTANCE WHEN DISCLOSURE TO LAW ENFORCEMENT AUTHORITIES IS REQUIRED BY LAW; TO REQUIRE SUCH NURSES TO SUBMIT REPORTS OF SUSPECTED HUMAN TRAFFICKING TO THE STATE AND NATIONAL HOTLINES; TO PROVIDE THAT SUCH REPORTS SHALL BE MADE AS SOON AS PRACTICABLE, BUT IN NO EVENT LATER THAN 24 HOURS AFTER FORMING A REASONABLE SUSPICION OF HUMAN TRAFFICKING; TO PROVIDE THAT FAILURE TO COMPLY WITH THE REQUIREMENTS UNDER THIS ACT SHALL BE A VIOLATION OF THE MISSISSIPPI NURSING PRACTICE LAW; TO AMEND SECTION 45-33-23, MISSISSIPPI CODE OF 1972, TO REQUIRE SEX OFFENDER REGISTRATION BY PERSONS CONVICTED OF HUMAN SEX TRAFFICKING; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2039",
+  "title": "State Penitentiary at Parchman; phase down operation over four-year period.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2039"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections;Appropriations",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barnett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Barnett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2039IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2039IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2039IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Barnett.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2039.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PHASE DOWN THE OPERATION OF THE STATE PENITENTIARY AT PARCHMAN IN SUNFLOWER AND QUITMAN COUNTIES OVER A FOUR-YEAR PERIOD AND TRANSFER ITS INMATES, EMPLOYEES AND PROGRAMS TO OTHER STATE AND REGIONAL FACILITIES OF THE MISSISSIPPI DEPARTMENT OF CORRECTIONS; TO AUTHORIZE AND DIRECT THE COMMISSIONER OF CORRECTIONS TO DEVELOP AND SUBMIT TO THE LEGISLATURE A PLAN TO IMPLEMENT THIS PHASEDOWN UNDER CERTAIN CONDITIONS AND TO PROMULGATE REGULATIONS NECESSARY TO IMPLEMENT THE PLAN; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO HOLD THE LAND AT PARCHMAN IN TRUST AND TO LEASE THE GROUNDS AND BUILDINGS FOR AGRICULTURAL, INDUSTRIAL, COMMERCIAL, RESIDENTIAL, RECREATIONAL OR OTHER USES FOR A GROUND RENTAL UNDER CERTAIN CONDITIONS; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO DESIGNATE AN EXISTING BUILDING AT PARCHMAN FOR THE DELIVERY OF MENTAL HEALTH SERVICES TO INMATES WITH MENTAL ILLNESS INCARCERATED IN ANY STATE OR REGIONAL CORRECTIONAL FACILITY TO BE KNOWN AS THE \"NORTHWEST MISSISSIPPI FACILITY FOR THE TREATMENT AND CARE OF INMATES WITH MENTAL ILLNESS,\" AND TO PRESCRIBE STANDARDS FOR THE OPERATION OF SAID MENTAL HEALTH TREATMENT FACILITY; TO PROVIDE THAT ANY BUILDINGS OR OTHER FACILITIES REMAINING AT PARCHMAN SHALL BE RENAMED \"NORTHWEST MISSISSIPPI CORRECTIONAL FACILITY\"; TO AMEND SECTIONS 47-4-1, 47-5-3, 47-5-5, 47-5-6, 47-5-10, 47-5-20, 47-5-28, 47-5-30, 47-5-64 AND 47-5-66, MISSISSIPPI CODE OF 1972, TO CREATE THE CORRECTIONAL INFRASTRUCTURE AND INMATE HOUSING FUND IN CONFORMITY THERETO; TO AMEND SECTION 47-5-35, MISSISSIPPI CODE OF 1972, TO REVISE THE DUTIES AND RESPONSIBILITIES OF THE CORRECTIONAL AUDITOR; TO AMEND SECTIONS 47-5-539 AND 47-5-579, MISSISSIPPI CODE OF 1972, TO AUTHORIZE AND DIRECT THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO EXPAND THE PILOT WORK INITIATIVE UNDER THE MISSISSIPPI PRISON INDUSTRIES CORPORATION AT CENTRAL MISSISSIPPI CORRECTIONAL FACILITY TO ANY STATE, REGIONAL AND PRIVATE CORRECTIONAL FACILITY IN THE STATE OF MISSISSIPPI WHICH HOUSE INMATES UNDER THE JURISDICTION OF THE MISSISSIPPI DEPARTMENT OF CORRECTIONS; TO PRESCRIBE CERTAIN CONDITIONS FOR THE OPERATION OF THE MISSISSIPPI PRISON INDUSTRIES PROGRAM; TO DELETE THE AUTOMATIC REPEALER ON THE PRISON INDUSTRIES PROGRAM; TO DELETE THE AUTOMATIC REPEALER ON THE MISSISSIPPI EARNED PAROLE ELIGIBILITY ACT OF 2021; TO BRING FORWARD SECTION 1 OF CHAPTER 479, LAWS OF 2021; TO AMEND SECTIONS 47-7-3 AND 47-7-5, MISSISSIPPI CODE OF 1972, AND BRING FORWARD SECTIONS 47-7-3.1, 47-7-3.2, 47-7-15, 47-7-17 AND 47-7-18, MISSISSIPPI CODE OF 1972, IN CONFORMITY; TO AMEND SECTIONS 47-5-473, 47-5-577, 47-5-911 AND 47-5-1251, MISSISSIPPI CODE OF 1972, TO EXTEND THE AUTOMATIC REPEALERS ON THE CORRECTIONAL SYSTEM PILOT WORK RELEASE PROGRAM, THE CORRECTIONAL SYSTEM MISSISSIPPI PRISON INDUSTRIES ACT OF 1990, THE CORRECTIONAL SYSTEM PRISON INDUSTRIES PILOT WORK INITIATIVE AT CENTRAL MISSISSIPPI CORRECTIONAL FACILITY, THE CORRECTIONAL SYSTEM PROVISIONS FOR STATE OFFENDERS SERVING SENTENCES IN COUNTY JAILS, THE CORRECTIONAL SYSTEM PRISON INDUSTRY ENHANCEMENT PROGRAM AND THE CORRECTIONAL SYSTEM PROBATION AND PAROLE LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2709",
+  "title": "Virtual currency kiosks and civil forfeiture of property used in the course of crimes; create provisions concerning.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2709"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2709IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2709IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2709IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2709.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"MONEY TRANSMISSION MODERNIZATION ACT FOR VIRTUAL CURRENCY KIOSKS\"; TO DEFINE TERMS; TO PROVIDE LICENSING REQUIREMENTS FOR VIRTUAL CURRENCY KIOSK OPERATORS; TO PROHIBIT VIRTUAL OPERATORS FROM USING ANY SIGN USING THE WORDS \"AUTOMATIC TELLER MACHINE\" OR \"ATM\"; TO PROVIDE DISCLOSURE REQUIREMENTS; TO REQUIRE OPERATORS TO DISCLOSE ALL MATERIAL RISKS ASSOCIATED WITH VIRTUAL CURRENCY; TO REQUIRE SPECIFIC DISCLOSURES; TO PROVIDE FOR NEW ACCOUNTS AND INITIAL TRANSACTIONS; TO REQUIRE OPERATORS TO DISCLOSE TO CUSTOMERS THE TERMS AND CONDITIONS OF A TRANSACTION; TO REQUIRE CERTAIN TERMS AND CONDITIONS; TO REQUIRE OPERATORS TO ENSURE THAT EACH CUSTOMER ACKNOWLEDGES RECEIPT OF ALL REQUIRED DISCLOSURES; TO PROVIDE FOR RECEIPT REQUIREMENTS; TO LIMIT THE TOTAL AMOUNT OF A FEES AND COMMISSION CHARGE TO NOT MORE THAN 15% OF THE AMOUNT OF THE VIRTUAL CURRENCY TRANSACTION; TO PROVIDE DAILY TRANSACTION LIMITS PER CUSTOMER; TO PROVIDE FOR REFUNDS FOR NEW CUSTOMERS UPON FRAUDULENT ACTIVITY; TO REQUIRE CUSTOMER IDENTIFICATION AND PROVIDE FOR WALLET RESTRICTIONS; TO REQUIRE OPERATORS TO USE BLOCKCHAIN ANALYTICS SOFTWARE; TO REQUIRE OPERATORS TO TAKE REASONABLE STEPS TO DETECT AND PREVENT FRAUD; TO REQUIRE OPERATORS TO OFFER CUSTOMER SERVICE; TO PROVIDE ADDITIONAL PROTECTIONS FOR ELDER ADULTS; TO REQUIRE OPERATORS TO DESIGNATE AND EMPLOY A CHIEF COMPLIANCE OFFICER; TO PROVIDE ADDITIONAL POWERS TO THE COMMISSIONER UNDER THE MONEY TRANSMISSION MODERNIZATION ACT; TO PROVIDE THAT ALL PROPERTY USED IN THE COUSE OF CERTAIN CRIMES IS SUBJECT TO CIVIL FORFEITURE; TO AUTHORIZE THE ATTORNEY GENERAL OR ANY LAW ENFORCEMENT AGENCY TO SEIZE PROPERTY ACCORDING TO CERTAIN CONDITIONS; TO PROVIDE FOR ISSUANCE OF WARRANTS; TO PROVIDE FOR RELEASE OF SEIZED PROPERTY SUBJECT TO CERTAIN REQUIREMENTS; TO PROVIDE FOR RETURN OF STOLEN PROPERTY UPON MEETING CERTAIN REQUIREMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

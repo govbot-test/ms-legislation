@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2445",
+  "title": "DMH; require to promulgate performance standards and perform periodic audits to assess Community Mental Health Centers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2445"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2445CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2445CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2445IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2445IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2445CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2445.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-4-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE DEPARTMENT OF MENTAL HEALTH SHALL DEVELOP AND PROMULGATE A RATING SCALE WITH PERFORMANCE STANDARDS TO USE IN PERFORMANCE AUDITS OF COMMUNITY MENTAL HEALTH CENTERS; TO REQUIRE THE DEPARTMENT TO DEVELOP AND PROMULGATE THE PERFORMANCE STANDARDS BY JUNE 30, 2027; TO PROVIDE THAT THE DEPARTMENT SHALL BEGIN CONDUCTING PERFORMANCE AUDITS DURING FISCAL YEAR 2028; TO REQUIRE THE DEPARTMENT TO PERFORM A PERFORMANCE AUDIT OF EACH COMMUNITY MENTAL HEALTH CENTER AT LEAST ONCE EVERY TWO YEARS; TO PROVIDE THAT THE DEPARTMENT SHALL PLACE ON A SIX-MONTH PROBATIONARY PERIOD REGIONAL COMMISSIONS OR COMMUNITY MENTAL HEALTH CENTERS THAT DO NOT ACHIEVE A PASSING SCORE ON A PERFORMANCE AUDIT; TO PROVIDE THAT IF THE COMMUNITY MENTAL HEALTH CENTER DOES NOT ACHIEVE A PASSING SCORE ON THE PERFORMANCE AUDIT AFTER THE PROBATIONARY PERIOD, THE REGIONAL COMMISSION SHALL REPLACE THE COMMUNITY MENTAL HEALTH CENTER'S EXECUTIVE DIRECTOR AND ANY OTHER OFFICERS IDENTIFIED BY THE DEPARTMENT WITH CONTRACTORS; TO PROVIDE THAT THE CONTRACTOR OR CONTRACTORS SHALL REMAIN IN PLACE UNTIL THE DEPARTMENT DETERMINES THAT THE COMMUNITY MENTAL HEALTH CENTER HAS ATTAINED SUSTAINED COMPLIANCE WITH THE PERFORMANCE STANDARDS; TO PROVIDE THAT NO RULES, REGULATIONS, OPERATIONAL STANDARDS, PERFORMANCE STANDARDS OR OTHER STANDARDS PROMULGATED BY THE BOARD OF MENTAL HEALTH OR THE DEPARTMENT SHALL BE CONSTRUED TO CREATE A CAUSE OF ACTION; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM THE PUBLIC PROCUREMENT REVIEW BOARD APPROVAL OF ANY PERSONAL OR PROFESSIONAL SERVICES CONTRACT ENTERED INTO BY THE DEPARTMENT OF MENTAL HEALTH IN CARRYING OUT ITS RESPONSIBILITIES SET FORTH IN SECTION 41-4-7(MM); TO REPEAL SECTIONS 41-20-1, 41-20-3, 41-20-5, 41-20-7, 41-20-9 AND 41-20-11, MISSISSIPPI CODE OF 1972, WHICH CREATE WITHIN THE DEPARTMENT OF FINANCE AND ADMINISTRATION A POSITION KNOWN AS THE COORDINATOR OF MENTAL HEALTH ACCESSIBILITY; PROVIDE FOR APPOINTMENT, QUALIFICATIONS, EXPENSES AND SALARY FOR THE POSITION; ESTABLISH POWERS, DUTIES AND DISCRETIONARY RESPONSIBILITIES OF THE POSITION; REQUIRE INTER-AGENCY COOPERATION WITH THE COORDINATOR OF MENTAL HEALTH ACCESSIBILITY IN PERFORMING OF HIS OR HER DUTIES; SET FORTH DEFINITIONS AND RELATED PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

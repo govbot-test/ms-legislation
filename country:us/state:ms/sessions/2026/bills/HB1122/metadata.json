@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1122",
+  "title": "Mississippi Department of Inforamtion Technology; bring forward code sections related to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1122"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1122IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1122IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1122IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1122.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BRING FORWARD SECTIONS 1-1-59, 7-1-403, 7-7-3, 19-5-307, 23-15-165, 25-53-1, 25-53-3, 25-53-5, 25-53-7, 25-53-9, 25-53-11, 25-53-13, 25-53-15, 25-53-17, 25-53-19, 25-53-21, 25-53-23, 25-53-25, 25-53-29, 25-53-51, 25-53-53, 25-53-55, 25-53-57, 25-53-59, 25-53-101, 25-53-105, 25-53-107, 25-53-109, 25-53-111, 25-53-113, 25-53-115, 25-53-117, 25-53-119, 25-53-121, 25-53-123, 25-53-125, 25-53-151, 25-53-171, 25-53-191, 25-53-193, 25-53-201, 25-53-231, 25-53-233, 25-53-235, 25-53-237, 25-53-239, 25-53-241, 25-53-251, 25-53-253, 25-53-255, 25-53-257, 25-53-261, 25-53-263, 25-53-281, 25-53-301, 27-7-83, 27-65-81, 27-104-165, 27-115-49, 31-7-10, 31-7-13, 37-101-413, 37-154-1, 41-143-1, 43-1-28, 45-27-7, 49-37-7, 57-13-23, 63-9-31, 63-21-18, 73-34-8, 75-12-33 AND 89-5-109, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTIONS 25-53-259 AND 25-58-21, MISSISSIPPI CODE OF 1972, TO MAKE MINOR, NONSUBSTANTIVE CHANGES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

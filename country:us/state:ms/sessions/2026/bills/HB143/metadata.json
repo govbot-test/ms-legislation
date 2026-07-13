@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB143",
+  "title": "Birthing centers; delete requirement to have written transfer agreement with a hospital in order to be licensed.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb143"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0143IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0143IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0143IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0143.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-77-7, MISSISSIPPI CODE OF 1972, TO DELETE THE REQUIREMENT FOR BIRTHING CENTERS TO OBTAIN A WRITTEN TRANSFER AGREEMENT WITH A HOSPITAL THAT HAS AN ORGANIZED OBSTETRICAL SERVICE AND PROVIDES SUCH SERVICE ON A CONTINUING BASIS, STATING THAT THE HOSPITAL AGREES TO ACCEPT FROM THE BIRTHING CENTER SUCH CASES AS MAY NEED TO BE REFERRED FROM THE BIRTHING CENTER; TO REQUIRE LICENSED BIRTHING CENTERS TO ESTABLISH A WRITTEN TRANSFER PLAN THAT INVOLVES APPROPRIATE LEVELS OF CARE WHEN CLIENT CONDITIONS REQUIRE IT, AND TO PERIODICALLY PROVIDE A LOCAL HOSPITAL WITH WRITTEN NOTICE OF ITS OPERATIONS AND PATIENT POPULATION SERVED; TO PROVIDE THAT IN ORDER TO BE LICENSED, A BIRTHING CENTER MUST BE IN COMPLIANCE WITH THE AMERICAN ASSOCIATION OF BIRTH CENTERS'S (AABC) STANDARDS FOR BIRTH CENTERS, INCLUDING ESTABLISHING A WRITTEN TRANSFER PLAN; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

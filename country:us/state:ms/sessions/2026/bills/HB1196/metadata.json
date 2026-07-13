@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1196",
+  "title": "Polygraph examiners law; revise to include computer voice stress analyzer examiners and authorize use of CVSA examinations.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1196"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hobgood-Wilkes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hobgood-Wilkes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1196IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1196IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1196IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hobgood-Wilkes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1196.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 73-29-1, 73-29-3, 73-29-5, 73-29-7, 73-29-11, 73-29-13, 73-29-19, 73-29-21, 73-29-23, 73-29-25, 73-29-27, 73-29-29, 73-29-31, 73-29-33, 73-29-35, 73-29-37, 73-29-45 AND 73-29-47, MISSISSIPPI CODE OF 1972, WHICH ARE PROVISIONS OF THE POLYGRAPH EXAMINERS LAW, TO RENAME THE LAW AS \"THE POLYGRAPH AND COMPUTER VOICE STRESS ANALYZER EXAMINERS LAW\"; TO AUTHORIZE THE USE OF POLYGRAPH EXAMINATIONS OR COMPUTER VOICE STRESS ANALYZER (CVSA) EXAMINATIONS TO VERIFY TRUTH IN STATEMENTS OR DETECTING DECEPTIONS MADE BY INDIVIDUALS SUBJECT TO SUCH EXAMINATIONS; TO CONFORM PROVISIONS RELATED TO THE EXAMINER'S BOARD, QUALIFICATIONS OF INDIVIDUALS TO BE LICENSED AS POLYGRAPH OR CVSA EXAMINERS, LICENSURE RECIPROCITY, SCHEDULING OF FEES, TERMS OF LICENSE AND DISCIPLINARY ACTIONS AGAINST EXAMINERS LEADING TO THE DENIAL SUSPENSION OR REVOCATION OF THE LICENSE, AND ILLEGAL ACTIVITIES OF EXAMINERS; TO AMEND SECTIONS 45-1-21, 45-3-47 AND 99-1-27, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO BRING FORWARD SECTIONS 73-29-9, 73-29-15, 73-29-17, 73-29-39, 73-29-41 AND 73-29-43, MISSISSIPPI CODE OF 1972, FOR PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

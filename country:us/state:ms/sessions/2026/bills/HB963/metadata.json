@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB963",
+  "title": "Law enforcement officers and firefighters; certain shall receive one additional year of creditable services in PERS for every 5 years of service.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb963"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McMillan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McMillan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0963IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0963IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0963IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMillan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0963.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-11-109, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR A FIRST RESPONDERS RETIREMENT INCENTIVE UNDER WHICH LAW ENFORCEMENT OFFICERS AND FIREFIGHTERS WHO BECAME MEMBERS OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM ON OR AFTER JULY 1, 2011, AND WHO HAVE AT LEAST FOUR YEARS OF MEMBERSHIP SERVICE CREDIT SHALL BE ENTITLED TO RECEIVE ONE ADDITIONAL YEAR OF CREDITABLE SERVICE FOR EVERY FIVE YEARS OF SERVICE AS A FIRST RESPONDER IN THE STATE OF MISSISSIPPI, AT NO COST TO THE MEMBER; TO AMEND SECTION 25-11-127, MISSISSIPPI CODE OF 1972, TO AUTHORIZE RETIRED MEMBERS OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM TO BE EMPLOYED AS A LAW ENFORCEMENT OFFICER WITH A LAW ENFORCEMENT DEPARTMENT THAT HAS A CRITICAL NEED FOR OR SHORTAGE OF LAW ENFORCEMENT OFFICERS AND DRAW THE FULL AMOUNT OF THE RETIREMENT ALLOWANCE, DURING WHICH TIME THE RETIREE MAY WORK THE FULL NUMBER OF NORMAL WORKING DAYS FOR THE POSITION AND RECEIVE THE FULL AMOUNT OF THE SALARY IN EFFECT FOR THE POSITION AT THE TIME OF EMPLOYMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

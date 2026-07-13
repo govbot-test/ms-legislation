@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Motion to Reconsider Tabled",
+    "occurred_at": "2026-01-22T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0534PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0534.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB534"
+}

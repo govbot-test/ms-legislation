@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB742",
+  "title": "Annual highway privilege tax for farm and agricultural operations; provide alternative manner for submitting payments of to county tax collector.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb742"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elliott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0742IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0742IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0742IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Elliott.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Thompson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0742.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REVISE AND CLARIFY PROVISIONS GOVERNING THE ANNUAL HIGHWAY PRIVILEGE (ROAD AND BRIDGE) TAX FOR COMMERCIAL MOTOR VEHICLES AND CARRIERS OF PROPERTY OPERATING UNDER HARVEST PERMITS BY CREATING AN ALTERNATIVE MEANS OF MAKING PAYMENTS OF TAXES IN PERSON TO THE COUNTY TAX COLLECTOR; TO AMEND SECTION 27-19-11, MISSISSIPPI CODE OF 1972, TO CLARIFY WEIGHT LIMITS MINIMUMS; TO AMEND SECTION 27-19-19, MISSISSIPPI CODE OF 1972, TO AUTHORIZE IN-PERSON PAYMENT OF  PRIVILEGE TAXES FOR AGRICULTURAL OPERATIONS WITH VALID HARVEST PERMITS, TO PROVIDE FOR TIMELY REMITTANCE AND ADMINISTRATIVE RETENTION BY COUNTY TAX COLLECTORS; TO BRING FORWARD SECTION 27-19-81, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 63-1-35, MISSISSIPPI CODE OF 1972, TO INCLUDE COMMERCIAL DRIVER'S LICENSE TO BE MADE AVAILABLE IN DIGITAL FORMAT CONSISTENT WITH THE MISSISSIPPI MOBILE ID; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

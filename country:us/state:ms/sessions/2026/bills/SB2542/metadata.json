@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2542",
+  "title": "Mississippi Maternal Health Protection Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2542"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gillespie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gillespie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2542IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2542IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2542IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Gillespie_Isom.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2542.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI MATERNAL HEALTH PROTECTION ACT; TO REQUIRE PUBLIC HEALTH PROGRAMS TO PROVIDE A MINIMUM OF 12 MONTHS OF POSTPARTUM CARE, INCLUDING MENTAL HEALTH AND SUBSTANCE USE TREATMENT; TO REQUIRE TIMELY POSTPARTUM FOLLOW-UP APPOINTMENTS BY PUBLIC HOSPITALS AND CLINICS; TO REQUIRE PUBLIC HEALTH FACILITIES TO ADOPT CERTAIN EVIDENCE-BASED MATERNAL SAFETY PROTOCOLS AND TO REPORT MATERNAL MORBIDITY DATA TO THE DEPARTMENT; TO AUTHORIZE THE DEPARTMENT TO ISSUE CORRECTIVE ACTION PLANS FOR PUBLIC HEALTH FACILITIES THAT FAIL TO IMPLEMENT SAFETY PROTOCOLS; TO AUTHORIZE THE MATERNAL MORTALITY REVIEW COMMITTEE ESTABLISHED UNDER SECTION 41-112-1 TO REVIEW ALL PREGNANCY-RELATED DEATHS WITHIN THE STATE, TO IDENTIFY SYSTEMIC CAUSES ASSOCIATED WITH SUCH DEATHS AND TO PUBLISH AN ANNUAL REPORT WITH RECOMMENDATIONS FOR PREVENTING SUCH DEATHS; TO DIRECT THE DEPARTMENT TO ESTABLISH A MATERNAL EMERGENCY TRANSPORTATION FUND AND TO OUTLINE OBJECTIVES AND APPROVED FUND USES; TO SET FORTH LEGISLATIVE FINDINGS; TO DEFINE CERTAIN TERMS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

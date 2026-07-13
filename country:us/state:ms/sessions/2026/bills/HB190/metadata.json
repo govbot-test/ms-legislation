@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB190",
+  "title": "Professional School Counselors Pilot Program; establish in certain school districts with high incidences of teen pregnancy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb190"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0190IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0190IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0190IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0190.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE STATE BOARD OF EDUCATION, ACTING JOINTLY WITH THE STATE BOARD OF HEALTH AND THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES, TO ESTABLISH A PROFESSIONAL SCHOOL COUNSELORS PILOT PROGRAM; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION, THE STATE DEPARTMENT OF HEALTH AND THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES TO DETERMINE THE SCHOOL DISTRICTS IN WHICH THE PILOT PROGRAM WILL BE IMPLEMENTED; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION, THE STATE DEPARTMENT OF HEALTH AND THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES TO EVALUATE THE EFFECTIVENESS OF THE PILOT PROGRAM; TO PROHIBIT ANY EFFORT TO COUNSEL THAT ABORTION CAN BE USED TO PREVENT THE BIRTH OF A BABY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION, WITH THE INPUT OF THE STATE DEPARTMENT OF HEALTH AND THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES, TO SUBMIT A REPORT ON THE PILOT PROGRAM TO THE CHAIRMEN OF CERTAIN LEGISLATIVE COMMITTEES BEFORE JANUARY 1, 2031; TO AMEND SECTION 37-9-79, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2746",
+  "title": "Older Mississippians Act; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Government Structure",
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2746"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid;Government Structure",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: ME To GS",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2746IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2746IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2746IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2746.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 43-10-1, MISSISSIPPI CODE OF 1972, TO CREATE THE \"OLDER MISSISSIPPIANS ACT\"; TO CREATE NEW SECTION 43-10-3, MISSISSIPPI CODE OF 1972, TO PROVIDE LEGISLATIVE PURPOSE; TO CREATE NEW SECTION 43-10-5, MISSISSIPPI CODE OF 1972, TO DEFINE CERTAIN TERMS RELATING TO THIS ACT; TO CREATE NEW SECTION 43-10-7, MISSISSIPPI CODE OF 1972, TO DESIGNATE THE DIVISION OF AGING AND ADULT SERVICES (DIVISION) OF THE MISSISSIPPI DEPARTMENT OF HUMAN SERVICES AS THE STATE UNIT ON AGING TO MANAGE CERTAIN PROGRAMS RELATED TO THE OLDER ADULT POPULATION; TO CREATE NEW SECTION 43-10-9, MISSISSIPPI CODE OF 1972, TO SET FORTH DUTIES AND RESPONSIBILITIES OF THE DIVISION AND TO REQUIRE THE DIVISION TO ESTABLISH CERTAIN POLICIES AND PROCEDURES; TO CREATE NEW SECTION 43-10-11, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DIVISION TO ADOPT RULES TO IMPLEMENT THE PROVISIONS OF THIS ACT; TO REPEAL SECTIONS 43-9-1 THROUGH 43-9-47, MISSISSIPPI CODE OF 1972, WHICH ARE THE PROVISIONS OF LAW THAT CONSTITUTE THE MISSISSIPPI OLD AGE SECURITY LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

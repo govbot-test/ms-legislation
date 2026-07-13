@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1657",
+  "title": "MS Triage, Treat and Transport to Alternative Destination Act; revise provisions related to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1657"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Deweese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Deweese\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1657IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1657IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1657IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Deweese.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1657.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 83-9-371, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE USE OF TELEMEDICINE WHEN TREATING OR ASSESSING AN ENROLLEE IN A HEALTH BENEFIT PLAN IN PLACE; TO AMEND SECTION 83-9-373, MISSISSIPPI CODE OF 1972, TO REVISE THE MINIMUM ALLOWABLE REIMBURSEMENT RATE FOR AN OUT-OF-NETWORK AMBULANCE SERVICE PROVIDER WHEN THE REIMBURSEMENT RATES HAVE NOT BEEN CONTRACTED FOR; TO REQUIRE THE DEPARTMENT OF INSURANCE TO PUBLISH THE CONTRACTED RATES; TO PROVIDE WHAT MUST BE INCLUDED IN AN EXPLANATION OF BENEFITS DOCUMENT REGARDING THE AMBULANCE SERVICE PROVIDER'S CHARGES FOR CERTAIN PURPOSES; TO PROVIDE THAT AN AMBULANCE SERVICE PROVIDER SHALL BE PAID IN ACCORDANCE WITH THE ASSIGNMENT OF BENEFITS; TO REQUIRE THE COMMISSIONER OF INSURANCE TO ENFORCE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

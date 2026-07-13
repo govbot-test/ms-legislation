@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2748",
+  "title": "Real estate brokers; revise various definitions and provisions related to licensees.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2748"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2748CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2748CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2748IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2748IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2748CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2748.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-35-3, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"BROKERAGE AGREEMENT\" AND REVISE ADDITIONAL DEFINITIONS RELATED TO REAL ESTATE BROKERS; TO AMEND SECTION 73-35-15, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT UPON TERMINATION OF A LICENSEE'S AGENCY, THE PRINCIPAL BROKER SHALL WITHIN THREE DAYS ACKNOWLEDGE THE TRANSFER OF THE LICENSEE SO THAT A NEW LICENSE MAY BE ISSUED; TO AMEND SECTION 73-35-17, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WRITTEN NOTICE FOR THE PURPOSE OF NOTIFYING A LICENSEE OF FAILURE TO PAY HIS OR HER RENEWAL FEE SHALL BE DELIVERED TO THE LICENSEE AND, IF APPLICABLE, TO HIS OR HER RESPONSIBLE BROKER, TO THE EMAIL ADDRESS FOR THE LICENSEE AND BROKER ON FILE WITH THE MISSISSIPPI REAL ESTATE COMMISSION; TO AMEND SECTION 73-35-21, MISSISSIPPI CODE OF 1972, TO CHANGE THE MEANING OF \"REASONABLE TIME\" FROM THE NEXT BANKING DAY TO TWO BANKING DAYS IMMEDIATELY FOLLOWING THE DATE ON WHICH A LICENSEE COMES INTO POSSESSION OF MONIES BELONGING TO OTHERS OR ON WHICH A RESPONSIBLE BROKER TAKES OR RECEIVES ANY CASH OR CHECKS FROM PROCURING THE EXECUTION OF AN EARNEST MONEY CONTRACT OR OPTION OR OTHER CONTRACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

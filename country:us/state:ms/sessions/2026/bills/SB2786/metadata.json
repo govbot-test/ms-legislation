@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2786",
+  "title": "Water districts; allow for dissolution and reorganization as association.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2786"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berry\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2786IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2786IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2786IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Berry.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2786.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 19-5-151, MISSISSIPPI CODE OF 1972, TO AUTHORIZE CERTAIN UTILITY DISTRICTS TO DISSOLVE WHENEVER A MAJORITY OF THE LANDOWNERS OF ANY SUCH DISTRICT SIGN AND FILE WITH THE CLERK OF THE CHANCERY COURT BY WHICH SUCH DISTRICT WAS ORGANIZED, OR IN THE COUNTY IN WHICH SUCH DISTRICT WAS ORGANIZED, A PETITION FOR THE DISSOLUTION OF SUCH DISTRICT; TO PROVIDE THAT IF THE COMMISSIONERS OF A WATER DISTRICT WISH TO ESTABLISH A WATER ASSOCIATION, THE COURT ORDER OF DISSOLUTION SHALL ALSO DECREE THAT COMMISSIONERS INCORPORATE AS A WATER ASSOCIATION UNDER THE MISSISSIPPI NONPROFIT CORPORATION ACT; TO BRING FORWARD SECTION 19-5-165, MISSISSIPPI CODE OF 1972, WHICH RELATES TO NEWLY FORMED WATER DISTRICT ASSETS AND LIABILITIES, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

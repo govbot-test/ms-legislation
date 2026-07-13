@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2571",
+  "title": "Foster Youth Earned Benefits Protection for Success Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2571"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Taylor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2571IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2571IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2571IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Taylor.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2571.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DIRECT THE MISSISSIPPI DEPARTMENT OF CHILD PROTECTION SERVICES (DEPARTMENT), FOR ANY CHILD IN THE CARE AND CUSTODY OF THE DEPARTMENT, TO DETERMINE WITHIN SIXTY (60) DAYS AFTER ENTRY INTO CARE WHETHER THE CHILD IS RECEIVING OR IS ELIGIBLE FOR CERTAIN EARNED FEDERAL BENEFITS; TO DIRECT THE DEPARTMENT TO APPLY FOR SUCH BENEFITS ON BEHALF OF THE CHILD IF A DETERMINATION IS MADE THAT THE CHILD IS OR MAY BE ELIGIBLE; TO DIRECT THE DEPARTMENT TO APPLY TO BECOME THE CHILD'S REPRESENTATIVE PAYEE IF NO OTHER SUITABLE CANDIDATE IS AVAILABLE; TO PROVIDE THE DEPARTMENT'S OBLIGATIONS IF APPOINTED TO SERVE AS THE REPRESENTATIVE PAYEE; TO PROVIDE THAT THE DEPARTMENT SHALL DEVELOP AND IMPLEMENT A SUCCESS SEQUENCE SAVINGS AND DISBURSEMENT PLAN FOR EACH CHILD WITH CONSERVED EARNED BENEFITS; TO ENABLE A CHILD TO ACCESS A PORTION OF CONSERVED BENEFITS UPON COMPLETION OF SPECIFIC MILESTONES THAT PROMOTE INDEPENDENCE AND FINANCIAL READINESS; TO PROVIDE FOR THE RELEASE OF ANY REMAINING CONSERVED BENEFITS UPON TERMINATION OF THE DEPARTMENT'S CUSTODY OR LEGAL RESPONSIBILITY FOR THE CHILD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

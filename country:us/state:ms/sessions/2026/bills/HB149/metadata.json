@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB149",
+  "title": "Military education credits and certifications; require IHL, MCCB and SWIB to develop a policy for the acceptance of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb149"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Workforce Development",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0149IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0149IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0149IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0149.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT THE STATE WORKFORCE INVESTMENT BOARD OR AN APPLICABLE OCCUPATIONAL LICENSING BOARD SHALL ACCEPT MILITARY EDUCATION, TRAINING AND SERVICE AS QUALIFIED CREDENTIALS  OTHERWISE REQUIRED OF AN APPLICANT FOR A LICENSE OR CERTIFICATE; TO DEFINE TERMS USED IN THIS ACT; TO SPECIFY THE PROFESSIONAL OCCUPATIONS AND OCCUPATIONAL LICENSING BOARDS TO WHICH THE PROVISIONS OF THIS ACT APPLY; TO REQUIRE EVIDENCE OF SUCCESSFUL COMPLETION OF THE EDUCATION, TRAINING OR SERVICE AS A MEMBER OF THE ARMED FORCES OF THE UNITED STATES, THE UNITED STATES RESERVES, THE NATIONAL GUARD OF ANY STATE, THE MILITARY RESERVES OF ANY STATE OR THE NAVAL MILITIA OF ANY STATE TO QUALIFY FOR SUCH BENEFIT; TO PRESCRIBE THE PROCESS BY WHICH ELIGIBLE INDIVIDUALS SHALL ADHERE TO IN APPLYING FOR A TEMPORARY PRACTICE PERMIT, LICENSE OF CERTIFICATION; TO REQUIRE THE STATE WORKFORCE INVESTMENT BOARD OR APPLICABLE OCCUPATIONAL LICENSING BOARD TO EXPEDITE THE PROCEDURE FOR ISSUANCE OF A LICENSE OR CERTIFICATE FOR APPLICANTS WHO ARE ON ACTIVE DUTY; TO AMEND SECTION 37-101-13, MISSISSIPPI CODE OF 1972, TO REQUIRE THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING AND THE MISSISSIPPI COMMUNITY COLLEGE BOARD TO REQUIRE THE POSTSECONDARY INSTITUTIONS UNDER THEIR GOVERNANCE TO IMPLEMENT A POLICY AND PROCEDURE FOR THE ACCEPTANCE OF ACADEMIC CREDITS RECEIVED BY MEMBERS OF THE ARMED FORCES OF THE UNITED STATES UPON PRESENTATION OF EVIDENCE OF SUCCESSFUL COMPLETION OF RELEVANT MILITARY EDUCATION, TRAINING OR SERVICE; TO AMEND SECTION 37-153-7, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE WORKFORCE INVESTMENT BOARD, IN CONJUNCTION WITH THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING AND THE MISSISSIPPI COMMUNITY COLLEGE BOARD TO FACILITATE THE DEVELOPMENT AND IMPLEMENTATION OF A STATEWIDE POLICY AND PROCEDURE FOR THE ACCEPTANCE OF ACADEMIC CREDITS RECEIVED BY MEMBERS OF THE ARMED FORCES OF THE UNITED STATES UPON PRESENTATION OF EVIDENCE OF SUCCESSFUL COMPLETION OF RELEVANT MILITARY EDUCATION, TRAINING OR SERVICE; TO AMEND SECTION 73-50-1, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

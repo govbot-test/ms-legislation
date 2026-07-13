@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB416",
+  "title": "Youth Employment Grant Program; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb416"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Appropriations A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karriem",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0416IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0416IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0416IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0416.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A YOUTH EMPLOYMENT GRANT PROGRAM TO BE ADMINISTERED BY THE DEPARTMENT OF EMPLOYMENT SECURITY FOR THE PURPOSE OF ASSISTING MUNICIPALITIES WITH THE COSTS OF PROVIDING EMPLOYMENT FOR YOUTH; TO PROVIDE THAT IN ORDER FOR A MUNICIPALITY TO BE ELIGIBLE FOR A GRANT UNDER THE PROVISIONS OF THIS ACT, THE MUNICIPALITY MUST PRESENT TO THE DEPARTMENT OF EMPLOYMENT SECURITY A PLAN FOR EMPLOYING YOUTH IN THE MUNICIPALITY AND MUST AGREE TO PROVIDE MATCHING FUNDS EQUAL TO TWENTY PERCENT OF THE AMOUNT OF THE GRANT; TO CREATE IN THE STATE TREASURY A SPECIAL FUND TO BE KNOWN AS THE YOUTH EMPLOYMENT GRANT PROGRAM FUND; TO PROVIDE THAT THE FUND WILL CONSIST OF MONIES APPROPRIATED BY THE LEGISLATURE FOR FUNDING THE PROGRAM, AND ANY OTHER MONIES THAT THE LEGISLATURE MAY DESIGNATE FOR DEPOSIT INTO THE FUND; TO PROVIDE THAT MONIES IN THE FUND MAY BE EXPENDED UPON LEGISLATIVE APPROPRIATION FOR MAKING GRANTS TO MUNICIPALITIES FOR THE PURPOSES SPECIFIED IN THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB569",
+  "title": "Wastewater disposal systems; reduce time by which SDH must determine feasibility or suitability of establishing in subdivisions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Utilities"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb569"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Utilities",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Remak",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0569IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0569IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0569IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0569.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-67-4, MISSISSIPPI CODE OF 1972, TO REDUCE THE TIME BY WHICH THE STATE DEPARTMENT OF HEALTH MUST MAKE A DETERMINATION OF THE FEASIBILITY OF ESTABLISHING CENTRALIZED WASTEWATER TREATMENT SYSTEMS IN A SUBDIVISION WHEN A DEVELOPER REQUESTS A DETERMINATION OF FEASIBILITY; TO AMEND SECTION 41-67-6, MISSISSIPPI CODE OF 1972, TO REDUCE THE TIME BY WHICH THE STATE DEPARTMENT OF HEALTH MUST MAKE A DETERMINATION OF SUITABILITY OF INDIVIDUAL ON-SITE WASTEWATER DISPOSAL SYSTEMS IN A SUBDIVISION WHEN A DEVELOPER REQUESTS A DETERMINATION OF SUITABILITY; TO BRING FORWARD SECTIONS 41-67-7 AND 41-67-11, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1069",
+  "title": "\"MS Agricultural and Farmland Wind Tower Protection Act of 2026\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1069"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hale",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hale\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1069IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1069IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1069IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hale.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1069.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI AGRICULTURAL AND FARMLAND WIND TOWER PROTECTION ACT OF 2026; TO DEFINE AND REGULATE WIND TOWER FACILITIES; TO VEST EXCLUSIVE SITING, PERMITTING AND OPERATIONAL AUTHORITY IN THE MISSISSIPPI PUBLIC SERVICE COMMISSION; TO REQUIRE CERTIFICATES OF PUBLIC CONVENIENCE AND NECESSITY, ENVIRONMENTAL AND AGRICULTURAL IMPACT ASSESSMENTS, PUBLIC NOTICE AND LANDOWNER CONSENT; TO IMPOSE STATEWIDE SETBACK REQUIREMENTS TO PROTECT AGRICULTURAL LANDS, AERIAL AGRICULTURAL OPERATIONS, RESIDENCES AND PUBLIC BUILDINGS; TO PROHIBIT WIND TOWER FACILITIES NEAR WILDLIFE REFUGES, WETLANDS, MIGRATORY BIRD CORRIDORS AND CRITICAL HABITATS; TO REQUIRE FINANCIAL ASSURANCE AND DECOMMISSIONING BONDS FOR SITE RESTORATION; TO SUBJECT WIND TOWER FACILITIES TO PUBLIC UTILITY LAWS; TO AUTHORIZE RULEMAKING AND INTERAGENCY CONSULTATION; TO CREATE THE WIND TOWER AGRICULTURAL AND ENVIRONMENTAL IMPACTS STUDY COMMITTEE AND REQUIRE A LEGISLATIVE REPORT; TO PROVIDE ENFORCEMENT AUTHORITY, CIVIL PENALTIES AND REMEDIATION REMEDIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

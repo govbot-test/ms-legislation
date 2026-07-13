@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1627",
+  "title": "Voting rights; person may have restored in certain circumstances.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1627"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections;Judiciary B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wallace",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wallace\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1627IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1627IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1627IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Wallace.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1627.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PERSON WHO IS OTHERWISE A QUALIFIED ELECTOR AND HAS BEEN CONVICTED OF CERTAIN DISENFRANCHISING CRIMES, EXCEPT FOR ARSON, ARMED ROBBERY, CARJACKING, EMBEZZLEMENT, MURDER, RAPE, SEXUAL BATTERY, HUMAN TRAFFICKING, CHILD EXPLOITATION, COMMERCIAL SEXUAL ACTIVITY, OR STATUTORY RAPE, SHALL HAVE HIS OR HER RIGHT TO VOTE REVOKED, BUT SHALL HAVE THE RIGHT TO VOTE AUTOMATICALLY RESTORED AFTER HE OR SHE HAS SATISFIED ALL OF THE SENTENCING REQUIREMENTS OF THE CONVICTION; TO AMEND SECTIONS 23-15-19, 23-15-125, 23-15-151, 23-15-153 AND 23-15-165, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTIONS 97-39-3 AND 99-19-37, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

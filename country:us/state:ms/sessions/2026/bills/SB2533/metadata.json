@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2533",
+  "title": "Mississippi Immunization Privacy and Parental Rights Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2533"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2533IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2533IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2533IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2533.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI IMMUNIZATION PRIVACY AND PARENTAL RIGHTS ACT; TO SET FORTH THE PURPOSE OF AND TO DEFINE TERMS USED IN THIS ACT; TO PROVIDE THAT NO INDIVIDUAL SHALL BE REQUIRED TO HAVE THEIR IMMUNIZATION INFORMATION STORED OR MAINTAINED IN THE MISSISSIPPI IMMUNIZATION INFORMATION EXCHANGE (MIIX), THAT PARENTS SHALL HAVE THE RIGHT TO OPT THEIR MINOR CHILDREN OUT OF MIIX AT ANY TIME, AND THAT ADULTS SHALL HAVE THE RIGHT TO OPT THEMSELVES OUT OF MIIX AT ANY TIME; TO REQUIRE INFORMED CONSENT PRIOR TO ENTRY INTO MIIX; TO SET FORTH THE OPT-OUT PROCEDURE; TO ENABLE TIMELY DATA REMOVAL FROM MIIX UPON RECEIPT OF AN OPT-OUT REQUEST; TO PROHIBIT DISCRIMINATION OR DENIAL OF SERVICES FOR ELECTING TO OPT-OUT; TO SET FORTH PENALTIES FOR VIOLATIONS; TO DIRECT THE MISSISSIPPI STATE DEPARTMENT OF HEALTH TO PROMULGATE RULES TO IMPLEMENT THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

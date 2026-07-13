@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB90",
+  "title": "Children's Advocacy Commission; create to coordinate and streamline the state's efforts to provide services to children.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb90"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0090IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0090IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0090IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0090.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE CHILDREN'S ADVOCACY COMMISSION; TO PROVIDE THAT THE COMMISSION IS CHARGED WITH COORDINATING AND STREAMLINING THE STATE'S EFFORTS TO PROVIDE NEEDED SERVICES TO MISSISSIPPI'S CHILDREN; TO PROVIDE THE NUMBER OF MEMBERS ON THE COMMISSION; TO REQUIRE THE COMMISSION TO REPORT TO THE GOVERNOR AND CERTAIN COMMITTEES OF THE LEGISLATURE NOT LATER THAN DECEMBER 1 OF EACH YEAR; TO REQUIRE THE COMMISSION TO ADOPT INTERNAL ORGANIZATIONAL PROCEDURES NECESSARY FOR THE EFFICIENT OPERATION OF THE COMMISSION; TO AUTHORIZE THE COMMISSION TO ESTABLISH SUBCOMMITTEES FOR CONDUCTING SPECIFIC PROGRAMS AND ACTIVITIES; TO REQUIRE THE COMMISSION TO CREATE RESOURCE MAPS OF ALL FUNDS RECEIVED FOR PROGRAMS AND SERVICES THAT SUPPORT CHILDREN IN THIS STATE, TO ASSESS THE EFFECTIVENESS OF THOSE PROGRAMS AND SERVICES AND TO DETERMINE THE FEASIBILITY OF MERGING, CONTINUING OR DISCONTINUING THOSE PROGRAMS OR SERVICES; TO REQUIRE ALL AGENCIES, DEPARTMENTS, INSTITUTIONS AND POLITICAL SUBDIVISIONS OF THE STATE THAT PROVIDE PROGRAMS OR SERVICES TO CHILDREN IN THIS STATE TO CREATE AN ITEMIZED LIST OF THOSE PROGRAMS AND SERVICES, AND TO COOPERATE WITH THE COMMISSION; TO PROVIDE THAT THE ITEMIZED LISTS OF PROGRAMS AND SERVICES SHALL BE PROVIDED TO THE JOHN C. STENNIS INSTITUTE OF GOVERNMENT AT MISSISSIPPI STATE UNIVERSITY NOT LATER THAN SEPTEMBER 1 OF EACH YEAR; TO PROVIDE THAT THE STENNIS INSTITUTE SHALL COMPILE THE INFORMATION IN THOSE LISTS INTO ONE DOCUMENT, AND PROVIDE THE COMPILED INFORMATION TO THE COMMISSION AND CERTAIN COMMITTEES OF THE LEGISLATURE EACH YEAR; TO REQUIRE THE COMMISSION TO PROVIDE THE INFORMATION RECEIVED AND PREPARED BY IT TO THE DEPARTMENT OF HUMAN SERVICES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2374",
+  "title": "Ending Agency Overreach Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2374"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2374IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2374IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2374IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2374.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE ENDING AGENCY OVERREACH ACT; TO CREATE NEW SECTION 9-1-201, MISSISSIPPI CODE OF 1972, TO PROVIDE ON APPEAL, A COURT SHALL INTERPRET A STATUTE OR AGENCY RULE OR REGULATION DE NOVO; TO CREATE NEW SECTION 9-1-203, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO CIVIL PENALTY MAY BE AWARDED IN AN ACTION BROUGHT BY OR ON BEHALF OF AN ADMINISTRATIVE AGENCY OF THE STATE AGAINST ANY PERSON OR LEGAL ENTITY FOR CONDUCT THAT WOULD ALSO BE THE SUBJECT OF A SUIT AT COMMON LAW IN WHICH THE DEFENDANT WOULD BE ENTITLED TO TRIAL BY JURY, EXCEPT AFTER A TRIAL BY JURY BEFORE A CIRCUIT, COUNTY, OR CHANCERY COURT; TO AMEND SECTION 25-43-3.111, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A PERSON OR ENTITY TO CONTEST THE VALIDITY OF AN AGENCY RULE UP TO ONE YEAR AFTER THE DATE THE PERSON OR ENTITY BRINGING THE ACTION IS INJURED BY FINAL AGENCY ACTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

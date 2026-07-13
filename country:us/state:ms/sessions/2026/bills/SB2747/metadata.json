@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2747",
+  "title": "Mississippi Transparency in Consumer Legal Funding Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2747"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wiggins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2747IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2747IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2747IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2747.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI TRANSPARENCY IN CONSUMER LEGAL FUNDING ACT; TO PROVIDE THAT THE PURPOSE OF THE ACT IS TO PROMOTE CONSUMER PROTECTIONS RELATED TO CONSUMER LEGAL FUNDING TRANSACTIONS; TO DEFINE TERMS; TO PROVIDE REQUIREMENTS FOR LEGAL FUNDING CONTRACTS, INCLUDING SPECIFIC DISCLOSURES; TO REQUIRE ALL CONSUMER LEGAL FUNDING CONTRACTS TO CONTAIN A WRITTEN ACKNOWLEDGEMENT BY THE ATTORNEY RETAINED IN THE LEGAL CLAIM THAT ATTESTS TO CERTAIN STATEMENTS; TO PROVIDE FOR FAILURE TO MAKE REQUIRED ACKNOWLEDGEMENTS; TO PROHIBIT PREPAYMENT PENALTIES OR FEES; TO PROHIBIT CONSUMER LEGAL FUNDING COMPANIES FROM CERTAIN ACTIONS; TO PROHIBIT ATTORNEYS AND THEIR IMMEDIATE FAMILY MEMBERS FROM HAVING A FINANCIAL INTEREST IN A CONSUMER LEGAL FUNDING COMPANY OFFERING CONSUMER LEGAL FUNDING TO CONSUMERS WHO HAVE RETAINED THEM; TO PROVIDE FOR DISCLOSURE OF INFORMATION; TO PROVIDE FOR EXECUTION OF CONSUMER LEGAL FUNDING AGREEMENTS; TO PROVIDE FOR CONTRACTED AMOUNTS; TO PROVIDE FOR DISCLOSURES; TO PROVIDE PENALTIES FOR VIOLATIONS; TO PROVIDE FOR ASSIGNABILITY AND LIENS; TO PROHIBIT CERTAIN COMMUNICATIONS FROM BEING DISCOVERABLE; TO REQUIRE CONSUMER LEGAL FUNDING COMPANIES TO REGISTER WITH THE SECRETARY OF STATE; TO PROVIDE REGISTRATION PROCESSES; TO PROVIDE FOR SEVERABILITY OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

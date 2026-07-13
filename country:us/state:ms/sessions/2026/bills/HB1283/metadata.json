@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1283",
+  "title": "Medical examiners; require to document in autopsy report recent immunizations of persons who die suddenly and unexpectedly.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1283"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1283IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1283IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1283IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1283.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 41-61-60, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE AUTOPSY IN THE CASE OF AN INFANT OR CHILD WHO DIES SUDDENLY AND UNEXPECTEDLY MUST INCLUDE A REVIEW OF THE CHILD'S IMMUNIZATION AND MEDICAL RECORDS; TO REQUIRE THE MEDICAL EXAMINER TO DOCUMENT IN THE AUTOPSY REPORT ANY IMMUNIZATIONS OR EMERGENCY COUNTERMEASURES ADMINISTERED TO THE CHILD WITHIN 90 DAYS BEFORE THE CHILD'S DEATH AND REPORT THE CASE TO THE NATIONAL SUDDEN UNEXPECTED INFANT DEATH (SUID) AND SUDDEN DEATH IN THE YOUNG (SDY) CASE REGISTRY; TO PROVIDE THAT THE AUTOPSY IN THE CASE OF A SUDDEN DEATH SUSPECTED TO BE CAUSED BY SUDDEN ARRHYTHMIC DEATH SYNDROME IN AN INDIVIDUAL OF ANY AGE MUST INCLUDE A REVIEW OF THE INDIVIDUAL'S IMMUNIZATION AND MEDICAL RECORDS; TO REQUIRE THE MEDICAL EXAMINER TO DOCUMENT IN THE AUTOPSY REPORT ANY IMMUNIZATIONS OR EMERGENCY COUNTERMEASURES ADMINISTERED TO THE INDIVIDUAL WITHIN 90 DAYS BEFORE HIS OR HER DEATH AND REPORT THE CASE TO THE SUID AND SDY CASE REGISTRY IF THE INDIVIDUAL WAS YOUNGER THAN 20 YEARS OF AGE AT THE TIME OF DEATH; TO REQUIRE THE STATE MEDICAL EXAMINER TO IMPOSE ADMINISTRATIVE PENALTIES AGAINST MEDICAL EXAMINERS WHO FAIL TO REPORT CASES TO THE SUID AND SDY CASE REGISTRY AS REQUIRED WITHIN THIRTY 30 DAYS AFTER COMPLETING THE AUTOPSY REPORT; TO BRING FORWARD SECTIONS 41-61-59 AND 41-61-63, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

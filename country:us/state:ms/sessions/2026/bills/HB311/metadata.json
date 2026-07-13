@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB311",
+  "title": "CRNAs; not required to collaborate/consult with anesthesiologist during all phase of the anesthetic period.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb311"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0311IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0311IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0311IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0311.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-15-20, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A COLLABORATIVE/CONSULTATIVE RELATIONSHIP BETWEEN AN ADVANCED PRACTICE REGISTERED NURSE AND A PHYSICIAN OR DENTIST SHALL NOT REQUIRE THAT THE CARE OF A PATIENT BY THE ADVANCED PRACTICE REGISTERED NURSE BE DIRECTED BY THE DENTIST OR PHYSICIAN WHO IS IN THE COLLABORATIVE/CONSULTATIVE RELATIONSHIP WITH THE ADVANCED PRACTICE REGISTERED NURSE; TO PROVIDE THAT CERTIFIED REGISTERED NURSE ANESTHETISTS SHALL NOT BE REQUIRED TO COLLABORATE/CONSULT WITH A PHYSICIAN ANESTHESIOLOGIST DURING ALL PHASES OF THE ANESTHETIC PERIOD; TO PROVIDE THAT A PHYSICIAN OR DENTIST IN A COLLABORATIVE/CONSULTATIVE RELATIONSHIP WITH A CERTIFIED REGISTERED NURSE ANESTHETIST SHALL NOT BE REQUIRED TO BE IN A COLLABORATIVE/CONSULTATIVE RELATIONSHIP WITH A PHYSICIAN ANESTHESIOLOGIST; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

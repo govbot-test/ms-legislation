@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB194",
+  "title": "\"African-American Male Success Academy\"; require the SDE to establish to cultivate diversity of social skills and academic success.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb194"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0194IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0194IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0194IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0194.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE STATE DEPARTMENT OF EDUCATION, IN CONJUNCTION WITH THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING AND THE DEPARTMENT OF HUMAN SERVICES TO ESTABLISH AND IMPLEMENT THE \"AFRICAN-AMERICAN MALE SUCCESS ACADEMY\" FOR PUBLIC SCHOOL STUDENTS IN KINDERGARTEN THROUGH GRADE 8; TO PROVIDE THAT THE ACADEMY SHALL ASSIST PRACTITIONERS, TEACHERS AND SCHOOL LEADERS TO RECOGNIZE TO UNDERSTAND AND CULTIVATE THE DIVERSITY OF SOCIAL SKILLS AND SCHOOL SUCCESS OF YOUNG AFRICAN-AMERICAN MALE STUDENTS IN THE EARLY GRADES THROUGH A CULTURALLY RESPONSIVE AND STRENGTHS-BASED APPROACH TO INSTRUCTION; TO REQUIRE THE ACADEMY TO BE STRUCTURED AS A ONE SEMESTER COURSE OF INSTRUCTION THAT IS AGE AND GRADE APPROPRIATE FOR PARTICIPATING STUDENTS IN THE APPLICABLE  GRADES; TO PRESCRIBE THE MINIMUM INSTRUCTIONAL COMPONENTS REQUIRED TO BE TAUGHT IN THE ACADEMY; TO REQUIRE PARTICIPATING STUDENTS TO COMPLETE A SERIES OF TASKS DESIGNED TO ENHANCE THEIR ACADEMIC AND SOCIAL ABILITIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2527",
+  "title": "Solar decommissioning; create provisions concerning.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2527"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2527IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2527IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2527IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Carter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2527.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR DECOMMISSIONING OF SOLAR PANELS; TO DEFINE TERMS; TO PROVIDE REQUIREMENTS FOR SOLAR POWER FACILITY AGREEMENTS CONCERNING REMOVAL OR RESTORATION; TO REQUIRE AGREEMENTS TO REQUIRE THE GRANTEE TO OBTAIN AND DELIVER TO THE LANDOWNER FINANCIAL ASSURANCE IN CERTAIN AMOUNTS TO SECURE PERFORMANCE OF REMOVAL AND RESTORATION OBLIGATIONS; TO PROVIDE ACCEPTABLE FORMS OF ASSURANCE; TO AUTHORIZE LOCAL GOVERNMENTS TO REGULATE SOLAR POWER FACILITIES UNDER CERTAIN CONDITIONS; TO PROVIDE THAT CERTAIN AGREEMENTS THAT PURPORT TO WAIVE A RIGHT OR EXEMPT A GRANTEE FROM LIABILITY OR DUTY IS VOID; TO PROVIDE THAT NOTHING IN THIS ACT SHALL BE CONSTRUED TO LIMIT THE DISCRETION OF COUNTIES OR MUNICIPALITIES PURSUANT TO CERTAIN AUTHORITIES; TO PROVIDE FOR REMEDIES; TO PROVIDE FOR APPLICABILITY OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB499",
+  "title": "Landlord tenant provisions; revise time periods for eviction and removal.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb499"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Remak",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0499IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0499IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0499IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0499.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 89-8-35, MISSISSIPPI CODE OF 1972, TO REQUIRE A SHERIFF OR PROCESS SERVER TO LEAVE THE SUMMONS AND SWORN AFFIDAVIT OR COMPLAINT FOR EVICTION WITH A PERSON OR POSTED ON THE DOOR OF THE PREMISES THAT IS THE SUBJECT OF THE EVICTION; TO PROVIDE THAT THE SUMMONS AND COMPLAINT SHALL BE SERVED NO MORE THAN 72 CONSECUTIVE HOURS AFTER THE SWORN AFFIDAVIT OR COMPLAINT IS SERVED; TO PROVIDE THAT THE COURT DATE TO ADDRESS THE SWORN AFFIDAVIT OR COMPLAINT SHALL BE NO MORE THAN 14 DAYS FROM THE DATE ON WHICH THE SWORN AFFIDAVIT OR COMPLAINT IS FILED; TO AMEND SECTION 89-8-39, MISSISSIPPI CODE OF 1972, TO REMOVE THE PROVISION OF LAW THAT AUTHORIZES THE COURT TO EXPAND THE PERIOD OF TIME FOR THE DATE OF REMOVAL FOR EVICTIONS; TO AMEND SECTION 89-8-13, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE NONBREACHING PARTY TO TERMINATE THE RENTAL AGREEMENT UPON 7 DAYS NOTICE; TO AMEND SECTION 89-8-41, MISSISSIPPI CODE OF 1972, TO REVISE THE TIME PERIODS FOR POSSIBLE ADJOURNMENT OF EVICTION HEARINGS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1112",
+  "title": "Office of State Aid Road Construction; exempt from PPRB approval for certain contracts and revise related sections.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Transportation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1112"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Transportation",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massengill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Massengill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1112IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1112IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1112IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Massengill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1112.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM PUBLIC PROCUREMENT REVIEW BOARD APPROVAL CONTRACTS ENTERED INTO BY THE OFFICE OF STATE AID ROAD CONSTRUCTION (OSARC) FOR PERSONAL SERVICE CONTRACTS; TO AMEND SECTION 65-9-7, MISSISSIPPI CODE OF 1972, TO INCREASE THE NUMBER OF PASSENGER AUTOMOBILES THE OSARC MAY OWN AND OPERATE FROM SEVEN TO 13; TO AMEND SECTION 65-9-17, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHENEVER A COUNTY FAILS TO EXPEND THE MONIES ALLOCATED TO IT TO REPAIR AND REPLACE DEFICIENT STATE AID SYSTEM BRIDGES IN ITS COUNTY UNDER THE STATE AID ROAD FUND FOR AN UNINTERRUPTED PERIOD OF TWO SUCCESSIVE FISCAL YEARS, THE COUNTY SHALL FORFEIT AND NO LONGER BE ENTITLED TO THE OUTSTANDING CUMULATIVE BALANCE ON HAND OF THE MONIES THAT WERE ALLOCATED TO IT UNDER THE FUND BEFORE THAT PERIOD OF TIME; TO REQUIRE THAT SUCH FORFEITED MONIES BE REALLOCATED ANNUALLY AMONG ONLY THOSE COUNTIES THAT ARE DETERMINED BY THE STATE AID ENGINEER TO HAVE STATE AID ROAD FUND PROJECTS FOR DEFICIENT BRIDGES THAT ARE READY FOR CONSTRUCTION BUT ARE NOT BEING UNDERTAKEN DUE TO LACK OF FUNDS; TO AMEND SECTION 65-37-7, MISSISSIPPI CODE OF 1972, TO ENABLE REALLOCATION OF CERTAIN FORFEITED MONIES TO COUNTIES THAT ARE DETERMINED BY THE STATE AID ENGINEER TO HAVE LOCAL SYSTEM BRIDGE REPLACEMENT AND REHABILITATION PROGRAM PROJECTS OR OTHER DEFICIENT BRIDGE PROJECTS THAT ARE READY FOR CONSTRUCTION BUT ARE NOT BEING UNDERTAKEN DUE TO LACK OF FUNDS; TO AMEND SECTION 65-37-15, MISSISSIPPI CODE OF 1972, TO MODIFY APPROVED EXPENDITURES FOR MONIES IN THE LOCAL SYSTEM BRIDGE REPLACEMENT AND REHABILITATION FUND THAT ARE ALLOCATED TO A PARTICULAR COUNTY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

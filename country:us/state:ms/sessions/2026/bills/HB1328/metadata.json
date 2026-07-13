@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1328",
+  "title": "Fairness in vision care; establish requirements for contracts between insurers and vision benefit providers and eye care providers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1328"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1328IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1328IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1328IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1328.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT ESTABLISHING REQUIREMENTS RELATING TO CONTRACTS AND AGREEMENTS BETWEEN INSURERS AND VISION BENEFIT PROVIDERS AND EYE CARE PROVIDERS; TO DEFINE CERTAIN TERMS; TO REQUIRE CERTAIN PUBLIC DISCLOSURES BY INSURERS AND VISION BENEFIT MANAGERS; TO REQUIRE NOTICE TO BE PROVIDED TO PARTICIPATING EYE CARE PROVIDERS OF AMENDMENTS TO AGREEMENTS AND OTHER DOCUMENTS; TO PRESCRIBE CERTAIN REQUIREMENTS FOR CONTRACTS BETWEEN EYE CARE PROVIDERS AND INSURERS AND VISION BENEFIT MANAGERS; TO PROHIBIT CERTAIN COERCIVE TACTICS BY INSURERS AND VISION BENEFIT MANAGERS IN CONTRACTS WITH EYE CARE PROVIDERS; TO PROHIBIT DIFFERENTIAL TREATMENT BY INSURERS AND VISION BENEFIT MANAGERS TOWARD OPTOMETRISTS AND OPHTHALMOLOGISTS; TO PROHIBIT INSURERS AND VISION BENEFIT MANAGERS FROM REQUIRING PROVIDERS TO PARTICIPATE IN CERTAIN HEALTHCARE NETWORKS; TO ESTABLISH CERTAIN REQUIREMENTS THAT MUST BE INCLUDED IN THE PROCESS OF CREDENTIALING AND CONTRACTING WITH EYE CARE PROVIDERS; TO PROHIBIT INSURERS AND VISION BENEFIT MANAGERS FROM CHANGING THE TERMS OF AN AGREEMENT WITH A PARTICIPATING EYE CARE PROVIDER WITHOUT CLEAR WRITTEN COMMUNICATION TO, AND ACCEPTANCE OF THE CHANGES BY, THE PROVIDER; TO PROHIBIT INSURERS AND VISION BENEFIT MANAGERS FROM RESTRICTING PARTICIPATING PROVIDERS FROM USING CERTAIN SOURCES AND SUPPLIERS; TO PROHIBIT THE USE OF EXTRAPOLATION IN AUDITING PARTICIPATING EYE CARE PROVIDERS; TO AUTHORIZE AN AGGRIEVED PARTICIPATING PROVIDER TO INSTITUTE AN ACTION AGAINST AN INSURER OR VISION BENEFIT PROVIDER; TO REQUIRE THE INSURANCE COMMISSIONER AND DEPARTMENT OF INSURANCE, ALONG WITH THE ATTORNEY GENERAL, TO ENFORCE THE PROVISIONS OF THIS ACT; TO PROVIDE THAT THIS ACT APPLIES TO AN ENROLLEE'S CURRENT BENEFIT PLAN UPON RENEWAL THE INITIATION OF NEW PROVIDER AGREEMENTS OR AMENDMENTS TO EXISTING AGREEMENTS AFTER THE EFFECTIVE DATE OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

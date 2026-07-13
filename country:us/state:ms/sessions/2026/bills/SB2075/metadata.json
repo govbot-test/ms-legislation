@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2075",
+  "title": "Images or audio altered or created by digitization; criminalize dissemination of in certain circumstances.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2075"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2075IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2075IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2075IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2075.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CRIMINALIZE THE UNLAWFUL DISSEMINATION OR PUBLICATION OF AN INTIMATE OR NONINTIMATE IMAGE OR AUDIO CREATED OR ALTERED BY DIGITIZATION WHERE THE IMAGE OR AUDIO IS DISSEMINATED OR PUBLISHED WITH INTENT TO CAUSE HARM TO THE EMOTIONAL, FINANCIAL OR PHYSICAL WELFARE OF ANOTHER PERSON AND THE ACTOR KNEW OR REASONABLY SHOULD HAVE KNOWN THAT THE PERSON DEPICTED DID NOT CONSENT TO SUCH DISSEMINATION OR PUBLICATION; TO DEFINE TERMS; TO PROVIDE THAT THE CRIMES INCLUDE THE USE OF IMAGES OR AUDIO CREATED OR ALTERED BY DIGITIZATION, WHERE SUCH PERSON MAY REASONABLY BE IDENTIFIED FROM THE IMAGE OR AUDIO ITSELF OR FROM INFORMATION DISPLAYED IN CONNECTION WITH THE IMAGE OR AUDIO; TO PROVIDE CRIMINAL PENALTIES; TO PROVIDE CERTAIN EXCEPTIONS TO THE CRIME; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

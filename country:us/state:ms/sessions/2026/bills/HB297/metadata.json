@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB297",
+  "title": "Mobile sports wagering; authorize.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gaming"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb297"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Gaming",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burnett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Burnett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0297IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0297IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0297IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Burnett.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0297.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 75-76-5, MISSISSIPPI CODE OF 1972, TO REVISE THE GAMING CONTROL ACT DEFINITION OF \"SPORTS POOL\" AND DEFINE \"DIGITAL PLATFORM\" AS A PERSON OR ENTITY THAT OPERATES A SPORTS POOL OR RACE BOOK OVER THE INTERNET, INCLUDING ON WEBSITES AND MOBILE DEVICES; TO AMEND SECTIONS 75-76-33, 75-76-55, 75-76-79, 75-76-89, 75-76-101 AND 75-76-175, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE USE OF DIGITAL PLATFORMS; TO AMEND SECTION 75-76-177, MISSISSIPPI CODE OF 1972, TO REVISE THE GAMING LICENSE FEES IN REGARDS TO PLATFORM GROSS REVENUES; TO AMEND SECTION 97-33-305, MISSISSIPPI CODE OF 1972, TO REVISE THE FANTASY CONTEST ACT TO DELETE THE PROHIBITION ON OPERATORS OFFERING CONTESTS BASED ON THE PERFORMANCE OF PARTICIPANTS IN COLLEGIATE SPORTS EVENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

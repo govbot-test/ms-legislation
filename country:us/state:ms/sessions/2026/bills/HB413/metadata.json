@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB413",
+  "title": "Voting rights and expungement; person may have voting rights restored and certain felony records expunged after five years.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb413"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Constitution",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karriem",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0413IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0413IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0413IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0413.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PERSON WHO IS OTHERWISE A QUALIFIED ELECTOR AND HAS BEEN CONVICTED OF CERTAIN DISENFRANCHISING CRIMES, EXCEPT FOR ARSON, ARMED ROBBERY, CARJACKING, EMBEZZLEMENT, MURDER, RAPE, OR STATUTORY RAPE, SHALL HAVE HIS OR HER RIGHT TO VOTE REVOKED, BUT SHALL HAVE THE RIGHT TO VOTE AUTOMATICALLY RESTORED AFTER HE OR SHE HAS SATISFIED ALL OF THE SENTENCING REQUIREMENTS OF THE CONVICTION; TO AMEND SECTIONS 23-15-19, 23-15-125, 23-15-151, 23-15-153 AND 23-15-165, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTIONS 97-39-3 AND 99-19-37, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTION 99-19-71, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY PERSON WHO IS A UNITED STATES CITIZEN, WHO HAS BEEN CONVICTED OF CERTAIN FELONIES SHALL BE ELIGIBLE TO HAVE HIS OR HER RECORD AUTOMATICALLY EXPUNGED FIVE YEARS AFTER COMPLETION OF ALL TERMS AND CONDITIONS OF SUCH CONVICTION; TO AMEND SECTIONS 45-27-7, 45-27-21 AND 45-34-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT THE CIRCUIT CLERK, UPON THE ENTERING OF AN ORDER OF EXPUNCTION, FORWARD A CERTIFIED COPY OF SUCH ORDER TO THE MISSISSIPPI CRIMINAL INFORMATION CENTER AT THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY; TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY TO REMOVE SUCH PERSON'S CRIMINAL HISTORY RECORD INFORMATION, CONVICTION INFORMATION, AND DISPOSITION FORM FROM THE MISSISSIPPI CENTRAL CRIMINAL DATABASE WITHIN FORTY-FIVE DAYS OF RECEIVING A CERTIFIED COPY OF SUCH ORDER OF EXPUNCTION; TO AMEND SECTION 97-37-5, MISSISSIPPI CODE OF 1972, TO PROVIDE AN EXCEPTION TO THE FIREARMS PROHIBITION FOR PERSONS WHO RECEIVE AN ORDER OF EXPUNCTION; TO BRING FORWARD SECTIONS 45-1-45, 45-27-9, 45-27-11 AND 45-34-5, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

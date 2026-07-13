@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1651",
+  "title": "State agencies; prohibit spending for private personal or professional services unless such cannot be provided by another state agency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1651"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Read",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Read\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cockerham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cockerham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1651IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1651IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1651IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Read.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Cockerham.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1651.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-104-203, MISSISSIPPI CODE OF 1972, TO PROHIBIT STATE AGENCIES FROM EXPENDING FUNDS FOR PERSONAL OR PROFESSIONAL SERVICES FROM A PRIVATE SOURCE WITHOUT FIRST CERTIFYING THAT SUCH SERVICES ARE UNAVAILABLE THROUGH AN INTERAGENCY AGREEMENT WITH ANOTHER STATE AGENCY AT NO COST TO THE PROCURING AGENCY; TO CREATE THE SHARED HUMAN RESOURCES PROGRAM WITHIN THE MISSISSIPPI STATE PERSONNEL BOARD, AND PROVIDE THAT THE BOARD SHALL SERVE AS THE HUMAN RESOURCES DEPARTMENT FOR ANY STATE BOARD OR COMMISSION WITH AN APPROPRIATED HEADCOUNT OF FEWER THAN THIRTY; TO PROVIDE THAT THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL SERVE AS THE ACCOUNTING AND PROCUREMENT DEPARTMENT FOR ANY STATE BOARD OR COMMISSION WITH AN APPROPRIATED HEADCOUNT OF FEWER THAN THIRTY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

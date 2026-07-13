@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB105",
+  "title": "Career pathways initiative; provide for development of to increase access to educational credentials for higher-paying jobs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb105"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0105IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0105IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0105IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0105.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THAT THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY, THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING, THE MISSISSIPPI COMMUNITY COLLEGE BOARD AND THE STATE WORKFORCE INVESTMENT BOARD TO WORK JOINTLY TO DEVELOP A PLAN TO BE KNOWN AS THE \"CAREER PATHWAYS INITIATIVE\"; TO REQUIRE THE INITIATIVE TO INCREASE THE ACCESS OF LOW-INCOME PARENTS AND OTHER INDIVIDUALS TO EDUCATION CREDENTIALS THAT QUALIFY THEM FOR HIGHER-PAYING JOBS IN THEIR LOCAL AREAS, IMPROVE THE PREPAREDNESS OF THE MISSISSIPPI WORKFORCE FOR HIGH-SKILL AND HIGH-WAGE JOBS, DEVELOP TRAINING COURSES AND EDUCATIONAL CREDENTIALS AFTER CONSULTING LOCAL EMPLOYERS AND LOCAL WORKFORCE BOARDS TO IDENTIFY APPROPRIATE JOB OPPORTUNITIES AND NEEDED SKILLS AND TRAINING TO MEET EMPLOYERS' NEEDS, PROVIDE RESOURCES ON THE BASIS OF PERFORMANCE INCENTIVES, INCLUDING PARTICIPANTS ENROLLING IN COURSES, COMPLETING THE COURSES, OBTAINING JOBS IN THE TARGETED JOB CATEGORIES, AND STAYING EMPLOYED IN THE TARGETED JOB CATEGORIES; TO REQUIRE THE INITIATIVE TO USE AVAILABLE TEMPORARY ASSISTANCE FOR NEEDY FAMILIES (TANF) FUNDS FOR PARTICIPANTS WHO HAVE CUSTODY OR LEGAL RESPONSIBILITY FOR A CHILD UNDER TWENTY-ONE YEARS OF AGE AND WHOSE FAMILY INCOME IS LESS THAN TWO HUNDRED FIFTY PERCENT OF THE FEDERAL POVERTY LEVEL; TO REQUIRE THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO CONTRACT FOR THE PROVIDING OF EDUCATION AND TRAINING THAT WILL RESULT IN JOB TRAINING CERTIFICATES OR HIGHER EDUCATION DEGREES FOR LOW-INCOME ADULTS WITH STATE AGENCIES, TWO-YEAR COLLEGES, LOCAL GOVERNMENTS OR PRIVATE OR COMMUNITY ORGANIZATIONS; TO AUTHORIZE TANF FUNDS TO BE COMBINED WITH OTHER FEDERAL, STATE AND LOCAL FUNDS IN WAYS CONSISTENT WITH FEDERAL LAWS AND REGULATIONS IN ORDER TO PROVIDE MORE FUNDING FOR THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB992",
+  "title": "Property insurance; authorize appraisal panel to determine value of property and amount of loss, including issues of causation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb992"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance;Accountability, Efficiency, Transparency",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ladner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ladner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0992IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0992IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0992IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ladner.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0992.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT ANY PROPERTY INSURANCE POLICY ISSUED OR DELIVERED IN THE STATE SHALL INCLUDE AN APPRAISAL PROVISION, WHICH CAN BE INVOKED BY EITHER PARTY PROVIDED COVERAGE HAS BEEN ACKNOWLEDGED FOR ANY ASPECT OF A LOSS, OR A COVERED PERIL WAS INVOLVED IN CAUSING ANY ASPECT OF THE LOSS; TO PROVIDE THE APPRAISAL PROVISION TO BE INCLUDED; TO PROVIDE THAT THE APPRAISAL PANEL SHALL HAVE THE EXCLUSIVE AUTHORITY TO DETERMINE THE VALUE OF THE PROPERTY AND THE AMOUNT OF THE LOSS, INCLUDING ISSUES OF CAUSATION, THE COST OF REPAIR OR REPLACEMENT, THE METHOD OF REPAIR, THE SCOPE OF REPAIR, THE SCOPE OF DAMAGE AND THE REQUIREMENTS OF THE APPLICABLE BUILDING CODES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

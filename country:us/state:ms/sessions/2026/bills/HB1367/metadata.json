@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1367",
+  "title": "MS Farm & Food Security Act of 2026; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1367"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: ED To AP",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hulum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hulum\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1367IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1367IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1367IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1367.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI FARM AND FOOD SECURITY ACT OF 2026; TO AMEND SECTIONS 37-13-131 THROUGH 37-13-137, MISSISSIPPI CODE OF 1972, WHICH PROVIDE FOR THE COMPREHENSIVE SCHOOL HEALTH EDUCATION PROGRAM, TO ENHANCE NUTRITION EDUCATION AND PROGRAM REQUIREMENTS; TO CREATE NEW SECTION 43-1-42, MISSISSIPPI CODE OF 1972, TO ESTABLISH THE MISSISSIPPI FARM TO FOOD BANK PROGRAM TO SUPPORT THE PROCUREMENT AND DISTRIBUTION OF LOCAL FOODS BY MISSISSIPPI FOOD BANKS; TO AMEND SECTION 69-1-353, MISSISSIPPI CODE OF 1972, TO CLARIFY TERMS AND DEFINITIONS; TO CREATE NEW SECTION 69-1-355, MISSISSIPPI CODE OF 1972, TO ESTABLISH THE MISSISSIPPI FARM, FOOD, AND NUTRITION COMMISSION TO BETTER FACILITATE THE PROCUREMENT, PURCHASE AND USE OF LOCALLY GROWN AND LOCALLY RAISED AGRICULTURAL PRODUCTS THROUGHOUT THE STATE, TO SUPPORT THE STATE ECONOMY BY BROADENING MARKET OPPORTUNITIES FOR LOCAL FARMERS AND PRODUCERS, AND TO INCREASE AVAILABILITY OF LOCALLY GROWN OR RAISED FRESH FRUITS AND VEGETABLES AND AGRICULTURAL PRODUCTS; TO AMEND SECTION 73-25-14, MISSISSIPPI CODE OF 1972, TO REQUIRE CONTINUING MEDICAL EDUCATION RELATING TO NUTRITION AND METABOLIC HEALTH FOR RENEWAL OF PHYSICIANS' LICENSES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

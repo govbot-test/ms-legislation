@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB169",
+  "title": "School districts; require certain policies and alternative curriculum for those with the three lowest accountability ratings.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb169"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0169IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0169IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0169IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0169.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE SCHOOL DISTRICTS ACCREDITED AT ONE OF THE THREE LOWEST ACCOUNTABILITY RATINGS, AS DEFINED BY THE STATE BOARD OF EDUCATION, TO ADOPT CERTAIN POLICIES AND PROCEDURES REGARDING DAILY CURRICULUM, WEEKLY HOMEWORK ASSIGNMENTS, PARENTAL INVOLVEMENT, DRESS CODES, SCHOOL HOLIDAYS, PARENT-TEACHER CONFERENCES AND A SCHOOL SYLLABUS; TO REQUIRE ALTERNATIVE SCHOOLS IN THOSE DISTRICTS TO ADHERE TO THE SAME POLICIES AND PROCEDURES; TO REQUIRE ALL LOCAL SCHOOL DISTRICTS TO IMPLEMENT A VIDEO STREAMING PROGRAM IN CONJUNCTION WITH THE UNITED STATES DEPARTMENT OF LABOR TO AID IN THE DEVELOPMENT OF AN ALTERNATIVE CAREER-TRACK CURRICULUM BASED UPON OCCUPATIONAL PROJECTIONS IN THE STATE AND COUNTRY FOR THE NEXT FIVE YEARS; TO REQUIRE SCHOOL DISTRICTS TO ASSIST STUDENTS IN ACCESSING INFORMATION FROM THE DEPARTMENT OF LABOR WHICH WILL ENABLE THE STUDENTS TO MAKE CAREER CHOICES; TO REQUIRE A SCHOOL DISTRICT'S ALTERNATIVE CAREER-TRACK CURRICULUM TO SATISFY ITS GRADUATION REQUIREMENTS AND LEAD TO THE AWARDING OF A STANDARD HIGH SCHOOL DIPLOMA; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

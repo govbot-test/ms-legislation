@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2736",
+  "title": "Compulsory motor vehicle liability security; limit civil recovery for failure to maintain.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2736"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Younger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2736IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2736IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2736IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2736.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE A LIMITATION OF DAMAGES IN ANY CAUSE OR RIGHT OF ACTION ARISING OUT OF A MOTOR VEHICLE ACCIDENT, FOR SUCH INJURY OR DAMAGES OCCASIONED BY AN OWNER OR OPERATOR OF A MOTOR VEHICLE INVOLVED IN SUCH ACCIDENT WHO FAILS TO OWN OR MAINTAIN A COMPULSORY MOTOR VEHICLE LIABILITY SECURITY; TO DEFINE THE TERM \"COMPULSORY MOTOR VEHICLE LIABILITY SECURITY\"; TO PROVIDE CERTAIN EXCEPTIONS TO THE LIMITATION ON DAMAGES; TO CREATE AN AFFIRMATIVE DEFENSE FOR THE LIMITATION OF RECOVERY PROVISIONS FOR CERTAIN PERSONS; TO PROVIDE THAT NOTHING IN THIS ACT SHALL PRECLUDE PASSENGER'S CLAIM TO RECOVER DAMAGES FOR INJURY, DEATH OR LOSS; TO PROVIDE FOR THE RIGHTS OF INSURERS; TO LIMIT THE EFFECTS OF ISSUANCES, CHANGES OR ADJUSTMENTS OF LIABILITY SECURITY OR INSURANCE POLICY SUBSEQUENT TO MOTOR VEHICLE ACCIDENTS; TO PROVIDE THAT THE PROVISIONS OF THIS ACT SHALL NOT APPLY TO ANY VEHICLE WHICH IS LEGALLY PARKED AT THE TIME OF THE ACCIDENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

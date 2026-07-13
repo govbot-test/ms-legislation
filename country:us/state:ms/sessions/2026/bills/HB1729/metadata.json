@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1729",
+  "title": "MHP facility in Jackson, MS; authorize DFA to sell or lease for redevelopment.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1729"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Property",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Newman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1729IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1729IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1729IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1729.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE THE DEPARTMENT OF FINANCE AND ADMINISTRATION, ACTING ON BEHALF OF THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY, TO SELL OR LEASE THE HIGHWAY SAFETY PATROL HEADQUARTERS FACILITY AND RELATED REAL PROPERTY LOCATED AT 1900 EAST WOODROW WILSON AVENUE IN JACKSON, HINDS COUNTY, MISSISSIPPI, FOR PRIVATE REDEVELOPMENT; TO REQUIRE THAT THE PROPERTY BE REDEVELOPED EXCLUSIVELY FOR USE AS A HOTEL, A RESTAURANT OR BOTH; TO REQUIRE THE PURCHASER OR LESSEE TO ASSUME FULL FINANCIAL RESPONSIBILITY FOR SITE DEVELOPMENT, INCLUDING DEMOLITION OF EXISTING STRUCTURES NOT NEEDED FOR THE APPROVED REDEVELOPMENT; TO REQUIRE THAT ANY SALE BE FOR NOT LESS THAN FAIR MARKET VALUE AS ESTABLISHED BY THE AVERAGE OF AT LEAST TWO LICENSED APPRAISALS AND TO REQUIRE UPDATED APPRAISALS WHEN NECESSARY; TO REQUIRE THAT ANY LEASE BE FOR NOT LESS THAN FAIR MARKET RENTAL VALUE AS ESTABLISHED BY APPRAISAL, TO AUTHORIZE PERIODIC RENTAL ADJUSTMENTS AND OTHER NEGOTIATED LEASE TERMS INCLUDING POTENTIAL PARTICIPATION IN PROJECT INCOME, AND TO REQUIRE REIMBURSEMENT OF APPRAISAL COSTS BY THE LESSEE; TO REQUIRE THE DEPARTMENT, IN SOLICITING REQUESTS FOR PROPOSALS AND EVALUATING PROPOSED USES, TO CONSIDER POTENTIAL IMPACTS ON THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER AND THE G.V. (SONNY) MONTGOMERY VA MEDICAL CENTER, INCLUDING HELICOPTER FLIGHT PATTERNS, AND TO REQUIRE COMPLIANCE WITH APPLICABLE COUNTY AND MUNICIPAL ZONING AND LAND USE RESTRICTIONS; TO PROVIDE THAT THE STATE OF MISSISSIPPI SHALL RETAIN ALL MINERAL RIGHTS IN THE PROPERTY CONVEYED; TO AUTHORIZE THE DEPARTMENT TO CORRECT DISCREPANCIES IN THE LEGAL DESCRIPTION OF THE PROPERTY; TO REQUIRE PUBLIC ADVERTISEMENT OF THE PROPERTY\u0092S AVAILABILITY FOR SALE OR LEASE AND TO AUTHORIZE A NATIONAL ADVERTISING CAMPAIGN SUBJECT TO AVAILABLE FUNDS; TO REQUIRE ESTABLISHMENT OF PROPOSAL DEADLINES AND TO PROVIDE FOR PREPROPOSAL CONFERENCES; TO PRESCRIBE PROPOSAL SUBMISSION FORM, FORMAT, CONTENT AND DOCUMENTATION REQUIREMENTS, INCLUDING REDEVELOPMENT CONCEPTS, TIMELINES, BUDGETS AND FINANCIAL QUALIFICATIONS; TO PROVIDE EVALUATION CRITERIA AND A PROCESS FOR RANKING PROPOSALS, NEGOTIATING WITH ONE OR MORE PROPOSERS, REJECTING PROPOSALS, AND ENTERING INTO A REDEVELOPMENT AGREEMENT; TO REQUIRE FILING A NOTIFICATION OF INTENT TO ACCEPT A PROPOSAL WITH THE SECRETARY OF STATE WITHIN A SPECIFIED PERIOD; TO REQUIRE EXECUTION OF A MEMORANDUM OF UNDERSTANDING ESTABLISHING CONDITIONS AND SCHEDULES FOR A FINAL REDEVELOPMENT AGREEMENT; TO PROVIDE FOR DEFAULT UPON FAILURE TO EXECUTE THE MEMORANDUM OF UNDERSTANDING; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

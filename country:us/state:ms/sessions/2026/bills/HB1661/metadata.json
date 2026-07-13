@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1661",
+  "title": "State Suffrage Restoration Panel; create as an alternate process to having right to vote restored.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1661"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sanford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1661IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1661IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1661IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Sanford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1661.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE STATE SUFFRAGE RESTORATION PANEL; TO ESTABLISH AN ALTERNATE METHOD TO THAT PROVIDED BY SECTION 253 OF THE MISSISSIPPI CONSTITUTION OF 1890 FOR THE RIGHT TO VOTE TO BE RESTORED TO ELIGIBLE PERSONS CONVICTED OF CERTAIN CRIMES; TO PRESCRIBE THE MEMBERSHIP OF THE PANEL; TO ESTABLISH CRITERIA FOR A PERSON TO BE GRANTED A CERTIFICATE OF ELIGIBILITY TO REGISTER TO VOTE; TO PROVIDE THE PROCESS BY WHICH THE PANEL CONSIDERS AN APPLICATION FOR A CERTIFICATE; TO CLARIFY THAT A PERSON MAY STILL SEEK TO HAVE THE RIGHT TO VOTE RESTORED THROUGH THE LEGISLATIVE PROCESS; TO REQUIRE JAILS AND CORRECTIONAL FACILITIES TO POST MATERIALS ABOUT PROCEDURES TO HAVING ONE'S RIGHT TO VOTE RESTORED; TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PERSONS GRANTED A CERTIFICATE OF ELIGIBILITY TO REGISTER TO VOTE ARE ELIGIBLE TO VOTE; TO AMEND SECTION 23-15-19, MISSISSIPPI CODE OF 1972, TO REQUIRE QUALIFIED PERSONS GRANTED A CERTIFICATE OF ELIGIBILITY TO REGISTER TO VOTE TO BE REGISTERED; TO AMEND SECTION 23-15-33, MISSISSIPPI CODE OF 1972, TO REQUIRE THE REGISTRAR TO REGISTER QUALIFIED PERSONS WHO PRESENT A CERTIFICATE OF ELIGIBILITY TO REGISTER TO VOTE; TO AMEND SECTION 23-15-151, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

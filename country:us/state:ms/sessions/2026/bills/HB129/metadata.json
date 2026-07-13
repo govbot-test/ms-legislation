@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB129",
+  "title": "TANF benefits; remove certain restrictions and penalties for applicants and recipients.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb129"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0129IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0129IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0129IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0129.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-17-5, MISSISSIPPI CODE OF 1972, TO INCREASE THE MAXIMUM INCOME AND RESOURCES LIMITS FOR ELIGIBILITY FOR TANF BENEFITS; TO DELETE THE FAMILY CAP ON THE RECEIPT OF TANF BENEFITS; TO DELETE THE MANDATORY UP-FRONT JOB SEARCH FOR TANF APPLICANTS; TO DELETE THE REQUIREMENT TO BE IN COMPLIANCE WITH THE DRUG TESTING AND SUBSTANCE USE DISORDER TREATMENT REQUIREMENTS IN ORDER TO RECEIVE TANF BENEFITS; TO REMOVE THE FULL FAMILY SANCTION FOR REFUSAL OF AN ADULT OR CARETAKER RELATIVE TO PARTICIPATE IN ALLOWABLE WORK ACTIVITY AND HAVE THE SANCTION APPLY ONLY TO THAT PERSON; TO DELETE THE SANCTION FOR PERMANENT DISQUALIFICATION FOR TANF BENEFITS; TO PROVIDE THAT THE WORK REQUIREMENTS FOR TANF RECIPIENTS SHALL NOT APPLY TO THOSE RECIPIENTS WHO RESIDE IN AREAS THAT HAVE A HIGH UNEMPLOYMENT RATE OR DO NOT HAVE A SUFFICIENT NUMBER OF JOBS TO PROVIDE EMPLOYMENT, AND SHALL NOT APPLY TO ANY TANF RECIPIENTS DURING A FORMAL STATE OR FEDERAL DECLARATION OF A NATURAL DISASTER OR STATE OF EMERGENCY; TO AMEND SECTION 43-12-35, MISSISSIPPI CODE OF 1972, TO CONFORM THE SANCTION PROVISIONS TO THOSE IN THE PRECEDING SECTION; TO REPEAL SECTION 43-12-27, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR A FAMILY CAP ON THE RECEIPT OF TANF BENEFITS; TO REPEAL SECTION 43-17-6, MISSISSIPPI CODE OF 1972, WHICH REQUIRES APPLICANTS FOR AND RECIPIENTS OF TANF BENEFITS TO BE SCREENED AND TESTED FOR CERTAIN DRUGS AND RECEIVE TREATMENT FOR SUBSTANCE USE DISORDERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

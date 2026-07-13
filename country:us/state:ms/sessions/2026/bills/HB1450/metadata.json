@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1450",
+  "title": "MS Affordable Child Care Act; create to provide that certain TANF funds shall be used for the Child Care Payment Program.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1450"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1450IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1450IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1450IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Thompson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1450.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI AFFORDABLE CHILD CARE ACT; TO PROVIDE THAT EACH FEDERAL FISCAL YEAR, THE DEPARTMENT OF HUMAN SERVICES AND/OR ANY STATE AGENCY RECEIVING AND ADMINISTERING THE FEDERAL TANF BLOCK GRANT SHALL REALLOCATE ALL UNOBLIGATED, UNLIQUIDATED CARRYOVER FEDERAL TANF FUNDS TO THE DIVISION OF THE DEPARTMENT ADMINISTERING THE CHILD CARE PAYMENT PROGRAM (CCPP); TO PROVIDE THAT EACH FEDERAL FISCAL YEAR, THE DEPARTMENT OR ANY STATE AGENCY RECEIVING AND ADMINISTERING THE FEDERAL TANF BLOCK GRANT SHALL TRANSFER THIRTY PERCENT OF THE STATE'S FIXED BASIC BLOCK GRANT AMOUNT FOR ITS ANNUAL TANF BLOCK GRANT TO THE CHILD CARE AND DEVELOPMENT FUND (CCDF) FOR PURPOSES OF SERVING ELIGIBLE FAMILIES THROUGH THE CCPP; TO PROVIDE THAT DURING EACH FEDERAL FISCAL YEAR, THE DEPARTMENT SHALL SIMULTANEOUSLY SPEND FEDERAL TANF FUNDS ON DIRECT CHILD CARE NON-ASSISTANCE FOR PARENTS QUALIFYING FOR CCPP REALLOCATED FROM PRIOR YEAR UNOBLIGATED, UNLIQUIDATED FEDERAL TANF FUNDS AND SHALL TRANSFER THIRTY PERCENT OF THE STATE'S ANNUAL TANF BLOCK GRANT TO THE CCDF FOR PURPOSES OF FUNDING SUBSIDIES TO PARENTS QUALIFYING FOR CCPP; TO AMEND SECTION 43-17-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

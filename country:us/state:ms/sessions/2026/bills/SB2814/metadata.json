@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2814",
+  "title": "Nonviolent Firearm Offense Early Intervention Program Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2814"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DuPree",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DuPree\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2814IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2814IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2814IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DuPree.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2814.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE NONVIOLENT FIREARM OFFENSE EARLY INTERVENTION PROGRAM ACT; TO DEFINE TERMS; TO DIRECT A COURT TO CONSTRUE THE TERM NONVIOLENT FIREARM-RELATED OFFENSE BROADLY; TO REQUIRE THE SENTENCING COURT TO ORDER ALL QUALIFYING OFFENDERS TO PARTICIPATE IN A PROGRAM UNLESS THE COURT DETERMINES AN EXCEPTION APPLIES; TO PROVIDE THAT SATISFACTORY PROGRAM ATTENDANCE MAY, IN THE DISCRETION OF THE SENTENCING COURT, SATISFY THE CRIMINAL SENTENCE REQUIRED IN LIEU OF ANY OTHER CRIMINAL PENALTY OR FINE AUTHORIZED BY LAW; TO CREATE THE NONVIOLENT FIREARM OFFENSE EARLY INTERVENTION PROGRAM WITHIN THE DEPARTMENT OF MENTAL HEALTH; TO SET FORTH CERTAIN REQUIREMENTS AND PROCEDURES FOR THE PROGRAM; TO PROVIDE THAT A PARENT OR GUARDIAN OF AN OFFENDER PARTICIPATING IN THE PROGRAM MAY BE FINED FOR CAUSING THE ABSENCE OF THE OFFENDER; TO PROVIDE THAT FUNDING FOR REHABILITATION PROGRAMS MAY BE PROVIDED THROUGH FEDERAL GRANTS, PRIVATE OR PHILANTHROPIC GRANTS, SUPPORT FROM EXISTING DEPARTMENT OF MENTAL HEALTH FUNDS AND SPECIFIC APPROPRIATION BY THE LEGISLATURE; TO PROVIDE THAT IF A CERTIFIED REHABILITATION PROGRAM IS NOT AVAILABLE WITHIN A CERTAIN DISTANCE OF AN OFFENDER'S RESIDENCE, THE COURT SHALL ALLOW VIRTUAL OR HYBRID PARTICIPATION; TO PROVIDE THE SCOPE OF THE ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

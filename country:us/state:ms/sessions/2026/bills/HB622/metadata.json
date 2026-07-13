@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB622",
+  "title": "Transportation funding; authorize public-private partnerships to include naming rights.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Transportation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb622"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Transportation;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: TR To AP",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: AP To TR",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steverson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steverson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0622IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0622IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0622IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Steverson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0622.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT THE MISSISSIPPI DEPARTMENT OF TRANSPORTATION, A POLITICAL SUBDIVISION OF THE STATE OR A MUNICIPALITY OF THE STATE MAY FORM A PUBLIC-PRIVATE PARTNERSHIP FOR A HIGHWAY, ROAD, BRIDGE OR OTHER ASSET IMPROVEMENT BY WHICH THE DEPARTMENT, POLITICAL SUBDIVISION OR MUNICIPALITY MAY NEGOTIATE FOR PRIVATE FUNDING ASSISTANCE TOWARD A HIGHWAY, ROAD, BRIDGE OR OTHER ASSET IMPROVEMENT IN EXCHANGE FOR NAMING RIGHTS OF THE SECTION OF HIGHWAY, ROAD, BRIDGE OR OTHER ASSET FOR WHICH THE PRIVATE FUNDING ASSISTANCE WAS PROVIDED; TO PROHIBIT THE COMMISSION FROM APPROVING AND THE DEPARTMENT FROM ENTERING INTO ANY AGREEMENT WITH AN ENTITY WHOSE PRODUCTS ARE ILLEGAL FOR USE BY MINORS; TO PRESCRIBE THE PURPOSES FOR WHICH FUNDS DERIVED FROM SUCH AGREEMENTS FOR NAMING RIGHTS MAY BE USED; TO CREATE A SPECIAL FUND IN THE STATE TREASURY FOR THE DEPOSIT OF SUCH FUNDS TO BE RETAINED AND MANAGED BY THE DEPARTMENT FOR THE PURPOSES OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

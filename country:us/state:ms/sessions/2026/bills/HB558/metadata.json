@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB558",
+  "title": "Pharmacy services; prohibit insurers and PBMs from requiring persons to obtain exclusively through pharmacies that they own.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb558"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Newman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0558IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0558IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0558IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0558.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROHIBIT HEALTH INSURERS AND PHARMACY BENEFIT MANAGERS FROM REQUIRING COVERED INDIVIDUALS TO PURCHASE OR OTHERWISE OBTAIN PHARMACY SERVICES EXCLUSIVELY THROUGH A PHARMACY IN WHICH THE HEALTH INSURER OR PHARMACY BENEFITS MANAGER HAS AN OWNERSHIP INTEREST; TO PROHIBIT HEALTH INSURERS AND PHARMACY BENEFIT MANAGERS FROM OFFERING OR IMPLEMENTING HEALTH BENEFIT PLAN DESIGNS THAT INCREASE PLAN OR PATIENT COSTS FOR PHARMACY SERVICES IF THE COVERED INDIVIDUAL CHOOSES NOT TO USE A PHARMACY IN WHICH THE HEALTH INSURER OR PHARMACY BENEFITS MANAGER HAS AN OWNERSHIP INTEREST FOR THOSE PHARMACY SERVICES; TO PROHIBIT HEALTH INSURERS AND PHARMACY BENEFIT MANAGERS FROM REIMBURSING A PHARMACY OR PHARMACIST FOR COVERED PHARMACY SERVICES AN AMOUNT LESS THAN THE AMOUNT THAT THE HEALTH INSURER OR PHARMACY BENEFITS MANAGER REIMBURSES A PHARMACY IN WHICH THE HEALTH INSURER OR PHARMACY BENEFITS MANAGER HAS AN OWNERSHIP INTEREST FOR PROVIDING THE SAME COVERED SERVICES; TO PROHIBIT HEALTH INSURERS AND PHARMACY BENEFIT MANAGERS FROM DENYING A PHARMACY THE OPPORTUNITY TO PARTICIPATE IN ANY PHARMACY NETWORK AT PREFERRED PARTICIPATION STATUS IF THE PHARMACY IS WILLING TO ACCEPT THE TERMS AND CONDITIONS THAT THE HEALTH INSURER OR PHARMACY BENEFIT MANAGER HAS ESTABLISHED FOR OTHER PHARMACIES AS A CONDITION OF PREFERRED NETWORK PARTICIPATION STATUS; TO BRING FORWARD SECTION 83-9-6, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR FREEDOM OF CHOICE FOR PHARMACY SERVICES, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2104",
+  "title": "Gaming; include online, interactive and computerized versions thereof, increase penalties, and authorize forfeiture.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2104"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blount",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blount\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2104CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2104IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blount.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2104.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 97-33-1 AND 97-33-7, MISSISSIPPI CODE OF 1972, TO INCLUDE ANY ONLINE, INTERACTIVE, OR COMPUTERIZED VERSION OF GAMES WITHIN THE PROHIBITION ON BETTING, GAMING OR WAGERING AND ANY ONLINE INTERACTIVE OR COMPUTERIZED VERSION OF ANY GAME AS DEFINED IN SECTION 75-76-5(K) SHALL BE A GAMING DEVICE; TO INCREASE THE CRIMINAL PENALTY; TO PROVIDE THAT AN ACTION TO PROSECUTE A VIOLATION MAY, IN THE DISCRETION OF THE ATTORNEY GENERAL OR PROSECUTING ATTORNEY, BE TRIED IN THE COUNTY IN WHICH THE VIOLATION OCCURRED OR IN HINDS COUNTY; TO INCREASE THE CRIMINAL PENALTIES FOR A VIOLATION OF THIS SECTION; TO AUTHORIZE THE FORFEITURE OF THE ASSETS, RIGHTS, AND PRIVILEGES USED IN CONNECTION WITH VIOLATIONS OF THE PROVISIONS OF THESE SECTIONS; TO AUTHORIZE THE GAMING COMMISSION TO ENTER INTO CONTINGENCY FEE AGREEMENTS FOR ASSETS FORFEITED IN CONNECTION WITH THE PROSECUTION OF VIOLATIONS OF THIS SECTION; TO AMEND SECTION 97-33-8, MISSISSIPPI CODE OF 1972, TO INCLUDE INTERNET SWEEPSTAKES CASINOS WITHIN THE PROHIBITIONS OF THIS SECTION; TO INCREASE THE CRIMINAL VIOLATION FROM A MISDEMEANOR TO A FELONY; TO AUTHORIZE THE FORFEITURE OF THE ASSETS, RIGHTS, AND PRIVILEGES USED IN CONNECTION WITH VIOLATIONS OF THIS SECTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

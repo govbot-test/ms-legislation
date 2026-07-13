@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2319",
+  "title": "Unsecured judicial release; prohibit for persons charged with bail-restricted offenses.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2319"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McMahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McMahan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2319IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2319IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2319IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMahan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2319.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DEFINE TERMS; TO PROHIBIT JUDGES FROM CONSIDERING PERSONS CHARGED WITH BAIL-RESTRICTED OFFENSES ELIGIBLE FOR RELEASE ON AN UNSECURED JUDICIAL RELEASE; TO STIPULATE THAT SUCH PERSONS SHALL ONLY BE ELIGIBLE FOR RELEASE THROUGH THE USE OF SECURED MONETARY BOND, PROPERTY BOND, OR PROFESSIONAL SURETY BOND; TO GRANT JUDICIAL AUTHORITY TO RELEASE OTHER PERSONS CHARGED WITH NONBAIL-RESTRICTED OFFENSES ON AN UNSECURED JUDICIAL RELEASE AT THE JUDGE'S DISCRETION; TO LIMIT THE NUMBER OF CASH BONDS POSTED PER YEAR; TO REQUIRE PERSONS AND ENTITIES PURPORTING TO BE A CHARITABLE BAIL FUND TO SUBMIT THE SAME REQUIREMENTS AS ANY PROFESSIONAL SURETY COMPANY; TO GRANT THE ATTORNEY GENERAL AND DISTRICT ATTORNEYS CONCURRENT AUTHORITY TO PROSECUTE VIOLATIONS ON MISDEMEANOR CHARGES; TO PROHIBIT REPEAT OFFENDERS FROM BECOMING ELIGIBLE FOR RELEASE ON AN UNSECURED JUDICIAL RELEASE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

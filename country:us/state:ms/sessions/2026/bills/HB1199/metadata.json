@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1199",
+  "title": "Charlie Kirk Campus Free Speech and Safety Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1199"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hobgood-Wilkes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hobgood-Wilkes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1199IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1199IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1199IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hobgood-Wilkes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1199.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE CHARLIE KIRK CAMPUS FREE SPEECH AND SAFETY ACT; TO DEFINE CERTAIN TERMS RELATING TO THIS ACT; TO PROVIDE THAT THE OUTDOOR AREAS OF CAMPUSES OF PUBLIC INSTITUTIONS OF HIGHER EDUCATION IN THIS STATE SHALL BE DEEMED PUBLIC FORUMS FOR THE CAMPUS COMMUNITY; TO PROHIBIT PUBLIC INSTITUTIONS OF HIGHER EDUCATION FROM CREATING FREE SPEECH ZONES OR OTHER DESIGNATED AREAS OF CAMPUS OUTSIDE OF WHICH EXPRESSIVE ACTIVITIES ARE PROHIBITED; TO PROVIDE THAT ANY PERSON WHO WISHES TO ENGAGE IN NONCOMMERCIAL EXPRESSIVE ACTIVITY ON CAMPUS SHALL BE PERMITTED TO DO SO FREELY, AS LONG AS THE PERSON'S CONDUCT IS NOT UNLAWFUL AND DOES NOT MATERIALLY AND SUBSTANTIALLY DISRUPT THE FUNCTIONING OF THE PUBLIC INSTITUTION OF HIGHER EDUCATION; TO PROHIBIT PUBLIC INSTITUTIONS OF HIGHER EDUCATION FROM DENYING A RELIGIOUS, POLITICAL OR IDEOLOGICAL STUDENT ORGANIZATION ANY BENEFIT OR PRIVILEGE AVAILABLE TO ANY OTHER STUDENT ORGANIZATION; TO REQUIRE PUBLIC INSTITUTIONS OF HIGHER EDUCATION TO MAKE PUBLIC IN THEIR HANDBOOKS, ON THEIR WEBSITES, AND THROUGH THEIR ORIENTATION PROGRAMS FOR STUDENTS THE POLICIES, REGULATIONS, AND EXPECTATIONS OF STUDENTS REGARDING FREE EXPRESSION ON CAMPUS; TO REQUIRE EACH PUBLIC INSTITUTION OF HIGHER EDUCATION TO PUBLICLY POST ON THEIR WEBSITE, AS WELL AS SUBMIT TO BOTH THE GOVERNOR AND LEGISLATURE THIRTY DAYS PRIOR TO THE BEGINNING OF THE REGULAR LEGISLATIVE SESSION, A REPORT WHICH WILL DETAIL THE COURSE OF ACTION IMPLEMENTED TO BE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS ACT; TO AUTHORIZE ANY PERSON OR STUDENT ASSOCIATION AGGRIEVED BY A VIOLATION OF THIS ACT TO BRING AN ACTION AGAINST THE PUBLIC INSTITUTION OF HIGHER EDUCATION AND ITS EMPLOYEES ACTING IN THEIR OFFICIAL CAPACITIES, RESPONSIBLE FOR THE VIOLATION AND SEEK APPROPRIATE RELIEF; TO PROVIDE THAT A PERSON IS REQUIRED TO BRING SUIT FOR VIOLATION OF THIS ACT NOT LATER THAN ONE YEAR AFTER THE DAY THE CAUSE OF ACTION ACCRUES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

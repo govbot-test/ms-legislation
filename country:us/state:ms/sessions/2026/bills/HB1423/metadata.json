@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1423",
+  "title": "Voting rights; automatically restore for person convicted of disenfranchising crime that is expunged.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1423"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections;Judiciary B",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karriem",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1423IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1423IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1423IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1423.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 99-19-71, MISSISSIPPI CODE OF 1972, TO CLARIFY THE EFFECT OF EXPUNGEMENT PROCEDURES IN RELATION TO QUALIFIED ELECTORS; TO AMEND SECTION 23-15-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PERSON WHO HAS HAD A DISENFRANCHISING CRIME CONVICTION EXPUNGED, WHO HAS NOT BEEN CONVICTED OF ANY OTHER DISENFRANCHISING CRIME AND WHO MEETS ALL OTHER REQUIREMENTS TO BECOME A QUALIFIED ELECTOR SHALL BE ALLOWED TO REGISTER TO VOTE AS A QUALIFIED ELECTOR; TO AMEND SECTIONS 23-15-151 AND 23-15-19, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COUNTY REGISTRAR OR ELECTION COMMISSIONER TO AUTOMATICALLY PLACE THE NAME OF A PERSON PREVIOUSLY REGISTERED TO VOTE WHOSE DISENFRANCHISING CRIME WAS EXPUNGED, WHO HAS NOT BEEN CONVICTED OF ANOTHER DISENFRANCHISING CRIME AND WHO IS OTHERWISE AN ELIGIBLE VOTER INTO THE STATEWIDE ELECTION MANAGEMENT SYSTEM; TO AMEND SECTIONS 23-15-125, 23-15-153, 23-15-165 AND 99-19-37, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2415",
+  "title": "Mississippi Department of Environmental Quality; amend certain sections concerning.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Environment Prot, Cons and Water Res"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2415"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Environment Prot, Cons and Water Res",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2415CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2415IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2415.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 49-17-29, MISSISSIPPI CODE OF 1972, TO AUTHORIZE HEARINGS PERTAINING TO PERMITS FOR COMMERCIAL HAZARDOUS WASTE MANAGEMENT FACILITIES AND SOLID WASTE MANAGEMENT PERMITS FOR COMMERCIAL MUNICIPAL SOLID WASTE LANDFILLS OR INCINERATORS TO BE HELD AT THE DISCRETION OF THE MISSISSIPPI ENVIRONMENTAL QUALITY PERMIT BOARD; TO AMEND SECTION 49-35-11, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY TO ISSUE ALL ORDERS REQUIRED UNDER THE MISSISSIPPI BROWNFIELDS VOLUNTARY CLEANUP AND REDEVELOPMENT ACT; TO AMEND SECTION 51-3-9, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT NOTICE BE SENT BY CERTIFIED MAIL TO REDUCE THE COSTS ASSOCIATED WITH NOTIFYING PERMIT HOLDERS OF PERMIT EXPIRATION; TO AMEND SECTION 51-3-31, MISSISSIPPI CODE OF 1972, TO ELIMINATE THE PERMIT APPLICATION FEE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

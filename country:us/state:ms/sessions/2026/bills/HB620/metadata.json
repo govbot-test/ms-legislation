@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB620",
+  "title": "Casino winnings; provide procedures for intercept of child support arrearages.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gaming"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb620"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Gaming",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0620IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0620IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0620IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Boyd_(19th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0620.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 75-76-3, MISSISSIPPI CODE OF 1972, TO DECLARE AS PUBLIC POLICY THAT CHILDREN ARE ADVERSELY AFFECTED WHEN A PARENT WHO HAS AN OUTSTANDING CHILD SUPPORT ARREARAGE DIVERTS CHILD SUPPORT TO GAMING; TO CODIFY SECTION 75-76-58, MISSISSIPPI CODE OF 1972, TO PROVIDE PROCEDURES FOR THE MISSISSIPPI GAMING COMMISSION, THE DEPARTMENT OF HUMAN SERVICES AND LICENSEES UNDER CHAPTER 76 OF TITLE 75, MISSISSIPPI CODE OF 1972, TO CARRY OUT THE INTERCEPTION AND SEIZURE OF GAME WINNINGS OF PARENTS WITH A CHILD SUPPORT ARREARAGE; TO AMEND SECTION 75-76-33, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MISSISSIPPI GAMING COMMISSION TO PRESCRIBE THE MANNER AND PROCEDURE IN WHICH CHILD SUPPORT ARREARAGES MAY BE COLLECTED FROM GAMING WINNINGS AND SLOT MACHINE ANNUITIES; TO AMEND SECTION 93-11-71, MISSISSIPPI CODE OF 1972, TO CLARIFY THAT CHILD SUPPORT MAY BE COLLECTED FROM ALL GAMING WINNINGS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2865",
+  "title": "Income tax; authorize credit for added tax revenue from certain nongaming capital investment projects at casinos.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2865"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeLano",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeLano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "England",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wiggins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2865IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2865IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2865IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeLano.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Thompson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2865.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE AN INCOME TAX CREDIT FOR CERTAIN GAMING LICENSEES MAKING EXPENDITURES OF AT LEAST $2,000,000.00 ON BEHALF OF GROWTH CAPITAL INVESTMENT PROJECTS CONSTRUCTING OR EXPANDING NONGAMING FACILITIES AT EXISTING CASINO PROPERTIES, FOR THE PURPOSE OF INCREASING ECONOMIC ACTIVITY AT SUCH PROPERTIES; TO PROVIDE THAT THE CREDIT SHALL BE FOR AN AMOUNT EQUAL TO 50% OF THE INCREMENTAL GAMING TAXES PAID BY THE ENTITY; TO DEFINE INCREMENTAL GAMING TAXES AS THE DIFFERENCE BETWEEN AN ENTITY'S GAMING TAXES PAID ANNUALLY FOR THE FIRST 10 YEARS AFTER THE OPENING OF THE GROWTH CAPITAL INVESTMENT PROJECT AND THE ANNUALIZED AVERAGE OF THE ENTITY'S GAMING TAXES PAID FOR THE THREE-YEAR PERIOD BEFORE THE OPENING OF SUCH PROJECT; TO PROVIDE THAT THE AMOUNT OF THE CREDIT THAT MAY BE UTILIZED BY AN ENTITY IN ANY TAX YEAR SHALL BE NOT GREATER THAN THE TOTAL INCOME TAX LIABILITY OF THE ENTITY, AND THE TOTAL AMOUNT OF THE CREDIT CLAIMED FOR ANY PROJECT MAY NOT EXCEED THE COST OF THAT PROJECT; TO ALLOW AN UNUSED CREDIT TO BE CARRIED FORWARD FOR FIVE CONSECUTIVE YEARS AFTER THE CREDIT WAS EARNED; TO PROVIDE THAT AN ENTITY SHALL APPLY TO THE MISSISSIPPI GAMING COMMISSION, WHICH SHALL DETERMINE THE ELIGIBILITY OF AN EXPENDITURE TO QUALIFY AS A GROWTH CAPITAL INVESTMENT PROJECT FOR PURPOSES OF THE CREDIT; TO PROVIDE THAT THE GAMING COMMISSION SHALL NOT ISSUE CERTIFICATES OF ELIGIBILITY UNDER THIS ACT AFTER DECEMBER 31, 2030; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

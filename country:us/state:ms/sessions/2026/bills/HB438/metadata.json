@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB438",
+  "title": "Initiative process; revise certain provisions relating to the.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitution"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb438"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Constitution",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCray",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McCray\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0438IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0438IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0438IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McCray.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0438.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-17-17, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT A PETITION FOR AN INITIATIVE MEASURE BE PRINTED ON A SHEET OF PAPER NOT LESS THAN EIGHT AND ONE-HALF INCHES IN WIDTH AND NOT LESS THAN FOURTEEN INCHES IN LENGTH; TO AMEND SECTION 23-17-19, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SECRETARY OF STATE TO PROVIDE THE FORM FOR THE PETITION FOR AN INITIATIVE MEASURE ON THE SECRETARY OF STATE'S WEBSITE; TO AMEND SECTION 23-17-21, MISSISSIPPI CODE OF 1972, TO REQUIRE THE CIRCUIT CLERKS OF THE VARIOUS COUNTIES TO SUBMIT THE PETITION, ALONG WITH THE SIGNATURES THAT HAVE BEEN CERTIFIED, TO THE SECRETARY OF STATE FOR FILING WHEN THE PERSON PROPOSING AN INITIATIVE MEASURE HAS SECURED UPON THE PETITION THE NUMBER OF SIGNATURES OF QUALIFIED ELECTORS EQUAL TO OR EXCEEDING THE MINIMUM NUMBER OF SIGNATURES REQUIRED; TO BRING FORWARD SECTION 23-17-23, MISSISSIPPI CODE OF 1972, FOR PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

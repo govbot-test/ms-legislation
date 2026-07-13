@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB727",
+  "title": "Land banks; authorize counties and municipalities to create to convert certain property to productive use.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "County Affairs",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb727"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To County Affairs;Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Banks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Banks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0727IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0727IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0727IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Banks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0727.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"LAND BANK ACT\" TO FACILITATE THE CONVERSION OF VACANT, ABANDONED OR LAND STRUCK OFF TO THE STATE INTO PRODUCTIVE USE; TO AUTHORIZE THE CREATION OF MUNICIPAL AND COUNTY LAND BANK AUTHORITIES AND TO AUTHORIZE COUNTIES AND MUNICIPALITIES TO CREATE JOINT LAND BANK AUTHORITIES; TO PROVIDE THE POWERS AND DUTIES OF SUCH AUTHORITIES; TO AUTHORIZE SUCH AUTHORITIES TO ACQUIRE AND DISPOSE OF PROPERTY; TO PROVIDE AN EXPEDITED PROCEDURE TO CONFIRM AND QUIET TITLE TO PROPERTY ACQUIRED BY SUCH AUTHORITIES; TO AUTHORIZE AUTHORITIES CREATED UNDER THIS ACT TO ENTER INTO INTERGOVERNMENTAL AGREEMENTS FOR CERTAIN PURPOSES; TO AUTHORIZE COUNTIES AND MUNICIPALITIES TO CREATE LOCAL LAND BANK AUTHORITIES TO BORROW MONEY AND ISSUE BONDS AND NOTES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

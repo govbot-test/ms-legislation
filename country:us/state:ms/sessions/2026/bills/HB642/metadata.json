@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB642",
+  "title": "School districts; require to report on receipt of federal funds and receive legislative approval for expenditure of such funds.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb642"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0642IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0642IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0642IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Boyd_(19th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0642.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 37-61-39, MISSISSIPPI CODE OF 1972, TO REQUIRE LOCAL SCHOOL DISTRICTS TO PROVIDE ANNUAL REPORTS DETAILING FEDERAL FUNDS RECEIVED OR EXPECTED TO BE RECEIVED; TO REQUIRE DISTRICTS TO RECEIVE LEGISLATIVE APPROVAL AND AUTHORIZATION FOR THE EXPENDITURE OF FEDERAL FUNDS PROVIDED BY THE UNITED STATES DEPARTMENT OF EDUCATION; TO REQUIRE THE APPROPRIATIONS COMMITTEES OF THE LEGISLATURE TO REVIEW AND APPROVE OR DISAPPROVE THE USE OF SUCH FUNDS; TO AUTHORIZE THE USE OF FEDERAL FUNDS WITHOUT LEGISLATIVE APPROVAL IN CASES OF FEDERAL PREEMPTION; TO PRESCRIBE PENALTIES FOR NONCOMPLIANCE; TO AUTHORIZE THE STATE AUDITOR TO INVESTIGATE AND AUDIT LOCAL SCHOOL DISTRICTS FOR COMPLIANCE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1588",
+  "title": "Office of Workforce Development; extend exemption for Public Procurement Review Board requirements relating to rental agreements and leases.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1588"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1588IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1588IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1588IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1588.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-153-7, MISSISSIPPI CODE OF 1972, TO EXTEND THE EXPIRATION DATE ON THE EXEMPTION FOR THE OFFICE OF WORKFORCE DEVELOPMENT FROM THE REQUIREMENTS OF THE PUBLIC PROCUREMENT REVIEW BOARD THAT RELATE TO RENTAL AGREEMENTS, THE LEASING OF REAL PROPERTY AND ADD AN EXEMPTION FOR THE PURCHASE OF PERSONAL OR PROFESSIONAL SERVICES FOR PURPOSES OF CONDUCTING AGENCY BUSINESS; TO BROADEN THE OFFICE'S AUTHORITY TO IMPLEMENT TRAINING PROGRAMS TO CORRECT INTERNAL REFERENCES TO CERTAIN SUBSECTIONS THAT HAVE BEEN RENUMBERED DUE TO AMENDMENTS IN PRIOR YEARS; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS OF THIS ACT AND TO EXTEND THE DATE OF OTHER EXEMPTIONS IN THAT CODE SECTION THAT ARE NOT RELATED TO THE OFFICE OF WORKFORCE DEVELOPMENT BUT THAT ARE ALSO SET TO EXPIRE IN 2026; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

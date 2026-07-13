@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB986",
+  "title": "Insurance Department Fraud Detection Trust Fund; rename Insurance Department Fund and redesignate as a special fund.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb986"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0986IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0986IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0986IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0986.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE INSURANCE DEPARTMENT FRAUD DETECTION TRUST FUND AS A SPECIAL FUND IN THE STATE TREASURY; TO AMEND SECTIONS 83-2-33 AND 83-5-72, MISSISSIPPI CODE OF 1972, TO RENAME THE INSURANCE DEPARTMENT FUND AS THE \"INSURANCE DEPARTMENT FRAUD DETECTION TRUST FUND\"; TO INCREASE THE MAXIMUM CONTRIBUTIONS FROM PROPERTY AND CASUALTY INSURANCE COMPANIES, LIFE, HEALTH AND ACCIDENT INSURANCE COMPANIES, AND HEALTH MAINTENANCE ORGANIZATIONS WHICH MAY BE DEPOSITED INTO THE SPECIAL FUND; TO DELETE THE REQUIREMENT THAT MONIES COLLECTED FROM THESE COMPANIES BE DEPOSITED INTO THE STATE GENERAL FUND AND THAT EXPENSES OF THE DEPARTMENT OF INSURANCE BE DEFRAYED BY STATE GENERAL FUND APPROPRIATIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

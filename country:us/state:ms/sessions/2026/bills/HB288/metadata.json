@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB288",
+  "title": "Alternative-fuel fueling stations; impose tax on motor vehicles charged at.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb288"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Newman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0288IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0288IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0288IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0288.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO IMPOSE A TAX ON MOTOR VEHICLES CHARGED AT ALTERNATIVE-FUEL FUELING STATIONS IN THIS STATE; TO DEFINE THE TERM \"ALTERNATIVE-FUEL FUELING STATION\"; TO PROVIDE FOR THE AMOUNT OF THE TAX; TO PROVIDE THAT THE REVENUE DERIVED FROM THE TAX IMPOSED BY THIS ACT WILL BE APPORTIONED AMONG THE VARIOUS PURPOSES SPECIFIED FOR GASOLINE AND DIESEL FUEL TAXES IN THE SAME PROPORTION THAT THOSE TAXES WERE APPORTIONED FOR THOSE PURPOSES DURING THE PREVIOUS STATE FISCAL YEAR; TO AMEND SECTION 27-19-21, MISSISSIPPI CODE OF 1972, TO REVISE THE AMOUNT OF THE ANNUAL TAX IMPOSED ON ELECTRIC VEHICLES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB514",
+  "title": "Mississippi Veterinary Practice Act; amend to include certain provisions for certified veterinary technicians.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb514"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0514CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0514CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0514IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0514IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0514CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0514.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-39-53, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"VETERINARIAN-CLIENT-PATIENT RELATIONSHIP\" AS USED IN THE MISSISSIPPI VETERINARY PRACTICE ACT; TO AMEND SECTION 73-39-55, MISSISSIPPI CODE OF 1972, TO ADD ONE CERTIFIED VETERINARY TECHNICIAN AND ONE PUBLIC MEMBER TO THE BOARD OF VETERINARY MEDICINE; TO AMEND SECTION 73-39-57, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO DETERMINE THE AMOUNT OF INSPECTION FEES TO BE PAID BY EACH LICENSED VETERINARIAN EMPLOYED BY THE INSPECTED VETERINARY ESTABLISHMENT; TO AMEND SECTION 73-39-63, MISSISSIPPI CODE OF 1972, TO PROHIBIT A PERSON FROM USING THE TITLE OF VETERINARY TECHNOLOGIST OR TECHNICIAN UNLESS CREDENTIALED BY THE BOARD; TO AMEND SECTION 73-39-69, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT FOR THE BOARD TO PROVIDE AT LEAST ONE EXAMINATION FOR LICENSING EACH YEAR AND TO GIVE PUBLIC NOTICE OF THE TIME AND PLACE OF EACH EXAMINATION; TO AMEND SECTION 73-39-71, MISSISSIPPI CODE OF 1972, TO REMOVE PROVISIONS AUTHORIZING THE BOARD TO ISSUE A LICENSE BY ENDORSEMENT; TO AMEND SECTION 73-39-75, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO DETERMINE THE AMOUNT OF THE FEE FOR LICENSE RENEWAL; TO INCREASE THE AGE OF LICENSED VETERINARIANS EXEMPT FROM PAYMENT OF THE RENEWAL FEE FROM SIXTY-FIVE YEARS OF AGE OR OLDER TO SEVENTY YEARS OF AGE OR OLDER; TO AMEND SECTION 73-39-77, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO REVOKE OR SUSPEND THE CERTIFICATION OF A VETERINARY TECHNICIAN OR TECHNOLOGIST; TO AMEND SECTION 73-39-91, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD TO DETERMINE THE AMOUNT OF THE FINE FOR A PERSON WHO PRACTICES VETERINARY MEDICINE WITHOUT A VALID LICENSE OR USING THE TITLE CERTIFIED VETERINARY TECHNICIAN OR CERTIFIED VETERINARY TECHNOLOGIST; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

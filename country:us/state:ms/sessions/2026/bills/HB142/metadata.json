@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB142",
+  "title": "Midwifery; provide for licensure and regulation of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb142"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0142IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0142IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0142IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0142.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR THE LICENSURE AND REGULATION OF PROFESSIONAL MIDWIFERY; TO PROVIDE DEFINITIONS FOR THE PURPOSE OF THE ACT; TO PROVIDE EXCEPTIONS TO THE APPLICABILITY OF THE ACT; TO PROVIDE THE SCOPE OF PRACTICE FOR LICENSED MIDWIVES; TO PROVIDE MANDATORY PROCEDURES FOR LICENSED MIDWIVES; TO PROHIBIT LICENSED MIDWIVES FROM CERTAIN ACTIONS; TO CREATE THE STATE BOARD OF LICENSED MIDWIFERY AND PROVIDE FOR ITS COMPOSITION, APPOINTMENT AND POWERS AND DUTIES; TO REQUIRE THE BOARD TO PROMULGATE RULES NOT LATER THAN JULY 1, 2027; TO REQUIRE A LICENSE FROM THE BOARD TO PRACTICE PROFESSIONAL MIDWIFERY; TO PROVIDE FOR THE ISSUANCE OF TEMPORARY PERMITS TO PRACTICE PENDING QUALIFICATION FOR LICENSURE; TO PROVIDE EXEMPTIONS FROM LICENSURE FOR CERTAIN PERSONS; TO PROVIDE FOR THE CONFIDENTIALITY OF INFORMATION MAINTAINED BY THE BOARD; TO PROVIDE IMMUNITY FOR CERTAIN ACTIONS; TO PROVIDE CRIMINAL PENALTIES FOR VIOLATIONS OF THIS ACT; TO PROHIBIT TERMINOLOGY IN ANY HEALTH COVERAGE PLAN, POLICY OR CONTRACT THAT IS DISCRIMINATORY AGAINST PROFESSIONAL MIDWIFERY; TO REQUIRE HEALTH COVERAGE PLANS THAT PROVIDE MATERNITY BENEFITS TO PROVIDE COVERAGE FOR SERVICES RENDERED BY A LICENSED MIDWIFE; TO PROVIDE WHENEVER A HEALTH COVERAGE PLAN PROVIDES FOR REIMBURSEMENT OF ANY SERVICES THAT ARE WITHIN THE LAWFUL SCOPE OF PRACTICE OF LICENSED MIDWIVES, THE PERSON ENTITLED TO BENEFITS UNDER THE PLAN SHALL BE ENTITLED TO REIMBURSEMENT FOR THE SERVICES, WHETHER THE SERVICES ARE PERFORMED BY A PHYSICIAN OR A LICENSED MIDWIFE; TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO DEVELOP AND INSTITUTE A SAFE PERINATAL TRANSFER CERTIFICATION FOR THE FACILITIES THAT IT REGULATES; TO AMEND SECTION 73-25-33, MISSISSIPPI CODE OF 1972, TO REMOVE THE REFERENCE TO THE PRACTICE OF MIDWIFERY IN THE DEFINITION OF THE PRACTICE OF MEDICINE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

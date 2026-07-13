@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2681",
+  "title": "Medicaid; seek federal waiver to provide for presumptive eligibility for children who need mental health or substance use services.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2681"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2681IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2681IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2681IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2681.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CODIFY SECTION 43-13-115.2, MISSISSIPPI CODE OF 1972, TO DIRECT THE DIVISION OF MEDICAID TO ENTER INTO NEGOTIATIONS WITH THE FEDERAL GOVERNMENT TO OBTAIN A WAIVER OF APPLICABLE PROVISIONS OF THE MEDICAID LAWS AND REGULATIONS TO PROVIDE MEDICAID BENEFITS TO CHILDREN WHO ARE IN NEED OF MENTAL HEALTH SERVICES OR SUBSTANCE USE DISORDER SERVICES DURING A PRESUMPTIVE ELIGIBILITY PERIOD; TO PROVIDE THAT DURING THE PRESUMPTIVE ELIGIBILITY PERIOD, THE MEDICAID BENEFITS AVAILABLE FOR THOSE INDIVIDUALS WILL BE LIMITED TO MENTAL HEALTH SERVICES OR SUBSTANCE USE DISORDER SERVICES, AS APPLICABLE; TO PROVIDE FOR THE PRESUMPTIVE ELIGIBILITY PERIOD, QUALIFIED ENTITIES, NOTIFICATION REQUIREMENTS, AND A REQUIREMENT TO APPLY FOR MEDICAID BENEFITS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

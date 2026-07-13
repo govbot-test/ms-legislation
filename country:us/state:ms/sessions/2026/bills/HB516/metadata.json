@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB516",
+  "title": "Charitable organizations; revise the registration renewal period of certain from every year to every 3 to 5 years.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb516"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thompson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0516IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0516IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0516IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Thompson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0516.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 79-11-513, MISSISSIPPI CODE OF 1972, TO REVISE THE PERIOD OF EFFECTIVE REGISTRATION FOR A PROFESSIONAL FUND-RAISER OR FUND-RAISING COUNSEL FOR A CHARITABLE ORGANIZATION FROM ONE YEAR, OR A PART THEREOF, TO THREE TO FIVE YEARS, AS DETERMINED BY THE SECRETARY OF STATE; TO AMEND SECTION 79-11-503, MISSISSIPPI CODE OF 1972, TO REVISE THE RENEWAL PERIOD FOR CHARITABLE ORGANIZATIONS WHICH SOLICIT OR INTEND TO SOLICIT CONTRIBUTIONS FROM EVERY YEAR TO EVERY THREE TO FIVE YEARS, AS DETERMINED BY THE SECRETARY OF STATE; TO AMEND SECTION 79-11-517, MISSISSIPPI CODE OF 1972, TO REVISE THE PERIOD OF EFFECTIVE REGISTRATION FOR A PROFESSIONAL SOLICITOR IN THE EMPLOY OF A PROFESSIONAL FUND-RAISER FROM ONE YEAR, OR A PART THEREOF, TO THREE TO FIVE YEARS, AS DETERMINED BY THE SECRETARY OF STATE; TO AMEND SECTIONS 79-11-507 AND 79-11-505, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

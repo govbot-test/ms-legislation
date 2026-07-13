@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2010",
+  "title": "Health insurance; require health benefit plans to follow new procedure related to step therapy protocol for CRF-COPD treatment.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2010"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2010IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2010IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2010IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2010.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 83-9-36.3, MISSISSIPPI CODE OF 1972, TO REQUIRE A HEALTH BENEFIT PLAN TO IMPLEMENT A CLEAR AND TRANSPARENT PROCESS FOR A PARTICIPANT, BENEFICIARY OR THE PRESCRIBING HEALTH CARE PROVIDER ON BEHALF OF THE PARTICIPANT OR BENEFICIARY, WITH CRF-COPD TO REQUEST AN EXCEPTION TO A STEP THERAPY PROTOCOL; TO SET CERTAIN PROCEDURES RELATED THERETO; TO PROVIDE CERTAIN EXCEPTIONS TO A TREATMENT STEP THERAPY PROTOCOL FOR TREATMENT OF CRF-COPD; TO REQUIRE HEALTH BENEFIT PLANS TO MAKE CERTAIN INFORMATION REGARDING SUCH PROCEDURES AVAILABLE ON THEIR WEBSITE; TO REQUIRE HEALTH BENEFIT PLANS TO RESPOND TO A REQUESTING PRESCRIBER WITHIN SEVENTY-TWO HOURS AFTER RECEIVING AN INITIAL EXCEPTION REQUEST; TO REQUIRE HEALTH BENEFIT PLANS TO RESPOND TO SUCH A REQUEST WITHIN ONE BUSINESS DAY WHEN THE STEP THERAPY PROTOCOL MAY JEOPARDIZE THE LIFE OR HEALTH OF THE BENEFICIARY; TO AMEND SECTION 83-9-36, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THE ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

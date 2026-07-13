@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1721",
+  "title": "Additional Living Expense Fairness and Expedited Closure Adjudicaiton Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1721"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Turner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford (54th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ford (54th)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1721IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1721IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1721IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Turner.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1721.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE \"ADDITIONAL LIVING EXPENSE (ALE) FAIRNESS AND EXPEDITED CLOSURE ADJUDICATION ACT\"; TO DECLARE THAT THE LEGISLATIVE PURPOSE OF THE ACT IS TO ESTABLISH A PROCESS ADMINISTERED BY THE DEPARTMENT OF INSURANCE TO ENSURE TIMELY AND SUFFICIENT ADDITIONAL LIVING EXPENSE BENEFITS ARE PAID TO INSURED PARTIES UNDER RESIDENTIAL AND SMALL COMMERCIAL POLICIES; TO DEFINE CERTAIN TERMS, INCLUDING \"ALE\"; TO GRANT THE COMMISSIONER OF INSURANCE EXCLUSIVE JURISDICTION TO ADJUDICATE DISPUTES REGARDING ALE MATTERS; TO AUTHORIZE INSURERS AND INSURED PARTIES TO INSTITUTE A PETITION; TO REQUIRE THE EXPEDITED TIME FOR ADDRESSING PETITIONS; TO AUTHORIZE THE COMMISSIONER TO ISSUE AN INTERIM ALE ORDER TO PREVENT HARDSHIP; TO PRESCRIBED STANDARDS FOR ADJUDICATING DISPUTES; TO GRANT THE COMMISSIONER CERTAIN POWERS IN ISSUING ORDERS; TO PROVIDE THAT ORDERS SETTLING ALE DISPUTES ARE BINDING UNLESS A REHEARING IS GRANTED OR THE ORDER IS APPEALED TO A COURT OF COMPETENT JURISDICTION; TO AUTHORIZE THE COMMISSIONER TO PROMULGATE RULES NECESSARY FOR THE ENFORCEMENT OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

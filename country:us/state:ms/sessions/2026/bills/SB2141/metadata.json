@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2141",
+  "title": "Protecting Women and Children Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2141"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2141IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2141IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2141IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2141.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE PROTECTING WOMEN AND CHILDREN ACT; TO STATE LEGISLATIVE FINDINGS; TO DEFINE TERMS; TO PROVIDE THAT THIS CHAPTER SHALL NOT IMPOSE LIABILITY ON CERTAIN INTERNET-RELATED ENTITIES; TO PROVIDE CERTAIN PROHIBITIONS RELATED TO ABORTION-INDUCING DRUGS; TO PROVIDE THAT THE EXCLUSIVE ENFORCEMENT OF THIS CHAPTER SHALL BE THROUGH A PRIVATE CIVIL ACTION BROUGHT UNDER SECTION 7 OF THE ACT; TO PROVIDE FOR THE EFFECT OF OTHER LAW; TO CREATE A CIVIL CAUSE OF ACTION RELATED TO THE DISTRIBUTION OF ABORTION-INDUCING DRUGS; TO PROVIDE FOR CERTAIN AFFIRMATIVE DEFENSES TO THE CIVIL ACTION AUTHORIZED BY THIS ACT; TO PROVIDE FOR MARKET-SHARE LIABILITY FOR CERTAIN MANUFACTURERS OF ABORTION-INDUCING DRUGS; TO PROVIDE A STATUTE OF LIMITATIONS FOR ACTIONS BROUGHT UNDER THIS CHAPTER; TO PROHIBIT WAIVER OF THE RIGHT TO BRING SUIT UNDER THIS CHAPTER; TO DESCRIBE CERTAIN SITUATIONS, CONDUCT AND SPEECH WHERE LIABILITY IS NOT IMPOSED UNDER THE CHAPTER; TO PROVIDE FOR PERSONAL JURISDICTION AND THE APPLICABILITY OF STATE LAW; TO PROHIBIT COORDINATED ENFORCEMENT; TO PROVIDE IMMUNITY TO INTERACTIVE COMPUTER SERVICE USERS AND PROVIDERS; TO DESCRIBE SCENARIOS IN WHICH AFFIRMATIVE DEFENSES MAY BE ASSERTED; TO PROVIDE FOR THE CONSTRUCTION OF THE CHAPTER WITH RESPECT TO CIVIL LIABILITY AND ENFORCEMENT; TO PROVIDE FOR THE APPLICATION OF OTHER LAW; TO PROHIBIT CONTRACTUAL CHOICE-OF-FORUM PROVISIONS; TO PROVIDE CERTAIN PROTECTIONS FROM COUNTERACTIONS; TO DIRECT CODIFICATION OF THE ACT AS A SEPARATE CHAPTER OF TITLE 11, MISSISSIPPI CODE OF 1972; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

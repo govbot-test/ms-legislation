@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB533",
+  "title": "Pharmacists; authorize to test for and administer treatment for minor, nonchronic health conditions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb533"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0533IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0533IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0533IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0533.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE A PHARMACIST TO TEST OR SCREEN FOR AND INITIATE OR ADMINISTER TREATMENT FOR MINOR, NONCHRONIC HEALTH CONDITIONS; TO DEFINE THE TERM \"MINOR, NONCHRONIC HEALTH CONDITION\"; TO AUTHORIZE A PHARMACIST TO DELEGATE THE ADMINISTRATIVE AND TECHNICAL TASKS OF PERFORMING CERTAIN TESTS TO AN INTERN OR PHARMACY TECHNICIAN ACTING UNDER THE SUPERVISION OF THE PHARMACIST; TO AUTHORIZE A PHARMACIST TO PROHIBIT THE DENIAL OF REIMBURSEMENT UNDER HEALTH BENEFIT PLANS FOR SERVICES AND PROCEDURES PERFORMED BY A PHARMACIST THAT ARE WITHIN THE SCOPE OF THE PHARMACIST'S LICENSE, AND WOULD BE COVERED IF THE SERVICES OR PROCEDURES WERE PERFORMED BY A PHYSICIAN, AN ADVANCED PRACTICE REGISTERED NURSE, OR A PHYSICIAN ASSISTANT; TO AMEND SECTION 73-21-73, MISSISSIPPI CODE OF 1972, TO INCLUDE IN THE DEFINITION OF THE TERM \"PRACTICE OF PHARMACY\", ORDERING, PERFORMING, AND INTERPRETING CERTAIN TESTS AND INITIATING, ADMINISTERING, OR MODIFYING DRUG THERAPY; TO BRING FORWARD SECTION 83-9-36, MISSISSIPPI CODE OF 1972, WHICH RELATES TO PRESCRIBING PRACTITIONERS, STEP THERAPY OR FAIL-FIRST PROTOCOLS AND OVERRIDE PROCEDURES, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

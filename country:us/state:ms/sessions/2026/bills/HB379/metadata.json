@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB379",
+  "title": "Screening and approval program for retail sale of products containing certain substances; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb379"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McKnight",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McKnight\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0379IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0379IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0379IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McKnight.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0379.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A SCREENING AND APPROVAL PROGRAM FOR THE OVER-THE-COUNTER AVAILABILITY AND RETAIL SALE OF PRODUCTS THAT CONTAIN ANY SUBSTANCE WITH THE POTENTIAL TO BE RECREATIONALLY USED OR ABUSED; TO DEFINE CERTAIN TERMS RELATING TO THE ACT; TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO ADMINISTER THE PROGRAM; TO REQUIRE THE STATE HEALTH OFFICER TO APPROVE OR DENY THE OVER-THE-COUNTER AVAILABILITY AND RETAIL SALE OF PRODUCTS THAT CONTAIN ANY SUBSTANCE WITH THE POTENTIAL TO BE RECREATIONALLY USED OR ABUSED; TO PROVIDE THAT A PROCESS TO APPEAL SUCH DETERMINATION SHALL BE AVAILABLE TO THE MANUFACTURER OR DISTRIBUTOR OF SUCH PRODUCT THAT WAS DENIED BY THE STATE HEALTH OFFICER; TO PROVIDE THAT THE DEPARTMENT SHALL ESTABLISH RULES AND REGULATIONS AS NECESSARY TO IMPLEMENT AND ADMINISTER THE PROGRAM; TO PROVIDE AN EXCEPTION FOR CERTAIN ORDINANCES AND REGULATIONS OF MUNICIPALITIES AND COUNTIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

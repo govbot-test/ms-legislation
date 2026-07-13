@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB408",
+  "title": "Body-worn cameras; require cities and counties to provide to police officers and deputy sheriffs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb408"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Appropriations A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karriem",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0408IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0408IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0408IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0408.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 21-21-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THE GOVERNING AUTHORITIES OF MUNICIPALITIES TO PROVIDE POLICE OFFICERS, WHO ARE ON PATROL, WITH BODY-WORN CAMERAS; TO DEFINE THE TERM \"BODY-WORN CAMERA\"; TO AMEND SECTION 19-25-13, MISSISSIPPI CODE OF 1972, TO REQUIRE COUNTY BOARDS OF SUPERVISORS TO INCLUDE ALLOCATIONS FOR BODY-WORN CAMERAS IN THE ANNUAL BUDGETS FOR SHERIFFS' OFFICES; TO AMEND SECTION 19-25-21, MISSISSIPPI CODE OF 1972, TO REQUIRE DEPUTY SHERIFFS, WHO ARE ON PATROL, TO WEAR BODY-WORN CAMERAS; TO CREATE A NEW SECTION TO PROVIDE CERTAIN PENALTIES FOR POLICE OFFICERS AND SHERIFF DEPUTIES WHO FAIL TO WEAR BODY-WORN CAMERAS WHILE ON PATROL; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

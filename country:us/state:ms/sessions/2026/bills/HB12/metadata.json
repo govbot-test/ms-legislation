@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB12",
+  "title": "Commercial Property Assessed Clean Energy Act and Resilience Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb12"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A;Ways and Means",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0012IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0012IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0012IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0012.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE COMMERCIAL PROPERTY ASSESSED CLEAN ENERGY AND RESILIENCE (C-PACER) ACT, TO ALLOW CERTAIN FINANCING FOR AGRICULTURAL, COMMERCIAL, INDUSTRIAL AND MULTIFAMILY PROPERTY OWNERS TO SEEK LONG-TERM FINANCING FROM PRIVATE LENDERS FOR CLEAN ENERGY RESILIENCY IMPROVEMENTS; TO DEFINE CERTAIN TERMS; TO AUTHORIZE LOCAL GOVERNMENTS TO IMPOSE A VOLUNTARY SPECIAL ASSESSMENT TO REPAY THE FINANCING ON CERTAIN PROJECTS; TO AUTHORIZE SUCH LOCAL GOVERNMENTS TO ESTABLISH A C-PACER PROGRAM AS WELL AS THE BOUNDARIES FOR C-PACER ACTIVITIES ARE ELIGIBLE FOR FUNDING; TO PROVIDE THE TERMS OF A C-PACER PROGRAM; TO PROVIDE THAT LOCAL GOVERNMENTS MAY ADMINISTER A PROGRAM OR DELEGATE THE ADMINISTRATION OF SUCH PROGRAM TO A THIRD PARTY; TO PROVIDE THAT SUCH PROGRAM MUST INCLUDE AN APPLICATION AND REVIEW PROCESS TO EVALUATE PROJECT APPLICATIONS FOR C-PACER FINANCING; TO PROVIDE CERTAIN DUTIES FOR A LOCAL GOVERNMENT THAT ESTABLISHES A C-PACER PROGRAM; TO PROVIDE THAT A LOCAL GOVERNMENT MAY AUTHORIZE FINANCING THROUGH SPECIAL ASSESSMENTS; TO PROVIDE THAT A LOCAL GOVERNMENT MAY AGREE TO JOINTLY IMPLEMENT OR ADMINISTER A C-PACER PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

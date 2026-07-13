@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB218",
+  "title": "\"2026 Mississippi Youthbuild Pilot Program Act\"; create with programs at Coahoma and Jones County Community Colleges.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb218"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0218IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0218IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0218IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0218.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"2026 MISSISSIPPI YOUTHBUILD PILOT PROGRAM ACT\"; TO ESTABLISH A YOUTHBUILD PROGRAM AT COAHOMA COMMUNITY COLLEGE AND AT JONES COUNTY JUNIOR COLLEGE TO DETERMINE THE POTENTIAL IMPACT OF YOUTHBUILD ON HELPING LOW INCOME YOUTH REBUILD THEIR LIVES AND THE COMMUNITIES IN WHICH THEY LIVE; TO PROVIDE THAT CERTAIN DISADVANTAGED YOUTH WILL BE PROVIDED WITH OPPORTUNITIES THROUGH THE YOUTHBUILD PROGRAM FOR EMPLOYMENT, EDUCATION, LEADERSHIP DEVELOPMENT, ENTREPRENEURIAL SKILLS DEVELOPMENT AND TRAINING IN THE CONSTRUCTION OR REHABILITATION OF HOUSING FOR SPECIAL NEEDS POPULATIONS AND LOW INCOME HOUSEHOLDS; TO DEFINE CERTAIN TERMS; TO REQUIRE EACH COLLEGE TO APPLY FOR GRANT FUNDING FROM THE UNITED STATES DEPARTMENT OF LABOR; TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES TO PROVIDE THE COLLEGE'S REQUIRED MATCHING FUNDS FOR A YOUTHBUILD GRANT; TO SPECIFY CERTAIN SERVICES THAT MUST BE PROVIDED THROUGH THE YOUTHBUILD PROGRAM; TO ESTABLISH ELIGIBILITY CRITERIA FOR PARTICIPATION IN THE PROGRAM; TO REQUIRE THE DIVISION OF FAMILY AND CHILDREN'S SERVICES TO SUBMIT A REPORT TO THE LEGISLATURE ON THE YOUTHBUILD PROGRAM BEFORE JANUARY 1, 2029; TO BRING FORWARD SECTION 43-26-1, MISSISSIPPI CODE OF 1972, WHICH CREATES THE MISSISSIPPI DEPARTMENT OF CHILD PROTECTION SERVICES, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

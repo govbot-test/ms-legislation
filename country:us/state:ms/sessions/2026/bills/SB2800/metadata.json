@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2800",
+  "title": "Mississippi Immigration Enforcement Act of 2026; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2800"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2800IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2800IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2800IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2800.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI IMMIGRATION ENFORCEMENT ACT OF 2026; TO IMPOSE A FEE ON CERTAIN LICENSEES PURSUANT TO THE MISSISSIPPI MONEY TRANSMITTERS ACT TO BE DIRECTED TO THE DEPARTMENT OF REVENUE; THE DEPARTMENT OF REVENUE SHALL DIRECT ALL REVENUES DERIVED FROM THIS FEE INTO THE ILLEGAL IMMIGRATION ENFORCEMENT FUND; TO CREATE THE ILLEGAL IMMIGRATION ENFORCEMENT FUND AS A SPECIAL FUND WITHIN THE STATE TREASURY; TO SET FORTH THE PURPOSES OF THE FUND; TO CREATE THE ILLEGAL IMMIGRATION ENFORCEMENT UNIT WITHIN THE DEPARTMENT OF PUBLIC SAFETY; TO PROVIDE THAT THE PURPOSE OF THE ILLEGAL IMMIGRATION ENFORCEMENT UNIT IS TO ENFORCE IMMIGRATION LAWS AS AUTHORIZED PURSUANT TO FEDERAL LAWS, INCLUDING UNDER SECTION 287(G) OF THE FEDERAL IMMIGRATION AND NATIONALITY ACT, 8 USC \u00a7 1357, AND PURSUANT TO THE LAWS OF THIS STATE; TO PROVIDE FOR A SPECIFIC APPROPRIATION TO THE ILLEGAL IMMIGRATION ENFORCEMENT UNIT; TO REQUIRE EACH LAW ENFORCEMENT AGENCY OPERATING A COUNTY DETENTION FACILITY MUST ENTER INTO A WRITTEN AGREEMENT WITH THE UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT TO PARTICIPATE IN THE IMMIGRATION PROGRAM ESTABLISHED UNDER SECTION 287(G) OF THE IMMIGRATION AND NATIONALITY ACT, 8 USC \u00a7 1357 BY A CERTAIN DATE; TO AUTHORIZE THE GOVERNOR TO REMOVE FROM OFFICE ANY SHERIFF OR OTHER LOCAL OFFICIAL RESPONSIBLE FOR OPERATING A COUNTY DETENTION FACILITY FOR NEGLECT OR FAILURE TO PERFORM THE DUTIES OF THE OFFICE AS REQUIRED BY THIS ACT; TO PROVIDE THAT A GOVERNMENTAL ENTITY MAY NOT EXECUTE, AMEND, OR RENEW A CONTRACT WITH A COMMON CARRIER OR CONTRACTED CARRIER IF THE CARRIER IS WILLFULLY PROVIDING ANY SERVICE IN FURTHERANCE OF TRANSPORTING A PERSON INTO THE STATE OF MISSISSIPPI KNOWING THAT THE PERSON IS AN UNAUTHORIZED ALIEN, EXCEPT TO FACILITATE THE DETENTION, REMOVAL OR DEPARTURE OF THE PERSON FROM THIS STATE OR THE UNITED STATES; TO ALLOW A TAX CREDIT EQUAL TO THE AMOUNT OF ALL MONEY TRANSMISSION FEES ASSESSED PURSUANT TO SECTION 2 OF THIS ACT AND PAID BY THE TAXPAYER DURING THE TAX YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

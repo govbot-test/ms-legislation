@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2840",
+  "title": "Business taxes; allow 75% rebate or sale of credit for inventory taxes paid, and eliminate local privilege taxes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2840"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2840IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2840IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2840IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2840.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-7-22.5, MISSISSIPPI CODE OF 1972, WHICH PROVIDES AN INCOME TAX CREDIT FOR AD VALOREM TAXES PAID ON COMMODITIES, RAW MATERIALS, WORKS-IN-PROCESS, PRODUCTS, GOODS, WARES AND MERCHANDISE HELD FOR RESALE BY ANY MANUFACTURER, DISTRIBUTOR, WHOLESALE OR RETAIL MERCHANT, TO ALLOW A TAXPAYER, IN LIEU OF CARRYING FORWARD A CREDIT CLAIMED BUT NOT USED IN A TAXABLE YEAR, TO SELL SUCH CREDIT ON THE MARKET DURING THE FIVE CONSECUTIVE YEARS FROM THE CLOSE OF THE TAX YEAR IN WHICH THE CREDIT WAS EARNED; TO ALLOW THE OPTION, IN LIEU OF CLAIMING THE CREDIT, OF CLAIMING A REBATE OF 75% OF THE AMOUNT THAT WOULD BE ELIGIBLE TO CLAIM AS A CREDIT; TO REPEAL SECTION 27-17-9, MISSISSIPPI CODE OF 1972, WHICH IMPOSES LOCAL PRIVILEGE LICENSE REQUIREMENTS AND TAXES FOR ENGAGING IN BUSINESS; TO REPEAL SECTION 27-17-35, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OPERATORS OF MOTOR VEHICLE RENTAL BUSINESSES; TO REPEAL SECTION 27-17-162, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON FLEA MARKET SELLERS; TO REPEAL SECTION 27-17-299, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON PAWNBROKERS; TO REPEAL SECTION 27-17-365, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OPERATORS OF WHOLESALE OR RETAIL STORES; TO REPEAL SECTION 27-17-415, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON DEALERS OF DEADLY WEAPONS; TO REPEAL SECTION 27-17-423, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OWNERS OR OPERATORS OF DRILLING RIGS; TO REPEAL SECTION 27-17-425, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OPTOMETRISTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

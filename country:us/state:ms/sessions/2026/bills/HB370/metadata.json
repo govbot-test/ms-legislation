@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB370",
+  "title": "Racial Profiling Prevention Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb370"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Osborne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Osborne\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0370IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0370IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0370IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Osborne.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0370.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"RACIAL PROFILING PREVENTION ACT\"; TO DEFINE CERTAIN TERMS; TO PROHIBIT LAW ENFORCEMENT OFFICERS FROM ENGAGING IN RACIAL PROFILING; TO REQUIRE LAW ENFORCEMENT AGENCIES TO DEVELOP POLICIES PROHIBITING TRAFFIC STOPS MOTIVATED BY A MOTOR VEHICLE OPERATOR'S PERSONAL CHARACTERISTICS; TO REQUIRE LAW ENFORCEMENT AGENCIES TO COLLECT CERTAIN INFORMATION RELATING TO TRAFFIC STOPS AND TO SUBMIT COPIES OF COMPLAINTS ALLEGING RACIAL PROFILING TO THE LOCAL DISTRICT ATTORNEY; TO REQUIRE THE INFORMATION REGARDING TRAFFIC STOPS AND COMPLAINTS ALLEGING RACIAL PROFILING TO BE COMPILED INTO A REPORT FOR THE GOVERNOR AND LEGISLATURE BY THE ATTORNEY GENERAL; TO REQUIRE THE ATTORNEY GENERAL TO PREPARE FORMS FOR THE SUBMISSION OF THESE REPORTS FROM LAW ENFORCEMENT AGENCIES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

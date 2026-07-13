@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1285",
+  "title": "Mississippi School Resource Officers School Safety (MS ROSS) Act; create to provide funding to local law enforcement agencies.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1285"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1285IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1285IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1285IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1285.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"MISSISSIPPI SCHOOL RESOURCE OFFICERS SCHOOL SAFETY (MS ROSS) ACT\" FOR THE PURPOSE OF AUTHORIZING THE DEPARTMENT OF PUBLIC SAFETY TO ASSIST LOCAL LAW ENFORCEMENT AGENCIES AND SCHOOL GOVERNING BODIES WITH THE COST OF EMPLOYING A SCHOOL RESOURCE OFFICER (SRO) AT EACH SCHOOL CAMPUS WITHIN THE JURISDICTIONS OF THEIR LAW ENFORCEMENT AND GOVERNING AUTHORITIES; TO DEFINE TERMINOLOGY; TO PROVIDE THAT THE ASSISTANCE OF EMPLOYING SROS SHALL BE MADE AVAILABLE TO PUBLIC AND PRIVATE ELEMENTARY AND SECONDARY SCHOOLS; TO PROVIDE THAT THE DEPARTMENT SHALL ALLOCATE A PERCENTAGE OF THE COST FOR THE EMPLOYMENT OF ONE SRO FOR EACH SCHOOL CAMPUS; TO REQUIRE THE LOCAL LAW ENFORCEMENT AGENCY AND/OR THE SCHOOL GOVERNING BOARD TO PROVIDE THE REMAINING PERCENTAGE OF THE COST FOR THE EMPLOYMENT OF ONE SRO FOR EACH SCHOOL CAMPUS WITHIN THEIR JURISDICTION OF CONTROL; TO REQUIRE LOCAL LAW ENFORCEMENT AGENCIES AND SCHOOL GOVERNING BODIES TO MAKE JOINT APPLICATION TO THE DEPARTMENT FOR THE APPROVAL OF ALLOCATION OF FUNDS; TO SPECIFY THE INFORMATION TO BE INCLUDED IN THE APPLICATION; TO PRESCRIBE THE DETAILS OF THE PROGRAM INCLUDING THE REQUIREMENT OF A MEMORANDUM OF UNDERSTANDING OR INTERLOCAL AGREEMENT BETWEEN A LOCAL LAW ENFORCEMENT AGENCY AND A SCHOOL GOVERNING BODY; TO AMEND SECTION 37-7-321, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO CREATE THE MISSISSIPPI SCHOOL RESOURCE OFFICERS SCHOOL SAFETY (MS ROSS) FUND AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE SPECIAL FUND SHALL BE USED TO PROVIDE FUNDS TO LOCAL LAW ENFORCEMENT AGENCIES AND SCHOOL GOVERNING BODIES FOR THE PURPOSES DESCRIBED IN THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

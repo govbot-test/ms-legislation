@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2687",
+  "title": "Mississippi Rural Attorney Program Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2687"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (12th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (12th)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2687IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2687IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2687IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2687.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE MISSISSIPPI RURAL ATTORNEY PROGRAM ACT; TO DEFINE TERMS; TO ESTABLISH THE MISSISSIPPI RURAL ATTORNEYS PROGRAM WITHIN THE MISSISSIPPI BAR FOR THE PURPOSE OF IDENTIFYING AND RECRUITING QUALIFIED ATTORNEYS TO PRACTICE LAW IN RURAL AND UNDERSERVED AREAS; TO ESTABLISH THE MISSISSIPPI RURAL ATTORNEYS COMMISSION WITHIN THE MISSISSIPPI BAR; TO PROVIDE THAT THE COMMISSION SHALL BE DIRECTED BY A BOARD; TO PROVIDE FOR THE COMPOSITION AND PROCEDURES OF THE BOARD; TO SET FORTH THE POWERS AND DUTIES OF THE BOARD; TO DIRECT THE COMMISSION, THROUGH THE USE OF GENERALLY APPLICABLE DEFINITIONS, TO DESIGNATE AREAS OF THE STATE AS RURAL AND UNDERSERVED; TO PROVIDE AN APPLICATION PROCEDURE FOR ADMISSION INTO THE PROGRAM; TO PROVIDE FOR A MINIMUM NUMBER OF ADMISSIONS TO THE PROGRAM EACH YEAR; TO PROVIDE THAT A PARTICIPANT ADMITTED TO THE PROGRAM SHALL RECEIVE A STIPEND FROM THE COMMISSION FOR THE PURPOSES OF ESTABLISHING A LAW FIRM IN A RURAL AND UNDERSERVED AREA OF MISSISSIPPI; TO PROVIDE THAT WHEN A PARTICIPANT PRACTICES LAW IN A RURAL AND UNDERSERVED AREA OF MISSISSIPPI FOR FIVE YEARS THE STIPEND SHALL BE FORGIVEN; TO REQUIRE THE COMMISSION TO MAKE EVERY EFFORT TO ESTABLISH A PRACTICE SUPPORT SYSTEM AND MENTORSHIPS FOR PARTICIPANTS IN THE PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

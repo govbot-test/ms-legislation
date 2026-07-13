@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB69",
+  "title": "Office of Independent State Hearing Officers; create to hear and decide matters for persons as alternative to agency hearing officers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb69"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0069IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0069IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0069IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0069.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE OFFICE OF INDEPENDENT STATE HEARING OFFICERS TO PROVIDE HEARING OFFICERS TO CONDUCT HEARINGS, COMPILE EVIDENCE AND RENDER DECISIONS ON MATTERS FOR PERSONS OR ENTITIES THAT HAVE ISSUES BEFORE STATE AGENCIES; TO PROVIDE THAT THE OFFICE SHALL BE HEADED BY A DIRECTOR WHO IS APPOINTED BY THE GOVERNOR FOR A TERM OF FOUR YEARS AND WHO MAY BE REMOVED FROM OFFICE ONLY FOR CAUSE; TO PROVIDE THAT THE OFFICE SHALL BE HOUSED AT THE DEPARTMENT OF FINANCE AND ADMINISTRATION AND SHALL BE FUNDED FROM FUNDS THAT ARE SPECIFICALLY APPROPRIATED TO THE DEPARTMENT FOR THAT PURPOSE; TO PROVIDE THAT THE DIRECTOR SHALL CONTRACT WITH AT LEAST FIVE PERSONS TO SERVE AS HEARING OFFICERS; TO PROVIDE THAT  WHEN A PERSON OR ENTITY HAS AN ISSUE BEFORE A STATE AGENCY AND THE STATE AGENCY HAS ITS OWN HEARING OFFICER, THE PERSON OR ENTITY MAY ELECT AT ITS OPTION TO HAVE A HEARING OFFICER FROM THE OFFICE OF INDEPENDENT STATE HEARING OFFICERS HEAR AND DECIDE THE MATTERS AT ISSUE, AS AN ALTERNATIVE TO HAVING A HEARING OFFICER OF THE STATE AGENCY; TO PROVIDE THAT IF A PERSON OR ENTITY ELECTS TO HAVE A HEARING OFFICER FROM THE OFFICE, THE DIRECTOR OF THE OFFICE SHALL ASSIGN ONE OF THE HEARING OFFICERS ON A ROTATING BASIS TO HEAR AND DECIDE THE MATTERS AT ISSUE; TO PROVIDE THAT A PERSON OR ENTITY OR STATE AGENCY MAY APPEAL THE DECISION OF A HEARING OFFICER TO A PANEL OF THREE HEARING OFFICERS OF THE OFFICE WHO WERE NOT INVOLVED IN THE HEARING AND DECISION; TO PROVIDE THAT ANY PERSON OR ENTITY OR STATE AGENCY AGGRIEVED BY A FINAL DECISION OF THE APPEALS PANEL SHALL BE ENTITLED TO JUDICIAL REVIEW OF THE DECISION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

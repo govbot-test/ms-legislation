@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB478",
+  "title": "Minors; prohibit health care providers and institutions from providing health care to without parental consent.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb478"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0478IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0478IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0478IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0478.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-41-3, MISSISSIPPI CODE OF 1972, TO REQUIRE HEALTH-CARE PROVIDERS, WHEN A MINOR PATIENT IS ACCOMPANIED BY A PARENT OR GUARDIAN, TO PRESENT TO THE CHILD'S PARENT OR GUARDIAN A WRITTEN DOCUMENT ADVISING THE PARENT OR GUARDIAN THAT HE OR SHE HAS THE RIGHT TO ELECT TO PREVENT PERSONS OTHER THAN THEMSELVES, ANOTHER PARENT OR GUARDIAN, OR THEIR ADULT DESIGNEES FROM CONSENTING TO MEDICAL TREATMENT FOR THEIR MINOR CHILD; TO PROVIDE THAT THE WRITTEN CONSENT DOCUMENT SHALL ALSO OFFER TO THE PARENT OR GUARDIAN THE ADDITIONAL OPTION TO DESIGNATE A LIST OF THE NAMES AND CONTACT INFORMATION OF ADDITIONAL ADULTS WHO THE PARENT OR GUARDIAN AUTHORIZES TO CONSENT TO TREATMENT FOR EACH MINOR CHILD LISTED ON THE DOCUMENT; TO PROHIBIT HEALTH-CARE INSTITUTIONS AND HEALTH-CARE PROVIDERS FROM PROVIDING HEALTH CARE FOR AN UNEMANCIPATED MINOR WITHOUT FIRST OBTAINING THE CONSENT OF THE MINOR'S PARENT, GUARDIAN OR OTHER ADULT DESIGNATED BY A PARENT OR GUARDIAN AS HAVING AUTHORITY TO CONSENT; TO PROVIDE THAT IF NEITHER A MINOR'S PARENT, GUARDIAN, OR OTHER PARENT-DESIGNATED ADULT HAS PROVIDED CONSENT WITHIN 72 HOURS AFTER ATTEMPTED CONTACT BY THE HEALTH-CARE INSTITUTION OR HEALTH-CARE PROVIDER, THEN ANY OF CERTAIN OTHER PERSONS WHO ARE REASONABLY AVAILABLE ARE AUTHORIZED TO CONSENT ON BEHALF OF THE MINOR; TO PROVIDE FOR CERTAIN EXCEPTIONS TO THE REQUIREMENT OF OBTAINING PARENTAL CONSENT; TO AUTHORIZE A PARENT, GUARDIAN OR SURROGATE OF AN UNEMANCIPATED MINOR TO BRING SUIT FOR ANY VIOLATION OF THIS ACT; TO AMEND SECTIONS 41-41-17 AND 41-42-7, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; TO REPEAL SECTION 41-41-13, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THAT A PHYSICIAN OR NURSE PRACTITIONER MAY TREAT MINORS FOR VENEREAL DISEASE WITHOUT PARENTAL CONSENT, AND SECTION 41-41-14, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THAT A PHYSICIAN OR PSYCHOLOGIST MAY TREAT CERTAIN MINORS FOR MENTAL OR EMOTIONAL PROBLEMS CAUSED OR RELATED TO ALCOHOL OR DRUGS WITHOUT PARENTAL CONSENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

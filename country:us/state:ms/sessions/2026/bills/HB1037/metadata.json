@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1037",
+  "title": "Human smuggling and/or harboring; create crime for those who have illegally entered or illegally remained in the U.S.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1037"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1037IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1037IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1037IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1037.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE CRIME OF UNLAWFUL HUMAN HARBORING; TO PROVIDE THAT A PERSON WHO HARBORS OR HIDES OR ASSISTS ANOTHER IN HARBORING OR HIDING ANY PERSON WHO ILLEGALLY ENTERED OR ILLEGALLY REMAINS IN THE UNITED STATES COMMITS THE CRIME OF UNLAWFUL HARBORING; TO CREATE THE CRIME OF UNLAWFUL HUMAN SMUGGLING; TO PROVIDE THAT A PERSON WHO TRANSPORTS OR ASSISTS ANOTHER IN TRANSPORTING ANY PERSON WHO ILLEGALLY ENTERED OR ILLEGALLY REMAINS IN THE UNITED STATES COMMITS THE CRIME OF UNLAWFUL SMUGGLING; TO AMEND SECTIONS 97-3-54.1 AND 97-3-54.2, MISSISSIPPI CODE OF 1972, TO CONFORM CERTAIN HUMAN TRAFFICKING PROVISIONS TO THIS ACT; TO BRING FORWARD SECTION 97-3-54.4, MISSISSIPPI CODE OF 1972, WHICH CREATES A CRIME FOR DESTRUCTION AND/OR CONCEALMENT OF PASSPORTS OR IMMIGRATION DOCUMENTS, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

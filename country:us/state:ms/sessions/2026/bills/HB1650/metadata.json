@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1650",
+  "title": "State Treasury; close those funds having no transactional activity other than interest from pooled investments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1650"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Read",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Read\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cockerham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cockerham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1650IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1650IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1650IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Read.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Cockerham.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1650.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-105-3, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERMS \"POOLED INVESTMENT VEHICLE,\" \"STATE AGENCY\" AND \"STATE FISCAL OFFICER\"; TO CREATE NEW SECTION 27-105-32, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE TREASURER TO ANNUALLY REVIEW EACH PUBLIC FUND, ACCOUNT OR TRUST THAT RECEIVES INTEREST ALLOCATION FROM A POOLED INVESTMENT VEHICLE TO DETERMINE IF THE FUND, ACCOUNT OR TRUST THAT RECEIVES INTEREST HAD NO TRANSACTIONAL ACTIVITY, OTHER THAN THE RECEIPT OF INTEREST WITHIN THE PRIOR FISCAL YEAR; TO AUTHORIZE THE STATE TREASURER TO PRECLUDE CERTAIN FUNDS, ACCOUNTS OR TRUSTS FROM RECEIVED INTEREST; TO DIRECT CERTAIN FUNDS TO BE CLOSED OR CONSOLIDATED WITHIN THE STATE TREASURY; TO AMEND SECTION 27-105-33, MISSISSIPPI CODE OF 1972, TO AUTHORIZE AN EXCEPTION TO THE INVESTMENT REQUIREMENTS OF THIS CHAPTER UPON A DEMONSTRATION OF SUFFICIENT JUSTIFICATION; TO CREATE NEW SECTION 27-105-34, MISSISSIPPI CODE OF 1972, TO REQUIRE EACH STATE AGENCY TO REVIEW ITS FUNDS, ACCOUNTS AND TRUSTS WITHIN AND OUTSIDE OF THE STATE TREASURY AND REPORT CERTAIN INFORMATION TO THE TREASURER; TO REQUIRE THE TREASURER TO REPORT CERTAIN COMPILED INFORMATION TO THE LEGISLATIVE BUDGET OFFICE AND THE SENATE AND HOUSE LEGISLATIVE SERVICES OFFICE; TO AMEND SECTION 27-105-1, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

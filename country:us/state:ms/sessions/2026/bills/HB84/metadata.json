@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB84",
+  "title": "Schools; require online remedial education classes for students in \"C\" rated schools.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb84"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0084IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0084IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0084IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0084.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "6\tAN ACT TO REQUIRE PUBLIC SCHOOL DISTRICTS ASSIGNED AN ACCOUNTABILITY RATING OF \"C\" TO PROVIDE ONLINE REMEDIAL EDUCATION COURSES FOR EVERY STUDENT ENROLLED; TO SPECIFY THE MINIMUM SUBJECT AREAS THAT SHALL BE INCLUDED IN THOSE COURSES; TO REQUIRE THE COURSES TO BE GRADED AS SEPARATE CLASS GRADES; TO DIRECT THE STATE DEPARTMENT OF EDUCATION TO ISSUE A REQUEST FOR PROPOSALS (RFP) FOR THE PROCUREMENT OF A REPUTABLE VIRTUAL INSTRUCTION ENTITY TO PROVIDE AND OPERATE THE REQUIRED ONLINE REMEDIATION COURSES; TO REQUIRE THE SELECTED ENTITY TO TRACK STUDENT PROGRESS, ADMINISTER DIAGNOSTIC EVALUATIONS, AND REPORT INDIVIDUAL STUDENT WEAKNESSES TO SCHOOL COUNSELORS AND PARENTS OR LEGAL GUARDIANS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

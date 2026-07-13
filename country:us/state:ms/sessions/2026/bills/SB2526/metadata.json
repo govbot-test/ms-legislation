@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2526",
+  "title": "Rural Water Oversight Committee; create and prescribe duties of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2526"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2526CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2526CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2526IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2526IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2526CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2526.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI RURAL WATER OVERSIGHT COMMITTEE; TO DEFINE TERMS; TO SET COMMITTEE MEMBERSHIP; TO REQUIRE PROVIDERS TO OBTAIN A RATE STUDY AND CAPACITY STUDY BY DECEMBER 1, 2027, AND EVERY FIVE YEARS THEREAFTER; TO PROVIDE REQUIREMENTS FOR RATES; TO PROVIDE FOR MODIFICATION OF RATES ACCORDING TO RATE STUDIES; TO REQUIRE PROVIDERS TO DEVELOP AN ASSET MANAGEMENT PLAN BY DECEMBER 1, 2027; TO STIPULATE MINIMUM REQUIREMENTS FOR SUCH ASSET MANAGEMENT PLAN; TO ALLOW THE COMMITTEE TO PROMULGATE RULES AND REGULATIONS CONCERNING THE RATE STUDIES, CAPACITY STUDIES AND ASSET MANAGEMENT PLANS; TO REQUIRE PROVIDERS TO SET ASIDE A PORTION OF GROSS REVENUES FOR REFURBISHMENT AND REPLACEMENT; TO REQUIRE THE COMMITTEE TO MAINTAIN AN APPROVED LIST OF ENTITIES TO CONDUCT RATE STUDIES; TO PROVIDE GUIDELINES FOR APPROVAL; TO REQUIRE A RATE STUDY OR AMENDMENT BEFORE COMMENCEMENT OF A MAJOR DEVELOPMENT PROJECT; TO REQUIRE RATE STUDIES TO BE FILED WITH THE STATE AUDITOR'S OFFICE; TO DESCRIBE WHEN A PROVIDER IS IN FISCAL DISTRESS; TO REQUIRE THE MISSISSIPPI STATE DEPARTMENT OF HEALTH TO MAINTAIN A LIST OF PROVIDERS IN FISCAL DISTRESS; TO REQUIRE PROVIDERS IN FISCAL DISTRESS TO FILE AN IMPROVEMENT PLAN; TO STIPULATE ACTIONS UPON RECEIPT OF AN IMPROVEMENT PLAN; TO PROHIBIT FISCALLY DISTRESSED PROVIDERS FROM RECEIVING CERTAIN STATE FINANCIAL ASSISTANCE UNTIL AN IMPROVEMENT PLAN IS IN PLACE; TO PROVIDE FOR REMOVAL OF BOARD MEMBERS UPON A FINDING OF FISCAL DISTRESS; TO REQUIRE PROVIDERS AT 75% CAPACITY TO TAKE CERTAIN ACTIONS; TO PROVIDE THAT NOTHING IN THIS ACT SHALL BE CONSTRUED AS CONFLICTING WITH FEDERAL LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

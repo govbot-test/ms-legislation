@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2314",
+  "title": "Mississippi Driver's License Law; revise provisions of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2314"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: JB To AP",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2314IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2314IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2314IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2314.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 63-1-17, MISSISSIPPI CODE OF 1972, TO UPDATE PROCEDURES RELATED TO THE FILING OF CERTAIN STATEMENTS; TO AMEND SECTION 63-1-45, MISSISSIPPI CODE OF 1972, TO DELETE CERTAIN LANGUAGE CONCERNING RECEIPTS PROVIDED TO APPLICANTS; TO AMEND SECTION 63-1-46, MISSISSIPPI CODE OF 1972, TO REVISE THE PURPOSE OF CERTAIN EXPENDITURES IN A SPECIAL FUND; TO AMEND SECTION 63-1-51, MISSISSIPPI CODE OF 1972, TO DELETE A REFERENCE TO THE COMMISSIONER BEING AT A CERTAIN LOCATION WITHIN THE STATE; TO AMEND SECTION 63-1-52, MISSISSIPPI CODE OF 1972, TO REVISE THE METHOD OF NOTIFICATION OF A SUSPENSION, CANCELLATION OR REVOCATION OF A DRIVER'S LICENSE OR DRIVING PRIVILEGES; TO AMEND SECTIONS 63-1-1 AND 63-1-11, MISSISSIPPI CODE OF 1972, TO CONFORM; TO REPEAL SECTION 63-1-34, MISSISSIPPI CODE OF 1972, WHICH IS AN OUTDATED PROVISION OF LAW THAT REQUIRED THE PREPARATION OF VIDEO TAPES BY THE MISSISSIPPI AUTHORITY FOR EDUCATIONAL TELEVISION; TO PROVIDE AN EDITORIAL INSTRUCTION TO THE CODIFIER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

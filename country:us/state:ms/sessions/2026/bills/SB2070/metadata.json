@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2070",
+  "title": "Tim Tebow Act; allow homeschooled children to participate in extracurricular activity within their school district.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2070"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2070IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2070IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2070IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2070.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE TIM TEBOW ACT TO AUTHORIZE HOMESCHOOLED STUDENTS TO PARTICIPATE IN INTERSCHOLASTIC EXTRACURRICULAR ACTIVITIES SPONSORED BY OR ENGAGED IN BY THE PUBLIC SCHOOL TO WHICH THE STUDENT WOULD BE ASSIGNED ACCORDING TO DISTRICT SCHOOL BOARD ATTENDANCE POLICIES; TO PROVIDE CERTAIN REQUIREMENTS FOR SUCH STUDENTS; TO PROVIDE THAT TRANSPORTATION OF THE STUDENT TO THE PUBLIC SCHOOL SHALL BE THE RESPONSIBILITY OF THE PARENT, GUARDIAN OR STUDENT; TO PROHIBIT A PUBLIC SCHOOL FROM DISCRIMINATING AGAINST SUCH STUDENT IN THE SELECTION OF INTERSCHOLASTIC EXTRACURRICULAR TEAM MEMBERS; TO PROVIDE THAT SUCH PARTICIPATION SHALL BE CONSIDERED A PRIVILEGE AND NOT A RIGHT, AND THAT NOTHING IN THE ACT SHALL BE INTERPRETED TO CREATE A CAUSE OF ACTION; TO CREATE THE \"HOMESCHOOL EXTRACURRICULAR ACTIVITY FUND\" AS A SPECIAL FUND WITHIN THE DEPARTMENT OF EDUCATION; TO PROVIDE THAT DISTRICTS MAY RECEIVE $2,250.00 PER HOMESCHOOL STUDENT WHO PARTICIPATED IN EXTRACURRICULAR ACTIVITIES IN THE PRIOR YEAR; TO REQUIRE THE DEPARTMENT OF EDUCATION TO REPORT DISBURSEMENTS TO THE OFFICE OF THE STATE AUDITOR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

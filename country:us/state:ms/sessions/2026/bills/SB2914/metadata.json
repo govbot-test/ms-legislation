@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2914",
+  "title": "Alcoholic beverages; authorize direct sales and shipments of distilled spirits to be made to residents in this state.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2914"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "England",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2914IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2914IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2914IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2914.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 67-1-301, 67-1-303, 67-1-305, 67-1-307, 67-1-309, 67-1-311, 67-1-313 AND 67-1-317, MISSISSIPPI CODE OF 1972, WHICH ARE SECTIONS OF LAW THAT AUTHORIZE AND REGULATE THE SELLING AND SHIPPING OF WINE DIRECTLY TO RESIDENTS OF THIS STATE, TO AUTHORIZE THE SELLING AND SHIPPING OF DISTILLED SPIRITS DIRECTLY TO RESIDENTS OF THIS STATE UNDER SIMILAR REGULATION; TO REVISE THE DEFINITIONS OF CERTAIN TERMS AND TO DEFINE THE TERM \"DISTILLED SPIRITS\" FOR THE PURPOSES OF SUCH SECTIONS OF LAW; TO AMEND SECTIONS 27-71-5 AND 27-71-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THE PRIVILEGE TAX REQUIRED FOR THE ISSUANCE OF A DIRECT SHIPPER'S PERMIT INSTEAD OF THE ISSUANCE OF A DIRECT WINE SHIPPER'S PERMIT; TO LEVY A TAX ON THE SALES AND SHIPMENTS OF DISTILLED SPIRITS MADE BY A DIRECT SHIPPER; TO AMEND SECTIONS 27-71-15, 67-1-45, 67-1-51, 67-1-53, 67-1-55, 67-1-57 AND 67-1-73, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

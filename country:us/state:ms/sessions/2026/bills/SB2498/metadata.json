@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2498",
+  "title": "Alyssa's Law; enact to require public schools to implement a panic alert system making use of wearable panic alert devices.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2498"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chassaniol",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chassaniol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2498IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2498IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2498IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Chassaniol.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2498.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TITLED \"ALYSSA'S LAW\"; TO REQUIRE EVERY SCHOOL DISTRICT AND CHARTER SCHOOL TO IMPLEMENT A PANIC ALERT SYSTEM MAKING USE OF WEARABLE PANIC ALERT DEVICES, PROVIDED TO EACH STAFF MEMBER, ALLOWING FOR IMMEDIATE CONTACT WITH LOCAL EMERGENCY RESPONSE AGENCIES; TO REQUIRE THAT THE PANIC ALERT SYSTEM BE CAPABLE OF INITIATING A CAMPUS-WIDE LOCKDOWN NOTIFICATION; TO REQUIRE THAT ALL SCHOOL PERSONNEL RECEIVE TRAINING ON THE PROTOCOL AND APPROPRIATE USE OF THE PANIC ALERT DEVICE; TO REQUIRE SCHOOL DISTRICTS AND CHARTER SCHOOLS TO ENSURE THAT ALL SECURITY DATA WITHIN A SCHOOL BUILDING ARE ACCESSIBLE BY A LOCAL LAW ENFORCEMENT AGENCY, AND TO COORDINATE WITH A LOCAL LAW ENFORCEMENT AGENCY TO ESTABLISH APPROPRIATE ACCESS PROTOCOLS; TO DECLARE CERTAIN SCHOOL AND AGENCY SAFETY AND SECURITY RECORDS AND INFORMATION TO BE CONFIDENTIAL AND EXEMPT FROM THE MISSISSIPPI PUBLIC RECORDS ACT OF 1983; TO PROVIDE FOR CERTAIN EXCEPTIONS ALLOWING FOR DISCLOSURE OF SUCH CONFIDENTIAL INFORMATION; TO REQUIRE THAT EMERGENCY RESPONSE MAPPING BE MADE AVAILABLE BY THE ALYSSA'S LAW PANIC BUTTON PROVIDER AT NO COST TO LOCAL FIRST RESPONDER AGENCIES, IN AN ELECTRONIC OR DIGITAL FORMAT, TO ASSIST FIRST RESPONDERS IN RESPONDING TO EMERGENCIES AT SCHOOLS; TO AUTHORIZE THE STATE BOARD OF EDUCATION TO ADOPT RULES TO IMPLEMENT THIS ACT AS NECESSARY TO PROTECT THE HEALTH AND SAFETY OF STUDENTS AND EDUCATORS; TO PROVIDE THAT THIS ACT SHALL BE ENFORCED BEGINNING WITH THE 2027-2028 SCHOOL YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

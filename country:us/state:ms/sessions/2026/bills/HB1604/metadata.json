@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1604",
+  "title": "Justice court; revise certain provisions regarding suspended judges.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1604"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Oliver",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Oliver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1604IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1604IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1604IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Oliver.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1604.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 9-11-31, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHEN A JUSTICE COURT JUDGE IS UNABLE, BY REASON OF BEING UNDER ANY SUSPENSION BY A CIRCUIT COURT JUDGE WHILE UNDER INDICTMENT FOR A FELONY OFFENSE, THE BOARD OF SUPERVISORS OF THE COUNTY IN WHICH SUCH JUDGE SERVES SHALL APPOINT ANOTHER JUSTICE COURT JUDGE OF THE COUNTY OR AN ADJOINING COUNTY OR A MUNICIPAL COURT JUDGE TO ATTEND AND HOLD SAID COURT AND PERFORM ALL THE DUTIES OF SUCH JUDGE DURING SUCH SUSPENSION; TO PROVIDE THAT ANY PRESENTLY SITTING JUSTICE COURT JUDGE APPOINTED TO PERFORM DUTIES OF THE SUSPENDED JUDGE SHALL RECEIVE ADDITIONAL COMPENSATION FOR HIS SERVICE; TO AMEND SECTION 25-3-36, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY JUSTICE COURT JUDGE WHO IS UNABLE TO ATTEND AND HOLD COURT BY REASON OF BEING UNDER SUSPENSION BY A CIRCUIT COURT JUDGE WHILE UNDER INDICTMENT FOR A FELONY OFFENSE, SHALL NOT RECEIVE A SALARY WHILE UNDER SUCH SUSPENSION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1707",
+  "title": "MS False Claims Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1707"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hurst",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hurst\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1707IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1707IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1707IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hurst.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1707.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI FALSE CLAIMS ACT\"; TO PROHIBIT ANY PERSON FROM KNOWINGLY PRESENTING, OR CAUSING TO BE PRESENTED, A FALSE OR FRAUDULENT CLAIM FOR PAYMENT OR APPROVAL TO A STATE AGENCY OR ANY EMPLOYEE OR AGENT OF A STATE AGENCY; TO REQUIRE STATE AGENCIES TO DILIGENTLY INVESTIGATE SUSPECTED VIOLATIONS OF THE ACT; TO AUTHORIZE CIVIL ACTION BY A QUI TAM PLAINTIFF; TO PROVIDE FOR A MONETARY AWARD TO THE QUI TAM PLAINTIFF OUT OF THE PROCEEDS OF THE ACTION OR SETTLEMENT, IF ANY; TO BAR CERTAIN CIVIL ACTIONS; TO PROVIDE A STATUTE OF LIMITATIONS FOR BRINGING A CIVIL ACTION UNDER THE ACT; TO PROHIBIT EMPLOYER INTERFERENCE WITH EMPLOYEE DISCLOSURE; TO PROVIDE THAT THE REMEDIES PROVIDED IN THE ACT ARE NOT EXCLUSIVE AND SHALL BE IN ADDITION TO ANY OTHER REMEDIES PROVIDED BY LAW; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

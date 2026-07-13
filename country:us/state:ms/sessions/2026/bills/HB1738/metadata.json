@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1738",
+  "title": "Dept. of Corrections; require to convene unexpected fatality review team for certain inmate deaths.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1738"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Currie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Currie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1738IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1738IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1738IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Currie.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1738.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE DEPARTMENT OF CORRECTIONS TO CONVENE AN UNEXPECTED FATALITY REVIEW TEAM CONCERNING INMATE DEATHS UNDER CERTAIN CIRCUMSTANCES; TO PROVIDE CERTAIN DEFINITIONS; TO PROVIDE THE PRIMARY PURPOSE OF AN UNEXPECTED FATALITY REVIEW IS TO DEVELOP  RECOMMENDATIONS FOR THE DEPARTMENT AND LEGISLATURE REGARDING CHANGES IN PRACTICES TO PREVENT CERTAIN FATALITIES PERTAINING TO INMATES; TO PROVIDE THAT AFTER A REVIEW IS CONDUCTED BY A TEAM, THE DEPARTMENT SHALL ISSUE A REPORT ON THE RESULTS OF A REVIEW; TO REQUIRE ALL UNEXPECTED FATALITY REVIEW REPORTS BE POSTED ON A PUBLIC WEBSITE; TO REQUIRE, UPON THE COMPLETION OF A REVIEW, THE DEPARTMENT TO IMPLEMENT ANY RECOMMENDATIONS MADE BY THE REVIEW TEAM AND TO REQUIRE THE DEPARTMENT TO IMPLEMENT A CORRECTIVE ACTION PLAN; TO AMEND SECTION 25-61-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTION 25-61-12, MISSISSIPPI CODE OF 1972, WHICH PERTAINS TO CERTAIN EXEMPTIONS OF THE MISSISSIPPI PUBLIC RECORDS ACCT OF 1983, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1380",
+  "title": "Homestead exemption; revise provisions regarding surviving spouses and applications.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1380"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1380IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1380IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1380IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1380.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-33-31, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF A DECEASED SPOUSE QUALIFIED FOR INCREASED HOMESTEAD EXEMPTION DUE TO AGE OR DISABILITY STATUS, BUT THE SURVIVING SPOUSE'S AGE OR DISABILITY STATUS IS UNKNOWN AND THE SURVIVING SPOUSE HAS NOT FILED A NEW APPLICATION FOR HOMESTEAD EXEMPTION, THE SURVIVING SPOUSE WILL BE ROLLED TO THE PRIMARY APPLICANT POSITION ON THE HOMESTEAD EXEMPTION APPLICATION AND THE LEVEL OF EXEMPTION WILL BE CHANGED TO THE LOWEST TIER OF HOMESTEAD EXEMPTION; TO PROVIDE THAT WHERE AN APPLICANT FOR HOMESTEAD EXEMPTION HAS FILED A TIMELY APPLICATION, BUT HAS FAILED TO MAKE KNOWN HIS ELIGIBILITY FOR AN ADDITIONAL EXEMPTION, THEN AN AMENDED APPLICATION FOR ADDITIONAL HOMESTEAD EXEMPTION MAY BE FILED AND  CONSIDERED FOR ACTION BY THE BOARD OF SUPERVISORS AND THE DEPARTMENT OF REVENUE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

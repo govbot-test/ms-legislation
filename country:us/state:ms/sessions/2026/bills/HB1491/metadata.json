@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1491",
+  "title": "Students Safe at School Act; create to provide procedures for active shooter drills and simulations.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1491"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Grady",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Grady\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1491IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1491IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1491IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Grady.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1491.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE \"THE STUDENTS SAFE AT SCHOOL ACT\"; TO DEFINE TERMS UNDER THE ACT; TO OUTLINE STANDARDS; TO PROVIDE FOR STUDENT HEALTH AND WELLNESS PROTOCOLS; TO SET FORTH NOTICE REQUIREMENTS; TO ADDRESS STUDENT PARTICIPATION IN SHOOTER DRILLS; TO ADDRESS STUDENT PARTICIPATION IN ACTIVE SHOOTER SIMULATIONS; TO REQUIRE VIOLENCE PREVENTION TRAINING; TO PROVIDE FOR STUDENT PARTICIPATION IN SAFETY PLANNING; TO PROVIDE FOR PUBLICATION OF VENDORS; TO CREATE GUIDELINES TO MEASURE EFFECTIVENESS OF DRILLS; TO CREATE THE SCHOOL EMERGENCY RESPONSE MAPPING DATA GRANT PROGRAM WITHIN THE OFFICE OF THE ATTORNEY GENERAL; TO AUTHORIZE EACH SCHOOL DISTRICT, CHARTER SCHOOL GOVERNING BOARD AND PRIVATE SCHOOL GOVERNING BOARD, IN CONSULTATION WITH LOCAL LAW ENFORCEMENT AGENCIES, TO PROVIDE SCHOOL MAPPING DATA FOR EACH SCHOOL IN THE AREA OF THE LAW ENFORCEMENT AGENCY'S JURISDICTION; TO REQUIRE THE ENTITY PRODUCING THE DATA TO BE RESPONSIBLE FOR PROVIDING DATA TO THE SCHOOLS AND LOCAL LAW ENFORCEMENT AND PUBLIC SAFETY AGENCIES FOR USE IN RESPONSE TO EMERGENCIES; TO PRESCRIBE THE REQUIRED COMPONENTS OF WHAT SCHOOL MAPPING DATA SHOULD ENTAIL; TO REQUIRE THAT UPDATES TO THE SCHOOL MAPPING DATA BE ACCESSIBLE IN SOFTWARE PLATFORMS; TO ESTABLISH THE SCHOOL EMERGENCY RESPONSE MAPPING DATA GRANT PROGRAM IN THE STATE TREASURY; TO BRING FORWARD SECTION 37-11-5, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

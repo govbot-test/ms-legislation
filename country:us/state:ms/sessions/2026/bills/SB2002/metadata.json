@@ -1,0 +1,218 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2002",
+  "title": "Student transfers; remove requirement for current district of attendance to approve release.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2002"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeBar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeBar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chism",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chism\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wiggins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2002PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2002PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2002IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2002IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2002CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2002CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2002_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2002_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2002PS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Chism.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2002.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-15-31, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT FOR THE SCHOOL BOARD OF THE SCHOOL DISTRICT OF A CHILD'S RESIDENCE CONSENT TO THE RELEASE OF THE STUDENT FOR TRANSFER TO ANOTHER DISTRICT; TO REQUIRE THAT THE TRANSFEREE SCHOOL BOARD APPROVE OR REFUSE THE TRANSFER OF A STUDENT AT THE NEXT REGULAR MEETING OF THE BOARD AFTER RECEIPT OF THE PETITION FOR TRANSFER; TO REQUIRE THE TRANSFEREE DISTRICT TO NOTIFY, IN WRITING AND WITHIN A REASONABLE TIME, THE DISTRICT FROM WHICH THE STUDENT IS TRANSFERRING OF THE APPROVAL OF A TRANSFER REQUEST; TO PROVIDE THAT, ABSENT GOOD CAUSE, A TRANSFER REQUEST MUST BE APPROVED, AND THE TRANSFEROR DISTRICT NOTIFIED, NOT LATER THAN MARCH 15 OF THE SCHOOL YEAR BEFORE THE TRANSFER IS TO OCCUR; TO AUTHORIZE A TRANSFEREE DISTRICT TO CHARGE A FEE IT DETERMINES TO BE REASONABLE FOR RECEIVING A STUDENT; TO PROVIDE THAT NOTHING IN THIS ACT SHALL PRECLUDE THE MISSISSIPPI HIGH SCHOOL ACTIVITIES ASSOCIATION OR ANY SUCCESSOR REGULATORY BODY FROM EXERCISING ITS AUTHORITY TO DETERMINE THE EXTRACURRICULAR ELIGIBILITY OF A TRANSFERRING STUDENT; TO PROVIDE THAT TRANSFER AUTHORITY OF A DISTRICT TO RECEIVE OR DENY THE ACCEPTANCE OF A STUDENT REQUESTING TRANSFER INTO THE DISTRICT SHALL NOT SUPERSEDE ANY PROVISION OF AN ENFORCEABLE DESEGREGATION ORDER OR A COURT-APPROVED DESEGREGATION PLAN; TO AMEND SECTION 37-15-29, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

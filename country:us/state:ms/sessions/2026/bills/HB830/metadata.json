@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB830",
+  "title": "Ad valorem taxes; revise certain provisions regarding limitations on increases.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb830"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Newman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford (54th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ford (54th)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wallace\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0830IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0830IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0830IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Wallace.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0830.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 27-39-321, 27-39-305 AND 27-39-320, MISSISSIPPI CODE OF 1972, TO REVISE CERTAIN PROVISIONS RELATING TO LIMITATIONS ON AD VALOREM TAX INCREASES AND REVENUES; TO AMEND SECTIONS 19-3-113, 19-5-21, 19-5-189, 19-29-18, 21-27-175, 21-29-117, 21-29-219, 27-39-323, 27-39-325, 37-29-103, 49-28-27 AND 57-64-53, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; TO AMEND SECTION 37-57-104, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE LEVYING AUTHORITY FOR A SCHOOL DISTRICT TO APPROVE, IN FULL OR IN PART, A REQUEST FOR AN INCREASE IN THE AD VALOREM TAX EFFORT FOR THE SCHOOL DISTRICT; TO AMEND SECTION 37-57-105, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; TO BRING FORWARD SECTION 37-57-107, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE LEVY OF AD VALOREM TAXES FOR SCHOOL DISTRICTS, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB538",
+  "title": "Sanctuary policies; prohibit certain government entities and employees from adopting or interfering with federal immigration enforcement.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb538"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0538IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0538IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0538IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Sanford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0538.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-1-119, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE LAW PROHIBITING SANCTUARY POLICIES IN THE STATE INCLUDES ANY POLICY, ORDER, ORDINANCE, PRACTICE OR PROCEDURE, THAT LIMITS, RESTRICTS, BANS OR INTERFERES WITH THE ENFORCEMENT OF FEDERAL IMMIGRATION LAWS BY ANY PERSON; TO REQUIRE CERTAIN GOVERNMENT ENTITIES AND EMPLOYEES TO COOPERATE AND COMPLY WITH THE FEDERAL GOVERNMENT AND OTHER STATE AND LOCAL GOVERNMENTS WHEN ENFORCING FEDERAL IMMIGRATION LAWS; TO PROVIDE THAT CERTAIN GOVERNMENT ENTITIES AND EMPLOYEES SHALL BE SUBJECT TO A WAIVER OF SOVEREIGN IMMUNITY IN ALL MATTERS RELATING TO VIOLATIONS OF THIS SECTION; TO AUTHORIZE THE ATTORNEY GENERAL TO INVESTIGATE AND PROSECUTE ANY VIOLATION OF THIS SECTION; TO BRING FORWARD SECTION 71-11-1, MISSISSIPPI CODE OF 1972, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

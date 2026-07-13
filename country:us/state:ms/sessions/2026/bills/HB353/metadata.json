@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB353",
+  "title": "In-state tuition; provide that 12 months of residency in MS shall constitute eligibility for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb353"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Appropriations A",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0353IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0353IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0353IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0353.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "\tAN ACT TO AMEND SECTION 37-103-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THE RESIDENCY REQUIREMENT FOR IN-STATE TUITION RATES FOR THE PURPOSE OF ATTENDING A STATE-SUPPORTED INSTITUTION OF HIGHER LEARNING OR COMMUNITY OR JUNIOR COLLEGE SHALL BE A MINIMUM PERIOD OF TWELVE MONTHS; TO AMEND SECTION 37-103-25, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY STUDENT WHO HAS RESIDED IN THE STATE OF MISSISSIPPI FOR A CONTINUOUS PERIOD OF TWELVE MONTHS, OR WHO HAS RECEIVED A HIGH SCHOOL DIPLOMA FROM A PUBLIC OR PRIVATE SECONDARY SCHOOL IN THE STATE UPON EVIDENCING THAT HE OR SHE COMPLETED THE FINAL SCHOLASTIC YEAR ENROLLED THEREIN IN THE YEAR IMMEDIATELY PRECEDING HIS OR HER ENROLLMENT IN A STATE INSTITUTION OF HIGHER LEARNING OR COMMUNITY OR JUNIOR COLLEGE SHALL BE CONSIDERED A RESIDENT FOR PURPOSES OF IN-STATE TUITION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB72",
+  "title": "Mississippi Delta Medical Apprenticeship Program (MS DMAP); establish to provide health care career pathways for students in the Delta.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb72"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0072IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0072IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0072IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hines.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0072.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE THE STATE BOARD OF EDUCATION, IN CONJUNCTION WITH THE STATE BOARD OF MEDICAL LICENSURE, THE MISSISSIPPI BOARD OF NURSING AND THE MISSISSIPPI HOSPITAL ASSOCIATION, TO ESTABLISH AND IMPLEMENT THE DELTA MEDICAL APPRENTICESHIP PROGRAM (MS DMAP) FOR PUBLIC SCHOOL STUDENTS ENROLLED IN GRADES 9 THROUGH 12 IN SCHOOLS SITUATED IN COUNTIES OF THE MISSISSIPPI DELTA FOR THE PURPOSE OF PROVIDING CAREER PATHWAYS INTO HEALTH CARE PROFESSIONS; TO REQUIRE THE APPRENTICESHIP PROGRAM TO BE CONDUCTED IN CONJUNCTION WITH LICENSED MEDICAL FACILITIES IN THOSE DELTA COUNTIES EXPERIENCING CRITICAL SHORTAGES IN HEALTH CARE PROFESSIONALS; TO PRESCRIBE THE ELIGIBILITY REQUIREMENTS FOR PARTICIPATION IN THE APPRENTICESHIP PROGRAM; TO PRESCRIBE THE COMPONENTS TO BE INCLUDED IN THE APPRENTICESHIP PROGRAM; TO REQUIRE THE APPRENTICESHIP PROGRAM TO PROVIDE ACADEMIC AND PRACTICAL APPLICATION INSTRUCTION DURING THE COURSE OF THE PROGRAM; TO REQUIRE PARTICIPATING STUDENTS TO COMPLETE CERTAIN TASKS AND RESEARCH PROJECTS; TO LIMIT PARTICIPATION IN THE APPRENTICESHIP PROGRAM TO RESIDENTS OF THE COUNTIES OF THE MISSISSIPPI DELTA ENTERING GRADES 9 THROUGH 12 IN A PUBLIC SCHOOL; TO REQUIRE ELIGIBLE PERSONS TO SUBMIT AN APPLICATION FOR PARTICIPATION TO THE STATE DEPARTMENT OF EDUCATION; TO REQUIRE THE DEPARTMENT TO MAKE THE APPLICATIONS AVAILABLE TO LOCAL SCHOOL DISTRICTS BY A CERTAIN DATE AND TO ESTABLISH THE DEADLINE FOR ACCEPTANCE OF APPLICATIONS; TO PROVIDE AN INCENTIVE IN THE FORM OF A REDUCED TUITION RATE FOR STUDENTS PARTICIPATING IN THE APPRENTICESHIP PROGRAM; TO ESTABLISH THE MISSISSIPPI DELTA MEDICAL APPRENTICESHIP PROGRAM TRUST FUND IN THE STATE TREASURY TO PROVIDE SUPPORT TO LOCAL SCHOOL DISTRICTS AND THE BOARD OF MEDICAL LICENSURE FOR START-UP COSTS AND COSTS ASSOCIATED WITH IMPLEMENTING AND OPERATING THE APPRENTICESHIP PROGRAM; TO AMEND SECTION 37-71-7, MISSISSIPPI CODE OF 1972, TO MAKE A MINOR NONSUBSTANTIVE CHANGE; TO BRING FORWARD SECTIONS 37-71-9 AND 31-71-11, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

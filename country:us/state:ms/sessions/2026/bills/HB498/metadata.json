@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB498",
+  "title": "Cleaning private property; revise procedures used to clean property adjudicated a menace to public health and safety.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb498"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Remak",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0498IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0498IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0498IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0498.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 19-5-105, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BOARD OF SUPERVISORS OF ANY COUNTY TO REMOVE PERSONAL PROPERTY FROM PROPERTY THAT HAS BEEN ADJUDICATED A MENACE BY SUCH BOARD AFTER CERTAIN NOTICE IS GIVEN; TO REQUIRE THE COUNTY TO MAKE CERTAIN PUBLIC POSTINGS THAT THE PERSONAL PROPERTY HAS BEEN RECEIVED BY THE COUNTY; TO PROVIDE A MECHANISM FOR THE OWNER OF THE PERSONAL PROPERTY TO RECOVER SUCH PERSONAL PROPERTY; TO PROVIDE THAT IF THE PERSONAL PROPERTY IS NOT CLAIMED BY A CERTAIN TIME FRAME THEN THE COUNTY MAY SELL THE PROPERTY AT PUBLIC AUCTION; UPON THE SALE OF THE PROPERTY, THE PROCEEDS OF THE SALE  SHALL BE DEPOSITED INTO THE COUNTY TREASURY TO BE UTILIZED FOR CERTAIN PURPOSES; TO PROVIDE THAT IF SUCH PROPERTY IS NOT SOLD, THEN THE COUNTY MAY DEEM IT SURPLUS PROPERTY AND IT MAY BE DISPOSED OF AS PRESCRIBED BY LAW; TO AMEND SECTION 17-25-25, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

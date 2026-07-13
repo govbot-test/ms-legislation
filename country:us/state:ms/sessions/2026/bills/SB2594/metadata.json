@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2594",
+  "title": "Mississippi Antiquities Law; amend to provide certain exemptions for universities and colleges.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2594"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Property",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2594IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2594IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2594IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2594.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 39-7-4, MISSISSIPPI CODE OF 1972, TO DEFINE \"BLIGHT\"; TO AMEND SECTION 39-17-19, MISSISSIPPI CODE OF 1972, TO ALLOW THE BOARD TO GRANT PERMITS FOR THE PURPOSE OF DEMOLISHING ALL OR PORTIONS OF CERTAIN BLIGHTED BUILDINGS OR PROPERTY; TO AMEND SECTION 39-7-22, MISSISSIPPI CODE OF 1972, TO PROTECT STRUCTURES POTENTIALLY ELIGIBLE FOR DESIGNATION AS MISSISSIPPI LANDMARKS; TO AMEND SECTION 29-5-2, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO RETAIN ARCHITECTS, ENGINEERS AND OTHER PROFESSIONALS FOR THE PURPOSES OF ASSESSING CERTAIN BUILDINGS DESIGNATED AS MISSISSIPPI LANDMARKS; TO BRING FORWARD SECTIONS 39-7-11, 39-7-13, 39-7-15, 39-7-17, 39-7-21, 39-7-23, 39-7-25, 39-7-27, 39-7-29, 39-7-31, 39-7-33, 39-7-35, 39-7-37, 39-7-39, 39-7-41, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

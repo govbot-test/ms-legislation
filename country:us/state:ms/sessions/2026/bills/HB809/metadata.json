@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB809",
+  "title": "Elections; establish procedure for automatic registration of voters.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb809"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Faulkner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Faulkner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Summers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Denton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Denton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0809IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0809IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0809IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Faulkner.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Denton.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0809.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE ANY PERSON WHO IS QUALIFIED TO REGISTER TO VOTE IN THE STATE OF MISSISSIPPI TO REGISTER TO VOTE WHEN THAT PERSON APPLIES FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY TO OBTAIN CERTAIN INFORMATION FROM A PERSON WHO DESIRES TO REGISTER TO VOTE WHILE APPLYING FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO PROVIDE AN OPT-OUT PROCEDURE FOR PERSONS WHO CHOOSE NOT TO REGISTER TO VOTE WHILE APPLYING FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO PROVIDE FOR THE FORWARDING OF VOTER REGISTRATION APPLICATIONS TO THE PERSON'S COUNTY OF RESIDENCE; TO AMEND SECTIONS 23-15-11, 23-15-33, 23-15-35, 23-15-39, 23-15-41, 23-15-79, 23-15-95 AND 63-1-19, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

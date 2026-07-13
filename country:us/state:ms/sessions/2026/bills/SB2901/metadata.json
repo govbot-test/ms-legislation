@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2901",
+  "title": "Save Our Badge and Shield Act; enact to categorize first responders as if hired before March 1, 2026, for PERS purposes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2901"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McLendon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McLendon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2901IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2901IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2901IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McLendon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2901.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT ENACT THE \"SAVE OUR BADGE AND SHIELD ACT\"; TO AMEND SECTIONS 25-11-103, 25-11-109, 25-11-111, 25-11-112, 25-11-114, 25-11-115, 25-11-117, 25-11-123 AND 25-11-147, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT LAW ENFORCEMENT OFFICERS, FIREFIGHTERS, EMERGENCY MEDICAL SERVICES PROVIDERS, EMERGENCY MANAGEMENT PERSONNEL, AND PUBLIC SAFETY TELECOMMUNICATORS WHO BECOME MEMBERS OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM ON OR AFTER MARCH 1, 2026, SHALL BE ENTITLED TO THE SAME RETIREMENT BENEFITS AND CONDITIONS AS MEMBERS WHO BECAME MEMBERS OF THE SYSTEM ON OR AFTER JULY 1, 2011, BUT BEFORE MARCH 1, 2026; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

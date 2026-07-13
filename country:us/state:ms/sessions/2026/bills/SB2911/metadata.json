@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2911",
+  "title": "PERS; provide alternative return to work provisions.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2911"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sparks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sparks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2911CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2911CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2911IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2911IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2911CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Sparks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2911.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-11-103, MISSISSIPPI CODE OF 1972, TO ALLOW THE CALCULATION OF THE AVERAGE COMPENSATION OF A PERSON WHO BECAME A MEMBER OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI ON OR AFTER MARCH 1, 2026, TO INCLUDE ANY AMOUNT LAWFULLY PAID IN A LUMP SUM FOR PERSONAL LEAVE OR MAJOR MEDICAL LEAVE, TO THE EXTENT THAT SUCH AMOUNT DOES NOT EXCEED AN AMOUNT EQUAL TO 180 DAYS OF EARNED COMPENSATION; TO AMEND SECTION 25-11-127, MISSISSIPPI CODE OF 1972, TO CHANGE THE REQUIRED SEPARATION PERIOD FOR RETIREES RETURNING TO WORK FROM 90 DAYS TO 30 DAYS; TO CREATE AN ALTERNATIVE RETURN-TO-WORK PROVISION FOR RETIREES WHO ARE NOT SUBJECT TO AN ACTUARIAL REDUCTION IN THEIR RETIREMENT ALLOWANCES, EXCEPT AS A RESULT OF TAKING A PARTIAL LUMP-SUM DISTRIBUTION OR ANY OTHER OPTIONAL BENEFIT UNDER SECTION 25-11-115; TO ALLOW A RETIREE TO RETURN TO WORK FOR A PERIOD OF TIME AS AGREED TO BETWEEN THE EMPLOYEE AND THE EMPLOYER, AT COMPENSATION IN AN AMOUNT NOT TO EXCEED 80% OF THE SALARY IN EFFECT FOR THE POSITION AT THE TIME OF EMPLOYMENT; TO REQUIRE THE EXECUTION OF A WRITTEN AGREEMENT AFTER THE CONCLUSION OF THE SEPARATION PERIOD PROVIDING CERTAIN DETAILS OF THE EMPLOYMENT; TO PROVIDE THAT THE EMPLOYER SHALL PAY TO THE BOARD OF TRUSTEES OF THE SYSTEM THE FULL AMOUNT OF BOTH THE EMPLOYER'S AND THE EMPLOYEE'S CONTRIBUTIONS ON THE AMOUNT OF COMPENSATION RECEIVED BY THE RETIREE RETURNING TO WORK; TO SPECIFY THAT THE EMPLOYEE SHALL NOT GAIN ANY ADDITIONAL RIGHTS OR BENEFITS TOWARD RETIREMENT FROM RETURNING TO WORK UNDER THIS ALTERNATIVE RETURN-TO-WORK PROVISION; TO SPECIFY THAT EMPLOYER CONTRIBUTIONS FOR EMPLOYEES RETURNING TO WORK ARE DESIGNED TO OFFSET ANY PENSION LIABILITY CREATED BY THIS PROVISION; TO PROHIBIT RETIREES FROM RETURNING TO WORK AS ELECTED OFFICIALS, K-12 SCHOOL SUPERINTENDENTS, OR ADMINISTRATORS AT UNIVERSITIES OR COMMUNITY OR JUNIOR COLLEGES UNDER THIS PROVISION; TO PROVIDE FOR THE REPEAL OF THIS PROVISION ON JULY 1, 2036; TO AMEND SECTION 25-11-126, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE REDUCTION IN THE REQUIRED SEPARATION PERIOD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

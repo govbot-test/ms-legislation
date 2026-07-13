@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB685",
+  "title": "Missing or unidentified persons; create procedures regarding investigation of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb685"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fondren",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fondren\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0685IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0685IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0685IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Fondren.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0685.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE CERTAIN PROCEDURES FOR LAW ENFORCEMENT AGENCIES CONCERNING THE INVESTIGATION INTO A MISSING OR UNIDENTIFIED PERSON; TO REQUIRE A LAW ENFORCEMENT AGENCY TO INITIATE CERTAIN PROCEDURES UPON THE RECEIPT OF A CREDIBLE REPORT OF A MISSING OR UNIDENTIFIED PERSON; TO REQUIRE CERTAIN INFORMATION ABOUT THE MISSING OR UNIDENTIFIED PERSON TO BE ENTERED INTO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM; TO REQUIRE A LAW ENFORCEMENT AGENCY TO ENTER A REPORT OF A MISSING CHILD INTO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM WITHOUT DELAY; TO REQUIRE THE STATE MEDICAL EXAMINER TEST THE DNA OF UNIDENTIFIED HUMAN REMAINS USING FORENSIC GENETIC GENEALOGY TESTING; TO AMEND SECTION 41-61-53, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERMS \"UNCLAIMED HUMAN REMAINS\" AND \"UNIDENTIFIED HUMAN REMAINS\"; TO AMEND SECTION 41-61-59, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHEN A BODY IS UNIDENTIFIED HUMAN REMAINS, THE BODY SHALL BE SUBMITTED TO THE STATE MEDICAL EXAMINER; TO AMEND SECTION 41-61-61, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT UPON DISCOVERY, UNIDENTIFIED HUMAN REMAINS OR ANATOMICAL MATERIAL SUSPECTED OF BEING PART OF THE HUMAN BODY SHALL BE THE JURISDICTION OF THE STATE MEDICAL EXAMINER BY OPERATION OF LAW; TO PROVIDE THAT THE WILLFUL DESTRUCTION OF A BODY, BODY PART OR UNIDENTIFIED HUMAN REMAINS SHALL BE A FELONY; TO REQUIRE THE COUNTY MEDICAL EXAMINER INVESTIGATOR IN CONCERT WITH THE STATE MEDICAL EXAMINER TO ENTER INTO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM ALL UNCLAIMED HUMAN REMAINS CASES WITHIN A CERTAIN AMOUNT OF DAYS; TO AMEND SECTION 41-39-5, MISSISSIPPI CODE OF 1972, TO REQUIRE ANY PHYSICIAN, HOSPITAL, FUNERAL DIRECTOR, EMBALMER, COUNTY MEDICAL EXAMINER OR OTHER PERSON ACQUIRING POSSESSION OF UNIDENTIFIED HUMAN REMAINS TO SUBMIT THE REMAINS TO THE STATE MEDICAL EXAMINER AND NOT SUBJECT THE REMAINS TO CREMATION, EMBALMING OR OTHER DESTRUCTIVE TREATMENT; TO AMEND SECTION 45-6-7, MISSISSIPPI CODE OF 1972, TO REVISE THE BOARD'S POWERS AND DUTIES TO INCLUDE INVESTIGATIVE AUTHORITY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

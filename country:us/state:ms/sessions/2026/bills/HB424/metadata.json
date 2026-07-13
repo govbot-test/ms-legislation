@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB424",
+  "title": "Mental health; authorize assisted outpatient treatment (AOT) as alternative to impatient commitment for certain persons.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb424"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Judiciary A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: PH To JA",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: JA To PH",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0400-0499/HB0424IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0424IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0400-0499/HB0424IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0424.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-21-74, MISSISSIPPI CODE OF 1972, TO AUTHORIZE ASSISTED OUTPATIENT TREATMENT (AOT) AS AN ALTERNATIVE TO INPATIENT COMMITMENT FOR PERSONS WHO MEET CERTAIN CRITERIA; TO SPECIFY WHO MAY INITIATE AN AOT ORDER; TO REQUIRE THE COURT TO MAKE CERTAIN FINDINGS BEFORE ENTERING AN AOT ORDER; TO REQUIRE THE SUBMISSION AND UPDATING OF A TREATMENT PLAN AFTER ENTRY OF AN AOT ORDER; TO PROVIDE THAT THE RESPONDENT SHALL HAVE THE RIGHT TO AN ATTORNEY AT ALL STAGES OF ANY PROCEEDING INVOLVING AOT; TO SPECIFY THE INITIAL LENGTH OF AN AOT ORDER AND AUTHORIZE RENEWALS OF THE ORDER; TO AUTHORIZE CERTAIN PERSONS TO FILE AN AFFIDAVIT OF NONCOMPLIANCE WITH A TREATMENT PLAN; TO REQUIRE SCREENING BEFORE SUCH AN AFFIDAVIT IS FILED; TO PROVIDE THAT THE COUNTY OF RESIDENCE SHALL BE RESPONSIBLE FOR COMMUNITY COORDINATION, TRANSPORTATION, AND FOLLOW-UP SERVICES; TO REQUIRE LOCAL SCREENING BEFORE RETURNING THE RESPONDENT TO A STATE HOSPITAL FOR NONCOMPLIANCE; TO PROVIDE THAT THE CHANCERY COURT OF THE COUNTY WHERE THE PUBLIC FACILITY IS LOCATED OR THE COMMITTING COURT SHALL HAVE JURISDICTION OVER MATTERS RELATING TO AOT ORDERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

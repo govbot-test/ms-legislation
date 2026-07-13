@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SC501",
+  "title": "Constitutional amendments; require MS elected officials to be natural born citizens of the United States.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Constitution",
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sc501"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Constitution;Elections",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SC/SC0501IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SC/SC0501IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SC/SC0501IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SC/SC0501.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "A CONCURRENT RESOLUTION PROPOSING AMENDMENTS TO SECTIONS 117, 133, 250, 154, 150, 41, 42 AND 171 OF THE MISSISSIPPI CONSTITUTION OF 1890, TO REQUIRE THAT THE QUALIFICATIONS FOR MISSISSIPPI ELECTED OFFICIALS, WHICH INCLUDE, BUT ARE NOT LIMITED TO, THE GOVERNOR, LIEUTENANT GOVERNOR, SECRETARY OF THE STATE, STATE AUDITOR, STATE TREASURER, PUBLIC SERVICE COMMISSIONERS, THE ATTORNEY GENERAL, MEMBERS OF THE LEGISLATURE, SUPREME COURT JUSTICES, COURT OF APPEALS JUDGES, CHANCERY AND CIRCUIT COURT JUDGES AND JUSTICE COURT JUDGES, INCLUDE BEING A NATURAL BORN CITIZEN OF THE UNITED STATES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

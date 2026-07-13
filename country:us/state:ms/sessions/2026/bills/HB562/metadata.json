@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB562",
+  "title": "Mississippi Career and Technical Education Employability (MissCATEE) program; establish to provide tuition-free community college.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb562"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: WD To AP",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: AP To WD",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0562IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0562IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0562IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0562.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI CAREER AND TECHNICAL EDUCATION EMPLOYABILITY (MISSCATEE) PROGRAM, WHICH SHALL BE DIRECTED BY THE OFFICE OF WORKFORCE DEVELOPMENT FOR THE PURPOSE OF PROVIDING TUITION-FREE COMMUNITY COLLEGE ATTENDANCE FOR ELIGIBLE RECIPIENTS FOR CAREER AND TECHNICAL EDUCATION (CTE) AND TRAINING LEADING TO ASSOCIATE DEGREE CREDENTIALS OR INDUSTRY CERTIFICATIONS IN HIGH-WAGE, HIGH-DEMAND INDUSTRIES WITH DOCUMENTED WORKFORCE SHORTAGES PRIORITIZED BY THE OFFICE; TO PROVIDE FOR DEFINITIONS; TO PROVIDE THAT THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY SHALL SERVE AS FISCAL AGENT IN ADMINISTERING THE FUNDS TO THE OFFICE; TO PRESCRIBE THE REQUIREMENTS TO ESTABLISH ELIGIBILITY AND TO REMAIN ELIGIBLE FOR THE RECEIPT OF PROGRAM FUNDS; TO PROVIDE THAT THE RECIPIENT OF A GRANT SHALL COMMIT TO SERVING IN THE INDUSTRY SECTOR FOR WHICH HIS DEGREE CREDENTIAL OR INDUSTRY CERTIFICATION WAS GRANTED FOR SUCH A PERIOD OF TIME IN THE STATE AS DETERMINED BY THE OFFICE OF WORKFORCE DEVELOPMENT; TO PROVIDE THE REPORTING REQUIREMENTS; TO PROVIDE FOR THE RECOUPING OF FUNDS BY THE OFFICER OF WORKFORCE DEVELOPMENT FROM ANY RECIPIENT WHO FAILS TO ADHERE TO HIS OR HER AGREEMENT REGARDING COMPLETION OF THE PROGRAM OR WORK AND RESIDENCY COMMITMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

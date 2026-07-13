@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1201",
+  "title": "Released-time religious instruction; require school districts to allow off-campus during school day.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1201"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hobgood-Wilkes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hobgood-Wilkes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1201IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1201IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1201IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hobgood-Wilkes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1201.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE LOCAL SCHOOL BOARDS TO PERMIT THE RELEASED-TIME RELIGIOUS INSTRUCTION OF PUPILS; TO REQUIRE SCHOOL BOARDS TO ALLOW THOSE STUDENTS DESIRING RELEASED-TIME RELIGIOUS INSTRUCTION TO PARTICIPATE IN THE INSTRUCTION OFF-SITE FOR AT LEAST ONE HOUR, ONE DAY EACH WEEK; TO PROHIBIT THE SCHOOL DISTRICT FROM PROVIDING OR FACILITATING RELEASED-TIME RELIGIOUS INSTRUCTION ON SCHOOL PREMISES; TO PERMIT LOCAL SCHOOL BOARDS TO MAKE ARRANGEMENTS WITH THE PERSONS IN CHARGE OF THE RELEASED-TIME RELIGIOUS INSTRUCTION AS THE BOARD DEEMS NECESSARY AND ADVISABLE; TO PROVIDE THAT STUDENTS SHALL NOT BE PENALIZED OR CONSIDERED ABSENT FROM THE SCHOOL FOR PURPOSES OF ATTENDING RELEASED-TIME RELIGIOUS INSTRUCTION; TO PROVIDE THAT STUDENTS WHO DO NOT PARTICIPATE IN RELEASED-TIME RELIGIOUS INSTRUCTION SHALL CONTINUE IN THE REGULAR COURSE OF DAILY INSTRUCTION; TO PROVIDE THAT RELEASED-TIME RELIGIOUS INSTRUCTION SHALL BE GIVEN WITHOUT EXPENSE TO ANY LOCAL SCHOOL BOARD; TO AMEND SECTION 37-13-91, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2877",
+  "title": "Motor vehicle tags; remove portion of fees deposited to State General Fund, or rededicate to Ad Valorem Tax Reduction Fund.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2877"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hopson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2877IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2877IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2877IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2877.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-19-99, MISSISSIPPI CODE OF 1972, TO REDEDICATE THE PORTION OF THE STANDARD LICENSE TAG FEE DEPOSITED INTO THE STATE GENERAL FUND, SO THAT IT WILL BE DEPOSITED INSTEAD INTO THE MOTOR VEHICLE AD VALOREM TAX REDUCTION FUND; TO AMEND SECTION 27-19-56.15, MISSISSIPPI CODE OF 1972, TO REDEDICATE THE PORTION OF THE ADDITIONAL FEE DEPOSITED INTO THE STATE GENERAL FUND FROM THE SALE OF DISTINCTIVE LICENSE TAGS DISPLAYING THE EMBLEMS OF CERTAIN PUBLIC OR PRIVATE UNIVERSITIES LOCATED IN OTHER STATES, SO THAT IT WILL BE DEPOSITED INSTEAD INTO THE MOTOR VEHICLE AD VALOREM TAX REDUCTION FUND; TO AMEND SECTION 27-19-56.24, MISSISSIPPI CODE OF 1972, TO REDEDICATE THE PORTION OF THE DUCKS UNLIMITED, INC., DISTINCTIVE LICENSE TAG ADDITIONAL FEE TO BE DEPOSITED INTO THE STATE GENERAL FUND IF THERE IS NO MISSISSIPPI CHAPTER OF DUCKS UNLIMITED, INC., SO THAT IT WILL BE DEPOSITED INSTEAD INTO THE MOTOR VEHICLE AD VALOREM TAX REDUCTION FUND; TO AMEND SECTION 27-19-56.137, MISSISSIPPI CODE OF 1972, TO REDEDICATE THE PORTION OF THE REBUILD THE COAST.ORG DISTINCTIVE LICENSE TAG ADDITIONAL FEE TO BE DEPOSITED INTO THE STATE GENERAL FUND WHEN REBUILD THE COAST.ORG IS DISSOLVED, SO THAT IT WILL BE DEPOSITED INSTEAD INTO THE MOTOR VEHICLE AD VALOREM TAX REDUCTION FUND; TO AMEND SECTIONS 27-19-45, 27-19-47, 27-19-47.1, 27-19-47.2, 27-19-48, 27-19-56.1, 27-19-56.2, 27-19-56.3, 27-19-56.5, 27-19-56.6, 27-19-56.11, 27-19-56.13 AND 27-19-56.467, MISSISSIPPI CODE OF 1972, TO REMOVE THE PORTIONS OF OTHER DISTINCTIVE LICENSE TAG ADDITIONAL FEES THAT ARE CURRENTLY DEPOSITED INTO THE STATE GENERAL FUND; TO AMEND SECTION 27-19-179, MISSISSIPPI CODE OF 1972, TO CHANGE THE PROVISION THAT UNEXPENDED AMOUNTS ABOVE $500,000.00 IN THE DEPARTMENT OF REVENUE LICENSE TAG ACQUISITION FUND SHALL LAPSE ANNUALLY INTO THE STATE GENERAL FUND, SO THAT THEY WILL LAPSE INSTEAD INTO THE MOTOR VEHICLE AD VALOREM TAX REDUCTION FUND; TO AMEND SECTION 27-51-105, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE ABOVE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

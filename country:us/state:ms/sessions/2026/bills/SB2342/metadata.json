@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2342",
+  "title": "Safe Dormitories Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2342"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Seymour",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Seymour\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2342IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2342IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2342IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Seymour.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2342.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"SAFE DORMITORIES ACT\"; TO SET THE LEGISLATIVE FINDINGS AND DEFINITIONS; TO PROVIDE THAT ANY PUBLIC BUILDING THAT MAINTAINS MULTIPLE-OCCUPANCY DORMITORY ROOMS SHALL PROVIDE STUDENT RESIDENTS THE OPTION TO BE HOUSED ONLY IN A DORMITORY ROOM WITH ROOMMATES OF THE SAME SEX; TO PROHIBIT A PERSON FROM ENTERING INTO A DORMITORY ROOM DESIGNATED EXCLUSIVELY FOR USE BY PERSONS OF THE OPPOSITE SEX; TO SET CERTAIN SPECIFIC EXCEPTIONS RELATED TO THIS PROHIBITION; TO REQUIRE ANY APPLICABLE GOVERNMENTAL ENTITY TO ESTABLISH REGULATIONS AND DISCIPLINARY PROCEDURES FOR ANY SUCH PERSON; TO ESTABLISH CERTAIN VIOLATIONS OF THE ACT; TO AUTHORIZE PRIVATE ENFORCEMENT OF THE ACT AND CAUSES OF ACTION; TO REQUIRE THE ATTORNEY GENERAL TO BRING AN ACTION TO ENFORCE COMPLIANCE WITH THE ACT; TO PROVIDE A SEVERABILITY CLAUSE TO THE ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

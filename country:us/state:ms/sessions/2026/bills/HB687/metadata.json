@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB687",
+  "title": "Boat trailers; exempt from highway privilege tax, registration and tag requirements and ad valorem tax.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb687"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fondren",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fondren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0687IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0687IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0687IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Fondren.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0687.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO EXEMPT BOAT TRAILERS FROM THE HIGHWAY PRIVILEGE TAX AND AD VALOREM TAXATION, AND FROM REGISTRATION AND LICENSING REQUIREMENTS; TO AMEND SECTION 27-19-3, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"BOAT TRAILER\" UNDER THE MOTOR VEHICLE PRIVILEGE TAX LAWS; TO BRING FORWARD SECTIONS 27-19-17, 27-19-19 AND 27-19-33, MISSISSIPPI CODE OF 1972, WHICH ARE SECTIONS OF THE MOTOR VEHICLE PRIVILEGE TAX LAWS, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 27-51-5 AND 27-51-7, MISSISSIPPI CODE OF 1972, WHICH ARE SECTIONS OF THE MOTOR VEHICLE AD VALOREM TAX LAW OF 1958, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 27-51-41, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB967",
+  "title": "The Missing Persons Reporting and Identification Act; create to require input of missing persons in NAMUS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb967"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0967IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0967IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0967IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0967.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSING PERSONS REPORTING AND IDENTIFICATION ACT; TO REQUIRE LOCAL LAW ENFORCEMENT AGENCIES TO ACCEPT A REPORT OF A MISSING PERSON; TO PERMIT LOCAL LAW ENFORCEMENT AGENCIES TO ATTEMPT TO OBTAIN DNA OF THE MISSING PERSON OR A REFERENCE SAMPLE FROM A FAMILY MEMBER'S DNA TO BE SUBMITTED TO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM (NAMUS) AND THE MISSISSIPPI FORENSIC DNA IDENTIFICATION SYSTEM OR THE NATIONAL DNA IDENTIFICATION SYSTEM; TO PROHIBIT A LOCAL LAW ENFORCEMENT AGENCY FROM ACCEPTING A MISSING PERSON REPORT; TO REQUIRE LOCAL LAW ENFORCEMENT AGENCIES TO ACCEPT MISSING PERSON REPORTS IN PERSON; TO PROVIDE FOR THE INFORMATION THE LOCAL LAW ENFORCEMENT AGENCY SHALL ATTEMPT TO GATHER REGARDING THE MISSING PERSON'S DISAPPEARANCE; TO REQUIRE THE LOCAL LAW ENFORCEMENT AGENCY TO GENERATE A REPORT OF THE MISSING PERSON WITHIN THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM (NAMUS) IF THE PERSON IDENTIFIED REPORT REMAINS MISSING AFTER FIVE DAYS, BUT NOT MORE THAN FIFTEEN DAYS; TO DEFINE THE TERM \"HIGH-RISK MISSING PERSON\" AND THE PROCEDURES TO BE FOLLOWED BY LOCAL LAW ENFORCEMENT AGENCIES TO ENSURE THAT THOSE PERSONS ARE INPUT IN THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM (NAMUS); TO REQUIRE THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY TO ESTABLISH PROCEDURES FOR DETERMINING HOW TO PRIORITIZE ANALYSIS OF THE SAMPLES RELATING TO MISSING PERSON CASES; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY TO IMMEDIATELY NOTIFY ALL LOCAL LAW ENFORCEMENT AGENCIES WITHIN THIS STATE AND THE SURROUNDING REGION OF INFORMATION THAT WILL AID IN THE PROMPT LOCATION AND SAFE RETURN OF HIGH-RISK MISSING PERSONS; TO BRING FORWARD SECTIONS 43-15-401 AND 45-41-1, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

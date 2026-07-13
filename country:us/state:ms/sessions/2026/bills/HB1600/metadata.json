@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1600",
+  "title": "Administrative forfeiture for seized property; bring forward section related to unlawful controlled substances.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1600"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Horan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Horan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1600IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1600IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1600IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Horan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1600.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REENACT AND AMEND SECTION 41-29-176, MISSISSIPPI CODE OF 1972, WHICH WAS REPEALED BY OPERATION OF LAW ON JULY 1, 2018; TO PROVIDE ADMINISTRATIVE FORFEITURE PROCEDURES FOR CERTAIN SEIZED PROPERTY UNDER THE UNIFORM CONTROLLED SUBSTANCES LAW THAT HAS A VALUE OF LESS THAN TWENTY THOUSAND DOLLARS; TO AMEND SECTION 41-29-160, MISSISSIPPI CODE OF 1972, TO UPDATE LANGUAGE IN THE SECTION; TO BRING FORWARD SECTIONS 41-29-154, 41-29-155, 41-29-157, 41-29-159, 41-29-161, 41-29-163, 41-29-165, 41-29-167, 41-29-168, 41-29-169, 41-29-171, 41-29-173, 41-29-175, 41-29-176.1, 41-29-177, 41-29-179, 41-29-181, 41-29-183, 41-29-185, 41-29-187 AND 41-29-189, MISSISSIPPI CODE OF 1972, WHICH PROVIDE FOR FORFEITURE OF DRUG PARAPHERNALIA AND PERSONAL PROPERTY AS RESULT OF CRIMES RELATED TO CONTROLLED SUBSTANCES, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

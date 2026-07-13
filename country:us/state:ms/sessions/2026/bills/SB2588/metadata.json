@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2588",
+  "title": "The SHIELD Act; codify.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2588"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "England",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2588CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2588IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2588.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-15, MISSISSIPPI CODE OF 1972, TO CREATE THE SHIELD ACT; TO AMEND THE PROCESS THE REGISTRAR SHALL USE TO VERIFY VOTER APPLICANT CITIZENSHIP INFORMATION; TO PROVIDE THAT THE REGISTRAR SHALL REPORT TO THE SECRETARY OF STATE ANNUALLY REGARDING THE NUMBER REGISTRANTS FLAGGED BY THE SAVE SYSTEM CHECKS; TO CREATE NEW SECTION 23-15-165.1, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SECRETARY OF STATE TO CONDUCT AN ANNUAL CHECK OF THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM RECORD AGAINST THE SAVE SYSTEM; TO PROVIDE THAT NO REMOVAL SHALL OCCUR SOLELY BASED ON A SAVE MATCH; TO CREATE NEW SECTION 23-15-165.2, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE SECRETARY OF STATE SHALL SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE WITH UPDATES ON THE SAVE DATA VERIFICATION CHECKS; TO CREATE NEW SECTION 23-15-165.3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT SAVE DATA SHALL BE EXEMPT FROM PUBLIC DISCLOSURE; TO CREATE NEW SECTION 23-15-165.4, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF ANY PROVISION OF THIS ACT IS FOUND TO BE INVALID, THAT THE REMAINING PROVISIONS SHALL REMAIN IN EFFECT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

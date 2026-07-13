@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB380",
+  "title": "\"Mississippi Students Voicing Opinions in Today's Elections (VOTE) Act\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb380"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Osborne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Osborne\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0380IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0380IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0380IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Osborne.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0380.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"MISSISSIPPI STUDENTS VOICING OPINIONS IN TODAY'S ELECTIONS (VOTE) ACT\" FOR THE PURPOSE OF CREATING A PILOT PROGRAM IN PUBLIC SCHOOLS TO PROVIDE VOTER REGISTRATION INFORMATION TO STUDENTS IN GRADE 12; TO REQUIRE THE SECRETARY OF STATE TO IMPLEMENT AND ADMINISTER THE PILOT PROGRAM IN CONJUNCTION WITH COUNTY AND MUNICIPAL ELECTION COMMISSION AND STATE POLITICAL PARTY EXECUTIVE COMMITTEES; TO PRESCRIBE CRITERIA FOR ELIGIBILITY OF LOCAL EDUCATIONAL AGENCIES TO RECEIVE FUNDS UNDER THE PILOT PROGRAM; TO REQUIRE REPORTS TO BE SUBMITTED TO THE SECRETARY OF STATE AND THE LEGISLATURE; TO REQUIRE THE LEGISLATURE TO APPROPRIATE NECESSARY FUNDS FOR THE ADMINISTRATION OF THE PILOT PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

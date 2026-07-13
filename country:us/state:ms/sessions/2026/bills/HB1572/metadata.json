@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1572",
+  "title": "Rare Disease Task Force; create within the MS Rare Disease Advisory Council",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1572"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cockerham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cockerham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1572IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1572IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1572IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Cockerham.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1572.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE RARE DISEASE TASK FORCE WITHIN THE MISSISSIPPI RARE DISEASE ADVISORY COUNCIL; TO PROVIDE THAT THE PURPOSE OF THE TASK FORCE IS TO IDENTIFY GAPS IN CARE, EVALUATE FUNDING AND INSURANCE COVERAGE PRACTICES, ADVISE POLICYMAKERS ON EVIDENCE-BASED SOLUTIONS, AND ENSURE FAIR, TIMELY, AND EQUITABLE ACCESS TO RARE DISEASE THERAPIES IN THIS STATE; TO PROVIDE FOR THE MEMBERSHIP, POWERS AND DUTIES OF THE TASK FORCE; TO PROTECT ACCESS TO RARE DISEASE THERAPIES BY PROHIBITING HEALTH INSURERS, HEALTH BENEFIT PLANS AND PHARMACY BENEFIT MANAGERS FROM EXCLUDING, REMOVING OR RECLASSIFYING A RARE DISEASE THERAPY THAT WOULD OTHERWISE BE COVERED UNDER A PLAN'S FORMULARY OR BENEFIT DESIGN FOR THE PURPOSE OR EFFECT OF OBTAINING, DIRECTING, OR RELYING UPON FINANCIAL ASSISTANCE FROM A MANUFACTURER, CHARITABLE ORGANIZATION, OR OTHER THIRD PARTY; TO PROVIDE FOR ENFORCEMENT, REPORTING, AND RULEMAKING AUTHORITY; TO AMEND SECTION 83-5-35, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1267",
+  "title": "Mississippi Retail Marijuana Act; create to authorize and regulate the personal use of marijuana.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1267"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Business and Commerce",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harness",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harness\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1267IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1267IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1267IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harness.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1267.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI RETAIL MARIJUANA ACT; TO AUTHORIZE THE PERSONAL USE OF MARIJUANA BY PERSONS 21 YEARS OF AGE AND OLDER AND PROVIDE FOR THE REGULATION OF THE PERSONAL USE OF MARIJUANA BY THE STATE DEPARTMENT OF HEALTH; TO PROVIDE FOR THE LAWFUL OPERATION OF RETAIL MARIJUANA-RELATED FACILITIES; TO DIRECT THE DEPARTMENT TO ADOPT REGULATIONS NECESSARY FOR THE IMPLEMENTATION OF THIS ACT; TO PROVIDE FOR THE MISSISSIPPI MARIJUANA CODE, WHICH PROVIDES FOR THE STATUTORY REGULATION OF THE PERSONAL USE OF MARIJUANA; TO PROVIDE DEFINITIONS FOR THE CODE; TO PROVIDE FOR THE APPLICABILITY OF THE CODE TO RETAIL MARIJUANA; TO PROVIDE THAT THE STATE DEPARTMENT OF HEALTH IS THE STATE LICENSING AUTHORITY FOR THE CODE; TO PROVIDE FOR A SEED-TO-SALE TRACKING SYSTEM THAT TRACKS RETAIL MARIJUANA FROM EITHER THE SEED OR IMMATURE PLANT STAGE UNTIL THE RETAIL MARIJUANA PRODUCT IS SOLD TO A CUSTOMER AT A RETAIL MARIJUANA STORE; TO PROVIDE FOR LICENSING PROCEDURES BY THE STATE LICENSING AUTHORITY AND BY LOCAL LICENSING AUTHORITIES; TO PROVIDE WHICH PERSONS ARE PROHIBITED TO BE LICENSEES; TO PRESCRIBE REQUIREMENTS FOR RETAIL MARIJUANA BUSINESSES AND OWNERS; TO PROVIDE FOR DISCLOSURE OF FINANCIAL INTERESTS BY RETAIL MARIJUANA BUSINESS OWNERS; TO PROVIDE THE PROCEDURE FOR THE TRANSFER OF LICENSES; TO PROVIDE THE PROCEDURES FOR LICENSING AND LICENSE RENEWALS; TO PROVIDE THE DIFFERENT CLASSES OF RETAIL MARIJUANA BUSINESS LICENSES; TO PROVIDE FOR RETAIL MARIJUANA STORE LICENSES; TO PROVIDE FOR RETAIL MARIJUANA CULTIVATION FACILITY LICENSES; TO PROVIDE FOR RETAIL MARIJUANA PRODUCTS MANUFACTURER LICENSES; TO PROVIDE FOR RETAIL MARIJUANA TESTING FACILITY LICENSES; TO PROVIDE FOR RETAIL MARIJUANA TRANSPORTER LICENSES; TO PROVIDE FOR RETAIL MARIJUANA BUSINESS OPERATOR LICENSES; TO PROVIDE FOR RETAIL MARIJUANA ACCELERATOR CULTIVATOR LICENSES; TO PROVIDE FOR RETAIL MARIJUANA ACCELERATOR MANUFACTURER LICENSES; TO PROVIDE FOR MARIJUANA HOSPITALITY BUSINESS LICENSES; TO PROVIDE FOR RETAIL MARIJUANA ACCELERATOR STORE LICENSES; TO PRESCRIBE UNLAWFUL ACTS UNDER THE CODE; TO PROHIBIT THE OPEN AND PUBLIC CONSUMPTION OF MARIJUANA; TO CREATE THE MARIJUANA CASH FUND AS A SPECIAL FUND IN THE STATE TREASURY AND REQUIRE THE STATE LICENSING AUTHORITY TO DEPOSIT ALL MONEY COLLECTED UNDER THIS ACT INTO THE FUND; TO PROVIDE THAT THE STATE LICENSING AUTHORITY SHALL ESTABLISH FEES FOR PROCESSING THE APPLICATIONS, LICENSES, NOTICES OR REPORTS REQUIRED TO BE SUBMITTED TO THE STATE LICENSING AUTHORITY; TO PROVIDE THAT THE STATE LICENSING AUTHORITY MAY FINE A LICENSEE OR SUSPEND OR REVOKE A LICENSE FOR VIOLATIONS OF THIS ACT; TO PROVIDE FOR THE DISPOSITION OF UNAUTHORIZED MARIJUANA OR MARIJUANA PRODUCTS AND RELATED MATERIALS; TO PROVIDE FOR THE INSPECTION OF BOOKS AND RECORDS OF LICENSEES; TO PROVIDE FOR A RESPONSIBLE RETAIL MARIJUANA VENDOR SERVER AND SELLER TRAINING PROGRAM; TO AMEND SECTIONS 27-104-203, 33-13-520, 37-11-29, 41-29-125, 41-29-127, 41-29-136, 41-29-137, 41-29-139, 41-29-141, 41-29-143, 59-23-7 AND 63-11-30, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

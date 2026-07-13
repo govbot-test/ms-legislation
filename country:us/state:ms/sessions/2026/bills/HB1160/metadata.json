@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1160",
+  "title": "\"Mississippi Children's Assessment and Mental Health Opportunity (CAMHEO) Act of 2026\"; create to require screenings and assessments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1160"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rosebud",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rosebud\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1160IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1160IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1160IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Rosebud.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1160.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI CHILDREN'S ASSESSMENT AND MENTAL HEALTH EVALUATION OPPORTUNITY (CAMHEO) ACT OF 2026, FOR THE PURPOSE OF PROVIDING MENTAL HEALTH ASSESSMENTS AND SCREENINGS TO PUBLIC SCHOOL STUDENTS IN KINDERGARTEN THROUGH GRADE 12; TO PROVIDE LEGISLATIVE FINDINGS; TO REQUIRE THE STATE BOARD OF EDUCATION AND THE MISSISSIPPI DEPARTMENT OF MENTAL HEALTH TO DEVELOP THE FRAMEWORK AND GUIDELINES FOR USE BY PUBLIC SCHOOLS IN PROVIDING COMPREHENSIVE, COORDINATED MENTAL HEALTH PREVENTION, SCREENINGS AND ASSESSMENTS, EARLY INTERVENTION AND TREATMENT SERVICES FOR PUBLIC SCHOOL STUDENTS; TO PRESCRIBE THE MINIMUM REQUIREMENTS FOR THE FRAMEWORK AND GUIDELINES; TO CREATE THE CHILDREN'S MENTAL HEALTH PARTNERSHIP, WHICH SHALL BE RESPONSIBLE FOR DEVELOPING THE ASSESSMENTS AND SCREENERS TO BE USED BY CERTIFIED SCHOOL EMPLOYEES TO DETECT ANY MENTAL HEALTH DEFICIENCIES IN STUDENTS; TO PRESCRIBE THE COMPOSITION OF THE PARTNERSHIP; TO REQUIRE THE STATE BOARD OF EDUCATION, BEFORE THE BEGINNING OF THE 2027-2028 SCHOOL YEAR, TO DEVELOP AND IMPLEMENT A POLICY REQUIRING ALL PUBLIC SCHOOL DISTRICTS TO PROVIDE MENTAL HEALTH SCREENINGS AND ASSESSMENTS TO STUDENTS IN KINDERGARTEN THROUGH GRADE 12, WHO EXHIBIT SIGNS OF MENTAL DISTRESS AND INCAPACITY; TO PRESCRIBE THE MINIMUM REQUIREMENTS OF THE POLICY CONTENT; TO REQUIRE EVERY PUBLIC SCHOOL DISTRICT TO DEVELOP A POLICY FOR INCORPORATING SOCIAL AND EMOTIONAL DEVELOPMENT INTO THE DISTRICT'S EDUCATIONAL PROGRAM BEFORE THE BEGINNING OF THE 2027-2028 SCHOOL YEAR; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

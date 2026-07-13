@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB840",
+  "title": "Criminal offenses; enhance penalties for certain if artificial intelligence was used in the commission of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb840"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0840IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0840IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0840IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0840.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO IMPOSE AN ENHANCED PENALTY ON DEFENDANTS WHO KNOWINGLY AND INTENTIONALLY USED AN ARTIFICIAL INTELLIGENCE SYSTEM IN THE COMMISSION OF A DESIGNATED OFFENSE; TO PROVIDE, IF THE DESIGNATED OFFENSE IS A MISDEMEANOR, THE DEFENDANT SHALL BE SUBJECT TO AN ADDITIONAL TERM OF IMPRISONMENT FOR A PERIOD OF NOT LESS THAN SIX NOR MORE THAN TWELVE MONTHS AND A FINE NOT TO EXCEED FIVE THOUSAND DOLLARS; TO PROVIDE THAT, IF THE DESIGNATED OFFENSE IS A FELONY, THE DEFENDANT SHALL BE SUBJECT TO AN ADDITIONAL TERM OF IMPRISONMENT FOR A PERIOD OF NOT LESS THAN TWO YEARS AND A FINE NOT LESS THAN FIVE THOUSAND DOLLARS; TO PROVIDE CERTAIN NOTICE REQUIREMENTS; TO AMEND SECTION 97-5-33, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE TRANSMISSION, DISTRIBUTION OR POSSESSION OF VISUAL MATERIALS THAT DEPICT A CHILD THAT WOULD APPEAR REALISTIC TO A REASONABLE OBSERVER ENGAGING IN SEXUALLY EXPLICIT CONDUCT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

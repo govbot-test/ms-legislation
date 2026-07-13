@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB317",
+  "title": "Public schools; require school boards to adopt policy on bell-to-bell cell phone prohibition.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb317"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Accountability, Efficiency, Transparency",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0317IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0317IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0317IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0317.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE LOCAL SCHOOL BOARDS TO DEVELOP AND PUBLIC SCHOOLS LOCATED WITHIN THE SCHOOL DISTRICT TO IMPLEMENT AGE-APPROPRIATE AND DEVELOPMENTALLY-APPROPRIATE POLICIES RELATING TO STUDENT CELL PHONE POSSESSION AND USE ON SCHOOL PROPERTY DURING THE ACADEMIC SCHOOL DAY FROM BELL-TO-BELL; TO SPECIFY THE MINIMUM PROVISIONS TO BE CONTAINED IN EACH SCHOOL CELL PHONE-FREE EDUCATION POLICY APPLICABLE TO ELEMENTARY, MIDDLE AND HIGH SCHOOL STUDENTS; TO PRESCRIBE EXCEPTIONS TO POSSESSION; TO PROHIBIT STUDENTS FROM BEING SUSPENDED OR EXPELLED AS A CONSEQUENCE OF ANY VIOLATION OF SUCH POLICIES; TO REQUIRE SCHOOL DISTRICTS TO ESTABLISH PROCEDURES FOR OFF-SITE EVENTS; TO REQUIRE SCHOOL BOARDS TO MAKE ITS POLICY PUBLICLY AVAILABLE AND POSTED PROMINENTLY ON THE SCHOOL DISTRICT'S WEBSITE; TO REQUIRE SCHOOL BOARDS, WHEN DESIGNING ITS CELL PHONE-FREE EDUCATION POLICY, TO INCORPORATE SCHOOL-BASED EMERGENCY BEST PRACTICES IN ITS COMPREHENSIVE SCHOOL SAFETY PLAN; TO PROVIDE FOR THE CONSTRUCTION OF THIS ACT; TO AMEND SECTIONS 37-11-55 AND 37-11-57, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS REGARDING THE PROHIBITION ON SUSPENDING OR EXPELLING STUDENTS FOR BEING IN VIOLATION OF THE CELL PHONE POSSESSION POLICY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

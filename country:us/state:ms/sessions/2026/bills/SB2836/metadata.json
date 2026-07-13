@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2836",
+  "title": "Taxes; allow disabled veterans to recapture payments between disability effective date and receipt of VA's decision letter.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2836"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fillingane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fillingane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2836IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2836IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2836IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2836.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT A TAXPAYER WHO HAS RECEIVED A DISABILITY DETERMINATION FROM THE UNITED STATES DEPARTMENT OF VETERANS AFFAIRS SHALL BE ALLOWED A REBATE FOR ANY PAID AD VALOREM TAXES THAT WERE ASSESSED ON OR AFTER THE EFFECTIVE DATE OF THE DISABILITY AND BEFORE THE TAXPAYER'S RECEIPT OF THE DECISION LETTER, BUT WHICH WOULD NOT HAVE BEEN ASSESSED HAD THE DISABILITY DETERMINATION BEEN AVAILABLE AT THE TIME OF ASSESSMENT; TO SPECIFY THE SUBMISSIONS THAT MUST BE MADE TO THE DEPARTMENT OF REVENUE WITHIN 60 DAYS OF THE ISSUANCE OF THE DECISION LETTER; TO PROVIDE THAT REBATE PAYMENTS SHALL BE MADE BY THE DEPARTMENT OF REVENUE FROM CURRENT TAX COLLECTIONS; TO AUTHORIZE THE DEPARTMENT OF REVENUE TO PROMULGATE RULES AND REGULATIONS TO ADMINISTER THE REBATE; TO AMEND SECTION 27-7-15, MISSISSIPPI CODE OF 1972, TO EXCLUDE REBATE PAYMENTS UNDER THIS ACT FROM THE DEFINITION OF GROSS INCOME FOR PURPOSES OF THE STATE INCOME TAX; TO AMEND SECTION 27-7-49, MISSISSIPPI CODE OF 1972, TO ALLOW A TAXPAYER WHO HAS RECEIVED A DISABILITY DETERMINATION FROM THE UNITED STATES DEPARTMENT OF VETERANS AFFAIRS TO APPLY TO THE COMMISSIONER OF REVENUE FOR REVISION OF ANY STATE INCOME TAX RETURN FILED ON OR AFTER THE EFFECTIVE DATE OF THE DISABILITY AND BEFORE RECEIPT OF THE DECISION LETTER, INSOFAR AS THE MISSISSIPPI INCOME TAX LIABILITY IS AFFECTED BY THE DISABILITY DETERMINATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

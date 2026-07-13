@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1725",
+  "title": "Office of State Aid Road Construction; revise authority for use and reallocation of forfeited funds for roads and bridges.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Transportation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1725"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Transportation",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massengill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Massengill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1725IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1725IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1725IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Massengill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1725.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE STATE AID AND LOCAL SYSTEM BRIDGE FORFEITURE RESERVE FUND IN THE STATE TREASURY FOR THE PURPOSE OF HOLDING AND REUSING BRIDGE MONIES FORFEITED BY COUNTIES DUE TO NONCOMPLIANCE OR FAILURE TO SPEND FUNDS; TO AMEND SECTIONS 65-9-17, 65-9-27, 65-37-5, 65-37-7, 65-37-11, 65-37-15, MISSISSIPPI CODE OF 1972, TO STRENGTHEN AND STANDARDIZE THE PROCESS BY WHICH FORFEITED FUNDS ARE REDISTRIBUTED TO COUNTIES THAT ARE ELIGIBLE AND ACTIVELY REDUCING THE INVENTORY OF DEFICIENT BRIDGES WITHIN THOSE COUNTIES; TO UPDATE ALLOCATION FORMULAS AND ELIGIBILITY RULES WITHIN THE STATE AID ROAD, LOCAL SYSTEM ROAD AND LOCAL SYSTEM BRIDGE REPLACEMENT AND REHABILITATION PROGRAMS; TO BRING FORWARD SECTIONS 65-21-1 AND 65-37-3, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENTS; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO EXEMPT THE OFFICE OF STATE AID ROAD CONSTRUCTIONS' AUTHORITY TO ENTER INTO PERSONAL SERVICE CONTRACTS FROM THE OVERSIGHT AND REVIEW OF THE PUBLIC PROCUREMENT REVIEW BOARD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

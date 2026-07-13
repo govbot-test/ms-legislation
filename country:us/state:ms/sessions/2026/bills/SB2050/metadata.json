@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2050",
+  "title": "Artificial intelligence; require disclosure when used in political advertisements.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections",
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2050"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections;Technology",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: EL To TE",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2050IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2050IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2050IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2050.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-897, MISSISSIPPI CODE OF 1972, TO REQUIRE QUALIFIED POLITICAL ADVERTISEMENTS THAT UTILIZE ARTIFICIAL INTELLIGENCE TO DISCLOSE THE USE OF ARTIFICIAL INTELLIGENCE TO THE PUBLIC; TO DEFINE WHAT IS CONSIDERED A QUALIFIED POLITICAL ADVERTISEMENT AND ARTIFICIAL INTELLIGENCE AS USED IN THIS SECTION; TO CLARIFY WHAT INFORMATION MUST BE PRESENT IN AN ADVERTISEMENT TO SATISFY THE DISCLOSURE REQUIREMENT; TO SPECIFY WHO IS NOT LIABLE FOR THE FAILURE OF DISCLOSURE OF THE USE OF ARTIFICIAL INTELLIGENCE; TO PROVIDE CIVIL PENALTIES FOR FAILING TO DISCLOSE THE USE OF ARTIFICIAL INTELLIGENCE IN A QUALIFIED POLITICAL ADVERTISEMENT; TO STATE WHERE AN AGGRIEVED PARTY OR THE ATTORNEY GENERAL MAY BRING SUIT AGAINST A CANDIDATE, COMMITTEE OR OTHER PERSON WHO FAILS TO DISCLOSE THE USE OF ARTIFICIAL INTELLIGENCE IN A QUALIFIED POLITICAL ADVERTISEMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

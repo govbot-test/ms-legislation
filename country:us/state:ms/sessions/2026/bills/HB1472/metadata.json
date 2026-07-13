@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1472",
+  "title": "MS Department of Employment Security; revise various provisions relating to employers' wage records and unemployment taxes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means",
+    "Workforce Development"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1472"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Workforce Development;Ways and Means",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: WD To WM",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1472IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1472IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1472IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1472.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 71-5-127, MISSISSIPPI CODE OF 1972, TO ESTABLISH RESTRICTIONS ON THE SHARING OF DATA COLLECTED BY THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY WITH A STATE, FEDERAL OR PRIVATE ENTITY; TO AMEND SECTION 71-5-133, MISSISSIPPI CODE OF 1972, TO CREATE AN ADMINISTRATIVE HEARING PROCESS FOR THE DEPARTMENT OF EMPLOYMENT SECURITY TO DETERMINE IF GOOD CAUSE EXISTS FOR AN EMPLOYER FAILING TO RESPOND TO A SUBPOENA FOR WAGE RECORDS; TO AMEND SECTION 71-5-139, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DEPARTMENT TO ASSESS PENALTIES FOR EMPLOYERS WILLFULLY AND CONTINUALLY REFUSING TO PRODUCE WAGE RECORDS; TO AUTHORIZE THE DEPARTMENT TO SEEK THE SHERIFF'S ASSISTANCE WHEN THE COURT HAS ISSUED AN ORDER OF CONTEMPT; TO CREATE NEW SECTION 71-5-352, MISSISSIPPI CODE OF 1972, TO REQUIRE THE ELECTRONIC PAYMENT OF UNEMPLOYMENT INSURANCE AND TRAINING TAXES BY EMPLOYERS; TO AMEND SECTION 71-5-355, MISSISSIPPI CODE OF 1972, TO ESTABLISH A FORMAL PROCESS FOR AN EMPLOYER TO REQUEST A REVIEW OF TAX RATES FOR GOOD CAUSE; TO AUTHORIZE THE DEPARTMENT TO MAKE ADJUSTMENTS TO THE TAX RATES WHEN THE EMPLOYER IS NOT AT FAULT; TO AMEND SECTION 71-5-365, MISSISSIPPI CODE OF 1972, TO ESTABLISH A FORMAL PROCESS FOR AN EMPLOYER TO REQUEST A WAIVER OF CERTAIN TAX CONTRIBUTIONS AFTER A REVIEW AND FINDING OF GOOD CAUSE; TO AUTHORIZE THE DEPARTMENT TO MAKE ADJUSTMENTS WHEN THE EMPLOYER IS NOT AT FAULT FOR FAILING TO FILE WAGE REPORTS; TO AMEND SECTION 71-5-543, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE DEPARTMENT TO WAIVE THE REPAYMENT OF BENEFITS FOR GOOD CAUSE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

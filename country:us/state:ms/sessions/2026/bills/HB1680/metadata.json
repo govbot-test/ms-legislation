@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1680",
+  "title": "SNAP recipients; Department of Agriculture establish grant program for deer processors to become SNAP retailers and process deer meat for sale to.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1680"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Agriculture;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: AG To AP",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1680IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1680IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1680IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1680.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT THE DEPARTMENT OF AGRICULTURE AND COMMERCE TO ESTABLISH A PROGRAM UNDER WHICH DEER PROCESSORS MAY RECEIVE INCENTIVE GRANTS TO BECOME AUTHORIZED SNAP RETAILERS AND PROCESS DONATED DEER MEAT FOR SALE TO SNAP RECIPIENTS; TO PROVIDE THAT TO RECEIVE AN INCENTIVE GRANT UNDER THE PROGRAM, A DEER PROCESSOR MUST PRESENT A PLAN FOR HOW THE PROCESSOR PLANS TO USE THE GRANT TO UPGRADE THE DEER PROCESSING FACILITY AND EQUIPMENT AND OPERATE THE BUSINESS TO BE ABLE TO PROVIDE PROCESSED DEER MEAT TO SNAP RECIPIENTS; TO PROVIDE THAT THE MAXIMUM AMOUNT OF A GRANT THAT A PROCESSOR MAY RECEIVE THROUGH THE PROGRAM IS FIFTY THOUSAND DOLLARS; TO PROVIDE THAT THE PROGRAM SHALL BE FUNDED FROM TANF FUNDS THAT ARE TRANSFERRED TO THE DEPARTMENT FOR THAT PURPOSE; TO REQUIRE THE DEPARTMENT TO APPLY FOR A FEDERAL WAIVER IF IT DETERMINES THAT A WAIVER IS NECESSARY IN ORDER FOR DEER PROCESSORS TO BECOME AUTHORIZED SNAP RETAILERS; TO AMEND SECTION 43-17-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT EACH FISCAL YEAR, TEN MILLION DOLLARS OF UNSPENT TANF FUNDS SHALL BE TRANSFERRED TO THE DEPARTMENT OF AGRICULTURE AND COMMERCE FOR THE PROGRAM ESTABLISHED UNDER THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

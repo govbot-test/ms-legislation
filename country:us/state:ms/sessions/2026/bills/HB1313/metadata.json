@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1313",
+  "title": "CRNAs; exempt from requirement for collaborative agreement after completion of certain practice hours.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1313"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1313IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1313IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1313IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1313.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-15-3, MISSISSIPPI CODE OF 1972, TO INCLUDE ADVANCED PRACTICE REGISTERED NURSES IN THE STATEMENT OF PURPOSE OF THE MISSISSIPPI NURSING PRACTICE LAW; TO AMEND SECTION 73-15-5, MISSISSIPPI CODE OF 1972, TO DELETE CERTAIN DEFINITIONS AND REVISE CERTAIN DEFINITIONS IN THE NURSING PRACTICE LAW REGARDING ADVANCED NURSING PRACTICE; TO AMEND SECTION 73-15-9, MISSISSIPPI CODE OF 1972, TO REVISE THE COMPOSITION OF THE MISSISSIPPI BOARD OF NURSING TO INCLUDE A CERTIFIED REGISTERED NURSE ANESTHETIST AS A MEMBER; TO AMEND SECTION 73-15-20, MISSISSIPPI CODE OF 1972, TO REVISE CERTAIN PROVISIONS RELATING TO THE PRACTICE OF ADVANCED NURSING PRACTICE NURSES; TO PROVIDE THAT CERTIFIED REGISTERED NURSE ANESTHETISTS WHO HAVE COMPLETED NOT LESS THAN 8,000 PRACTICE HOURS ARE EXEMPT FROM MAINTAINING A COLLABORATIVE/CONSULTATIVE RELATIONSHIP WITH A LICENSED PHYSICIAN OR DENTIST; TO PROVIDE THAT CERTIFIED REGISTERED NURSE ANESTHETISTS MAY APPLY HOURS WORKED BEFORE THE EFFECTIVE DATE OF THIS ACT TO FULFILL THE PRACTICE HOUR REQUIREMENT; TO CONFORM CERTAIN PROVISIONS WITH THE MISSISSIPPI MEDICAL CANNABIS ACT; TO AMEND SECTION 73-15-29, MISSISSIPPI CODE OF 1972, TO INCLUDE ADVANCED PRACTICE REGISTERED NURSES IN THE PROVISIONS RELATING TO GROUNDS FOR DISCIPLINARY ACTIONS AGAINST NURSES; TO AMEND SECTION 41-21-131, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

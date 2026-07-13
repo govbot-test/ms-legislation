@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB577",
+  "title": "Retired educators; revise provisions regarding return to work as teachers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb577"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0577IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0577IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0577IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0577.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-11-126, MISSISSIPPI CODE OF 1972, TO REDUCE THE REQUIRED SEPARATION PERIOD FOR RETIREES RETURNING TO WORK AS TEACHERS FROM 90 DAYS TO 30 DAYS; TO REMOVE THE REQUIREMENT OF A MINIMUM NUMBER OF YEARS OF CREDITABLE SERVICE FOR SUCH A RETIREE TO RETURN TO WORK AS A TEACHER; TO REMOVE THE REQUIREMENT THAT SUCH A RETIREE RETURNING TO WORK AS A TEACHER BE HIRED TO TEACH ONLY IN A DISTRICT HAVING A CRITICAL TEACHER SHORTAGE OR CRITICAL SUBJECT-AREA SHORTAGE; TO ADJUST THE PENSION LIABILITY PARTICIPATION ASSESSMENT AND SUCH RETIREE'S SALARY FOR RETURNING TO WORK AS A TEACHER, AS DETERMINED IN SECTION 37-19-7; TO ALLOW LOCAL EDUCATION AGENCIES TO PAY, FROM LOCAL EDUCATION FUNDING, ALL OR A PORTION OF THE HEALTH INSURANCE PREMIUMS FOR SUCH RETIREES RETURNING TO WORK AS TEACHERS; TO ALLOW A MEMBER TO CONTINUE AS A LICENSED TEACHER IN AN INSTRUCTIONAL POSITION IF THE PERSON HAS REACHED THE AGE AND/OR SERVICE REQUIREMENT THAT WILL NOT RESULT IN A PROHIBITED IN-SERVICE DISTRIBUTION AS DEFINED BY THE INTERNAL REVENUE SERVICE, PROVIDED THAT THE PERSON ELECTS TO RECEIVE COMPENSATION AS PROVIDED FOR OTHER RETIREES RETURNING TO WORK AS TEACHERS UNDER THIS SECTION; TO AMEND SECTIONS 25-11-127 AND 25-9-120, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 37-19-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A SCHOOL DISTRICT MAY PAY NO MORE THAN 65% OF A RETIRED TEACHER'S COMPENSATION AS SALARY, AND THE DISTRICT SHALL PAY TO THE BOARD OF TRUSTEES OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI, A PENSION LIABILITY PARTICIPATION ASSESSMENT IN THE AMOUNT OF THE EMPLOYER AND EMPLOYEE CONTRIBUTIONS ON THE FULL AMOUNT OF THE REGULAR COMPENSATION FOR THE POSITION HELD BY THE RETIRED TEACHER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

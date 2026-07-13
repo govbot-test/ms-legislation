@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2723",
+  "title": "Retiree Health Insurance Contribution Plan for state-certified law enforcement employees and support personnel; establish.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance",
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2723"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance;Finance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brumfield",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brumfield\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2723IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2723IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2723IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Brumfield.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2723.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A RETIREE HEALTH INSURANCE CONTRIBUTION PLAN FOR STATE-CERTIFIED LAW ENFORCEMENT EMPLOYEES AND SUPPORT PERSONNEL TO BE ADMINISTERED BY THE STATE AND SCHOOL EMPLOYEES HEALTH INSURANCE MANAGEMENT BOARD; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY TO MAKE CONTRIBUTIONS TO SUCH PLAN AND TO PRESCRIBE THE AMOUNT OF SUCH CONTRIBUTIONS SUBJECT TO APPROPRIATION; TO AMEND SECTION 25-15-9, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE STATE AND SCHOOL EMPLOYEES HEALTH INSURANCE MANAGEMENT BOARD TO DEVELOP AND IMPLEMENT A HEALTH INSURANCE PLAN FOR STATE-CERTIFIED LAW ENFORCEMENT EMPLOYEES, DESIGNATED SUPPORT PERSONNEL AND ELIGIBLE RETIREES WITH ENHANCED BENEFITS TO RECOGNIZE THE CUMULATIVE HEALTH IMPACTS ASSOCIATED WITH LONG-TERM PUBLIC SAFETY SERVICE; TO PROVIDE FOR A DISCIPLINARY ADJUSTMENT PROVISION; TO ESTABLISH A STATE PUBLIC SAFETY RETIREE HEALTH TRUST FUND DEDICATED TO LAW ENFORCEMENT AND PUBLIC SAFETY SUPPORT PERSONNEL'S RETIREE HEALTH BENEFITS TO BE COORDINATED WITH THE FEDERAL MEDICARE PROGRAM; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY TO MAKE INCREMENTAL EMPLOYER CONTRIBUTIONS TO THE ENHANCED HEALTH INSURANCE PLAN FOR LAW ENFORCEMENT POSITIONS DURING ACTIVE EMPLOYMENT; TO AMEND SECTION 25-15-3, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

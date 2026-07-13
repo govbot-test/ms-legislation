@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1505",
+  "title": "Critical Infrastructure Emergency Mapping Grant Program; create within DPS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1505"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary B;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: JB To AP",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Newman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1505IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1505IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1505IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1505.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE CRITICAL INFRASTRUCTURE EMERGENCY MAPPING GRANT PROGRAM FOR THE PURPOSE OF PROVIDING A VERIFIED, STANDARDIZED AND ACCESSIBLE SOURCE OF MAPPING DATA FOR CRITICAL INFRASTRUCTURE THAT MAY BE USED BY PUBLIC SAFETY AGENCIES ACROSS THE STATE TO ENSURE RAPID AND COORDINATED RESPONSE TO EMERGENCY INCIDENTS; TO PROVIDE THAT THE PROGRAM WILL BE ADMINISTERED BY THE DEPARTMENT OF PUBLIC SAFETY; TO PROVIDE THAT A MUNICIPALITY, COUNTY OR STATE LAW ENFORCEMENT AGENCY MAY APPLY FOR A GRANT UNDER THE PROGRAM FOR SERVICES TO PRODUCE CRITICAL INCIDENT MAPPING DATA FOR ONE OR MORE BUILDINGS OR CAMPUSES OVER WHICH THE AGENCY HAS JURISDICTION; TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO BE DESIGNATED AS THE CRITICAL INFRASTRUCTURE EMERGENCY MAPPING GRANT FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

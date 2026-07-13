@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2591",
+  "title": "Party primaries; close to only registered voters affiliated with a political party.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2591"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2591IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2591IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2591IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2591.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT ONLY REGISTERED VOTERS AFFILIATED WITH A POLITICAL PARTY MAY VOTE IN THE PARTY'S PRIMARY ELECTION; TO PROVIDE THAT REGISTERED VOTERS NOT AFFILIATED WITH A POLITICAL PARTY MAY VOTE IN ANY NONPARTISAN ELECTION HELD IN CONJUNCTION WITH A PARTY PRIMARY ELECTION; TO REQUIRE THE STATE EXECUTIVE COMMITTEE OF A POLITICAL PARTY TO DESIGNATE ANNUALLY ANY QUALIFICATIONS FOR ELECTORS TO BE ELIGIBLE TO VOTE IN THE PARTY'S PRIMARY ELECTION; TO AUTHORIZE THE SECRETARY OF STATE TO PRESCRIBE BY RULE A UNIFORM STATEWIDE VOTER REGISTRATION APPLICATION THAT SHALL BE USED TO DESIGNATE AN ELECTOR'S PARTY AFFILIATION; TO AMEND SECTIONS 23-15-575 AND 23-15-753, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY PERSON WHO VOTES IN A POLITICAL PARTY PRIMARY OTHER THAN THAT IN WHICH THE PERSON IS REGISTERED SHALL BE GUILTY OF VOTE FRAUD; TO AMEND SECTIONS 23-15-33, 23-15-35, 23-15-37, 23-15-39, 23-15-41 AND 23-15-47, MISSISSIPPI CODE OF 1972, TO AUTHORIZE CIRCUIT AND MUNICIPAL CLERKS TO ENTER INTO THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM AN ELECTOR'S PARTY AFFILIATION AS DESIGNATED ON THE ELECTOR'S UNIFORM STATEWIDE VOTER REGISTRATION APPLICATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

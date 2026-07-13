@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2055",
+  "title": "\"Motor Voter Registration Act\"; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2055"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2055IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2055IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2055IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2055.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MOTOR VOTER REGISTRATION ACT\"; TO AUTHORIZE ANY PERSON WHO IS QUALIFIED TO REGISTER TO VOTE IN THE STATE OF MISSISSIPPI TO REGISTER TO VOTE WHEN THAT PERSON APPLIES FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY TO OBTAIN CERTAIN INFORMATION FROM A PERSON WHO DESIRES TO REGISTER TO VOTE WHILE APPLYING FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO PROVIDE AN OPT-OUT PROCEDURE FOR PERSONS WHO CHOOSE NOT TO REGISTER TO VOTE WHILE APPLYING FOR THE ISSUANCE, RENEWAL OR CHANGE OF ADDRESS OF A MOTOR VEHICLE DRIVER'S LICENSE OR OFFICIAL IDENTIFICATION CARD; TO PROVIDE FOR THE FORWARDING OF VOTER REGISTRATION APPLICATIONS TO THE PERSON'S COUNTY OF RESIDENCE; TO AMEND SECTIONS 23-15-11, 23-15-33, 23-15-35, 23-15-39, 23-15-41, 23-15-79, 23-15-95 AND 63-1-19, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

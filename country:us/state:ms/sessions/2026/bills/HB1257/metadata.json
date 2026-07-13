@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1257",
+  "title": "Heavy equipment property; authorize certain businesses to charge recovery fee on rental of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1257"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Commerce",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steverson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steverson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1257IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1257IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1257IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Steverson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1257.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT A QUALIFIED HEAVY EQUIPMENT RENTAL BUSINESS MAY CHARGE TO A RENTER A RECOVERY FEE IN AN AMOUNT NOT TO EXCEED TWO PERCENT OF THE RENTAL CHARGE FOR EACH ITEM OF HEAVY EQUIPMENT RENTED IN THIS STATE; TO PROVIDE THAT A RECOVERY FEE SHALL BE SEPARATELY STATED ON THE INVOICE OR RECEIPT FOR THE RENTAL TRANSACTION AND SHALL BE ENFORCEABLE BY THE QUALIFIED HEAVY EQUIPMENT RENTAL BUSINESS TO THE SAME EXTENT AS THE UNDERLYING RENTAL CHARGES OR OTHER CHARGES CONTAINED ON SUCH INVOICE OR RECEIPT; TO PROVIDE THAT RECOVERY FEES COLLECTED BY A QUALIFIED HEAVY EQUIPMENT RENTAL BUSINESS SHALL BE USED TO PAY OR AS A REIMBURSEMENT FOR THE PAYMENT OF ANY AD VALOREM TAXES LEVIED OR ASSESSED ON THE QUALIFIED RENTAL BUSINESS'S HEAVY EQUIPMENT IN THE STATE; TO DEFINE THE TERMS \"HEAVY EQUIPMENT PROPERTY\", \"QUALIFIED HEAVY EQUIPMENT RENTAL BUSINESS\", \"RENT\" AND \"RENTAL CHARGE\" FOR THE PURPOSES OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB544",
+  "title": "State institutions of higher learning; create grant program to assist with endowments to recruit and employ certain professors.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb544"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Appropriations A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0544IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0544IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0544IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0544.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT THE MISSISSIPPI DEVELOPMENT AUTHORITY SHALL ESTABLISH A PROGRAM TO PROVIDE GRANTS TO STATE INSTITUTIONS OF HIGHER LEARNING TO ASSIST SUCH INSTITUTIONS WITH ESTABLISHING ENDOWMENTS FOR THE PURPOSE OF RECRUITING AND EMPLOYING PROFESSORS OF QUANTUM COMPUTING AND PROFESSORS OF ARTIFICIAL INTELLIGENCE ENGINEERING; TO PROVIDE AN APPLICATION PROCESS FOR STATE INSTITUTIONS OF HIGHER LEARNING THAT DESIRE TO PARTICIPATE IN THE GRANT PROGRAM; TO CREATE THE \"STATE INSTITUTIONS OF HIGHER LEARNING QUANTUM COMPUTING AND ARTIFICIAL INTELLIGENCE ENGINEERING PROFESSORS FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE DISBURSED, UPON APPROPRIATION BY THE LEGISLATURE, IN THE DISCRETION OF THE MISSISSIPPI DEVELOPMENT AUTHORITY, TO PROVIDE GRANTS AUTHORIZED IN THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

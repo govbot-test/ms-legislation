@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2451",
+  "title": "DHS and Medicaid assistance program benefits; revise eligibility criteria and verification procedures for.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2451"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2451IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2451IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2451IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2451.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-12-5, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT ELIGIBILITY VERIFICATIONS FOR CERTAIN ASSISTANCE PROGRAMS BE PERFORMED AT LEAST QUARTERLY BETWEEN ELIGIBILITY REDETERMINATIONS; TO CREATE NEW SECTION 43-12-6, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DIVISION OF MEDICAID (DIVISION) AND THE DEPARTMENT OF HUMAN SERVICES (DEPARTMENT) TO ASSESS CONTINUED ELIGIBILITY BASED ON REVIEW OF DATA FROM CERTAIN FEDERAL SOURCES; TO CREATE NEW SECTION 43-12-10, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO INDIVIDUAL WHO IS NOT A UNITED STATES CITIZEN OR A NATIONAL OF THE UNITED STATES SHALL BE ELIGIBLE FOR PARTICIPATION IN THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM (SNAP) OR FOR MEDICAID UNLESS THE INDIVIDUAL MEETS THE DEFINITION OF AN ELIGIBLE ALIEN UNDER 7 USC \u00a7 2015(F) OR 42 USC \u00a7 1396B(V), AS THE CASE MAY BE, AND MEETS THE DEFINITION OF A QUALIFIED ALIEN UNDER 8 USC \u00a7 1641(B); TO REQUIRE VERIFICATION OF CITIZENSHIP OR ELIGIBLE ALIEN STATUS DURING ENROLLMENT AND ELIGIBILITY REDETERMINATIONS; TO REQUIRE SUBMISSION TO APPROPRIATE LAW ENFORCEMENT AUTHORITIES INFORMATION CONCERNING ANY HOUSEHOLD MEMBER DETERMINED TO BE AN UNLAWFULLY PRESENT ALIEN; TO REQUIRE THE DEPARTMENT AND THE DIVISION TO SUBMIT INFORMATION CONCERNING ANY HOUSEHOLD MEMBER FOR WHOM THEY ARE UNABLE TO VERIFY ELIGIBLE ALIEN STATUS; TO DIRECT THE DIVISION TO REQUIRE HOSPITALS THAT ACCEPT MEDICAID TO INCLUDE A PROVISION ON ADMISSION OR REGISTRATION FORMS FOR INFORMATION ABOUT A PATIENT'S CITIZENSHIP OR IMMIGRATION STATUS AND TO SUBMIT QUARTERLY REPORTS THAT INCLUDE THE NUMBER OF ADMISSIONS OR EMERGENCY DEPARTMENT VISITS BASED ON CITIZENSHIP AND IMMIGRATION STATUS; TO REQUIRE THE DIVISION TO SUBMIT ANNUAL REPORTS TO THE GOVERNOR, THE PRESIDENT OF THE SENATE, AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES THAT INCLUDE THE TOTAL NUMBER OF HOSPITAL ADMISSIONS AND EMERGENCY DEPARTMENT VISITS FROM HOSPITALS THAT ACCEPT MEDICAID FOR THE PRIOR YEAR BASED ON CITIZENSHIP AND IMMIGRATION STATUS; TO CREATE NEW SECTION 43-12-18, MISSISSIPPI CODE OF 1972, TO LIMIT RETROACTIVE ELIGIBILITY FOR MEDICAID; TO CREATE NEW SECTION 43-12-20, MISSISSIPPI CODE OF 1972, TO SET FORTH FREQUENCY REQUIREMENTS FOR MEDICAID ELIGIBILITY REDETERMINATIONS; TO CREATE NEW SECTION 43-12-24, MISSISSIPPI CODE OF 1972, TO SET FORTH FREQUENCY REQUIREMENTS FOR SNAP ELIGIBILITY RECERTIFICATIONS; TO AMEND SECTION 43-12-29, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE DEPARTMENT SHALL VERIFY CERTAIN INFORMATION PRIOR TO CERTIFICATION OR RECERTIFICATION; TO REQUIRE VERIFICATION THROUGH CERTAIN SOURCES; TO PROHIBIT ACCEPTANCE OF ELIGIBILITY DETERMINATIONS FROM AN EXCHANGE ESTABLISHED UNDER 42 U.S.C. \u00a7 18041(C); TO AMEND SECTION 43-12-39, MISSISSIPPI CODE OF 1972, TO INCLUDE ADDITIONAL INFORMATION THAT MUST BE ON THE DEPARTMENT'S ANNUAL REPORT OF SNAP AND TANF BENEFIT SPENDING; TO AMEND SECTION 43-12-41, MISSISSIPPI CODE OF 1972, TO DIRECT THE DIVISION AND THE DEPARTMENT TO REPORT ON EFFORTS TO MINIMIZE ELIGIBILITY ERRORS AND FRAUD AND TO ADD ADDITIONAL INFORMATION REQUIREMENTS FOR SUCH REPORTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

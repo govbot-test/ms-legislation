@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB176",
+  "title": "School districts; require drug testing of students suspended for disciplinary infractions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb176"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0176IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0176IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0100-0199/HB0176IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0176.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE DRUG TESTING OF PUBLIC SCHOOL STUDENTS IN GRADES SIX THROUGH TWELVE WHO HAVE BEEN SUSPENDED; TO DECLARE LEGISLATIVE FINDINGS RELATING TO STUDENT DRUG USAGE AND THE PURPOSES OF THIS ACT; TO DEFINE CERTAIN TERMS USED UNDER THE ACT; TO REQUIRE EACH LOCAL SCHOOL BOARD TO ADOPT A POLICY REQUIRING DRUG TESTING STUDENTS IN GRADES SIX THROUGH TWELVE WHO ARE SUSPENDED FOR DISCIPLINARY INFRACTIONS AND TO PRESCRIBE CERTAIN COMPONENTS THAT MUST BE IN THE POLICY, INCLUDING A PROVISION REQUIRING A STUDENT'S PARENT TO PAY THE COST OF THE DRUG TEST; TO PROVIDE FOR THE ACTIONS TO BE TAKEN WHEN A STUDENT'S DRUG TEST IS POSITIVE; TO PROVIDE THAT STUDENT DRUG TESTS WILL BE ADMINISTERED BY THE COUNTY HEALTH DEPARTMENT AND TO PRESCRIBE THE MANNER IN WHICH THE TESTING MUST BE PERFORMED; TO PROVIDE FOR THE DISCLOSURE OF POSITIVE TEST RESULTS AND TO REQUIRE INFORMATION RELATING TO A STUDENT'S DRUG TEST TO BE KEPT CONFIDENTIAL AND SEPARATE FROM THE STUDENT'S CUMULATIVE FOLDER; TO AUTHORIZE A STUDENT TO PRESENT EVIDENCE OF THE PROPER USE OF A PRESCRIPTION MEDICATION AS AN AFFIRMATIVE DEFENSE TO A POSITIVE DRUG TEST; TO AUTHORIZE SCHOOL DISTRICTS TO OFFER IN-SCHOOL COUNSELING OR REFERRAL INFORMATION FOR STUDENTS TESTING POSITIVE FOR DRUGS; TO REQUIRE THE STATE BOARD OF EDUCATION, IN CONSULTATION WITH THE STATE BOARD OF HEALTH AND DEPARTMENT OF MENTAL HEALTH, TO ADOPT RULES AND REGULATIONS NECESSARY TO CARRY OUT THE PROVISIONS OF THIS ACT; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PREPARE A MODEL DRUG TESTING POLICY FOR SCHOOL DISTRICTS; TO AMEND SECTION 37-15-9, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

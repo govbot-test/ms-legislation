@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB512",
+  "title": "Rural Physicians and Rural Dentists Retention Loan Repayment Programs; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb512"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0512IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0512IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0512IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0512.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE RURAL PHYSICIANS RETENTION LOAN REPAYMENT PROGRAM AND THE RURAL DENTISTS RETENTION LOAN REPAYMENT PROGRAM; TO PRESCRIBE ELIGIBILITY REQUIREMENTS FOR LOAN REPAYMENT UNDER THE PROGRAMS, INCLUDING EMPLOYMENT AT CERTAIN RURAL HOSPITALS AND CLINICS AND IN CERTAIN COMMUNITIES; TO AUTHORIZE UP TO TEN ANNUAL AWARDS UNDER EACH PROGRAM UPON COMPLETION OF EACH YEAR AT A QUALIFYING HOSPITAL, CLINIC OR OTHER HEALTH CARE FACILITY OR IN A QUALIFYING COMMUNITY; TO REQUIRE THE POSTSECONDARY EDUCATION FINANCIAL ASSISTANCE BOARD TO ADMINISTER THE PROGRAM; TO ESTABLISH THE RURAL PHYSICIANS RETENTION LOAN REPAYMENT PROGRAM FUND AND THE RURAL DENTISTS RETENTION LOAN REPAYMENT PROGRAM FUND IN THE STATE TREASURY; TO BRING FORWARD SECTIONS 37-144-1 THROUGH 37-144-21, MISSISSIPPI CODE OF 1972, WHICH CREATE THE MISSISSIPPI RURAL PHYSICIANS SCHOLARSHIP PROGRAM, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO CREATE NEW SECTION 37-144-23, MISSISSIPPI CODE OF 1972, TO REPEAL THE MISSISSIPPI RURAL PHYSICIANS SCHOLARSHIP PROGRAM AT SUCH TIME AS THE LAST CLASS OF RECIPIENTS HAS COMPLETED THE OBLIGATIONS OF THE PROGRAM; TO BRING FORWARD SECTIONS 37-146-1 THROUGH 37-146-21, MISSISSIPPI CODE OF 1972, WHICH CREATE THE MISSISSIPPI RURAL DENTISTS SCHOLARSHIP PROGRAM, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO CREATE NEW SECTION 37-146-23, MISSISSIPPI CODE OF 1972, TO REPEAL THE MISSISSIPPI RURAL DENTISTS SCHOLARSHIP PROGRAM AT SUCH TIME AS THE LAST CLASS OF RECIPIENTS HAS COMPLETED THE OBLIGATIONS OF THE PROGRAM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2758",
+  "title": "MS Housing Infrastructure Support Program; create to provide grants and low-interest loans for certain public infrastructure improvements.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Housing"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2758"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Housing;Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: HO To AC",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hickman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hickman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2758IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2758IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2758IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2758.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE \"MISSISSIPPI HOUSING INFRASTRUCTURE SUPPORT PROGRAM\" TO ASSIST COUNTIES, MUNICIPALITIES AND PUBLIC UTILITY AUTHORITIES WITH THE COST OF HOUSING-RELATED INFRASTRUCTURE TO SUPPORT WORKFORCE AND AFFORDABLE HOUSING DEVELOPMENT ACROSS THE STATE; TO CREATE THE \"MISSISSIPPI HOUSING INFRASTRUCTURE SUPPORT FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT THE MISSISSIPPI HOME CORPORATION (CORPORATION) SHALL ADMINISTER THE PROGRAM AND DISBURSE FUND MONIES IN THE FORM OF GRANTS AND LOW-INTEREST LOANS SOLELY FOR PUBLICLY-OWNED OR PUBLICLY-REGULATED INFRASTRUCTURE DIRECTLY RELATED TO HOUSING DEVELOPMENT; TO ESTABLISH MAXIMUM GRANT AMOUNTS PER PROJECT AND TO SET MAXIMUM INTEREST RATES AND TERMS FOR LOW-INTEREST LOANS; TO REQUIRE ELIGIBLE APPLICANTS TO DEMONSTRATE NONSTATE MATCHING FUNDS EQUAL TO AT LEAST 25% OF TOTAL PROJECT COSTS; TO DIRECT THE CORPORATION TO GIVE PRIORITY TO CERTAIN PROJECTS; TO PROHIBIT A LOCAL GOVERNMENTAL ENTITY THAT IS AWARDED FUNDS MONIES FROM ENFORCING OR IMPLEMENTING ANY LOT AND/OR HOME SIZE RESTRICTIONS FOR PROJECT AREAS; TO REQUIRE THE CORPORATION TO SUBMIT AN ANNUAL REPORT TO THE GOVERNOR, THE LIEUTENANT GOVERNOR, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES, AND THE CHAIRS OF THE HOUSE AND SENATE HOUSING COMMITTEES THAT COMPREHENSIVELY DETAILS CERTAIN  INFORMATION RELATED TO THE FUND; TO REQUIRE PUBLIC DISCLOSURE OF ALL FUNDED PROJECTS; TO DEFINE TERMS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB625",
+  "title": "Main Street Revitalization Grants; revise FY25 appropriation bills for MDA and MDAH so that MDAH will make grants to certain designated communities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb625"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steverson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steverson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0625IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0625IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0625IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Steverson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0625.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REPEAL SECTION 33 OF CHAPTER 113, LAWS OF 2024, WHICH PROVIDES FUNDS FROM THE MISSISSIPPI MAIN STREET REVITALIZATION GRANT PROGRAM FUND TO THE MISSISSIPPI DEVELOPMENT AUTHORITY FOR MAKING GRANTS TO CERTAIN MAIN STREET DESIGNATED COMMUNITIES FOR CERTAIN PROJECTS; TO AMEND SECTION 2 OF CHAPTER 113, LAWS OF 2024, TO REVISE THE FISCAL YEAR 2025 APPROPRIATION TO THE MISSISSIPPI DEVELOPMENT AUTHORITY TO REDUCE THE AMOUNT OF SPECIAL FUNDS APPROPRIATED TO THE AUTHORITY; TO AMEND CHAPTER 66, LAWS OF 2024, TO REVISE THE FISCAL YEAR 2025 APPROPRIATION TO THE MISSISSIPPI DEPARTMENT OF ARCHIVES AND HISTORY TO INCREASE THE AMOUNT OF SPECIAL FUNDS APPROPRIATED TO THE DEPARTMENT; TO PROVIDE THAT THE DEPARTMENT SHALL DISTRIBUTE FUNDS FROM THE MISSISSIPPI MAIN STREET REVITALIZATION GRANT PROGRAM FUND TO CERTAIN MAIN STREET DESIGNATED COMMUNITIES FOR CERTAIN PROJECTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

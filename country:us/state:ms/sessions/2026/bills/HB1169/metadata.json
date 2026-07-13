@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1169",
+  "title": "Mississippi Whistleblower Reward Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1169"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1169IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1169IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1169IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1169.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI WHISTLEBLOWER REWARD ACT; TO DEFINE TERMS; TO PROVIDE A WHISTLEBLOWER WHO PROVIDES ORIGINAL INFORMATION AND SUBSTANTIAL EVIDENCE OF THE THEFT OR MISUSE OF GOVERNMENT FUNDS OR PROPERTY TO THE DEPARTMENT OF AUDIT THAT LEADS TO THE SUCCESSFUL RECOVERY OF FUNDS BY THE DEPARTMENT SHALL BE PAID FIFTEEN PERCENT OF THE PROCEEDS OF THE RECOVERY; TO PROVIDE THAT SUCH AMOUNT OF THE PROCEEDS PAID TO THE WHISTLEBLOWER SHALL NOT EXCEED TWO HUNDRED FIFTY THOUSAND DOLLARS; TO PROVIDE HOW THE POTENTIAL REWARD SHALL BE RECOVERED; TO PROVIDE THAT THE COST INCURRED BY THE DEPARTMENT WITH ANY VENDOR WHOSE SERVICES WERE DEEMED NECESSARY BY THE DEPARTMENT TO FULLY INVESTIGATE SHALL ALSO BE RECOVERED; TO PROVIDE THAT THE IDENTITY OF THE WHISTLEBLOWER SHALL REMAIN CONFIDENTIAL EXCEPT IN CERTAIN SITUATIONS; TO PROVIDE THAT COMMUNICATIONS BETWEEN THE DEPARTMENT AND THE WHISTLEBLOWER SHALL BE EXEMPT FROM THE MISSISSIPPI PUBLIC RECORDS ACT; TO AMEND SECTION 25-61-12, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO BRING FORWARD SECTIONS 25-9-171 THROUGH 25-9-177, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

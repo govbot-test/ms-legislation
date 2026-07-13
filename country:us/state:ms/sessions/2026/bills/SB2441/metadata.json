@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2441",
+  "title": "Limited medical licenses; revise provisions regarding and create additional limited licenses.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2441"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bryan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2441CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2441IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Bryan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2441.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-25-23, MISSISSIPPI CODE OF 1972, TO MODIFY THE LIMITED INSTITUTIONAL LICENSURE PROCESS BY AUTHORIZING THE MISSISSIPPI STATE BOARD OF MEDICAL LICENSURE (BOARD) TO ISSUE A LIMITED INSTITUTIONAL LICENSE FOR THE PRACTICE OF MEDICINE IN STATE INSTITUTIONS TO CERTAIN GRADUATES OF FOREIGN MEDICAL COLLEGES UPON REVIEW OF THE INDIVIDUAL'S APPLICATION AND UPON THE SATISFACTION OF ALL REQUIREMENTS SET FORTH BY THE BOARD; TO INCREASE FROM FIVE YEARS TO EIGHT YEARS THE PERIOD OF TIME THAT A LIMITED INSTITUTIONAL LICENSE MAY BE HELD; TO AUTHORIZE THE BOARD TO ISSUE A LIMITED LICENSE TO CERTAIN INTERNATIONALLY TRAINED PHYSICIANS WITH OFFERS OF EMPLOYMENT IN MISSISSIPPI; TO AUTHORIZE THE BOARD TO ISSUE A LIMITED LICENSE TO CERTAIN UNITED STATES MEDICAL SCHOOL GRADUATES WHO INITIALLY FAIL TO MATCH WITH A POSTGRADUATE RESIDENCY TRAINING PROGRAM; TO SET FORTH REQUIREMENTS AND QUALIFICATIONS FOR APPLICANTS FOR INTERNATIONALLY TRAINED PHYSICIAN (ITP) AND MEDICAL GRADUATE (MG) LIMITED LICENSES, AND TO REGULATE THE PRACTICE OF SUCH LIMITED LICENSES HOLDERS; TO PROVIDE THE PERIODS OF TIME FOR WHICH SUCH LIMITED LICENSES MAY BE HELD; TO REQUIRE ITP LIMITED LICENSEES TO PRACTICE ONLY IN RURAL COMMUNITIES OR MEDICALLY UNDERSERVED AREAS WITH A CURRENT SHORTAGE OF PHYSICIANS; TO REQUIRE MG LIMITED LICENSEES TO ENTER INTO A SUPERVISORY PRACTICE AGREEMENT WITH A SUPERVISING PHYSICIAN AND TO REQUIRE MG LICENSEES TO PRACTICE ONLY IN COUNTIES WITH A POPULATION OF LESS THAN 100,000; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

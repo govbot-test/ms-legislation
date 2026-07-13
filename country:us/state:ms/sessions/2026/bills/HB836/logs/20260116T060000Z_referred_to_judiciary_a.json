@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred To Judiciary A",
+    "occurred_at": "2026-01-16T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0836IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Calvert.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0836.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB836"
+}

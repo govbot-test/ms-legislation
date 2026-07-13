@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB984",
+  "title": "Notice of public hearing to change zoning regulations, restrictions and boundaries; revise time frame for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb984"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0984IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0984IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0984IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0984.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 17-1-17, MISSISSIPPI CODE OF 1972, TO REVISE THE TIME FRAME FOR NOTICE OF A PUBLIC HEARING TO CHANGE ZONING REGULATIONS, RESTRICTIONS AND BOUNDARIES THAT MAY BE  AMENDED, SUPPLEMENTED, CHANGED OR REPEALED; TO AUTHORIZE THE USE OF CERTAIN SOCIAL MEDIA TO PROVIDE SUCH NOTICE UNDER CERTAIN CIRCUMSTANCES; TO AMEND SECTION 11-51-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A WRITTEN NOTICE OF APPEAL CONCERNING SUCH CHANGE OF ZONING REGULATIONS, RESTRICTIONS AND BOUNDARIES MUST BE FILED WITHIN 20 DAYS, RATHER THAN 10 DAYS, OF THE RENDERING OF THE DECISION BY THE BOARD OF SUPERVISORS OF A COUNTY OR THE GOVERNING AUTHORITY OF A MUNICIPALITY FOR SUCH CHANGE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

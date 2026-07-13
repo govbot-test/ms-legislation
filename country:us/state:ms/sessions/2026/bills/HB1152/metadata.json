@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1152",
+  "title": "Right to Try Medical Cannabis Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1152"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1152IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1152IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1152IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1152.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE RIGHT TO TRY MEDICAL CANNABIS ACT; TO PROVIDE A PROCEDURE FOR PERSONS WHO DO NOT HAVE A QUALIFYING DEBILITATING MEDICAL CONDITION UNDER THE MISSISSIPPI MEDICAL CANNABIS ACT BUT HAVE AN ILLNESS THAT IS CHRONIC, PROGRESSIVE, SEVERELY DISABLING OR TERMINAL IN NATURE, TO BE CONSIDERED FOR INCLUSION IN THE MISSISSIPPI MEDICAL CANNABIS PROGRAM; TO PROVIDE THAT THE PATIENT'S TREATING MEDICAL PROVIDER MAY SUBMIT A PETITION TO THE STATE DEPARTMENT OF HEALTH REQUESTING AUTHORIZATION FOR THE PATIENT TO ACCESS MEDICAL CANNABIS; TO SPECIFY THE INFORMATION THAT MUST BE INCLUDED IN THE PETITION; TO PROVIDE THAT THE STATE HEALTH OFFICER IS THE SOLE DECISION MAKING AUTHORITY ON ALL SUCH PETITIONS SUBMITTED; TO PROVIDE THAT IF THE PETITION IS APPROVED, THE PATIENT SHALL BECOME ELIGIBLE TO APPLY FOR A REGISTRY IDENTIFICATION CARD UNDER THE MISSISSIPPI MEDICAL CANNABIS PROGRAM, SUBJECT TO ALL APPLICABLE RULES, LIMITS AND REGULATIONS; TO PROVIDE THAT THE DECISION OF THE STATE HEALTH OFFICER ON A PETITION SHALL BE FINAL AND MAY NOT BE APPEALED; TO PROVIDE THAT THE DEPARTMENT MAY LIMIT THE TYPE, FORM OR VOLUME OF CANNABIS AUTHORIZED FOR PATIENTS APPROVED UNDER THIS ACT IN ACCORDANCE WITH PUBLIC HEALTH AND SAFETY STANDARDS; TO PROVIDE THAT PATIENTS APPROVED UNDER THIS ACT SHALL BE SUBJECT TO PERIODIC REEVALUATION BY THE TREATING PROVIDER NO LESS THAN ONCE EVERY TWELVE MONTHS; TO AMEND SECTIONS 41-137-3 AND 41-137-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

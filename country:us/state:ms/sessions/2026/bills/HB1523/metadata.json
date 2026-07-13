@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1523",
+  "title": "Farm equipment grant program; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1523"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McMillan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McMillan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1523IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMillan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1523.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL ESTABLISH A PROGRAM TO MAKE GRANTS TO FARMERS TO ASSIST WITH THE PURCHASE OF NEW FARM TRACTORS AND PARTS AND LABOR USED TO MAINTAIN AND/OR REPAIR SUCH TRACTORS, AND NEW FARM IMPLEMENTS TAXED AT THE RATE OF 1.5% UNDER SECTION 27-65-17; TO PROVIDE AN APPLICATION PROCESS FOR THE PROGRAM; TO CREATE THE \"FARM EQUIPMENT GRANT FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION, UPON APPROPRIATION BY THE LEGISLATURE, TO MAKE GRANTS UNDER THIS ACT; TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STATE SALES TAX REVENUE COLLECTED FROM THE RETAIL SALES OF FARM TRACTORS AND PARTS AND LABOR USED TO MAINTAIN AND/OR REPAIR SUCH TRACTORS, AND FARM IMPLEMENTS TAXED AT THE RATE OF 1.5% UNDER SECTION 27-65-17, SHALL BE DEPOSITED INTO THE FARM EQUIPMENT GRANT FUND CREATED IN THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

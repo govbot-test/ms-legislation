@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB269",
+  "title": "Bonds; create rural counties and municipalities cellular and broadband grant program and authorize issuance of bonds.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb269"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0269IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0269IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0269IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0269.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A GRANT PROGRAM FOR THE PURPOSE OF MAKING GRANTS TO ASSIST BUSINESSES IN PAYING COSTS ASSOCIATED WITH PROVIDING AND EXPANDING CELLULAR AND BROADBAND ACCESS AND COVERAGE IN RURAL COUNTIES AND RURAL MUNICIPALITIES; TO PROVIDE THAT THE MISSISSIPPI DEVELOPMENT AUTHORITY SHALL ADMINISTER THE GRANT PROGRAM CREATED IN THIS ACT; TO CREATE A SPECIAL FUND IN THE STATE TREASURY, DESIGNATED AS THE \"RURAL COUNTIES AND MUNICIPALITIES CELLULAR AND BROADBAND FUND\"; TO AUTHORIZE THE ISSUANCE OF $15,000,000.00 OF STATE GENERAL OBLIGATION BONDS TO PROVIDE FUNDS FOR THE \"RURAL COUNTIES AND MUNICIPALITIES CELLULAR AND BROADBAND FUND\"; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

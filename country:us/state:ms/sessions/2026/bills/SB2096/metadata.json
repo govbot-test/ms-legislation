@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2096",
+  "title": "MDITS and SOS; require to establish minimum cybersecurity standards for SEMS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2096"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Elections",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2096IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2096IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2096IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2096.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-165, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MISSISSIPPI DEPARTMENT OF INFORMATION AND TECHNOLOGY SERVICES TO ESTABLISH MINIMUM CYBERSECURITY STANDARDS AND POLICIES IN CONJUNCTION WITH THE SECRETARY OF STATE FOR COUNTY REGISTRARS AND ELECTION COMMISSIONERS; TO STIPULATE THAT SUCH STANDARDS AND POLICIES AIM TO ENSURE THE INTEGRITY OF MISSISSIPPI'S VOTER REGISTRATION AND ELECTION DATA IN THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM; TO REQUIRE SUCH POLICIES TO BE ESTABLISHED NO LATER THAN JANUARY 1, 2027; TO PROVIDE FOR ASSESSMENTS OF ADHERENCE TO THE POLICIES; TO REQUIRE CONFIDENTIALITY OF INFORMATION; TO GRANT THE STATE AUDITOR'S OFFICE AUTHORITY TO USE SUCH INFORMATION FOR AUDITING PURPOSES; TO ALLOW MDITS AND THE SECRETARY OF STATE TO REQUEST RESULTS OF INTERNAL ASSESSMENTS; TO PROVIDE FOR FAILURE TO MEET THE ESTABLISHED CYBERSECURITY STANDARDS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

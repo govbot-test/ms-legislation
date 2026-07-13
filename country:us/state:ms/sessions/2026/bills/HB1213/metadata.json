@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1213",
+  "title": "Adolescent Literacy Initiatives; require MDE to establish for Grades 4-8.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1213"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCarty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McCarty\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1213IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1213IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1213IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McCarty.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1213.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE ADOLESCENT LITERACY INITIATIVE FOR GRADES FOUR THROUGH EIGHT TO IMPROVE READING AND WRITING PROFICIENCY THROUGH EVIDENCE-BASED AND SCIENTIFICALLY RESEARCHED INSTRUCTION; TO DEFINE KEY TERMS RELATED TO THE SCIENCE OF READING, DYSLEXIA, ASSESSMENTS, INTERVENTIONS AND HIGH-QUALITY INSTRUCTIONAL MATERIALS; TO REQUIRE STATEWIDE ALIGNMENT OF LITERACY STANDARDS, ASSESSMENTS AND CURRICULA WITH THE SCIENCE OF READING AND TO PROHIBIT THE USE OF BALANCED LITERACY AND THREE-CUEING SYSTEMS; TO PROVIDE COMPREHENSIVE PROFESSIONAL LEARNING, JOB-EMBEDDED COACHING AND EDUCATOR PREPARATION REQUIREMENTS FOR CONTENT AREA TEACHERS AND SCHOOL PERSONNEL; TO REQUIRE UNIVERSAL SCREENING, DIAGNOSTIC ASSESSMENTS, TARGETED INTERVENTIONS AND INDIVIDUAL READING PLANS FOR STUDENTS WITH READING DEFICIENCIES; TO MANDATE PARENTAL NOTIFICATION, ONGOING PROGRESS MONITORING, ANNUAL REPORTING AND STATE OVERSIGHT; TO REQUIRE THE EMPLOYMENT AND TRAINING OF READING SPECIALISTS AND DYSLEXIA THERAPISTS; TO AUTHORIZE ENFORCEMENT AND FUNDING BY THE STATE BOARD OF EDUCATION; AND FOR RELATED PURPOSE"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

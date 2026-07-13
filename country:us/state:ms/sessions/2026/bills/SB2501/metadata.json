@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2501",
+  "title": "Public schools; allow to employ or accept the service of chaplains.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2501"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2501IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2501IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2501IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Tate.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2501.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ALLOW SCHOOL DISTRICTS AND CHARTER SCHOOLS TO EMPLOY OR ACCEPT AS A VOLUNTEER, A CHAPLAIN TO PROVIDE SUPPORT, SERVICES AND PROGRAMS WITH THE SCHOOL DISTRICT OR CHARTER SCHOOL; TO REQUIRE EACH SCHOOL DISTRICT OR CHARTER EMPLOYING OR ALLOWING A CHAPLAIN TO PROVIDE SERVICES TO ITS STUDENTS TO UNDERGO A CRIMINAL BACKGROUND CHECK BEFORE ENTERING THE SCHOOLS TO CARRY OUT THEIR OBLIGATIONS; TO PROHIBIT SCHOOL DISTRICTS AND CHARTER SCHOOLS FROM EMPLOYING OR ALLOWING INDIVIDUALS WHO ARE REQUIRED TO REGISTER AS SEX OFFENDERS FROM PROVIDING SERVICES WITHIN ITS SCHOOLS; TO AMEND SECTION 37-3-93, MISSISSIPPI CODE OF 1972, TO REQUIRE A QUICK RESPONSE TEAM OF PERSONNEL TRAINED IN SCHOOL SAFETY AND CRISIS MANAGEMENT BY THE STATE DEPARTMENT OF EDUCATION TO INCLUDE CHAPLAINS; TO AMEND SECTION 37-7-301, MISSISSIPPI CODE OF 1972, TO REQUIRE LOCAL SCHOOL DISTRICTS TO FUND AND OPERATE IMPROVED SCHOOL SAFETY AND SECURITY MEASURES, INCLUDING COSTS ASSOCIATED WITH TRAINING AND PLANNING AND PROGRAMS PROVIDED BY CHAPLAINS; TO AMEND SECTION 37-11-54, MISSISSIPPI CODE OF 1972, TO REQUIRE LOCAL SCHOOL BOARDS TO INCORPORATE EMERGENCY AND THREAT MANAGEMENT AWARENESS AND POSITIVE BEHAVIORAL INTERVENTION SUPPORTS WHICH INCLUDE SERVICES PROVIDED BY CHAPLAINS; TO PROVIDE FOR THE SEVERABILITY OF PROVISIONS OF THIS ACT WHICH MAY BE DEEMED UNCONSTITUTIONAL; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

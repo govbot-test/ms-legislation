@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2509",
+  "title": "\"Mississippi School Resource Officers Safety Act\"; fund school security officers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2509"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2509IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2509IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2509IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2509.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"MISSISSIPPI SCHOOL RESOURCE OFFICERS SCHOOL SAFETY ACT\" FOR THE PURPOSE OF AUTHORIZING THE DEPARTMENT OF PUBLIC SAFETY TO ASSIST LOCAL LAW ENFORCEMENT AGENCIES AND SCHOOL GOVERNING BODIES WITH THE COST OF EMPLOYING A SCHOOL RESOURCE OFFICER (SRO) AT EACH SCHOOL CAMPUS WITHIN THE JURISDICTIONS OF THEIR LAW ENFORCEMENT AND GOVERNING AUTHORITIES; TO REQUIRE LOCAL LAW ENFORCEMENT AGENCIES AND SCHOOL GOVERNING BODIES TO MAKE JOINT APPLICATION TO THE DEPARTMENT FOR THE APPROVAL OF ALLOCATION OF FUNDS; TO SPECIFY THE INFORMATION TO BE INCLUDED IN THE APPLICATION; TO PRESCRIBE THE DETAILS OF THE PROGRAM INCLUDING THE REQUIREMENT OF A MEMORANDUM OF UNDERSTANDING OR INTERLOCAL AGREEMENT BETWEEN A LOCAL LAW ENFORCEMENT AGENCY AND A SCHOOL GOVERNING BODY; TO CREATE THE MISSISSIPPI SCHOOL RESOURCE OFFICERS SCHOOL SAFETY FUND AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE SPECIAL FUND SHALL BE USED TO PROVIDE FUNDS TO LOCAL LAW ENFORCEMENT AGENCIES AND SCHOOL GOVERNING BODIES FOR THE PURPOSES DESCRIBED IN THIS ACT; TO AMEND SECTION 37-7-321, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

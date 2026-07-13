@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2381",
+  "title": "Uniform Public Expression Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2381"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wiggins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wiggins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2381IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2381IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2381IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Wiggins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2381.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT THE \"UNIFORM PUBLIC EXPRESSION ACT\"; TO DEFINE TERMS; TO PROVIDE THAT THE ACT APPLIES TO ANY CIVIL CAUSE OF ACTION AGAINST A PERSON BASED ON THE PERSON'S COMMUNICATION IN CERTAIN GOVERNMENTAL PROCEEDINGS OR THE PERSON'S EXERCISE OF THE RIGHT OF FREEDOM OF SPEECH, THE PRESS, THE RIGHT TO ASSEMBLE OR PETITION OR THE RIGHT OF ASSOCIATION GUARANTEED UNDER THE UNITED STATES CONSTITUTION OF THE MISSISSIPPI CONSTITUTION ON ANY MATTER OF PUBLIC CONCERN; TO DESCRIBE CERTAIN CAUSES OF ACTION TO WHICH THE ACT DOES NOT APPLY; TO PROVIDE FOR A SPECIAL MOTION FOR EXPEDITED RELIEF TO DISMISS A CAUSE OF ACTION OR PART OF A CAUSE OF ACTION; TO PROVIDE FOR A STAY ON ALL OTHER PROCEEDINGS IN A CAUSE OF ACTION ONCE A SPECIAL MOTION IS FILED; TO PROVIDE FOR CERTAIN LIMITED DISCOVERY WHERE A PARTY DEMONSTRATES THAT SPECIFIC INFORMATION IS NECESSARY TO ESTABLISH WHETHER OR NOT A PARTY HAS MET ITS BURDEN UNDER THE ACT; TO REQUIRE THE MOTION TO BE HEARD NOT LATER THAN A CERTAIN PERIOD OF TIME AFTER THE FILING OF THE MOTION; TO ESTABLISH STANDARDS OF PROOF FOR THE CONSIDERATION OF A MOTION UNDER THIS ACT; TO PROVIDE FOR THE DISMISSAL OF CERTAIN CAUSES OF ACTION; TO PROVIDE A TIMELINE FOR RULING ON THE MOTION FILED UNDER THIS ACT; TO AUTHORIZE THE MOVING PARTY UNDER THIS ACT TO APPEAL AS A MATTER OF RIGHT FROM AN ORDER DENYING, IN WHOLE OR IN PART, A MOTION UNDER THIS ACT; TO PROVIDE FOR THE AWARD OF COSTS; TO PROVIDE FOR THE BROAD CONSTRUAL OF THE ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

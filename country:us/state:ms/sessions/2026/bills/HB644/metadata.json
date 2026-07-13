@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB644",
+  "title": "Administrative Procedures Act; amend to require agency's notice of proposed rule adoption to include cost to the state.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb644"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0644IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0644IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0644IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Boyd_(19th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0644.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-43-3.103, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE NOTICE OF AN AGENCY'S PROPOSED RULE ADOPTION SHALL INCLUDE HOW MUCH THE PROPOSED RULE WILL COST THE STATE; TO REQUIRE A COPY OF THE NOTICE OF PROPOSED RULE ADOPTION TO BE PROVIDED TO EACH MEMBER OF THE MISSISSIPPI LEGISLATURE; TO AMEND SECTION 25-43-3.105, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A COPY OF THE ECONOMIC IMPACT STATEMENT SHALL BE FORWARDED TO EACH MEMBER OF THE MISSISSIPPI LEGISLATURE AT NO COST TO THE MEMBER; TO AMEND SECTION 25-43-3.111, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A RULE IS INVALID UNLESS ADOPTED IN COMPLIANCE WITH THE ADMINISTRATIVE PROCEDURES ACT AS IT EXISTED ON THE DATE THE RULE WAS ADOPTED; TO BRING FORWARD SECTION 25-43-4.104, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

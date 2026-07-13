@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1044",
+  "title": "PERS; revise Tier 5 service years for retirement eligibility from 35 to 30 years.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1044"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Haney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Haney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1044IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1044IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1044IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Haney.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1044.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-11-103, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"AVERAGE COMPENSATION\" FOR MEMBERS IN THE NEW TIER TO MEAN THE AVERAGE OF THE FOUR HIGHEST CONSECUTIVE YEARS OF EARNED COMPENSATION, OR OF THE LAST 48 CONSECUTIVE MONTHS OF EARNED COMPENSATION, WHICHEVER IS GREATER; TO BRING FORWARD SECTION 25-11-109, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF AMENDMENT; TO AMEND SECTION 25-11-111, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT MEMBERS IN THE NEW TIER WHO HAVE COMPLETED AT LEAST EIGHT YEARS OF MEMBERSHIP SERVICE SHALL BE ENTITLED TO RECEIVE A RETIREMENT ALLOWANCE UPON WITHDRAWAL FROM SERVICE AT THE AGE OF 60, AND MEMBERS WHO HAVE COMPLETED AT LEAST 30 YEARS OF CREDITABLE SERVICE SHALL BE ENTITLED TO RECEIVE A RETIREMENT ALLOWANCE UPON WITHDRAWAL FROM SERVICE REGARDLESS OF AGE; TO PROVIDE THAT MEMBERS IN THE NEW TIER WHO WITHDRAW FROM SERVICE BEFORE AGE 60 AND HAVE COMPLETED AT LEAST EIGHT YEARS OF MEMBERSHIP SERVICE AND HAVE NOT RECEIVED A REFUND OF THEIR CONTRIBUTIONS SHALL BE ENTITLED TO RECEIVE A RETIREMENT ALLOWANCE UPON ATTAINING THE AGE OF 60; TO PROVIDE THAT THE ANNUAL RETIREMENT ALLOWANCE OF A MEMBER WHO HAS ATTAINED THE AGE OF 60 BUT HAS NOT COMPLETED AT LEAST 30 YEARS OF CREDITABLE SERVICE SHALL BE REDUCED BY AN ACTUARIAL EQUIVALENT FACTOR FOR EACH YEAR OF CREDITABLE SERVICE BELOW 30 YEARS OR THE NUMBER OF YEARS IN AGE THAT THE MEMBER IS BELOW AGE 65, WHICHEVER IS LESS; TO BRING FORWARD SECTION 25-11-112, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF AMENDMENT; TO AMEND SECTION 25-11-114, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT WITH RESPECT TO RETIREMENT ALLOWANCES FOR DEATH BEFORE RETIREMENT OR DEATH OR DISABILITY IN THE LINE OF DUTY; TO BRING FORWARD SECTIONS 25-11-115, 25-11-117 AND 25-11-147, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENTS; TO AMEND SECTION 25-11-123, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROCEEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

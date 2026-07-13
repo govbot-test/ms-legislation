@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2703",
+  "title": "Eye care services and materials for patients; provide requirements for insurers and vision benefit managers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2703"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Insurance",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2703IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2703IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2703IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Michel.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2703.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENSURE ACCESS TO EYE CARE SERVICES AND MATERIALS FOR PATIENTS THROUGH TRANSPARENT AND FAIR BUSINESS PRACTICES; TO PROVIDE DEFINITIONS; TO PROVIDE TRANSPARENCY AND DISCLOSURE REQUIREMENTS FOR INSURERS AND VISION BENEFIT MANAGERS; TO PROVIDE FOR COVERED AND NONCOVERED SERVICES AND MATERIAL IN INSURANCE POLICIES; TO PROHIBIT CERTAIN COERCIVE TACTICS BY INSURERS AND VISION BENEFIT MANAGERS; TO PROVIDE FOR CREDENTIALING AND CONTRACTING REQUIREMENTS FOR INSURERS OR VISION BENEFIT MANAGERS; TO PROHIBIT CHANGING THE TERMS OF PROVIDER AGREEMENTS; TO AUTHORIZE EYE CARE PROVIDERS TO USE ANY LAB OR SUPPLIER; TO PROHIBIT EXTRAPOLATION; TO PROVIDE A PRIVATE RIGHT OF ACTION FOR EYE CARE PROVIDERS; TO PROVIDE FOR ENFORCEMENT OF THIS ACT BY THE MISSISSIPPI COMMISSIONER OF INSURANCE AND THE ATTORNEY GENERAL; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

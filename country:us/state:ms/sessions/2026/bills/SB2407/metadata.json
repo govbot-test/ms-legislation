@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2407",
+  "title": "Sales Tax Diversion Study Committee; establish.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2407"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2407IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2407IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2407IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2407.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE SALES TAX DIVERSION STUDY COMMITTEE TO EXAMINE, EVALUATE AND DEVELOP RECOMMENDATIONS REGARDING THE PROPER ALLOCATION OF SALES TAX REVENUE BETWEEN THE DEPARTMENT OF REVENUE AND MUNICIPALITIES; TO DETAIL THE RESPONSIBILITIES OF THE COMMITTEE; TO PROVIDE FOR THE COMPOSITION OF THE COMMITTEE; TO PROVIDE THAT THE COMMITTEE SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE LEGISLATURE NO LATER THAN DECEMBER 1, 2026; TO DIRECT THE DEPARTMENT OF REVENUE TO PROVIDE NECESSARY STAFF AND LOGISTICAL SUPPORT TO THE COMMITTEE; TO ALLOW FOR ADDITIONAL SUPPORT FROM THE JOINT LEGISLATIVE COMMITTEE ON PERFORMANCE EVALUATION AND EXPENDITURE REVIEW (PEER), UPON REQUEST AND SUBJECT TO AVAILABLE RESOURCES; TO PROVIDE FOR COMPENSATION ACCORDING TO LAW FOR LEGISLATIVE MEMBERS AND TRAVEL EXPENSE REIMBURSEMENT FOR NONLEGISLATIVE MEMBERS; TO PROVIDE FOR THE DISSOLUTION OF THE COMMITTEE ON OR BEFORE JANUARY 1, 2027; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

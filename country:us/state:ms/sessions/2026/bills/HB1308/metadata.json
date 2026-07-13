@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1308",
+  "title": "Registered nurses and advanced practice registered nurses; revise authority to delegate medication administration.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1308"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scoggin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scoggin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1308IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1308IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1308IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scoggin.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1308.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE REGISTERED NURSES AND ADVANCED PRACTICE REGISTERED NURSES LICENSED BY THE BOARD OF NURSING TO DELEGATE MEDICATION ADMINISTRATION TO UNLICENSED ASSISTIVE PERSONNEL IN OUTPATIENT CLINIC SETTINGS FOR PATIENTS WITH STABLE AND PREDICTABLE HEALTH CONDITIONS, PROVIDED THAT CERTAIN CONDITIONS ARE MET; TO REQUIRE THE REGISTERED NURSE OR ADVANCED PRACTICE REGISTERED NURSE TO PROVIDE DIRECT, IN-PERSON SUPERVISION OF THE UNLICENSED ASSISTIVE PERSONNEL; TO PROVIDE THAT THE REGISTERED NURSE OR ADVANCED PRACTICE REGISTERED NURSE RETAINS THE ACCOUNTABILITY FOR THE TOTAL NURSING AND ADVANCED PRACTICE NURSING CARE OF THE INDIVIDUAL; TO REQUIRE THAT THE DELEGATION OF MEDICATION ADMINISTRATION TO UNLICENSED ASSISTIVE PERSONNEL BE PERSON-SPECIFIC; TO REQUIRE THE UNLICENSED ASSISTIVE PERSONNEL TO BE ADEQUATELY TRAINED FOR THE TASK, TO HAVE DEMONSTRATED THAT THE TASK HAS BEEN LEARNED, TO BE ABLE TO PERFORM THE TASK SAFELY IN THE GIVEN NURSING SITUATION, AND TO HAVE APPROPRIATE SUPERVISION AVAILABLE DURING THE TASK IMPLEMENTATION; TO REQUIRE THAT THE DELEGATION OF MEDICATION ADMINISTRATION TO THE UNLICENSED ASSISTIVE PERSONNEL BE AN ESTABLISHED POLICY OF THE PRACTICE SETTING; TO PROHIBIT A REGISTERED NURSE OR ADVANCED PRACTICE REGISTERED NURSE FROM DELEGATING THE ADMINISTRATION OF CERTAIN DRUGS AND AGENTS; TO REQUIRE DOCUMENTED, FORMAL TRAINING OF UNLICENSED ASSISTIVE PERSONNEL BY A REGISTERED NURSE OR ADVANCED PRACTICE REGISTERED NURSE IN ORDER FOR THE NURSE TO BE AUTHORIZED BY THE BOARD TO DELEGATE MEDICATION ADMINISTRATION; TO AMEND SECTION 73-15-29, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT VIOLATIONS OF THIS ACT ARE GROUNDS FOR THE BOARD OF NURSING TO DISCIPLINE A NURSE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

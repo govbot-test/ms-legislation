@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1284",
+  "title": "Community and junior colleges; require the administrative consolidation of certain community college districts.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1284"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hawkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hawkins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1284IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1284IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1284IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hawkins.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1284.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR THE ADMINISTRATIVE CONSOLIDATION OF CERTAIN COMMUNITY AND JUNIOR COLLEGE DISTRICTS, EFFECTIVE JULY 1, 2027, THEREBY REDUCING THE NUMBER OF COMMUNITY AND JUNIOR COLLEGE DISTRICTS FROM 15 TO TWELVE 12; TO REQUIRE THE CONSOLIDATION OF THE COAHOMA COMMUNITY COLLEGE DISTRICT INTO THE MISSISSIPPI DELTA COMMUNITY COLLEGE DISTRICT, WITH COAHOMA OPERATING AS THE \"COAHOMA CAMPUS\" OF MISSISSIPPI DELTA COMMUNITY COLLEGE AND WITH THE CENTRAL ADMINISTRATIVE OFFICES TO BE LOCATED IN CLARKSDALE, MISSISSIPPI; TO REQUIRE THE CONSOLIDATION OF THE MERIDIAN COMMUNITY COLLEGE DISTRICT INTO THE EAST MISSISSIPPI COMMUNITY COLLEGE DISTRICT, WITH MERIDIAN TO OPERATE AS THE \"MERIDIAN CAMPUS\" OF EAST MISSISSIPPI COMMUNITY COLLEGE AND WITH THE CENTRAL ADMINISTRATIVE OFFICES TO BE LOCATED IN SCOOBA, MISSISSIPPI; TO REQUIRE THE CONSOLIDATION OF THE SOUTHWEST MISSISSIPPI COMMUNITY COLLEGE DISTRICT INTO THE COPIAH-LINCOLN COMMUNITY COLLEGE DISTRICT, WITH SOUTHWEST COMMUNITY COLLEGE CAMPUS TO OPERATE AS THE \"SUMMIT CAMPUS\" OF COPIAH-LINCOLN COMMUNITY COLLEGE AND WITH THE CENTRAL ADMINISTRATIVE OFFICES TO BE LOCATED IN WESSON, MISSISSIPPI; TO PROVIDE FOR SUCCESSOR BOARDS OF TRUSTEES FOR EACH CONSOLIDATED DISTRICT, INCLUDING THE COMPOSITION, APPOINTING AUTHORITIES, INITIAL STAGGERED TERMS, SUCCESSOR TERMS, QUALIFICATIONS AND FILLING OF VACANCIES; TO REQUIRE THE MISSISSIPPI COMMUNITY COLLEGE BOARD TO PROVIDE NOTICE AND INSTRUCTIONS TO AFFECTED DISTRICTS ON OR BEFORE DECEMBER 31, 2026, AND TO ADMINISTRATIVELY CONSOLIDATE ANY DISTRICT THAT FAILS TO VOLUNTARILY COMPLY BY JULY 1, 2027; TO PROVIDE FOR THE ABOLITION OF FORMER BOARDS OF TRUSTEES AND THE TRANSFER OF ALL REAL AND PERSONAL PROPERTY TO THE SUCCESSOR CONSOLIDATED DISTRICTS; TO AUTHORIZE THE SUCCESSOR BOARDS TO EMPLOY PERSONNEL AND ESTABLISH CONTRACTS FOR THE 2027-2028 SCHOOL YEAR AND THEREAFTER AND TO PREPARE AND APPROVE DISTRICT BUDGETS; TO PROVIDE LIMITED APPEAL RIGHTS FROM CERTAIN SUCCESSOR BOARD ORDERS IN THE SAME MANNER AS APPEALS FROM COUNTY BOARD OF SUPERVISORS UNDER SECTION 11-51-75; TO PROVIDE THAT NO COLLEGE OR FACILITY SHALL BE REQUIRED TO CLOSE EXCEPT UNNEEDED ADMINISTRATIVE OFFICES IN ABOLISHED DISTRICTS; TO AUTHORIZE RULES AND REGULATIONS BY THE MISSISSIPPI COMMUNITY COLLEGE BOARD TO IMPLEMENT THE CONSOLIDATION; TO AMEND SECTIONS 37-29-31, 37-29-65, 37-29-451, 37-29-453, 37-29-455, 37-29-457, 37-29-459, 37-29-461, 37-29-463, 37-29-465, 37-29-467, 37-29-469, 37-29-471, 37-29-501, 37-29-503, 37-29-505, 37-29-507, 37-29-509, 37-29-511, 37-29-513, 37-29-515, 37-29-551, 37-29-553, 37-29-555, 37-29-557, 37-29-559, 37-29-561, 37-29-563, 37-29-565, 37-29-567, 37-29-569 AND 37-29-571, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB560",
+  "title": "DMH; require to promulgate performance standards and perform periodic audits to assess community mental health centers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb560"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0560IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0560IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0560IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0560.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-4-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE DEPARTMENT OF MENTAL HEALTH SHALL DEVELOP AND PROMULGATE A RATING SCALE WITH PERFORMANCE STANDARDS TO USE IN PERFORMANCE AUDITS OF COMMUNITY MENTAL HEALTH CENTERS; TO REQUIRE THE DEPARTMENT TO DEVELOP AND PROMULGATE THE PERFORMANCE STANDARDS BY JUNE 30, 2027; TO PROVIDE THAT THE DEPARTMENT SHALL BEGIN CONDUCTING PERFORMANCE AUDITS DURING FISCAL YEAR 2028; TO REQUIRE THE DEPARTMENT TO PERFORM A PERFORMANCE AUDIT OF EACH COMMUNITY MENTAL HEALTH CENTER AT LEAST ONCE EVERY TWO YEARS; TO PROVIDE THAT THE DEPARTMENT SHALL PLACE ON A SIX-MONTH PROBATIONARY PERIOD REGIONAL COMMISSIONS OR COMMUNITY MENTAL HEALTH CENTERS THAT DO NOT ACHIEVE A PASSING SCORE ON A PERFORMANCE AUDIT; TO PROVIDE THAT IF THE COMMUNITY MENTAL HEALTH CENTER DOES NOT ACHIEVE A PASSING SCORE ON THE PERFORMANCE AUDIT AFTER THE PROBATIONARY PERIOD, THE REGIONAL COMMISSION SHALL REPLACE THE COMMUNITY MENTAL HEALTH CENTER'S EXECUTIVE DIRECTOR AND ANY OTHER OFFICERS IDENTIFIED BY THE DEPARTMENT WITH CONTRACTORS; TO PROVIDE THAT THE CONTRACTOR OR CONTRACTORS SHALL REMAIN IN PLACE UNTIL THE DEPARTMENT DETERMINES THAT THE COMMUNITY MENTAL HEALTH CENTER HAS ATTAINED SUSTAINED COMPLIANCE WITH THE PERFORMANCE STANDARDS; TO PROVIDE THAT NO RULES, REGULATIONS, OPERATIONAL STANDARDS, PERFORMANCE STANDARDS OR OTHER STANDARDS PROMULGATED BY THE BOARD OF MENTAL HEALTH OR THE DEPARTMENT SHALL BE CONSTRUED TO CREATE A CAUSE OF ACTION; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM PUBLIC PROCUREMENT REVIEW BOARD APPROVAL ANY PERSONAL OR PROFESSIONAL SERVICES CONTRACT ENTERED INTO BY THE DEPARTMENT OF MENTAL HEALTH IN CARRYING OUT ITS RESPONSIBILITIES SET FORTH IN SECTION 41-4-7(MM); AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

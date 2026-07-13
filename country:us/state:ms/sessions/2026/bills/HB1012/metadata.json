@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1012",
+  "title": "\"Arborist Registration Law of 2026\"; create to require individuals to engage in the profession of arboriculture to be registered and licensed.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Forestry"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1012"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Forestry;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1012IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1012IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1012IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1012.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"ARBORIST REGISTRATION LAW OF 2026\"; TO DEFINE TERMINOLOGY USED WITHIN THIS ACT; TO PROVIDE THAT NO PERSON IN A PUBLIC OR PRIVATE CAPACITY SHALL PRACTICE OR OFFER TO PRACTICE ARBORICULTURE WITHOUT BEING REGISTERED AND LICENSED BY THE STATE BOARD OF REGISTRATION FOR ARBORISTS; TO PROVIDE THAT THIS ACT SHALL NOT BE CONSTRUED TO PREVENT ANY PERSON, FIRM, PARTNERSHIP OR CORPORATION FROM PRACTICING ARBORICULTURE ON ANY LAND, IF THOSE ACTS ARE NOT PERFORMED OR OFFERED TO THE PUBLIC FOR COMPENSATION; TO ESTABLISH THE STATE BOARD OF REGISTRATION FOR ARBORISTS, TO PROVIDE FOR THE APPOINTMENT OF ITS MEMBERS BY THE GOVERNOR AND QUALIFICATIONS FOR MEMBERSHIP; PRESCRIBE INITIAL AND SUBSEQUENT TERMS OF OFFICERS AND STIPULATE THE POWERS AND DUTIES OF THE BOARD; TO REQUIRE LICENSURE APPLICANTS TO APPLY TO THE BOARD IN WRITING ON FORMS PRESCRIBED AND FURNISHED BY THE BOARD AND PAY A REQUIRED NONREFUNDABLE FEE OF ONE HUNDRED DOLLARS; TO AUTHORIZE THE ISSUANCE OF LICENSE TO INDIVIDUALS AND BUSINESS ENTITIES; TO REQUIRE NONRESIDENT APPLICANTS FOR AN ORIGINAL LICENSE OR A RENEWAL LICENSE TO FILE AN IRREVOCABLE CONSENT THAT ACTIONS AGAINST THE APPLICANT MAY BE FILED IN ANY APPROPRIATE COURT OF ANY COUNTY OR MUNICIPALITY OF THIS STATE IN WHICH THE PLAINTIFF RESIDES OR IN WHICH SOME PART OF THE TRANSACTION OCCURRED; TO PROVIDE THAT EXAMINATIONS, IF REQUIRED, SHALL BE HELD AT SUCH TIME AND PLACE AS THE BOARD SHALL DETERMINE IN ACCORDANCE WITH PROCEDURES PRESCRIBED BY THE BOARD; TO PROVIDE THAT CANDIDATES WHO FAIL AN EXAMINATION MAY APPLY FOR REEXAMINATION AFTER SIX MONTHS, AND SHALL BE ENTITLED TO ONE REEXAMINATION WITHOUT PAYMENT OF AN ADDITIONAL FEE; TO REQUIRE THE BOARD TO ISSUE A PROPERLY AUTHENTICATED, SERIALLY NUMBERED LICENSE UPON PAYMENT OF THE REGISTRATION FEE TO ANY APPLICANT WHO IN THE OPINION OF THE BOARD HAS SATISFACTORILY MET ALL THE REQUIREMENTS OF THIS ACT AND THE RULES AND REGULATIONS OF THE BOARD; TO PROVIDE THAT LICENSES SHALL EXPIRE AFTER DECEMBER 31 OF ODD NUMBERED YEARS AND SHALL BECOME INVALID AFTER THAT DATE UNLESS RENEWED; TO REQUIRE THE SECRETARY OF THE BOARD TO MAIL A NOTICE TO EVERY PERSON REGISTERED AS AN ARBORIST, NOTIFYING THE PERSON OF THE DATE OF THE EXPIRATION OF HIS OR HER LICENSE AND THE AMOUNT OF FEE REQUIRED FOR ITS RENEWAL FOR TWO YEARS; TO REQUIRE THE NOTICE OF EXPIRATION TO BE MAILED TO THE LATEST KNOWN ADDRESS, ACCORDING TO THE BOARD'S RECORDS, AT LEAST ONE MONTH IN ADVANCE OF THE DATE OF THE EXPIRATION OF THE LICENSE; TO PRESCRIBE CONDITIONS FOR RECIPROCITY FOR NONRESIDENTS SEEKING TO LICENSURE AS AN ARBORIST IN THE STATE OF MISSISSIPPI; TO PRESCRIBE, CIVIL, CRIMINAL AND ADMINISTRATIVE PENALTIES FOR VIOLATION OF THIS ACT, AND ESTABLISH A THREE-YEAR STATUTE OF LIMITATIONS FOR CIVIL ACTIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

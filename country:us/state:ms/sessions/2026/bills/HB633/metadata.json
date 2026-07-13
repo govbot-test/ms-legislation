@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB633",
+  "title": "Cardiac emergency repsonse plans (CERPs); require public and charter schools to provide AEDs on site for shool athletic events.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb633"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: ED To AP",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McLean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLean\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0633IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0633IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0633IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLean.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0633.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-11-85, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERM \"HIGH-NEEDS SCHOOLS\" FOR THE PURPOSE OF CARDIAC EMERGENCY RESPONSE PLANS FOR PUBLIC AND CHARTER SCHOOLS; TO AMEND SECTION 37-11-87, MISSISSIPPI CODE OF 1972, TO REQUIRE SCHOOLS AND SCHOOL-SPONSORED ATHLETIC EVENTS TO ADOPT AND IMPLEMENT A CARDIAC EMERGENCY RESPONSE PLAN THAT INTEGRATES EVIDENCE-BASED CORE ELEMENTS IN ACCORDANCE WITH THE AMERICAN HEART ASSOCIATION GUIDELINES OR ANOTHER NATIONALLY RECOGNIZED, EVIDENCE-BASED STANDARD; TO REQUIRE ALL SCHOOL-SPONSORED ATHLETICS TO PROVIDE AN AED ON SITE AT OR THAT IS RETRIEVABLE AND ABLE TO BE PLACED ON A VICTIM WITHIN THREE MINUTES OF EACH ATHLETE VENUE FOR PRACTICES, GAMES OR OTHER ATHLETIC EVENTS; TO BRING FORWARD SECTIONS 73-25-37 AND 41-60-33, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE OF AMENDMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1234",
+  "title": "School Accountability Dashboard Act; establish to provide parents with critical student performance data.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1234"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Grady",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Grady\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1234CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1234CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1234IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1234IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1234CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Grady.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1234.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH A SCHOOL ACCOUNTABILITY DASHBOARD FOR MISSISSIPPI PUBLIC SCHOOLS TO PROMOTE TRANSPARENCY AND PROVIDE PARENTS WITH CRITICAL STUDENT PERFORMANCE DATA; TO REQUIRE SCHOOL DISTRICTS TO PUBLISH THE SCHOOL ACCOUNTABILITY DASHBOARD BEGINNING WITH THE 2026-2027 ACADEMIC SCHOOL YEAR; TO SPECIFY THE TIMELINE BY WHICH THE INITIAL AND SUBSEQUENT UPDATES TO THE DASHBOARD ARE REQUIRED TO BE PUBLISHED; TO GRANT THE DEPARTMENT A ONE-YEAR PERIOD TO IDENTIFY ANY RELEVANT DATA NOT CURRENTLY COLLECTED TO DETERMINE WHAT SAID DATA IS AND INCLUDE IT IN THE DASHBOARD BEGINNING WITH THE 2027-2028 SCHOOL YEAR; TO REQUIRE THE INFORMATION IN THE DASHBOARD TO BE COMPILED INTO AN EASILY ACCESSIBLE, USER-FRIENDLY SINGLE-PAGE GRAPHIC AND PUBLISHED ON THE MAIN PAGE OF THE SCHOOL DISTRICT'S AND THE DEPARTMENT'S WEBSITE; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO ISSUE GUIDANCE AND THE STANDARDIZED DASHBOARD TEMPLATE TO ALL SCHOOL DISTRICTS BY AUGUST 1, 2026; TO REQUIRE THE SCHOOL ACCOUNTABILITY DASHBOARD TO BE ALIGNED WITH THE STATE'S PERFORMANCE-BASED ACCREDITATION SYSTEM AND PRESCRIBE THE MINIMUM DATA METRICS TO BE INCLUDED; TO AMEND SECTIONS 37-17-6 AND 37-17-8, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

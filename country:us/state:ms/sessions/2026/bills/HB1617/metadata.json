@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1617",
+  "title": "CON; require SDH to provide detailed explanation on its website of reasons for providing exemptions or deviating from the State Health Plan.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1617"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;State Affairs",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cockerham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cockerham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1617IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1617IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1617IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Cockerham.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1617.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 41-7-187, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF THE STATE DEPARTMENT OF HEALTH PROVIDES FOR AN ACADEMIC EXEMPTION FROM THE REQUIREMENTS OF THE CERTIFICATE OF NEED LAW FOR ANY ENTITY OR OTHERWISE EXEMPTS ANY PERSON OR ENTITY FROM HAVING TO OBTAIN A CERTIFICATE OF NEED FOR ANY ACTIVITY THAT WOULD OTHERWISE REQUIRE THE ISSUANCE OF A CERTIFICATE OF NEED, THE DEPARTMENT SHALL PROVIDE A DETAILED EXPLANATION ON ITS WEBSITE OF THE REASONS FOR EXEMPTING THE PERSON OR ENTITY FROM THE REQUIREMENTS OF CERTIFICATE OF NEED LAW; TO AMEND SECTION 41-7-193, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHENEVER THE DEPARTMENT ISSUES A CERTIFICATE OF NEED THAT DOES NOT COMPLY WITH THE PROJECTION OF NEED IN THE APPLICABLE STATE HEALTH PLAN OR OTHERWISE DOES NOT FOLLOW THE STATE HEALTH PLAN WHEN ISSUING A CERTIFICATE OF NEED, THE DEPARTMENT SHALL PROVIDE A DETAILED EXPLANATION ON ITS WEBSITE OF THE REASONS FOR DEVIATING FROM THE STATE HEALTH PLAN WITH REGARD TO THE ISSUANCE OF THE CERTIFICATE OF NEED; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2787",
+  "title": "School districts; require to test liquefied petroleum gas piping systems in their facilities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2787"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Energy",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2787IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2787IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2787IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Carter.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2787.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE SCHOOL DISTRICTS TO TEST LIQUEFIED PETROLEUM GAS PIPING SYSTEMS IN THEIR FACILITIES; TO PRESCRIBE APPLICABILITY; TO DEFINE TERMS; TO CREATE A DUTY TO CONDUCT AN ANNUAL PRESSURE TEST; TO PROVIDE FOR CONDUCTING THE TEST; TO REQUIRE THE TEST TO BE PERFORMED IN ACCORDANCE WITH THE NATIONAL FIRE PROTECTION ASSOCIATION 54 AND SUCH RULES AND REGULATIONS AS MAY BE ISSUED BY THE STATE LIQUEFIED COMPRESSED GAS BOARD; TO DESCRIBE THE REQUIREMENTS OF THE TEST; TO REQUIRE NOTICE OF THE TEST TO THE SCHOOL'S LIQUEFIED PETROLEUM GAS DISTRIBUTOR; TO REQUIRE THE DISTRIBUTOR TO MAINTAIN A COPY OF SUCH NOTICE UNTIL THE FIRST ANNIVERSARY OF RECEIPT OF THE NOTICE; TO PROVIDE FOR DISCONTINUANCE OF SERVICE BY A DISTRIBUTOR; TO STIPULATE THAT A DISTRIBUTOR IS NOT LIABLE FOR ANY DAMAGES THAT RESULT FROM A FAILURE TO DISCONTINUE SERVICE FOR A FACILITY OTHER THAN A SCHOOL DISTRICT FACILITY; TO REQUIRE THAT RESULTS OF ANNUAL PRESSURE TESTS BE REPORTED TO THE DEPARTMENT OF EDUCATION WITHIN THIRTY DAYS OF TESTING; TO REQUIRE REPORTS OF LEAKAGE; TO AUTHORIZE THE STATE LIQUEFIED COMPRESSED GAS BOARD, SUBJECT TO THE APPROVAL OF THE COMMISSIONER OF INSURANCE, TO PROMULGATE SUCH RULES AND REGULATIONS AS IT DEEMS NECESSARY OR APPROPRIATE FOR IMPLEMENTATION; TO STIPULATE THAT THIS ACT SHALL BE CODIFIED IN CHAPTER 57, TITLE 75, IN A NEW ARTICLE 3 ENTITLED \"TESTING OF LIQUEFIED PETROLEUM GAS PIPING SYSTEMS IN SCHOOL FACILITIES\"; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

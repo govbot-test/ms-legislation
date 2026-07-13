@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB344",
+  "title": "Mental Health Employee Retention Loan Repayment Program; create and provide funding for.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb344"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Ways and Means",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Creekmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Creekmore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0344IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0344IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0344IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0344.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MENTAL HEALTH EMPLOYEE RETENTION LOAN REPAYMENT PROGRAM FOR CERTAIN NEW MENTAL HEALTH EMPLOYEES TO BE ADMINISTERED BY THE MISSISSIPPI POSTSECONDARY EDUCATION FINANCIAL ASSISTANCE BOARD; TO PROVIDE ELIGIBILITY REQUIREMENTS FOR PERSONS SEEKING TO PARTICIPATE IN THE PROGRAM; TO SET A MAXIMUM AMOUNT OF LOAN REPAYMENT ASSISTANCE UNDER THE PROGRAM; TO REQUIRE THE MISSISSIPPI POSTSECONDARY EDUCATION FINANCIAL ASSISTANCE BOARD TO PROMULGATE REGULATIONS NECESSARY FOR THE PROPER ADMINISTRATION OF THIS ACT, INCLUDING SETTING A FISCAL YEAR POLICY FOR THE PROGRAM AND APPLICATION DATES AND DEADLINES; TO CREATE THE \"MENTAL HEALTH EMPLOYEE RETENTION LOAN REPAYMENT FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED BY THE MISSISSIPPI POSTSECONDARY EDUCATION FINANCIAL ASSISTANCE BOARD, UPON APPROPRIATION BY THE LEGISLATURE, FOR THE PURPOSE OF PAYING AWARDS UNDER THE MENTAL HEALTH EMPLOYEE RETENTION LOAN REPAYMENT PROGRAM; TO AMEND SECTION 27-7-15, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"GROSS INCOME\" UNDER THE STATE INCOME TAX LAW TO EXCLUDE LOAN REPAYMENT ASSISTANCE PROVIDED UNDER THE MENTAL HEALTH EMPLOYEE RETENTION LOAN REPAYMENT PROGRAM; TO AMEND SECTION 27-69-3, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"TOBACCO\" UNDER THE TOBACCO TAX LAW; TO DEFINE THE TERM \"VAPOR PRODUCT\" UNDER THE TOBACCO TAX LAW; TO AMEND SECTION 27-69-13, MISSISSIPPI CODE OF 1972, TO LEVY AN EXCISE TAX ON VAPOR PRODUCTS; TO AMEND SECTIONS 27-69-15, 27-69-27, 27-69-33 AND 27-69-35, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; TO AMEND SECTION 27-69-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE REVENUE DERIVED FROM THE EXCISE TAX ON VAPOR PRODUCTS SHALL BE DEPOSITED INTO THE \"MENTAL HEALTH EMPLOYEE RETENTION LOAN REPAYMENT FUND\"; TO BRING FORWARD SECTION 27-69-69, MISSISSIPPI CODE OF 1972, WHICH IS A SECTION OF THE TOBACCO TAX LAW, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

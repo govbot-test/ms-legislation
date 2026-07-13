@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB575",
+  "title": "Department of Information Technology Services; require all state agencies to use for computer equipment and services.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb575"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zuber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0575IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0575IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0575IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0575.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 25-53-1, 25-53-21, 25-53-25, 25-53-29 AND 25-53-257, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL STATE AGENCIES TO USE THE MISSISSIPPI DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES FOR INFORMATION TECHNOLOGY, INCLUDING DATA STORAGE AND RETRIEVAL; TO AMEND SECTION 25-53-3, MISSISSIPPI CODE OF 1972, TO CLARIFY THAT THE DEFINITION OF THE TERM \"AGENCY\" INCLUDES ALL STATE AGENCIES AND STATE INSTITUTIONS OF HIGHER LEARNING; TO AMEND SECTION 25-53-5, MISSISSIPPI CODE OF 1972, TO DELETE EXEMPTIONS FOR CERTAIN STATE AGENCIES AND INSTITUTIONS FROM THE DEPARTMENT'S REQUIREMENTS RELATING TO INFORMATION TECHNOLOGY; TO BRING FORWARD SECTION 25-53-201, MISSISSIPPI CODE OF 1972, WHICH ESTABLISHES THE ENTERPRISE SECURITY PROGRAM TO PROVIDE COORDINATION OF CYBERSECURITY EFFORTS ACROSS STATE AGENCIES, FOR PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 45-27-7, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MISSISSIPPI JUSTICE INFORMATION CENTER TO ACQUIRE INFORMATION TECHNOLOGY THROUGH THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES; TO AMEND SECTION 45-9-181, MISSISSIPPI CODE OF 1972, TO DELETE THE AUTHORITY OF THE OFFICE OF HOMELAND SECURITY AND THE DEPARTMENT OF PUBLIC SAFETY, TO CONTRACT WITH A THIRD-PARTY VENDOR FOR COMPUTER EQUIPMENT AND SERVICES; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

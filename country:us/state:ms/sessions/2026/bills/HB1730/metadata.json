@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1730",
+  "title": "Public facilities; prohibit from being constructed with flat or low-slope roofs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Property"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1730"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Property",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Newman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Newman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1730IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1730IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1730IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1730.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE SECTIONS 31-11-37 AND 31-11-39, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS USED HEREIN; TO PROHIBIT THE DESIGN, BIDDING, PERMITTING, CONTRACTING FOR OR CONSTRUCTION OF FLAT OR LOW-SLOPE ROOF SYSTEMS IN THE NEW CONSTRUCTION OF COVERED PUBLIC FACILITIES FUNDED IN WHOLE OR IN PART WITH GOVERNMENTAL FUNDS; TO ESTABLISH A MINIMUM ROOF SLOPE STANDARD OF THREE-TO-TWELVE FOR PRIMARY ROOF PLANES; TO AUTHORIZE LIMITED, CLEARLY DEFINED EXCEPTIONS FOR INCIDENTAL ROOF AREAS AND DOCUMENTED ENGINEERING CONSTRAINTS; TO REQUIRE CERTIFICATION OF COMPLIANCE AS A CONDITION PRECEDENT TO PLAN APPROVAL, CONTRACT AWARD, FUNDING, REIMBURSEMENT AND DISBURSEMENT; TO AUTHORIZE SUSPENSION OR RECOVERY OF FUNDS FOR NONCOMPLIANCE; TO AUTHORIZE RULEMAKING BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION FOR IMPLEMENTATION AND COMPLIANCE REVIEW; TO AMEND SECTION 31-11-3, MISSISSIPPI CODE OF 1972, TO CONDITION THE DEPARTMENT OF FINANCE AND ADMINISTRATION'S APPROVAL, SUPERVISION, AND EXPENDITURE OF FUNDS FOR PUBLIC CONSTRUCTION PROJECTS ON COMPLIANCE WITH THE ROOF SLOPE PROHIBITION AND CERTIFICATION REQUIREMENTS; TO AMEND SECTION 37-101-15, MISSISSIPPI CODE OF 1972, TO CONDITION CAPITAL PROJECT APPROVALS AND CONSTRUCTION AUTHORITY OF THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING ON COMPLIANCE WITH THE ROOF SLOPE PROHIBITION; TO AMEND SECTION 57-1-55, MISSISSIPPI CODE OF 1972, TO CONDITION GRANTS, LOANS, BOND-FUNDED ASSISTANCE, REIMBURSEMENTS, MATCHES AND OTHER FINANCIAL ASSISTANCE ADMINISTERED BY THE MISSISSIPPI DEVELOPMENT AUTHORITY ON COMPLIANCE WITH THE ROOF SLOPE PROHIBITION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

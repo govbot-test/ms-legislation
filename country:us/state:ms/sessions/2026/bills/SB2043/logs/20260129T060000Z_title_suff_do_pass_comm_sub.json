@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Title Suff Do Pass Comm Sub",
+    "occurred_at": "2026-01-29T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2043CS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2043.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2043"
+}

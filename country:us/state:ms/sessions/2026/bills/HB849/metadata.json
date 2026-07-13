@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB849",
+  "title": "MS Emergency Drinking Water Network Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb849"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs;Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hale",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hale\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0849IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0849IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0849IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hale.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0849.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI EMERGENCY DRINKING WATER NETWORK ACT TO BE ADMINISTERED BY THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY; TO STATE LEGISLATIVE FINDINGS AND INTENT; TO ESTABLISH THE MISSISSIPPI EMERGENCY DRINKING WATER NETWORK GRANT PROGRAM TO INCREASE DRINKING WATER SECURITY AND WATER SYSTEM RESILIENCY BY EQUIPPING WATER SYSTEMS AND FIRST RESPONDERS WITH EQUIPMENT AND TRAINING TO MAINTAIN WATER SERVICE TO VITAL FACILITIES AND THE PUBLIC DURING PERIODS OF INFRASTRUCTURE FAILURE; TO PROVIDE DEFINITIONS FOR THE TERMS USED IN THE ACT; TO SPECIFY THE PURPOSES FOR GRANT AWARDS TO MISSISSIPPI COUNTY EMERGENCY MANAGEMENT AGENCIES; TO AUTHORIZE THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY (MEMA) TO MAKE ELIGIBLE EQUIPMENT PURCHASES SUPPORTING THE MISSISSIPPI EMERGENCY DRINKING WATER NETWORK; TO ALLOW MEMA TO USE A MAXIMUM OF TWO PERCENT OF FUNDS APPROPRIATED FOR THE ADMINISTRATIVE EXPENSES OF CARRYING OUT THE PROVISIONS OF THIS ACT, TO THE EXTENT PERMISSIBLE UNDER FEDERAL LAW; TO DIRECT MEMA TO SEEK TO MINIMIZE ITS ADMINISTRATIVE EXPENSES BY ESTABLISHING POLICIES AND PROCEDURES MIRRORING PAST PROGRAMS USING FEDERAL COVID-19 RELIEF FUNDS; TO REQUIRE MEMA TO CERTIFY TO THE DEPARTMENT OF FINANCE AND ADMINISTRATION THAT EACH EXPENDITURE APPROPRIATED TO MEMA IS IN COMPLIANCE WITH UNITED STATES DEPARTMENT OF THE TREASURY CRITERIA REGARDING THE USE OF MONIES FROM THE CORONAVIRUS STATE FISCAL RECOVERY FUND; TO PROVIDE REPORTING REQUIREMENTS TO THE GOVERNOR AND THE LEGISLATURE BY OCTOBER 1 OF EACH YEAR; TO PROVIDE THAT FUNDS APPROPRIATED TO MEMA FOR THE PURPOSES OF THIS ACT SHALL BE AVAILABLE THROUGH DECEMBER 31, 2026, OR ON THE DATE OF THE ARPA FUNDS EXPENDITURE DEADLINE PROVIDED BY THE FEDERAL GOVERNMENT, WHICHEVER OCCURS LATER; TO PROVIDE THAT EACH GRANT RECIPIENT SHALL CERTIFY, FOR ANY PROJECT FOR WHICH A GRANT IS AWARDED, THAT IF THE PROJECT IS NOT COMPLETED BY DECEMBER 31, 2026, AND THE UNITED STATES CONGRESS DOES NOT ENACT AN EXTENSION OF THE DEADLINE ON THE AVAILABILITY OF ARPA FUNDS, THEN THE GRANT RECIPIENT WILL COMPLETE THE PROJECT THROUGH OTHER FUNDS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

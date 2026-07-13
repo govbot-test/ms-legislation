@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1181",
+  "title": "COVID-19 vaccines; require Attorney General to investigate pharmaceutical companies' promotion and distribution of.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1181"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Crawford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1181IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1181IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1181IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Crawford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1181.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "\tAN ACT TO REQUIRE THE ATTORNEY GENERAL TO COMMENCE AN INVESTIGATION INTO THE ACTIVITIES OF PHARMACEUTICAL COMPANIES IN MISSISSIPPI RELATING TO THE DEVELOPMENT, PROMOTION AND DISTRIBUTION OF VACCINES PURPORTED TO PREVENT COVID-19 INFECTION, SYMPTOMS AND TRANSMISSION; TO DECLARE CERTAIN FINDINGS; TO SPECIFY CERTAIN CRIMINAL OFFENSES THAT MUST BE INCLUDED IN THE SCOPE OF THE INVESTIGATION; TO REQUIRE THE ATTORNEY GENERAL TO SUBMIT A STATUS REPORT TO THE LEGISLATURE BEFORE JANUARY 1 OF EACH YEAR THAT THE INVESTIGATION IS ONGOING, WHICH REPORT MAY NOT INCLUDE INFORMATION THAT IS CONFIDENTIAL OR POTENTIALLY THREATENING TO THE INTEGRITY OF THE INVESTIGATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

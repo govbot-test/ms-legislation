@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2761",
+  "title": "Mississippi Lead-Based Paint Activity Accreditation and Certification Act; amend to conform with EPA.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Environment Prot, Cons and Water Res"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2761"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Environment Prot, Cons and Water Res",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rhodes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rhodes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2761IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2761IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2761IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2761.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 49-17-505, MISSISSIPPI CODE OF 1972, TO CONFORM DEFINITIONS TO THOSE PROVIDED BY THE ENVIRONMENTAL PROTECTION AGENCY; TO AMEND SECTION 49-17-509, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL TRAINING TO INCLUDE A HANDS-ON PORTION; TO STIPULATE THAT TRAINING CERTIFICATES SHALL BE VALID FOR NO MORE THAN THREE YEARS FROM THE DATE OF TRAINING; TO AMEND SECTION 49-17-511, 49-17-513, 49-17-515, 49-17-516, 49-17-517, 49-17-518 AND 49-17-519, MISSISSIPPI CODE OF 1972, TO CONFORM TO CERTIFICATION REQUIREMENTS ESTABLISHED BY THE ENVIRONMENTAL PROTECTION AGENCY; TO AMEND SECTION 49-17-521, MISSISSIPPI CODE OF 1972, TO MAKE TECHNICAL CORRECTIONS; TO AMEND SECTION 49-17-525, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSION TO PRESCRIBE THE FORM FOR PROJECT NOTIFICATION AND THE AMOUNT OF THE FEE; TO AMEND SECTION 49-17-527, MISSISSIPPI CODE OF 1972, TO ALLOW PERSONNEL TO BE CERTIFIED SOLELY THROUGH THE COMMISSION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

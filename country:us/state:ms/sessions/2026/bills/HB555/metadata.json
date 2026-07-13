@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB555",
+  "title": "\"Mississippi Forest and Agricultural Landowners' Fairness Act\"; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb555"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yancey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yancey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0555IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0555IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0555IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0555.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"MISSISSIPPI FOREST AND AGRICULTURAL LANDOWNERS' FAIRNESS ACT\"; TO DEFINE TERMINOLOGY AND PRESCRIBE THE PURPOSE FOR WHICH THE LEGISLATION IS INTENDED IN AN EFFORT TO PREVENT MISSISSIPPI TAXPAYERS FROM SUBSIDIZING THE TAXES OF NONRESIDENT ALIENS AND FEDERALLY TAX-EXEMPT ENTITIES OWNING OR HAVING POSSESSORY INTERESTS IN FOREST AND AGRICULTURAL LAND LOCATED IN THE STATE; TO PROHIBIT ANY STATE TAX EXEMPTIONS ON THE ASSESSED VALUE OF FOREST AND AGRICULTURAL LAND TO NONRESIDENT ALIENS AND FEDERALLY TAX-EXEMPT ENTITIES THAT OWN OR HAVE A POSSESSORY INTEREST IN SUCH LANDS LOCATED IN THE STATE; TO REQUIRE SUCH ENTITIES TO PAY THE SAME RATE OF INCOME AND FRANCHISE TAXES AS OTHER BUSINESS CORPORATIONS IN THE STATE UNTIL JANUARY 1, 2028, WHEN THOSE TAXES UPON SUCH BUSINESS CORPORATIONS REPEAL BY OPERATION OF LAW; TO REQUIRE ALL NONRESIDENT ALIENS AND ALL FEDERALLY TAX-EXEMPT ENTITIES OWNING ANY POSSESSORY INTEREST IN FORESTRY AND AGRICULTURAL LAND TO FILE A FULL DISCLOSURE OF ALL OWNERSHIP INFORMATION OF EACH TRACT OF LAND IT OWNS WITH A DESCRIPTION OF EACH TRACT AS IS DESCRIBED IN ITS DEED OR DEEDS TO THE OFFICE OF THE SECRETARY OF STATE WITHIN SIX MONTHS OF PASSAGE OF THIS ACT; TO REQUIRE FUTURE TRANSFERS BY THESE PARTIES TO BE FILED WITH THE SECRETARY OF STATE WITHIN 90 DAYS OF THE TRANSFER; TO REQUIRE THE SECRETARY OF STATE TO MAKE THE OWNERSHIP DISCLOSURE INFORMATION AVAILABLE ON ITS WEBSITE; TO REQUIRE THE DEPARTMENT OF REVENUE TO FILE A TAX LIEN WITH THE CIRCUIT CLERK OF EACH COUNTY IN WHICH LAND IS LOCATED FOR TAXES MORE THAN 180-DAYS DELINQUENT; TO PROVIDE THAT THE DELINQUENCY ON A SINGLE PROPERTY SHALL RESULT IN A TAX LIEN ON ALL LAND OWNED BY THE DELINQUENT TAXPAYER IN THAT COUNTY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

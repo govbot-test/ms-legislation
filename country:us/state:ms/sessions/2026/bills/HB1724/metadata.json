@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1724",
+  "title": "Statewide Information Technology Optimization Program; create for coordinated efforts across agencies.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Technology"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1724"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Technology;Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: TE To AC",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zuber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zuber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1724IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1724IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1724IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(73rd).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Zuber.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1724.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE STATEWIDE INFORMATION TECHNOLOGY OPTIMIZATION PROGRAM TO PROVIDE FOR THE COORDINATED PLANNING, DEVELOPMENT, IMPLEMENTATION AND OVERSIGHT OF ENTERPRISE INFORMATION TECHNOLOGY ARCHITECTURE FOR ALL STATE AGENCIES; TO AUTHORIZE THE MISSISSIPPI DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES WITH CERTAIN POWERS AND DUTIES TO IMPLEMENT THE PROGRAM; TO REQUIRE AGENCIES TO COMPLY WITH THE PHASED IMPLEMENTATION OF THE PROGRAM; TO CREATE THE IT OPTIMIZATION FUND IN THE STATE TREASURY FOR FUNDS MADE AVAILABLE FOR THE PURPOSES OF THE PROGRAM; TO AMEND SECTIONS 25-41-17 AND 25-61-11.2, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT RECORDS CREATED AND MEETINGS OCCURRING PURSUANT TO THE PROVISIONS OF THIS ACT THAT CONTAIN SENSITIVE INFORMATION ARE NOT SUBJECT TO THE OPEN MEETINGS AND PUBLIC RECORDS REQUIREMENTS OF THIS STATE; TO BRING FORWARD SECTION 25-53-5, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

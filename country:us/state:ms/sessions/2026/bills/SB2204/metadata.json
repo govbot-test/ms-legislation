@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2204",
+  "title": "Certain restitution centers; transition to post-release reentry centers.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2204"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Corrections;Accountability, Efficiency, Transparency",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2204IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2204IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2204IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2204.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO END THE USE OF THE GREENWOOD RESTITUTION CENTER, THE HINDS COUNTY RESTITUTION CENTER AND THE PASCAGOULA RESTITUTION CENTER AND CONVERT SAID FACILITIES TO POST-RELEASE REENTRY CENTERS; TO AUTHORIZE THE DEPARTMENT OF CORRECTIONS TO OPERATE SAID FACILITIES; TO AMEND SECTION 25-3-25, MISSISSIPPI CODE OF 1972, TO OUTLINE THE DUTIES AND COMPENSATION FOR SHERIFFS, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 45-33-27, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THE TIME FRAME FOR REGISTRATION OF OFFENDERS, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 45-33-35, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR A CENTRAL REGISTRY OF OFFENDERS, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 47-5-10, MISSISSIPPI CODE OF 1972, WHICH OUTLINES DEPARTMENT FUNCTIONS, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 47-5-26, MISSISSIPPI CODE OF 1972, WHICH OUTLINES SUBORDINATE PERSONNEL, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 47-5-110, MISSISSIPPI CODE OF 1972, WHICH ASSIGNS THE PRE-RELEASE PROGRAM, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 47-5-194, MISSISSIPPI CODE OF 1972, WHICH ESTABLISHES THE CASHLESS SYSTEM AND PROHIBITS FINANCIAL ITEMS, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 47-5-1207, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR THE CONSTRUCTION OF ADDITIONAL PUBLIC OR PRIVATE CORRECTIONAL FACILITIES, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 47-7-37, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR PROBATION VIOLATIONS AND PROCEDURES FOR BAIL, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO REPEAL SECTION 99-37-19, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES THE ESTABLISHMENT OF RESTITUTION CENTERS; TO REPEAL SECTION 99-37-21, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES THE COOPERATION OF THE DEPARTMENT OF PUBLIC WELFARE AND THE DEPARTMENT OF CORRECTIONS AT RESTITUTION CENTERS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

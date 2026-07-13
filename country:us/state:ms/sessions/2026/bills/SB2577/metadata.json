@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2577",
+  "title": "Budget requests; agencies that don't timely file with LBO shall have requests prepared for them by third party.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2577"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hopson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2577IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2577IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2577IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2577.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-103-131, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF A STATE AGENCY REFUSES OR FAILS TO FILE AN ORIGINAL BUDGET REQUEST WITHIN THIRTY CALENDAR DAYS AFTER THE DEADLINE DATE FOR FILING BUDGET REQUESTS, THE DIRECTOR OF THE AGENCY SHALL CONTRACT WITH A THIRD PARTY TO PREPARE A BUDGET REQUEST FOR the AGENCY, WHICH MUST BE THREE PERCENT LOWER THAN THE AGENCY'S CURRENT BUDGET FROM STATE GENERAL FUNDS; TO REQUIRE THE CONTRACTOR TO PREPARE AND SUBMIT A BUDGET REQUEST FOR THE AGENCY TO THE LEGISLATIVE BUDGET OFFICE WITHIN THIRTY CALENDAR DAYS AFTER THE CONTRACT IS EXECUTED; IF THE CONTRACTOR DOES NOT SUBMIT THE AGENCY'S BUDGET REQUEST WITHIN THAT TIME, THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL NOT ALLOW THE AGENCY TO EXPEND ITS CURRENT FISCAL YEAR APPROPRIATION UNTIL THE BUDGET REQUEST HAS BEEN SUBMITTED; TO PROVIDE THAT THE AGENCY SHALL BE RESPONSIBLE FOR PAYING THE CONTRACTOR FOR PREPARING THE AGENCY'S BUDGET REQUEST; TO PROVIDE THAT IF THE AGENCY DOES NOT PAY THE CONTRACTOR WITHIN FORTY-FIVE CALENDAR DAYS, THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL NOT ALLOW THE AGENCY TO EXPEND ITS CURRENT FISCAL YEAR APPROPRIATION UNTIL THE CONTRACTOR HAS BEEN PAID; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1106",
+  "title": "Municipal annexation/deannexation; require election be held on the question of in the subject territory to be annexed/deannexed.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "County Affairs",
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1106"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To County Affairs;Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Horne",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Horne\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1106IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1106IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1106IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Horne.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1106.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 21-1-27, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT AN ELECTION BE HELD IN ANY PART OF A COUNTY WHICH IS THE SUBJECT OF AN ANNEXATION OR REMOVAL ORDINANCE; TO REPEAL SECTION 21-1-29, MISSISSIPPI CODE OF 1972, WHICH REQUIRES AN ENLARGEMENT OR CONTRACTION PETITION TO BE FILED IN CHANCERY COURT; TO AMEND SECTION 21-1-31, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MUNICIPAL AUTHORITIES TO PAY ATTORNEY'S FEES AND ALL COSTS OF COURT WHEN APPEALING THE ELECTION RESULTS; TO AMEND SECTION 21-1-33, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE CHANCELLOR MAY CONSIDER ELECTION RESULTS AS EVIDENCE; TO AMEND SECTIONS 21-1-35 AND 21-1-43, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

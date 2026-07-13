@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1415",
+  "title": "Anesthesiologist assistants; provide for licensure and regulation by Board of Medical Licensure.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1415"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mansell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mansell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1415IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1415IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1415IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mansell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1415.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE FOR THE LICENSURE AND REGULATION OF ANESTHESIOLOGIST ASSISTANTS BY THE STATE BOARD OF MEDICAL LICENSURE; TO DEFINE CERTAIN TERMS; TO PROVIDE THAT THE BOARD SHALL REVIEW AND DETERMINE THE QUALIFICATIONS OF PERSONS APPLYING FOR A LICENSE TO PRACTICE AS AN ANESTHESIOLOGIST ASSISTANT; TO PROVIDE THE POWERS OF THE BOARD REGARDING LICENSURE OF ANESTHESIOLOGIST ASSISTANTS AND PRESCRIBE THE QUALIFICATIONS FOR LICENSURE; TO AUTHORIZE THE BOARD TO ISSUE TEMPORARY LICENSES; TO PROVIDE THAT ANESTHESIOLOGIST ASSISTANTS MAY ASSIST IN THE PRACTICE OF MEDICINE ONLY UNDER THE SUPERVISION OF AN ANESTHESIOLOGIST; TO PROVIDE THAT ANESTHESIOLOGIST ASSISTANTS MAY PERFORM ONLY THOSE DUTIES DELEGATED TO THEM BY A SUPERVISING ANESTHESIOLOGIST; TO PROVIDE THAT A SUPERVISING ANESTHESIOLOGIST SHALL DELEGATE TO AN ANESTHESIOLOGIST ASSISTANT ANY DUTIES REQUIRED TO DEVELOP AND IMPLEMENT A COMPREHENSIVE ANESTHESIA CARE PLAN FOR A PATIENT; TO AUTHORIZE THE BOARD TO REVOKE LICENSES AND TAKE OTHER DISCIPLINARY ACTION AGAINST LICENSEES AND TO REINSTATE LICENSES AFTER REVOCATION; TO PROHIBIT PRACTICING AS AN ANESTHESIOLOGIST ASSISTANT WITHOUT A LICENSE, AND PROVIDE A CRIMINAL PENALTY FOR PERSONS CONVICTED OF UNAUTHORIZED PRACTICE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

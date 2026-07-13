@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB256",
+  "title": "Medicaid; require Governor and Division of Medicaid to negotiate to obtain federal waiver to expand Medicaid coverage.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb256"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0256IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0256IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0256IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0256.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DIRECT THE GOVERNOR AND THE DIVISION OF MEDICAID TO ENTER INTO NEGOTIATIONS WITH THE FEDERAL GOVERNMENT TO OBTAIN A WAIVER OF APPLICABLE PROVISIONS OF THE MEDICAID LAWS AND REGULATIONS TO CREATE A PLAN TO ALLOW THE EXPANSION OF MEDICAID COVERAGE IN MISSISSIPPI; TO SPECIFY THE PROVISIONS THAT THE GOVERNOR AND THE DIVISION SHALL SEEK TO HAVE INCLUDED IN THE WAIVER PLAN; TO PROVIDE THAT IF A WAIVER IS OBTAINED TO ALLOW THE EXPANSION OF MEDICAID COVERAGE, THE DIVISION SHALL AMEND THE STATE PLAN TO INCLUDE THE PROVISIONS AUTHORIZED IN THE WAIVER AND SHALL BEGIN IMPLEMENTING THE PLAN AUTHORIZED BY THE WAIVER; TO AMEND SECTION 43-13-115, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

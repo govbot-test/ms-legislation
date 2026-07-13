@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2618",
+  "title": "Airport facilities; authorize contracting with companies for financing, designing, constructing, operating or maintaining of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ports and Marine Resources"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2618"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ports and Marine Resources",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Younger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2618CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2618CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2618IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2618IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2618CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2618.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 61-5-93, MISSISSIPPI CODE OF 1972, TO AUTHORIZE AIRPORT AUTHORITIES, MUNICIPALITIES, OR OTHER GOVERNMENTAL ENTITIES WHO OWN OR OPERATE AIRPORTS TO CONTRACT WITH COMPANIES FOR FINANCING, DESIGNING, CONSTRUCTING, OPERATING, OR MAINTAINING OF AIRPORT FACILITIES IN THE SAME MANNER AS PROVIDED FOR TOLL ROADS OR TOLL BRIDGES PURSUANT TO SECTION 65-43-3 THROUGH A LEASE OF AIRPORT PROPERTY OR OTHER CONTRACT; TO PROVIDE THAT THIS SECTION SHALL BE CONSTRUED AS AN ADDITIONAL AND ALTERNATIVE METHOD FOR THE PURCHASING, BUILDING, IMPROVING, OWNING OR OPERATING OF AIRPORT FACILITIES UNDER THE JURISDICTION OF GOVERNMENTAL ENTITIES; TO PROVIDE THAT POWERS CONFERRED BY THIS SECTION SHALL BE IN ADDITION TO THE POWERS CONFERRED BY ANY OTHER GENERAL, SPECIAL OR LOCAL LAW; TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM BIDDING REQUIREMENTS FACILITIES LEASED OR CONTRACTED PURSUANT TO THE PROVISIONS OF SECTION 61-5-93; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:01Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB319",
+  "title": "Fresh Start Act of 2019; revise to prohibit licensing authorities from requiring certain information.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Commerce",
+    "Judiciary B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb319"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Commerce;Judiciary B",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mickens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mickens\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0319IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0319IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0319IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mickens.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0319.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REVISE THE FRESH START ACT OF 2019; TO AMEND SECTION 73-77-7, MISSISSIPPI CODE OF 1972, TO PROHIBIT A LICENSING AUTHORITY FROM REQUIRING AN INDIVIDUAL TO DISCLOSE AN ARREST THAT WAS NOT FOLLOWED BY A CONVICTION, A NONVIOLENT MISDEMEANOR, A CONVICTION THAT WAS SEALED, ANNULLED, DISMISSED, EXPUNGED, PARDONED, OVERTURNED OR VACATED, OR A CONVICTION THAT OCCURRED MORE THAN THREE YEARS AGO; TO AMEND SECTION 73-77-9, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT AN INDIVIDUAL MAY OFFER EVIDENCE OF REHABILITATION TO A LICENSING AUTHORITY WHEN THAT INDIVIDUAL PETITIONS THE LICENSING AUTHORITY REGARDING WHETHER HIS OR HER CRIMINAL RECORD WILL DISQUALIFY THE INDIVIDUAL FROM OBTAINING A LICENSE; TO REQUIRE THE LICENSING AUTHORITY TO MAKE THE APPLICATION FOR THE PETITION AND INFORMATION ABOUT THE PROCESS AVAILABLE ONLINE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

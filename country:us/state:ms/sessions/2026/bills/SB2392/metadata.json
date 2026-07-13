@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2392",
+  "title": "Subscription services; enact notice and acknowledgment protections for consumers regarding automatic renewals.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business and Financial Institutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2392"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2392IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2392IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2392IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2392.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO REQUIRE ANY BUSINESS THAT MAKES AN AUTOMATIC RENEWAL OFFER FOR A SUBSCRIPTION PERIOD GREATER THAN ONE MONTH TO A CONSUMER IN THIS STATE TO PROVIDE AN ACKNOWLEDGEMENT THAT INCLUDES THE AUTOMATIC RENEWAL OFFER TERMS, CANCELLATION POLICY AND INFORMATION REGARDING HOW TO CANCEL; TO REQUIRE SUCH BUSINESS PROVIDE NOTICE TO THE CONSUMER, NO LESS THAN SEVEN DAYS, BUT NO MORE THAN 21 DAYS BEFORE THE AUTOMATIC RENEWAL DATE, THROUGH MEANS AGREED TO BY THE CONSUMER IN THE ACKNOWLEDGEMENT, OF THE DATE THE PLAN WILL RENEW ALONG WITH INFORMATION REGARDING HOW TO CANCEL; TO PROHIBIT ANY SUCH BUSINESS FROM CHARGING A CONSUMER FOR AN AUTOMATIC RENEWAL WITHOUT FIRST HAVING COMPLIED WITH SUCH ACKNOWLEDGMENT OR NOTICE REQUIREMENT; TO PROVIDE THAT, IF SUCH BUSINESS CHARGES A CONSUMER FOR AN AUTOMATIC RENEWAL WITHOUT FIRST COMPLYING WITH SUCH ACKNOWLEDGMENT OR NOTICE REQUIREMENT, THEN THE BUSINESS SHALL REFUND THE CONSUMER THE FULL AMOUNT CHARGED; TO PROVIDE THAT UPON CANCELLATION BY A CONSUMER WITHIN 10 DAYS FOLLOWING THE AUTOMATIC RENEWAL OF A SUBSCRIPTION FOR A PERIOD GREATER THAN ONE MONTH, THE SUBSCRIPTION AMOUNT MUST BE REFUNDED PRO RATA OR IN FULL TO THE CONSUMER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

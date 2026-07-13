@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2420",
+  "title": "Open seasons; extend those ending on a Saturday until 30 minutes after sunset on the following Sunday.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Wildlife, Fisheries and Parks"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2420"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2420IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2420IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2420IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Michel.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2420.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 49-7-31, MISSISSIPPI CODE OF 1972, TO EXTEND THE OPEN SEASON ON DEER, WHEN IT ENDS ON A SATURDAY, TO 30 MINUTES AFTER SUNSET ON THE FOLLOWING SUNDAY; TO AMEND SECTION 49-7-31.2, MISSISSIPPI CODE OF 1972, TO EXTEND THE OPEN SEASONS ON BOBWHITE QUAIL AND WILD TURKEY, WHEN THEY END ON SATURDAY, TO 30 MINUTES AFTER SUNSET ON THE FOLLOWING SUNDAY; TO AMEND SECTION 49-7-31.3, MISSISSIPPI CODE OF 1972, TO EXTEND THE OPEN SEASONS ON SQUIRREL AND RABBITS, WHEN THEY END ON SATURDAY, TO 30 MINUTES AFTER SUNSET ON THE FOLLOWING SUNDAY; TO AMEND SECTION 49-7-31.4, MISSISSIPPI CODE OF 1972, TO EXTEND THE OPEN SEASON ON FUR-BEARING ANIMALS, INCLUDING ANY ADDITIONAL OPEN SEASON ON RACCOON, WHEN IT ENDS ON A SATURDAY, TO 30 MINUTES AFTER SUNSET ON THE FOLLOWING SUNDAY; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

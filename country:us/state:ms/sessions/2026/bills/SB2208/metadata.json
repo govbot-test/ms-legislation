@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2208",
+  "title": "Mississippi Public University System Governance Study Committee; create.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2208"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boyd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2208IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2208IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2208IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Williams.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2208.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI PUBLIC UNIVERSITY SYSTEM GOVERNANCE STUDY COMMITTEE TO CONDUCT A REVIEW OF THE SYSTEM-LEVEL GOVERNANCE STRUCTURE OF MISSISSIPPI'S PUBLIC INSTITUTIONS OF HIGHER LEARNING; TO LIST THE COMMITTEE'S RESPONSIBILITIES; TO NAME THE MEMBERSHIP OF THE COMMITTEE; TO PROVIDE THAT THE COMMITTEE SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE LEGISLATURE NO LATER THAN DECEMBER 1, 2026; TO DIRECT THE JOINT LEGISLATIVE COMMITTEE ON PERFORMANCE EVALUATION AND EXPENDITURE REVIEW TO PROVIDE NECESSARY STAFF AND ADMINISTRATIVE SUPPORT TO THE COMMITTEE; TO ALLOW FOR ADDITIONAL SUPPORT UPON REQUEST AND AVAILABLE RESOURCES; TO PROVIDE FOR COMPENSATION ACCORDING TO LWA FOR LEGISLATIVE MEMBERS AND TRAVEL EXPENSE REIMBURSEMENT FOR NON-LEGISLATIVE MEMBERS; TO PROVIDE FOR THE DISSOLUTION OF THE COMMITTEE ON JANUARY 1, 2027, OR UPON THE SUBMISSION OF ITS FINAL REPORT, WHICHEVER IS EARLIER; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

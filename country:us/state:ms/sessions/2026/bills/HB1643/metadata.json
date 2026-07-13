@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1643",
+  "title": "MS Department Emergency Management; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1643"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs;Appropriations A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: SA To AP",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "DR - TSDPCS: AP To SA",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Deweese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Deweese\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1643IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1643IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1643IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Deweese.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1643.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI DEPARTMENT OF EMERGENCY MANAGEMENT WITHIN THE EXECUTIVE BRANCH OF STATE GOVERNMENT IN ORDER TO HOUSE EMERGENCY MANAGEMENT SUBAGENCIES, UNITS, AND/OR OFFICES WITHIN STATE GOVERNMENT; TO AMEND SECTIONS 33-15-2, 33-15-5, 33-15-7,  33-15-11, 33-15-14, 33-15-15, 33-15-19, 33-15-25, 33-15-31, 33-15-51, 33-15-53, 33-15-305, 33-15-307, 33-15-308, 33-15-309, 33-15-311, 33-15-313, 33-15-317, 33-15-401, 33-15-403, 19-5-385, 19-5-383, 19-5-387 AND 19-5-393, MISSISSIPPI CODE OF 1972, TO ASSIGN AUTHORITIES TO THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF EMERGENCY MANAGEMENT; TO ESTABLISH THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY AS AN OFFICE OF THE MISSISSIPPI DEPARTMENT OF EMERGENCY MANAGEMENT; TO TRANSFER THE MISSISSIPPI EMERGENCY COMMUNICATIONS AUTHORITY FROM UNDER THE PURVIEW OF THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY TO AN OFFICE UNDER THE PURVIEW OF THE MISSISSIPPI DEPARTMENT OF EMERGENCY MANAGEMENT; TO ESTABLISH AN OFFICE OF ADMINISTRATIVE SERVICES WITHIN THE MISSISSIPPI DEPARTMENT OF EMERGENCY MANAGEMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2333",
+  "title": "Misdemeanor warrant management system; direct the establishment of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations",
+    "Judiciary, Division B"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2333"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division B;Appropriations",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Barrett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2333IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2333IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2333IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Barrett.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2333.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 45-27-22, MISSISSIPPI CODE OF 1972, TO REQUIRE THE MISSISSIPPI JUSTICE INFORMATION CENTER TO ESTABLISH A MISDEMEANOR WARRANT MANAGEMENT SYSTEM TO ENABLE CRIMINAL JUSTICE AGENCIES TO ELECTRONICALLY TRACK MISDEMEANOR WARRANTS BETWEEN JURISDICTIONS AS THE WARRANTS ARE ISSUED, SERVED AND RECALLED; TO REQUIRE THE DEPARTMENT OF PUBLIC SAFETY TO PROMULGATE RULES AND REGULATIONS; TO REQUIRE ALL CRIMINAL JUSTICE AGENCIES AND THE ADMINISTRATIVE OFFICE OF COURTS TO ASSIST THE MISSISSIPPI JUSTICE INFORMATION CENTER AND THE DEPARTMENT OF PUBLIC SAFETY IN THE ESTABLISHMENT OF THE MISDEMEANOR WARRANT MANAGEMENT SYSTEM; TO AMEND SECTIONS 45-27-1, 45-27-3, 45-27-7, 45-27-12 AND 9-21-3, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

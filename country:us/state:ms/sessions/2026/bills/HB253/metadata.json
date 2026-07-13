@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB253",
+  "title": "Mississippi Smoke-Free Air Act of 2026; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb253"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0253IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0253IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0253IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0253.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI SMOKE-FREE AIR ACT OF 2026; TO EXPRESS CERTAIN LEGISLATIVE FINDINGS REGARDING THE EFFECTS OF SECONDHAND SMOKE AND OTHER RISKS OF SMOKING; TO DEFINE CERTAIN TERMS; TO PROHIBIT SMOKING IN ENCLOSED PUBLIC PLACES AND PLACES OF EMPLOYMENT, IN PRIVATE CLUBS, IN ENCLOSED RESIDENTIAL FACILITIES AND IN CERTAIN OUTDOOR PUBLIC PLACES AND PLACES OF EMPLOYMENT; TO AUTHORIZE PERSONS TO VOLUNTARILY DESIGNATE AREAS WITHIN THEIR CONTROL AS SMOKE-FREE PLACES; TO PRESCRIBE THE MINIMUM REQUIREMENTS FOR PERSONS IN CONTROL OF AREAS TO BE IN COMPLIANCE WITH THIS ACT; TO REQUIRE PERSONS IN CONTROL OF AREAS TO POST \"NO SMOKING\" SIGNS AT ALL ENTRANCES TO AREAS WHERE SMOKING IS PROHIBITED; TO AUTHORIZE THE STATE BOARD OF HEALTH TO ADOPT RULES AND REGULATIONS TO IMPLEMENT THIS ACT; TO PROVIDE FOR ENFORCEMENT OF THIS ACT; TO AUTHORIZE CERTAIN OFFICIALS AND OTHER PERSONS TO APPLY FOR INJUNCTIVE RELIEF IN COURT TO ENFORCE THE ACT; TO PROVIDE PENALTIES FOR VIOLATIONS; TO ALLOW POLITICAL SUBDIVISIONS TO ADOPT LOCAL ORDINANCES RELATING TO SMOKING THAT ARE MORE RESTRICTIVE THAN THIS ACT; TO DIRECT THE STATE DEPARTMENT OF HEALTH TO ENGAGE IN A CONTINUING PROGRAM TO EXPLAIN AND CLARIFY THE PURPOSES AND REQUIREMENTS OF THIS ACT TO CITIZENS AFFECTED BY IT, AND TO GUIDE OWNERS, OPERATORS AND MANAGERS IN THEIR COMPLIANCE WITH IT; TO REPEAL SECTIONS 29-5-160 THROUGH 29-5-163, MISSISSIPPI CODE OF 1972, WHICH ARE THE MISSISSIPPI CLEAN INDOOR AIR ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

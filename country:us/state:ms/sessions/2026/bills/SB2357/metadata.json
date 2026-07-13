@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2357",
+  "title": "Nuisances; limit causes of action against racing facilities or racetracks.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary, Division A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2357"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary, Division A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Younger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2357IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2357IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2357IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2357.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 95-3-31, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A REAL PROPERTY OWNER WHO OWNS PROPERTY WITHIN A RACING FACILITY ZONE SHALL NOT HAVE A NUISANCE, TAKING OR OTHER RELATED CAUSE OF ACTION AGAINST A RACING FACILITY OR RACETRACK WHERE THE RACING FACILITY OR RACETRACK WAS BUILT BEFORE THE REAL PROPERTY OWNER EITHER PURCHASED THE REAL PROPERTY OR IMPROVED THE REAL PROPERTY IN THE RACING FACILITY ZONE; TO DEFINE TERMS; TO PROVIDE THAT THIS SECTION SHALL APPLY NOTWITHSTANDING ANY CHANGES TO THE SIZE, SCOPE, CONFIGURATION, TECHNOLOGY, OR TYPE OF RACING CONDUCTED AT THE RACING FACILITY AND RACETRACK AS LONG AS SUCH CHANGES TO THE RACING FACILITY AND RACETRACK ARE LAWFUL; TO PROHIBIT A POLITICAL SUBDIVISION OF THIS STATE FROM ADOPTING OR ENFORCING ANY ORDINANCE, RESOLUTION, OR REGULATION THAT WOULD RESTRICT, LIMIT, OR PROHIBIT THE OPERATION OF A RACING FACILITY OR RACETRACK IN A MANNER INCONSISTENT WITH THIS SECTION; TO PROVIDE THE APPLICABILITY OF STATE OR FEDERAL ENVIRONMENTAL OR HEALTH AND SAFETY LAWS AND REGULATIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

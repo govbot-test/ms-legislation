@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1811",
+  "title": "Noxubee County; extend repeal assessments in justice court used for county capital improvements.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local and Private Legislation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1811"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Local and Private Legislation",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mickens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mickens\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1800-1899/HB1811IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1800-1899/HB1811IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1800-1899/HB1811IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Mickens.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1811.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND CHAPTER 903, LOCAL AND PRIVATE LAWS OF 2021, TO EXTEND THE DATE OF REPEAL FROM JULY 1, 2026, TO JULY 1, 2036, ON THE PROVISION OF LAW THAT AUTHORIZES THE BOARD OF SUPERVISORS OF NOXUBEE COUNTY, MISSISSIPPI, TO LEVY AN ASSESSMENT, IN ADDITION TO ANY OTHER ASSESSMENTS AND COURT COSTS, FOR CIVIL CASES FILED AND MISDEMEANOR CONVICTIONS AND/OR NONADJUDICATIONS OBTAINED IN ITS JUSTICE COURT, TO BE PLACED IN A SPECIAL COUNTY FUND DESIGNATED THE \"NOXUBEE COUNTY CAPITAL IMPROVEMENTS FUND\" AND USED TO FUND CAPITAL IMPROVEMENTS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

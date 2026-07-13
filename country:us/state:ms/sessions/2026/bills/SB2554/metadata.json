@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2554",
+  "title": "Practice of medicine; provide for use of HIPAA-compliant telecommunications systems and practice of obesity medicine.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2554"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "England",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2554IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2554IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2554IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2554.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-25-33, MISSISSIPPI CODE OF 1972, TO REVISE THE MEANING OF \"PRACTICE OF MEDICINE\" TO INCLUDE THE PRACTICE OF OBESITY MEDICINE; TO AMEND SECTION 73-25-34, MISSISSIPPI CODE OF 1972, TO REVISE THE MEANING OF \"TELEMEDICINE\" TO INCLUDE THE PRACTICE OF MEDICINE BY A LICENSED PHYSICIAN AT A DISTANT SITE TO A PATIENT LOCATED AT AN ORIGINATING SITE, USING HIPAA-COMPLIANT TELECOMMUNICATION SYSTEMS, INCLUDING SYNCHRONOUS OR ASYNCHRONOUS ELECTRONIC AND COMMUNICATION TECHNOLOGIES, REMOTE MONITORING TECHNOLOGIES AND STORE-AND-FORWARD TRANSFER TECHNOLOGY; TO AMEND SECTION 41-29-139, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PHYSICIAN PRACTICING OBESITY MEDICINE MAY PRESCRIBE A LEGEND DRUG, INCLUDING GLP-1 THERAPEUTICS, TO A PATIENT VIA TELEMEDICINE SUBJECT TO CERTAIN CONDITIONS; TO REQUIRE THE MISSISSIPPI STATE BOARD OF MEDICAL LICENSURE TO ADOPT, AMEND OR REPEAL RULES AS NECESSARY TO IMPLEMENT THIS ACT WITHIN 180 DAYS AFTER THE EFFECTIVE DATE OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

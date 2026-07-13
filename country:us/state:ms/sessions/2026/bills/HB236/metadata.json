@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB236",
+  "title": "African-American Resident Physician Scholarship Program; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "Public Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb236"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Human Services;Appropriations A",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0200-0299/HB0236IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0236IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0200-0299/HB0236IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0236.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 37-106-85, MISSISSIPPI CODE OF 1972, TO CREATE THE AFRICAN-AMERICAN RESIDENT PHYSICIAN SCHOLARSHIP PROGRAM TO BE ADMINISTERED BY THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER FOR THE PURPOSE OF INCREASING THE NUMBER OF AFRICAN-AMERICAN PHYSICIANS THAT PROVIDE SERVICES IN UNDERSERVED MUNICIPALITIES OR COUNTIES IN MISSISSIPPI; TO REQUIRE THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER TO ADOPT RULES AND REGULATIONS TO ADMINISTER THE PROGRAM; TO PROVIDE FOR THE ELIGIBILITY OF THE PROGRAM; TO PROVIDE THAT UPON ENTERING THE PRACTICE OF MEDICINE, A PARTICIPANT IN THE PROGRAM MUST SERVE IN A HEALTH PROFESSIONAL SHORTAGE AREA, MEDICALLY UNDERSERVED AREA, OR RURAL AREA OTHERWISE APPROVED FOR PRACTICE IN MISSISSIPPI FOR AT LEAST FIVE YEARS; TO REQUIRE THE PHYSICIAN TO REPAY IF THEY DO NOT FULFILL SUCH OBLIGATION; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

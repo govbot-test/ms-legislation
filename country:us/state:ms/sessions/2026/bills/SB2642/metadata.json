@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2642",
+  "title": "Mississippi Cemetery Board; establish and empower within the Office of Secretary of State.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Government Structure"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2642"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Government Structure",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "England",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"England\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2642IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2642IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2642IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2642.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE MISSISSIPPI CEMETERY BOARD WITHIN THE OFFICE OF SECRETARY OF STATE; TO PROVIDE FOR THE COMPOSITION OF THE BOARD AND TO DIRECT THE SECRETARY OF STATE TO PROVIDE ADMINISTRATIVE SUPPORT FOR ITS OPERATION; TO PRESCRIBE THE POWERS AND DUTIES OF THE MISSISSIPPI CEMETERY BOARD TO PROTECT THE FINANCIAL INTEREST OF THE PUBLIC BY ENSURING THE PHYSICAL CARE OF CEMETERIES AND THE REGULATION OF THOSE COMPANIES ADVERTISING OR OPERATING PERPETUAL CARE CEMETERIES IN THIS STATE; TO AUTHORIZE THE BOARD TO ISSUE REGULATIONS ALLOWING FAMILIES TO CREATE A NONPROFIT ENTITY TO PROVIDE LAWN AND BUILDING MAINTENANCE AND REPAIRS AT THEIR CEMETERIES AND COLLECT FUNDS AND DONATIONS THEREFOR; TO BRING FORWARD AND AMEND SECTIONS 41-43-31 THROUGH 41-43-59, MISSISSIPPI CODE OF 1972, WHICH IS THE MISSISSIPPI \"CEMETERY LAW\"; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

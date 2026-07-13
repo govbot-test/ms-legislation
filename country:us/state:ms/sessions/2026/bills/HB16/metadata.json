@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB16",
+  "title": "Administrative Procedures Act; require agencies to provide notice to Legislature and require Governor's approval if estimated cost of agency rule exceeds a certain amount.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb16"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0001-0099/HB0016IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0016IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0001-0099/HB0016IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0016.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 25-43-3.103, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT THE NOTICE OF A STATE AGENCY'S PROPOSED RULE ADOPTION INCLUDE HOW MUCH THE PROPOSED RULE WILL COST THE STATE; TO REQUIRE THAT A COPY OF THE NOTICE OF PROPOSED RULE ADOPTION BE PROVIDED TO EACH MEMBER OF THE MISSISSIPPI LEGISLATURE IF THE ESTIMATED COST OF THE PROPOSED RULE IS $200,000.00 OR MORE PER YEAR OR $600,000.00 OR MORE OVER THREE YEARS; TO AMEND SECTION 25-43-3.105, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT A SUMMARY OF THE ECONOMIC IMPACT STATEMENT AND THE PROPOSED RULE SHALL BE FORWARDED TO EACH MEMBER OF THE LEGISLATURE AT NO COST TO THE MEMBER IF THE ESTIMATED COST OF THE PROPOSED RULE IS $200,000.00 OR MORE PER YEAR OR $600,000.00 OR MORE OVER THREE YEARS; TO AUTHORIZE THE LEGISLATURE TO REVIEW, MAKE OBJECTIONS TO, AND MAKE WRITTEN RECOMMENDATIONS FOR CHANGES TO A PROPOSED RULE; TO PROVIDE THAT SUCH A RULE WILL NOT BECOME EFFECTIVE UNLESS APPROVED BY THE GOVERNOR; TO AMEND SECTION 25-43-3.106, MISSISSIPPI CODE OF 1972, TO REQUIRE THE AGENCY TO CONSIDER ANY OBJECTION OR RECOMMENDATION MADE BY THE LEGISLATURE BEFORE A PROPOSED RULE IS ADOPTED; TO AMEND SECTION 25-43-3.110, MISSISSIPPI CODE OF 1972, TO REQUIRE THE AGENCY TO INCLUDE THE GOVERNOR'S APPROVAL OR OBJECTION TO THE RULE IN THE RULE-MAKING RECORD; TO AMEND SECTION 25-43-3.111, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A RULE IS INVALID UNLESS ADOPTED IN SUBSTANTIAL COMPLIANCE WITH THE ADMINISTRATIVE PROCEDURES ACT AS IT EXISTED ON THE DATE THAT THE RULE WAS ADOPTED; TO AMEND SECTIONS 25-43-3.112 AND 25-43-3.113, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

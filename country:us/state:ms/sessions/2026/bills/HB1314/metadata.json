@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1314",
+  "title": "Public purchasing; increase threshold for bidding and revise provisions related to reverse auctions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1314"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1314CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1314IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1314.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO REVISE THE PUBLIC PURCHASING LAW TO PROVIDE THAT PURCHASES THAT DO NOT INVOLVE AN EXPENDITURE OF MORE THAN $10,000.00 MAY BE MADE WITHOUT ADVERTISING OR OTHERWISE REQUESTING COMPETITIVE BIDS; TO REVISE THE REVERSE AUCTION METHOD FOR RECEIVING BIDS TO DIFFERENTIATE BETWEEN AGENCIES AND GOVERNING AUTHORITIES; TO PROVIDE THAT IF AN AGENCY DETERMINES THAT A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE AGENCY, THEN THAT DETERMINATION MUST BE APPROVED BY THE PUBLIC PROCUREMENT REVIEW BOARD; TO PROVIDE THAT IF A GOVERNING AUTHORITY DETERMINES THAT A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE GOVERNING AUTHORITY, THEN THAT DETERMINATION MUST BE APPROVED BY THE GOVERNING BOARD OF THE GOVERNING AUTHORITY; TO PROVIDE THAT THE AGENCY AND GOVERNING AUTHORITY MUST SUBMIT AN EXPLANATION AS TO WHY A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE AGENCY OR GOVERNING AUTHORITY; TO EXEMPT THE PURCHASE OF VEHICLES FOR THE MISSISSIPPI HIGHWAY SAFETY PATROL FROM BIDDING REQUIREMENTS; TO REQUIRE THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY TO IMPLEMENT A PROCESS TO CREATE A PREFERRED VENDER LIST FOR DISASTER CLEAN UP; TO AMEND SECTIONS 31-3-1, 31-5-37 AND 31-5-51, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 31-7-103, MISSISSIPPI CODE OF 1972, TO INCREASE THE COMPETITIVE PURCHASING THRESHOLD FOR CERTAIN COUNTY PURCHASES; TO BRING FORWARD SECTION 31-7-119, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:58Z"
+  }
+}

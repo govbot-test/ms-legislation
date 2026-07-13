@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2277",
+  "title": "Mississippi Minimum Wage Act; enact.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accountability, Efficiency, Transparency"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2277"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Simmons\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2277IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2277IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2277IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2277.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ENACT A MINIMUM WAGE LAW FOR THE STATE OF MISSISSIPPI, WITH ANNUAL INCREMENTAL INCREASES OVER A THREE-YEAR PERIOD; TO DEFINE EMPLOYERS AND EMPLOYEES SUBJECT TO THE MINIMUM WAGE LAW; TO EMPOWER THE MISSISSIPPI DEPARTMENT OF EMPLOYMENT SECURITY, OFFICE OF THE GOVERNOR, TO ENFORCE AND ADMINISTER THE PROVISIONS OF THE MINIMUM WAGE LAW; TO PROVIDE CRIMINAL PENALTIES AND A CIVIL CAUSE OF ACTION AGAINST EMPLOYERS FOR VIOLATIONS OF THE MINIMUM WAGE LAW; TO AMEND SECTION 17-1-51, MISSISSIPPI CODE OF 1972, TO AUTHORIZE MUNICIPAL AND COUNTY GOVERNING AUTHORITIES, IN THEIR DISCRETION, TO MANDATE A WAGE THAT IS MORE THAN THE STATE MINIMUM WAGE; TO AMEND SECTION 25-3-40, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTIONS 85-3-4 AND 97-3-54.4, MISSISSIPPI CODE OF 1972, TO MAKE TECHNICAL, NONSUBSTANTIVE AMENDMENTS; TO BRING FORWARD SECTIONS 7-7-204, 23-15-239, 37-7-307, 37-33-175, 57-34-5 AND 99-19-20, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

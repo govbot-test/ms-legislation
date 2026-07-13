@@ -1,0 +1,89 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR7",
+  "title": "Direct Senate Rules Committee to contract for the restoration of the globe light fixtures originally in front of Senate Chamber.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "Rules"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sr7"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Rules",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chassaniol",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chassaniol\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SR/SR0007IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0007IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0007IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Chassaniol.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SR/SR0007.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "\tA RESOLUTION TO AUTHORIZE AND DIRECT THE SENATE RULES COMMITTEE TO CONTRACT WITH THE DEPARTMENT OF FINANCE AND ADMINISTRATION AND THE MISSISSIPPI DEPARTMENT OF ARCHIVES AND HISTORY FOR THE RECONSTRUCTION AND REPLACEMENT OF THE FOUR ORNATE ELECTRIC GLOBE LIGHT FIXTURES THAT WERE ORIGINALLY LOCATED IN THE FRONT OF THE SENATE CHAMBER ON EACH END OF THE PRESIDING OFFICER/READING CLERK PLATFORM AND TO APPLY FOR APPROPRIATE FUNDING FOR THIS RESTORATION."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

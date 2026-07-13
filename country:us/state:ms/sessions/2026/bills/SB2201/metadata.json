@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2201",
+  "title": "Confederate flag; direct removal of depiction from Capitol rotunda, and create commission to recommend replacement image.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Rules"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2201"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Rules",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2201IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2201IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2201IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2201.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO DIRECT THE DEPARTMENT OF ARCHIVES AND HISTORY TO CAUSE THE DEPICTION OF THE CONFEDERATE FLAG TO BE REMOVED FROM THE STATE CAPITOL ROTUNDA; TO ESTABLISH A COMMISSION TO RECOMMEND A SUITABLE IMAGE TO REPLACE THE DEPICTION OF THE CONFEDERATE FLAG IN THE CAPITOL ROTUNDA; TO PRESCRIBE THE MEMBERSHIP OF THE COMMISSION AND TO PROVIDE FOR ITS ORGANIZATION AND MEETINGS; TO LIST THE COMMISSION'S PREROGATIVES AND DUTIES; TO REQUIRE THE COMMISSION TO SUBMIT ITS WRITTEN RECOMMENDATION TO THE GOVERNOR AND THE LEGISLATURE NO LATER THAN SEPTEMBER 30, 2026; TO PROVIDE FOR THE DISSOLUTION OF THE COMMISSION UPON THE SUBMISSION OF ITS WRITTEN RECOMMENDATION; TO AMEND SECTION 55-15-81, MISSISSIPPI CODE OF 1972, WHICH PROHIBITS THE RELOCATION, REMOVAL, DISTURBING, ALTERATION, RENAMING OR REDEDICATION OF CERTAIN HISTORICAL ITEMS, STRUCTURES OR AREAS, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

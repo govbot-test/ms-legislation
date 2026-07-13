@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1504",
+  "title": "Mississippians' Right to Name, Likeness and Voice Act; enact.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1504"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1504IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1504IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1504IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Clark.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1504.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE NEW SECTION 75-99-1, MISSISSIPPI CODE OF 1972, TO ESTABLISH A SHORT TITLE FOR THE MISSISSIPPIANS' RIGHT TO NAME, LIKENESS AND VOICE ACT; TO CREATE NEW SECTION 75-99-3, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW SECTION 75-99-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT EVERY INDIVIDUAL HAS A PROPERTY RIGHT IN THEIR OWN NAME, LIKENESS AND VOICE; TO CREATE NEW SECTION 75-99-7, MISSISSIPPI CODE OF 1972, TO PROVIDE CERTAIN LIABILITY FOR PERSONS OR ENTITIES WHO INFRINGE ON AN INDIVIDUAL'S RIGHTS UNDER THIS ACT; TO CREATE NEW SECTION 75-99-9, MISSISSIPPI CODE OF 1972, TO PROVIDE A FIRST AMENDMENT DEFENSE TO CIVIL ACTIONS BROUGHT UNDER THIS ACT; TO CREATE NEW SECTION 75-99-11, MISSISSIPPI CODE OF 1972, TO PROVIDE LIABILITY FOR THE COMMERCIAL USE OF AN INDIVIDUAL'S NAME, VOICE OR LIKENESS; TO CREATE NEW SECTION 75-99-13, MISSISSIPPI CODE OF 1972, TO STATE THE RELATIONSHIP OF THE ACT TO OTHER LAWS; TO PROVIDE THAT THE ACT IS SEVERABLE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

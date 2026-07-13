@@ -1,0 +1,100 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1200",
+  "title": "MS Safe Dormitories Act; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judiciary A",
+    "Universities and Colleges"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1200"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Universities and Colleges;Judiciary A",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hobgood-Wilkes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hobgood-Wilkes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1200IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1200IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1200IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hobgood-Wilkes.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1200.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO ESTABLISH THE \"MISSISSIPPI SAFE DORMS ACT\"; TO DECLARE LEGISLATIVE FINDINGS REGARDING STUDENT SAFETY AT STATE INSTITUTIONS OF HIGHER LEARNING; TO DEFINE RELEVANT TERMS; TO PROHIBIT STUDENTS REGISTERED UNDER THE SEX OFFENDER REGISTRATION LAWS FROM RESIDING IN ON-CAMPUS HOUSING; TO PROHIBIT EMPLOYEES OF STATE INSTITUTIONS OF HIGHER LEARNING FROM ENTERING INTO CONSENSUAL RELATIONSHIPS WITH STUDENTS OVER WHOM THEY HAVE AUTHORITY; TO REQUIRE STATE INSTITUTIONS OF HIGHER LEARNING TO PROVIDE SINGLE-SEX LIVING FACILITIES AND REQUIRE FIRST-YEAR STUDENTS TO RESIDE IN SUCH FACILITIES; TO ESTABLISH EXCEPTIONS FOR CERTAIN PERSONS ENTERING SINGLE-SEX FACILITIES; TO REQUIRE INSTITUTIONS TO DEVELOP MATERIALS AND PROCEDURES TO EDUCATE STUDENTS AND STAFF ABOUT POLICIES TO REDUCE SEXUAL ASSAULT RISKS; TO AUTHORIZE STUDENTS AGGRIEVED BY VIOLATIONS OF THIS ACT TO FILE CIVIL ACTIONS FOR RELIEF AND DAMAGES; TO SPECIFY A ONE-YEAR LIMITATION PERIOD FOR FILING SUCH SUITS; TO WAIVE IMMUNITY FOR STATE INSTITUTIONS OF HIGHER LEARNING THAT VIOLATE THIS ACT; TO PROVIDE FOR THE SEVERABILITY OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

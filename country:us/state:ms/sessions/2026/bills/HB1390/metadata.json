@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1390",
+  "title": "State agencies; bring forward personal services funding allocations in FY26 budget for certain.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1390"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Appropriations A",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Read",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Read\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1390IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1390IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1390IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Read.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1390.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BRING FORWARD SECTION 3 OF CHAPTER 34, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE DEPARTMENT OF ENVIRONMENTAL QUALITY; TO BRING FORWARD SECTION 3 OF CHAPTER 45, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE PUBLIC UTILITIES STAFF; TO BRING FORWARD SECTION 4 OF CHAPTER 67, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE DEPARTMENT OF HUMAN SERVICES; TO BRING FORWARD SECTION 3 OF CHAPTER 63, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE MISSISSIPPI LIBRARY COMMISSION; TO BRING FORWARD SECTION 3 OF CHAPTER 93, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE DEPARTMENT OF FINANCE AND ADMINISTRATION; TO BRING FORWARD SECTION 17 OF CHAPTER 93, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE BROADBAND EXPANSION AND ACCESSIBILITY OF MISSISSIPPI; TO BRING FORWARD SECTION 3 OF CHAPTER 92, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE MISSISSIPPI DEVELOPMENT AUTHORITY; AND TO BRING FORWARD SECTION 3 OF CHAPTER 86, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 3 OF CHAPTER 83, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE DEPARTMENT OF PUBLIC SAFETY; AND TO BRING FORWARD SECTION 5 OF CHAPTER 69, LAWS OF FIRST EXTRAORDINARY SESSION OF 2025, WHICH PRESCRIBES THE PERSONAL SERVICES FUNDING ALLOCATION FOR THE DIVISION OF MEDICAID, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

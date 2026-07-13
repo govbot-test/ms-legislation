@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1311",
+  "title": "Teaching Honesty, Respect, Integrity, Virtue and Excellence (T.H.R.I.V.E.) Act; establish.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1311"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1311IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1311IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1311IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1311.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO BE KNOWN AS THE TEACHING HONESTY, RESPECT, INTEGRITY, VIRTUE AND EXCELLENCE (T.H.R.I.V.E.) ACT; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO MANDATE DEVELOPMENTALLY APPROPRIATE SUCCESS SEQUENCE AND CHARACTER EDUCATION COURSES IN ALL PUBLIC ELEMENTARY AND SECONDARY SCHOOLS BEGINNING WITH THE 2026-2027 SCHOOL YEAR; TO REQUIRE THE DEPARTMENT TO APPROVE A MINISTERIAL, NONDISCRETIONARY LIST OF COMPLIANT COURSES AND INSTRUCTIONAL MATERIALS AND RESTRICT DISTRICTS TO ADOPTION FROM THAT APPROVED LIST; TO PRESCRIBE THE SPECIFIC SUCCESS SEQUENCE PRINCIPLES AND ENUMERATED CHARACTER TRAITS AND FUNDAMENTAL VALUES TO BE TAUGHT, INCLUDING RESPECT FOR FAMILY, MARRIAGE, WORK, PERSONAL RESPONSIBILITY, LAWFUL AUTHORITY, COMMUNITY SERVICE, PATRIOTISM, AND MORAL CHARACTER; TO REQUIRE LOCAL SCHOOL BOARDS TO PROVIDE PUBLIC NOTICE OF CURRICULUM ADOPTION, ENSURE TRANSPARENCY THROUGH PUBLIC INSPECTION OF MATERIALS, AND ESTABLISH PARENTAL OPT-OUT RIGHTS WITHOUT PENALTY TO STUDENTS; TO REQUIRE ANNUAL COMPLIANCE REPORTING BY THE STATE DEPARTMENT OF EDUCATION TO STATE LEADERSHIP AND PUBLIC DISCLOSURE OF DISTRICT COMPLIANCE STATUS; TO AUTHORIZE ACCEPTANCE OF FEDERAL OR PRIVATE FUNDS TO ASSIST IMPLEMENTATION; TO REQUIRE LOCAL SCHOOL BOARDS TO ADOPT POLICIES PERMITTING VOLUNTARY, PARENT-CONSENTED AFTER-SCHOOL INSTRUCTION PROGRAMS PROVIDED BY THIRD PARTIES THAT OFFER PHILOSOPHICAL, HISTORICAL, TRADITIONAL, OR RELIGIOUS JUSTIFICATIONS FOR THE SUCCESS SEQUENCE AND CHARACTER EDUCATION CURRICULUM, SUBJECT TO CONTENT CONSISTENCY AND VIEWPOINT NEUTRALITY PROTECTIONS; TO AUTHORIZE THE STATE DEPARTMENT OF EDUCATION TO PROMULGATE RULES NECESSARY FOR IMPLEMENTATION; TO PROVIDE FOR CODIFICATION IN CHAPTER 13, TITLE 37, MISSISSIPPI CODE OF 1972; TO ESTABLISH SUPREMACY OVER CONFLICTING STATE LAWS OR POLICIES; TO PROVIDE SEVERABILITY; TO SET AN EFFECTIVE DATE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

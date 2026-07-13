@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB949",
+  "title": "Ballot box; prohibit the opening of and counting of votes until all of the polling places have closed.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Apportionment and Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb949"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Byrd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Byrd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0949IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0949IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0949IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Byrd.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0949.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 23-15-581, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO BALLOT BOX SHALL BE OPENED AND NO BALLOTS SHALL BE COUNTED UNTIL ALL OF THE POLLING PLACES ARE CLOSED; TO PROVIDE THAT THE POLL MANAGERS SHALL NOT PUBLICLY BREAK THE SEAL AND OPEN THE BALLOT BOX TO COUNT THE BALLOTS UNTIL THE REGISTRAR HAS NOTIFIED THE POLL MANAGERS THAT ALL OF THE POLLING PLACES ARE CLOSED; TO AMEND SECTION 23-15-591, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE POLL MANAGERS SHALL NOT ANNOUNCE THE RESULTS OF THE ELECTION AT THEIR BOX UNTIL THEY HAVE BEEN NOTIFIED BY THE REGISTRAR THAT ALL OF THE POLLING PLACES HAVE COMPLETELY AND CORRECTLY COUNTED AND TALLIED THEIR VOTES; TO PROVIDE THAT ONCE THE REGISTRAR NOTIFIES ALL OF THE POLL MANAGERS, THEN THE POLL MANAGERS SHALL ANNOUNCE THE RESULTS OF THEIR VOTES SIMULTANEOUSLY; TO AMEND SECTIONS 23-15-517, 23-15-595, 23-15-519, 23-15-247 AND 23-15-639, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

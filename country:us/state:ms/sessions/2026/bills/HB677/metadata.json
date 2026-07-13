@@ -1,0 +1,112 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB677",
+  "title": "Federal funds; Governor shall not return to federal government as long as there is still a demonstrable need for those funds in Mississippi.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations A",
+    "State Affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb677"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To State Affairs;Appropriations A",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanders",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanders\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0600-0699/HB0677IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0677IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0600-0699/HB0677IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Taylor.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Sanders.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0677.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO PROVIDE THAT WHENEVER THE STATE RECEIVES ANY FEDERAL FUNDS THAT ARE REQUIRED OR AUTHORIZED TO BE USED FOR A PARTICULAR PROGRAM OR PURPOSE AS SPECIFIED IN FEDERAL LAW OR REGULATIONS, THE GOVERNOR OR STATE AGENCY EXECUTIVE DIRECTOR HAVING CONTROL OF THE FUNDS SHALL NOT RETURN ANY OF THOSE FUNDS TO THE FEDERAL GOVERNMENT AS LONG AS THERE IS STILL A DEMONSTRABLE NEED FOR THOSE FUNDS IN THE PROGRAM OR FOR THE PURPOSE FOR WHICH THE FUNDS WERE PROVIDED, UNLESS FEDERAL GOVERNMENT REQUIRES THE STATE TO RETURN THE FUNDS; TO PROVIDE THAT IF THE GOVERNOR OR STATE AGENCY EXECUTIVE DIRECTOR HAVING CONTROL OF THE FUNDS DETERMINES THAT THE PROGRAM OR PURPOSE FOR WHICH THE FUNDS WERE PROVIDED COULD BE BETTER ADMINISTERED BY NONPROFIT ENTITIES OR OTHER NONGOVERNMENTAL ENTITIES THAN BY THE STATE, THE FUNDS MAY BE TRANSFERRED TO SUCH ENTITIES TO ADMINISTER THE PROGRAM OR PURPOSE FOR WHICH THE FUNDS WERE PROVIDED, IF ALLOWED BY FEDERAL LAW AND REGULATIONS AND ONLY IN ACCORDANCE WITH THE FEDERAL LAW AND REGULATIONS; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:59Z"
+  }
+}

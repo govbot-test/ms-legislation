@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2515",
+  "title": "Closed schools; revise certain provisions regarding repurposing of.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2515"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Education",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blount",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blount\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2515CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2515IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515CS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blount.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2515.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 37-28-61, MISSISSIPPI CODE OF 1972, TO LIMIT TO 12 MONTHS THE RIGHT OF FIRST REFUSAL OF A CHARTER SCHOOL TO PURCHASE OR LEASE CLOSED PUBLIC SCHOOL PROPERTY IN THE SCHOOL DISTRICT IN WHICH THE CHARTER SCHOOL IS LOCATED; TO AMEND SECTION 37-7-455, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 37-7-477, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A SCHOOL BOARD TO APPROVE ALTERNATIVE USES, CONSISTENT WITH SECTION 37-7-473, FOR PROPERTY CONVEYED OR LEASED; TO REQUIRE THAT THE INSTRUMENT CONVEYING OR LEASING THE PROPERTY SHALL INCLUDE PROCEDURES FOR SEEKING AND OBTAINING BOARD APPROVAL; TO PROVIDE THAT, IF THE PROPERTY CEASES TO BE USED FOR THE PURPOSE FOR WHICH IT WAS CONVEYED OR LEASED, OR FOR AN ALTERNATIVE PURPOSE DULY APPROVED BY THE SCHOOL BOARD, POSSESSION OF THE PROPERTY, AND TITLE TO IT IN THE CASE OF A CONVEYANCE, SHALL REVERT TO THE SCHOOL DISTRICT; TO BRING FORWARD SECTION 37-7-473, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

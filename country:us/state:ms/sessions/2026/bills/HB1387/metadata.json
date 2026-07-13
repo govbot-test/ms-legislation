@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1387",
+  "title": "Division of Medicaid and Dept. of Human Services; revise provisions under the Transparency and Fraud Prevention Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1387"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Medicaid",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eubanks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eubanks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1387IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1387IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1387IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Eubanks.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1387.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 43-12-5, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES AND THE DIVISION OF MEDICAID TO USE AN ELIGIBILITY DETERMINATION SERVICE NO LESS FREQUENTLY THAN QUARTERLY BETWEEN ELIGIBILITY DETERMINATIONS; TO CREATE NEW SECTION 43-12-6, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES AND THE DIVISION OF MEDICAID TO MONTHLY ASSESS CONTINUED ELIGIBILITY BASED ON A REVIEW OF FEDERAL DATA SOURCES; TO CREATE NEW SECTION 43-12-10, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT INDIVIDUALS WHO ARE NOT UNITED STATES CITIZENS SHALL NOT BE ELIGIBLE FOR SNAP OR MEDICAID UNLESS THE INDIVIDUAL MEETS THE DEFINITION OF AN ELIGIBLE ALIEN; TO PROVIDE THAT THE DEPARTMENT OF HUMAN SERVICES AND THE DIVISION OF MEDICAID MUST VERIFY THE ELIGIBILITY OF THOSE INDIVIDUALS DURING ENROLLMENT AND ELIGIBILITY REDETERMINATION USING THE SAVE SERVICE; TO REQUIRE THE DIVISION AND THE DEPARTMENT TO REPORT TO THE APPROPRIATE LAW ENFORCEMENT AUTHORITIES OR FEDERAL AGENCIES INFORMATION CONCERNING ANY HOUSEHOLD MEMBER FOR WHOM IT IS UNABLE TO VERIFY ELIGIBLE ALIEN STATUS; TO CREATE NEW SECTION 43-12-18, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DIVISION OF MEDICAID TO LIMIT RETROACTIVE ELIGIBILITY FOR MEDICAID TO NO MORE THAN TWO MONTHS BEFORE THE MONTH IN WHICH A PERSON SUBMITS A COMPLETED APPLICATION; TO CREATE NEW SECTION 43-12-20, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DIVISION OF MEDICAID TO CONDUCT ELIGIBILITY REDETERMINATIONS FOR ALL NONELDERLY ADULT MEDICAID RECIPIENTS AT LEAST ONCE EVERY SIX MONTHS, AND AT LEAST ONCE EVERY TWELVE MONTHS FOR ALL OTHER MEDICAID RECIPIENTS; TO CREATE NEW SECTION 43-12-24, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES TO ASSIGN CERTIFICATION PERIODS FOR ELIGIBILITY FOR THE SNAP PROGRAM NO GREATER THAN FOUR MONTHS TO CERTAIN HOUSEHOLDS, AND PERIODS OF ONE OR TWO MONTHS FOR CERTAIN OTHER HOUSEHOLDS; TO AMEND SECTION 43-12-29, MISSISSIPPI CODE OF 1972, TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES TO VERIFY IDENTITY, HOUSEHOLD COMPOSITION AND EXPENSES BEFORE CERTIFICATION OR RECERTIFICATION; TO PROHIBIT THE DEPARTMENT FROM ACCEPTING THE SELF-ATTESTATION OR SELF-DECLARATION OF AN APPLICANT OR ENROLLED AS VERIFICATION OF INCOME, ASSETS OR EXPENSES; TO PROHIBIT THE DIVISION OF MEDICAID FROM ACCEPTING ELIGIBILITY DETERMINATIONS FROM A HEALTH INSURANCE EXCHANGE; TO PROHIBIT THE DIVISION OF MEDICAID FROM ACCEPTING SELF-ATTESTATION OF CERTAIN INFORMATION WITHOUT VERIFYING THAT INFORMATION BEFORE ENROLLMENT; TO AMEND SECTION 43-12-39, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT THE REPORT PROVIDED BY THE DEPARTMENT OF HUMAN SERVICES TO THE LEGISLATURE ABOUT SNAP AND TANF BENEFIT SPENDING TO INCLUDE THE NUMBER OF HOUSEHOLDS IN WHICH TRANSACTIONS OCCURRED EXCLUSIVELY OUTSIDE THIS STATE FOR SIXTY CONSECUTIVE DAYS; TO AMEND SECTION 43-12-41, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT THE REPORT PROVIDED BY THE DIVISION OF MEDICAID AND THE DEPARTMENT OF HUMAN SERVICES TO THE LEGISLATURE TO INCLUDE EFFORTS BY THE DIVISION AND DEPARTMENT TO MINIMIZE ELIGIBILITY ERRORS AND FRAUD AND REQUIRE THAT CERTAIN ADDITIONAL INFORMATION BE INCLUDED IN THE REPORT; TO AMEND SECTION 43-13-115.1, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

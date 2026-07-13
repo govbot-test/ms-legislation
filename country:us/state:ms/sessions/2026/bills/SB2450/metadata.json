@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2450",
+  "title": "Advanced practice registered nurses; revise collaboration requirement.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health and Welfare"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb2450"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-01-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2450IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2450IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2450IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2450.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 73-15-3, MISSISSIPPI CODE OF 1972, TO INCLUDE ADVANCED PRACTICE REGISTERED NURSES IN THE STATEMENT OF PURPOSE OF THE MISSISSIPPI NURSING PRACTICE LAW; TO AMEND SECTION 73-15-5, MISSISSIPPI CODE OF 1972, TO DELETE CERTAIN DEFINITIONS AND REVISE CERTAIN DEFINITIONS IN THE NURSING PRACTICE LAW REGARDING ADVANCED NURSING PRACTICE; TO AMEND SECTION 73-15-20, MISSISSIPPI CODE OF 1972, TO REVISE CERTAIN PROVISIONS RELATING TO THE PRACTICE OF ADVANCED NURSING PRACTICE NURSES; TO PROVIDE THAT A CERTIFIED NURSE PRACTITIONER, CERTIFIED NURSE MIDWIFE OR CLINICAL NURSE SPECIALIST SHALL BE EXEMPT FROM THE REQUIREMENT OF ENTERING AND MAINTAINING A COLLABORATIVE/CONSULTATIVE RELATIONSHIP WITH A LICENSED PHYSICIAN OR DENTIST AFTER COMPLETING 3,600 PRACTICE HOURS; TO PROVIDE THAT A CERTIFIED NURSE PRACTITIONER, CERTIFIED NURSE MIDWIFE OR CLINICAL NURSE SPECIALIST MAY APPLY HOURS WORKED BEFORE THE EFFECTIVE DATE OF THIS ACT TO FULFILL HIS OR HER HOUR REQUIREMENT; TO AMEND SECTION 73-15-29, MISSISSIPPI CODE OF 1972, TO INCLUDE ADVANCED PRACTICE REGISTERED NURSES IN THE PROVISIONS RELATING TO GROUNDS FOR DISCIPLINARY ACTIONS AGAINST NURSES; TO AMEND SECTION 41-21-131, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}
