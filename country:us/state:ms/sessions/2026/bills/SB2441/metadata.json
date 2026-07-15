@@ -7,6 +7,8 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -40,6 +42,84 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +138,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2441CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2441PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +163,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2441CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2441PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +197,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 73-25-23, MISSISSIPPI CODE OF 1972, TO MODIFY THE LIMITED INSTITUTIONAL LICENSURE PROCESS BY AUTHORIZING THE MISSISSIPPI STATE BOARD OF MEDICAL LICENSURE (BOARD) TO ISSUE A LIMITED INSTITUTIONAL LICENSE FOR THE PRACTICE OF MEDICINE IN STATE INSTITUTIONS TO CERTAIN GRADUATES OF FOREIGN MEDICAL COLLEGES UPON REVIEW OF THE INDIVIDUAL'S APPLICATION AND UPON THE SATISFACTION OF ALL REQUIREMENTS SET FORTH BY THE BOARD; TO INCREASE FROM FIVE YEARS TO EIGHT YEARS THE PERIOD OF TIME THAT A LIMITED INSTITUTIONAL LICENSE MAY BE HELD; TO AUTHORIZE THE BOARD TO ISSUE A LIMITED LICENSE TO CERTAIN INTERNATIONALLY TRAINED PHYSICIANS WITH OFFERS OF EMPLOYMENT IN MISSISSIPPI; TO AUTHORIZE THE BOARD TO ISSUE A LIMITED LICENSE TO CERTAIN UNITED STATES MEDICAL SCHOOL GRADUATES WHO INITIALLY FAIL TO MATCH WITH A POSTGRADUATE RESIDENCY TRAINING PROGRAM; TO SET FORTH REQUIREMENTS AND QUALIFICATIONS FOR APPLICANTS FOR INTERNATIONALLY TRAINED PHYSICIAN (ITP) AND MEDICAL GRADUATE (MG) LIMITED LICENSES, AND TO REGULATE THE PRACTICE OF SUCH LIMITED LICENSES HOLDERS; TO PROVIDE THE PERIODS OF TIME FOR WHICH SUCH LIMITED LICENSES MAY BE HELD; TO REQUIRE ITP LIMITED LICENSEES TO PRACTICE ONLY IN RURAL COMMUNITIES OR MEDICALLY UNDERSERVED AREAS WITH A CURRENT SHORTAGE OF PHYSICIANS; TO REQUIRE MG LIMITED LICENSEES TO ENTER INTO A SUPERVISORY PRACTICE AGREEMENT WITH A SUPERVISING PHYSICIAN AND TO REQUIRE MG LICENSEES TO PRACTICE ONLY IN COUNTIES WITH A POPULATION OF LESS THAN 100,000; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 73-25-23, MISSISSIPPI CODE OF 1972, TO MODIFY THE LIMITED INSTITUTIONAL LICENSURE PROCESS BY AUTHORIZING THE MISSISSIPPI STATE BOARD OF MEDICAL LICENSURE (BOARD) TO ISSUE A LIMITED INSTITUTIONAL LICENSE FOR THE PRACTICE OF MEDICINE IN STATE INSTITUTIONS TO CERTAIN GRADUATES OF FOREIGN MEDICAL COLLEGES UPON REVIEW OF THE INDIVIDUAL'S APPLICATION AND UPON THE SATISFACTION OF ALL REQUIREMENTS SET FORTH BY THE BOARD; TO INCREASE FROM FIVE YEARS TO EIGHT YEARS THE PERIOD OF TIME THAT A LIMITED INSTITUTIONAL LICENSE MAY BE HELD; TO AUTHORIZE THE BOARD TO ISSUE A LIMITED LICENSE TO CERTAIN INTERNATIONALLY TRAINED PHYSICIANS WITH OFFERS OF EMPLOYMENT IN MISSISSIPPI; TO AUTHORIZE THE BOARD TO ISSUE A LIMITED LICENSE TO CERTAIN UNITED STATES MEDICAL SCHOOL GRADUATES WHO INITIALLY FAIL TO MATCH WITH A POSTGRADUATE RESIDENCY TRAINING PROGRAM; TO SET FORTH REQUIREMENTS AND QUALIFICATIONS FOR APPLICANTS FOR INTERNATIONALLY TRAINED PHYSICIAN (ITP) AND MEDICAL GRADUATE (MG) LIMITED LICENSES, AND TO REGULATE THE PRACTICE OF SUCH LIMITED LICENSE HOLDERS; TO PROVIDE THE PERIODS OF TIME FOR WHICH SUCH LIMITED LICENSES MAY BE HELD; TO REQUIRE ITP LIMITED LICENSEES TO PRACTICE ONLY IN RURAL COMMUNITIES OR MEDICALLY UNDERSERVED AREAS WITH A CURRENT SHORTAGE OF PHYSICIANS; TO REQUIRE MG LIMITED LICENSEES TO ENTER INTO A SUPERVISORY PRACTICE AGREEMENT WITH A SUPERVISING PHYSICIAN AND TO REQUIRE MG LICENSEES TO PRACTICE ONLY IN COUNTIES WITH A POPULATION OF LESS THAN 50,000; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:55:27.335507Z"
   }
 }

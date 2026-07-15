@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2828",
-  "title": "Money Transmission Modernization Act; require licensee to charge fee for PERS and 287(g), refundable via income tax credit.",
+  "title": "Money Transmission Modernization Act; require licensee to charge fee for 287(g) and General Fund, refundable via income tax credit.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Banking and Financial Services",
     "Finance"
   ],
   "abstracts": [],
@@ -40,6 +41,272 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Banking and Financial Services",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Harkins,Johnson,Hill",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Aguirre,Sanford,Grady",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Tabled Failed",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered (Sanford, Aguirre, Boyd (37th))",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Conference",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +325,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2828CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2828PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +350,103 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2828CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2828",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2828.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2828.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2828_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2828_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2828_H_Amend_01_to_Amend_01.htm",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2828_H_Amend_01_to_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 to Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2828_H_Amend_02_to_Amend_01.htm",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2828_H_Amend_02_to_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2828_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2828_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2828PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +459,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REQUIRE LICENSEES UNDER THE MONEY TRANSMISSION MODERNIZATION ACT TO COLLECT A FEE OF $7.50 FOR EACH TRANSACTION NOT IN EXCESS OF $500.00 AND 1.5% OF ANY AMOUNT IN EXCESS OF $500.00; TO REQUIRE THE FEE TO BE REMITTED QUARTERLY TO THE DEPARTMENT OF REVENUE; TO REQUIRE THE DEPARTMENT OF REVENUE TO REMIT SUCH FEES TO THE LAW ENFORCEMENT 287(G) PROGRAM FUND; TO REQUIRE LICENSEES TO POST NOTICE THAT FEES PAID MAY BE REIMBURSED THROUGH AN INCOME TAX CREDIT; TO PROVIDE FOR LICENSE SUSPENSION AND CLAIMS ON A LICENSEE'S SURETY BOND; TO CREATE THE LAW ENFORCEMENT 287(G) PROGRAM FUND TO ASSIST THE ENFORCEMENT EFFORTS OF STATE AND LOCAL LAW ENFORCEMENT OFFICERS PARTNERING WITH U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE) THROUGH THE 287(G) PROGRAM UNDER THE IMMIGRATION AND NATIONALITY ACT; TO CREATE AN INCOME TAX CREDIT FOR FEES PAID UNDER THIS ACT DURING CALENDAR YEAR 2026 OR ANY CALENDAR YEAR THEREAFTER; TO AMEND SECTION 75-16-5, MISSISSIPPI CODE OF 1972, TO DEFINE \"COMMISSIONER\" AS THE COMMISSIONER OF BANKING AND CONSUMER FINANCE, AND \"DEPARTMENT\" AS THE DEPARTMENT OF BANKING AND CONSUMER FINANCE, FOR PURPOSES OF THE MONEY TRANSMISSION MODERNIZATION ACT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REQUIRE LICENSEES UNDER THE MONEY TRANSMISSION MODERNIZATION ACT TO COLLECT A FEE OF $7.50 FOR EACH TRANSACTION NOT IN EXCESS OF $500.00 AND 1.5% OF ANY AMOUNT IN EXCESS OF $500.00; TO REQUIRE THE FEE TO BE REMITTED QUARTERLY TO THE DEPARTMENT OF REVENUE; TO REQUIRE THE DEPARTMENT OF REVENUE TO REMIT HALF OF SUCH FEES TO THE LAW ENFORCEMENT 287(G) PROGRAM FUND AND THE OTHER HALF TO THE STATE GENERAL FUND; TO REQUIRE LICENSEES TO POST NOTICE THAT FEES PAID MAY BE REIMBURSED THROUGH AN INCOME TAX CREDIT; TO PROVIDE FOR LICENSE SUSPENSION AND CLAIMS ON A LICENSEE'S SURETY BOND; TO PROVIDE THAT THIS ACT SHALL NOT APPLY TO TRANSACTIONS IN WHICH THE FUNDS BEING TRANSFERRED ARE WITHDRAWN FROM AN ACCOUNT HELD IN OR BY A FEDERALLY INSURED FINANCIAL INSTITUTION, OR FUNDED WITH A DEBIT CARD OR A CREDIT CARD ISSUED IN THE UNITED STATES; TO PROVIDE FOR THE REPEAL OF THE ABOVE PROVISIONS ON JULY 1, 2029; TO CREATE THE LAW ENFORCEMENT 287(G) PROGRAM FUND TO ASSIST THE ENFORCEMENT EFFORTS OF STATE AND LOCAL LAW ENFORCEMENT OFFICERS PARTNERING WITH U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE) THROUGH THE 287(G) PROGRAM UNDER THE IMMIGRATION AND NATIONALITY ACT; TO CREATE AN INCOME TAX CREDIT FOR FEES PAID UNDER THIS ACT DURING CALENDAR YEAR 2026 OR ANY CALENDAR YEAR THEREAFTER; TO AMEND SECTION 75-16-5, MISSISSIPPI CODE OF 1972, TO DEFINE \"COMMISSIONER\" AS THE COMMISSIONER OF BANKING AND CONSUMER FINANCE, AND \"DEPARTMENT\" AS THE DEPARTMENT OF BANKING AND CONSUMER FINANCE, FOR PURPOSES OF THE MONEY TRANSMISSION MODERNIZATION ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +468,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T06:41:03.319439Z"
   }
 }

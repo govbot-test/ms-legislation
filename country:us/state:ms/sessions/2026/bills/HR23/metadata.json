@@ -40,6 +40,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +88,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HR/HR0023PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HR/HR0023PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HR/HR0023IN.htm",
           "media_type": "text/html"
         },
@@ -82,7 +119,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HR/HR0023IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HR/HR0023PS.pdf",
       "note": ""
     },
     {
@@ -108,7 +145,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:51:40.501889Z"
   }
 }

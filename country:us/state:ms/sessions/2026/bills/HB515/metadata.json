@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB515",
-  "title": "Radiologist assistants; authorize to communicate preliminary image interpretation reports to other health care providers.",
+  "title": "Radiologist assistants; authorize certain communications with health care providers.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Public Health and Human Services"
+    "Public Health and Human Services",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,120 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +173,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0515CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0515SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0515CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0515SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +198,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0515CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0515CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0515PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0515PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0515CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0515SG.pdf",
       "note": ""
     },
     {
@@ -102,7 +247,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 41-58-7, MISSISSIPPI CODE OF 1972, TO AUTHORIZE RADIOLOGIST ASSISTANTS TO COMMUNICATE A PRELIMINARY IMAGE INTERPRETATION REPORT WITH INITIAL OBSERVATIONS TO OTHER HEALTH CARE PROVIDERS TREATING A PATIENT AND TO COMMUNICATE THE RADIOLOGIST'S FINAL OR PRELIMINARY INTERPRETATION TO OTHER HEALTH CARE PROVIDERS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 41-58-7, MISSISSIPPI CODE OF 1972, TO AUTHORIZE RADIOLOGIST ASSISTANTS TO NOTIFY HEALTH CARE PROVIDERS TREATING THE PATIENT THAT THE ORDERED IMAGING PROCEDURES HAVE BEEN COMPLETED; TO PROVIDE THAT RADIOLOGIST ASSISTANTS MAY ONLY COMMUNICATE THEIR INITIAL OBSERVATIONS TO THE RADIOLOGIST; TO AUTHORIZE RADIOLOGIST ASSISTANTS TO COMMUNICATE THE RADIOLOGIST'S FINAL OR PRELIMINARY INTERPRETATION TO OTHER HEALTH CARE PROVIDERS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +256,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:09:44.843856Z"
   }
 }

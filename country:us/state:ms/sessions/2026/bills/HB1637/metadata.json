@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Public Health and Human Services"
+    "Public Health and Human Services",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,22 +41,232 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
-    }
-  ],
-  "sponsorships": [
+    },
     {
-      "name": "McGee",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"McGee\"}",
-      "organization_id": null
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Creekmore IV,Mims,McGee",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Bryan,Johnson,England",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
+  "sponsorships": [],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1637SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1637SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1637IN.htm",
@@ -68,17 +279,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1637PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1637PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1637",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1637.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1637.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1637_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1637_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Committee Amendment No 1 (Adopted) ({Vote})",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1637_S_Amend_01_to_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1637_S_Amend_01_to_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1637IN.pdf",
-      "note": ""
-    },
-    {
-      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McGee.xml",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1637SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +354,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE FETAL AND INFANT MORTALITY REVIEW PANEL TO REVIEW FETAL DEATHS AND DEATHS OF INFANTS UP TO ONE YEAR OF AGE AND ESTABLISH STRATEGIES TO PREVENT INFANT DEATHS; TO PROVIDE THAT THE REVIEW PANEL SHALL BE MULTIDISCIPLINARY AND COMPOSED OF SUCH MEMBERS AS DEEMED APPROPRIATE BY THE STATE DEPARTMENT OF HEALTH; TO REQUIRE THE REVIEW PANEL TO SUBMIT A REPORT ANNUALLY TO THE HOUSE AND SENATE PUBLIC HEALTH COMMITTEES THAT INCLUDE THE NUMBERS, CAUSES AND RELEVANT DEMOGRAPHIC INFORMATION ON INFANT MORTALITY DEATHS IN MISSISSIPPI, AND APPROPRIATE RECOMMENDATIONS TO THE LEGISLATURE ON HOW TO MOST EFFECTIVELY DIRECT STATE RESOURCES TO DECREASE INFANT MORTALITY IN THE STATE; TO REQUIRE THAT DATA SHALL BE PROVIDED TO THE REVIEW PANEL BY THE STATE MEDICAL EXAMINER'S OFFICE, STATE DEPARTMENT OF HEALTH, DEPARTMENT OF HUMAN SERVICES, MEDICAL EXAMINERS, CORONERS, HEALTH CARE PROVIDERS, LAW ENFORCEMENT AGENCIES, AND ANY OTHER AGENCIES OR OFFICIALS HAVING INFORMATION THAT IS NECESSARY FOR THE REVIEW PANEL TO CARRY OUT ITS DUTIES; TO REQUIRE PHYSICIANS, HOSPITALS AND PHARMACIES TO PROVIDE REASONABLE ACCESS TO THE REVIEW PANEL TO ALL RELEVANT MEDICAL RECORDS ASSOCIATED WITH A CASE UNDER REVIEW BY THE REVIEW PANEL; TO PROVIDE THAT INFORMATION, RECORDS AND PROCEEDINGS OF THE REVIEW PANEL ARE CONFIDENTIAL AND NOT SUBJECT TO THE OPEN MEETINGS ACT, THE PUBLIC RECORDS ACT OR SUBPOENA, DISCOVERY OR INTRODUCTION INTO EVIDENCE; TO AUTHORIZE THE REVIEW PANEL TO INITIATE ENFORCEMENT ACTIONS AGAINST AGENCIES OR OFFICIALS THAT DO NOT PROVIDE INFORMATION TO THE PANEL IN A COMPLETE AND TIMELY MANNER; TO AMEND SECTION 25-41-3, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; TO EXEMPT CERTAIN QUALITY ASSURANCE, QUALITY IMPROVEMENT, PERFORMANCE IMPROVEMENT, AND REVIEW RECORDS OF THE STATE DEPARTMENT OF HEALTH FROM THE PUBLIC RECORDS ACT; TO PROVIDE THAT SUCH RECORDS SHALL BE CONFIDENTIAL AND NOT SUBJECT TO DISCLOSURE, SUBPOENA, OR DISCOVERY; TO EXEMPT CERTAIN RADIOLOGICAL HEALTH AND RADIOACTIVE MATERIAL LICENSING INFORMATION FROM THE PUBLIC RECORDS ACT WHEN DISCLOSURE WOULD POSE A RISK TO PUBLIC HEALTH OR SECURITY; TO AMEND SECTION 25-41-7, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE STATE DEPARTMENT OF HEALTH AND CERTAIN PANELS, COMMITTEES, SYSTEMS, OR PROGRAMS ESTABLISHED, DESIGNATED, ADMINISTERED, OR SUPPORTED BY THE DEPARTMENT FOR PURPOSES OF QUALITY ASSURANCE, QUALITY IMPROVEMENT, PERFORMANCE IMPROVEMENT, PEER REVIEW, PATIENT SAFETY, MORBIDITY OR MORTALITY REVIEW, OR SYSTEM EVALUATION TO CONDUCT CLOSED MEETINGS OR EXECUTIVE SESSIONS FOR THE DISCUSSION OF CONFIDENTIAL QUALITY ASSURANCE AND PERFORMANCE IMPROVEMENT MATTERS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE FETAL AND INFANT MORTALITY REVIEW PANEL TO REVIEW FETAL DEATHS AND DEATHS OF INFANTS UP TO ONE YEAR OF AGE AND ESTABLISH STRATEGIES TO PREVENT INFANT DEATHS; TO PROVIDE THAT THE REVIEW PANEL SHALL BE MULTIDISCIPLINARY AND COMPOSED OF SUCH MEMBERS AS DEEMED APPROPRIATE BY THE STATE DEPARTMENT OF HEALTH; TO REQUIRE THE REVIEW PANEL TO SUBMIT A REPORT ANNUALLY TO THE HOUSE AND SENATE PUBLIC HEALTH COMMITTEES THAT INCLUDE THE NUMBERS, CAUSES AND RELEVANT DEMOGRAPHIC INFORMATION ON INFANT MORTALITY DEATHS IN MISSISSIPPI, AND APPROPRIATE RECOMMENDATIONS TO THE LEGISLATURE ON HOW TO MOST EFFECTIVELY DIRECT STATE RESOURCES TO DECREASE INFANT MORTALITY IN THE STATE; TO REQUIRE THAT DATA SHALL BE PROVIDED TO THE REVIEW PANEL BY THE STATE MEDICAL EXAMINER'S OFFICE, STATE DEPARTMENT OF HEALTH, DEPARTMENT OF HUMAN SERVICES, MEDICAL EXAMINERS, CORONERS, HEALTH CARE PROVIDERS, LAW ENFORCEMENT AGENCIES, AND ANY OTHER AGENCIES OR OFFICIALS HAVING INFORMATION THAT IS NECESSARY FOR THE REVIEW PANEL TO CARRY OUT ITS DUTIES; TO PROVIDE THAT IN THE CASE OF AN INFANT OR CHILD WHO DIES SUDDENLY AND UNEXPECTEDLY, INCLUDING CASES OF SUDDEN INFANT DEATH SYNDROME (SIDS), SUDDEN UNEXPECTED INFANT DEATH (SUID) OR SUDDEN DEATH IN THE YOUNG (SDY), THE REVIEW PANEL SHALL CONDUCT A COMPREHENSIVE REVIEW OF THE INFANT'S OR CHILD'S MEDICAL, PRENATAL, AND, WHERE APPLICABLE, MATERNAL HEALTH RECORDS FOR THE PURPOSE OF IDENTIFYING POTENTIAL CONTRIBUTING FACTORS AND PREVENTABLE CAUSES OF DEATH; TO PROVIDE THAT SUCH REVIEW SHALL BE CONDUCTED IN ACCORDANCE WITH NATIONALLY RECOGNIZED BEST PRACTICES AND SHOULD INCLUDE CONSIDERATION OF THE INFANT'S OR CHILD'S IMMUNIZATION HISTORY AND ANY MEDICAL TREATMENTS OR INTERVENTIONS AS PART OF THE OVERALL MEDICAL CONTEXT, WITHOUT LIMITATION TO A SPECIFIED TIME PERIOD, AS RELEVANT TO THE PANEL'S DETERMINATION OF CONTRIBUTING FACTORS; TO DIRECT THE STATE DEPARTMENT OF HEALTH TO VERIFY THAT CASES OF SUDDEN AND UNEXPECTED DEATH OF AN INFANT OR CHILD WERE REPORTED TO THE SUID AND SDY CASE REGISTRY AND THAT ANY ADVERSE VACCINE REACTIONS WERE REPORTED TO THE VACCINE ADVERSE EVENT REPORTING SYSTEM (VAERS), AND TO REPORT TO THE SUID AND SDY CASE REGISTRY OR TO VAERS ANY SUCH CASES OR ADVERSE VACCINE REACTIONS THAT WERE NOT PREVIOUSLY REPORTED; TO PROVIDE THAT THE REVIEW PANEL'S REPORT AND RECOMMENDATIONS SHALL BE MADE PUBLIC BY THE STATE DEPARTMENT OF HEALTH; TO REQUIRE PHYSICIANS, HOSPITALS AND PHARMACIES TO PROVIDE REASONABLE ACCESS TO THE REVIEW PANEL TO ALL RELEVANT MEDICAL RECORDS ASSOCIATED WITH A CASE UNDER REVIEW BY THE REVIEW PANEL; TO PROVIDE THAT CERTAIN RECORDS MAINTAINED BY THE STATE DEPARTMENT OF HEALTH SHALL BE CONFIDENTIAL AND NOT SUBJECT TO THE PUBLIC RECORDS ACT OR SUBPOENA, DISCOVERY OR INTRODUCTION INTO EVIDENCE; TO AUTHORIZE THE REVIEW PANEL TO INITIATE ENFORCEMENT ACTIONS AGAINST AGENCIES OR OFFICIALS THAT DO NOT PROVIDE INFORMATION TO THE PANEL IN A COMPLETE AND TIMELY MANNER; TO AMEND SECTION 25-41-3, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING PROVISIONS; TO EXEMPT CERTAIN QUALITY ASSURANCE, QUALITY IMPROVEMENT, PERFORMANCE IMPROVEMENT, AND REVIEW RECORDS OF THE STATE DEPARTMENT OF HEALTH FROM THE PUBLIC RECORDS ACT; TO PROVIDE THAT SUCH RECORDS SHALL BE CONFIDENTIAL AND NOT SUBJECT TO DISCLOSURE, SUBPOENA, OR DISCOVERY; TO EXEMPT CERTAIN RADIOLOGICAL HEALTH AND RADIOACTIVE MATERIAL LICENSING INFORMATION FROM THE PUBLIC RECORDS ACT WHEN DISCLOSURE WOULD POSE A RISK TO PUBLIC HEALTH OR SECURITY; TO AMEND SECTION 25-41-7, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE STATE DEPARTMENT OF HEALTH TO ENTER EXECUTIVE SESSION OR OTHERWISE CONDUCT A CLOSED MEETING DURING MORBIDITY OR MORTALITY REVIEW COMMITTEE WORK MANDATED BY STATUTE OR REGULATION, SUCH AS THE CHILD DEATH REVIEW PANEL, THE MATERNAL MORTALITY REVIEW COMMITTEE, AND THE FETAL AND INFANT MORTALITY REVIEW PANEL; TO CREATE NEW SECTION 25-61-11.3, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM THE MISSISSIPPI PUBLIC RECORDS ACT OF 1983 DOCUMENTS AND RECORDS USED BY THE STATE DEPARTMENT OF HEALTH DURING MORBIDITY OR MORTALITY REVIEW COMMITTEE WORK MANDATED BY STATUTE OR REGULATION, SUCH AS THE CHILD DEATH REVIEW PANEL, THE MATERNAL MORTALITY REVIEW COMMITTEE, AND THE FETAL AND INFANT MORTALITY REVIEW PANEL; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +363,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T08:12:36.221188Z"
   }
 }

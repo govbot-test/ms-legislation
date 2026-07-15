@@ -8,6 +8,7 @@
   ],
   "subject": [
     "Appropriations",
+    "Appropriations A",
     "Municipalities"
   ],
   "abstracts": [],
@@ -50,6 +51,150 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Municipalities;Appropriations A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: MU To AP",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: AP To MU",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amendment Tabled",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
       }
     }
   ],
@@ -125,12 +270,43 @@
       "primary": false,
       "person_id": "~{\"name\": \"Chassaniol\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gillespie Isom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gillespie Isom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pope\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2578SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2578SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2578IN.htm",
@@ -143,13 +319,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2578PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2578PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2578_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2578_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2578IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2578SG.pdf",
       "note": ""
     },
     {
@@ -189,12 +395,20 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gillespie_Isom.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Pope.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2578.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE SMALL MUNICIPALITIES FEDERAL MATCH FUND AS A SPECIAL FUND IN THE STATE TREASURY FOR THE PURPOSE OF PROVIDING MATCHING FUNDS TO SMALL COMMUNITIES THROUGHOUT MISSISSIPPI WHICH RECEIVE DISCRETIONARY FEDERAL FUNDS; TO PROVIDE THAT THE MONIES DISBURSED FROM THE FUND SHALL BE MATCHING FUNDS USED TO DRAW DOWN FEDERAL FUNDS FOR CERTAIN MUNICIPALITIES; TO REQUIRE THAT MONIES DISBURSED FROM THE FUND SHALL BE AT A SET MATCH RATE OF TWENTY PERCENT (20%) LOCAL FUNDS CONTRIBUTED BY THE SMALL MUNICIPALITY TO EIGHTY PERCENT (80%) FEDERAL FUNDS RECEIVED; TO PROVIDE THAT MONIES APPROPRIATED OUT OF THE FUND MAY BE USED TO REIMBURSE ACTUAL OVERSIGHT COSTS INCURRED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION UP TO A CERTAIN AMOUNT; TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO FILE A REPORT ON THE FUND TO CERTAIN PUBLIC OFFICIALS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE SMALL MUNICIPALITIES FEDERAL MATCH FUND AS A SPECIAL FUND IN THE STATE TREASURY FOR THE PURPOSE OF PROVIDING MATCHING FUNDS TO SMALL COMMUNITIES THROUGHOUT MISSISSIPPI WHICH RECEIVE DISCRETIONARY FEDERAL FUNDS; TO PROVIDE THAT THE MONIES DISBURSED FROM THE FUND SHALL BE MATCHING FUNDS USED TO DRAW DOWN FEDERAL FUNDS FOR CERTAIN MUNICIPALITIES; TO REQUIRE THAT MONIES DISBURSED FROM THE FUND SHALL BE AT A SET MATCH RATE OF TWENTY PERCENT (20%) IN ANY COMBINATION OF EITHER STATE OR LOCAL FUNDS CONTRIBUTED BY THE SMALL MUNICIPALITY TO EIGHTY PERCENT (80%) FEDERAL FUNDS RECEIVED; TO PROVIDE THAT MONIES APPROPRIATED OUT OF THE FUND MAY BE USED TO REIMBURSE ACTUAL OVERSIGHT COSTS INCURRED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION UP TO A CERTAIN AMOUNT; TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO FILE A REPORT ON THE FUND TO CERTAIN PUBLIC OFFICIALS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -203,7 +417,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T07:59:52.664529Z"
   }
 }

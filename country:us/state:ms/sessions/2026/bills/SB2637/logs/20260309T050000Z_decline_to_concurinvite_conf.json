@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Decline to Concur/Invite Conf",
+    "occurred_at": "2026-03-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2637SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Whaley.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2637.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2637"
+}

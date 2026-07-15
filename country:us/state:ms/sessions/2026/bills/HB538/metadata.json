@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Judiciary A"
+    "Judiciary A",
+    "Judiciary, Division B"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,222 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Hood,Blackwell,Yancey",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Fillingane,Sparks,Hill",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,12 +275,35 @@
       "primary": false,
       "person_id": "~{\"name\": \"Sanford\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0538SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0538SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0538IN.htm",
@@ -76,13 +316,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0538PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0538PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No.  538",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB0538.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB0538.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB0538_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB0538_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB0538_S_Amend_01_to_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB0538_S_Amend_01_to_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0538IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0538SG.pdf",
       "note": ""
     },
     {
@@ -94,12 +394,16 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hall.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0538.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 25-1-119, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE LAW PROHIBITING SANCTUARY POLICIES IN THE STATE INCLUDES ANY POLICY, ORDER, ORDINANCE, PRACTICE OR PROCEDURE, THAT LIMITS, RESTRICTS, BANS OR INTERFERES WITH THE ENFORCEMENT OF FEDERAL IMMIGRATION LAWS BY ANY PERSON; TO REQUIRE CERTAIN GOVERNMENT ENTITIES AND EMPLOYEES TO COOPERATE AND COMPLY WITH THE FEDERAL GOVERNMENT AND OTHER STATE AND LOCAL GOVERNMENTS WHEN ENFORCING FEDERAL IMMIGRATION LAWS; TO PROVIDE THAT CERTAIN GOVERNMENT ENTITIES AND EMPLOYEES SHALL BE SUBJECT TO A WAIVER OF SOVEREIGN IMMUNITY IN ALL MATTERS RELATING TO VIOLATIONS OF THIS SECTION; TO AUTHORIZE THE ATTORNEY GENERAL TO INVESTIGATE AND PROSECUTE ANY VIOLATION OF THIS SECTION; TO BRING FORWARD SECTION 71-11-1, MISSISSIPPI CODE OF 1972, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 25-1-119, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE LAW PROHIBITING SANCTUARY POLICIES IN THE STATE INCLUDES ANY POLICY, ORDER, ORDINANCE, PRACTICE OR PROCEDURE, THAT LIMITS, RESTRICTS, BANS OR INTERFERES WITH THE ENFORCEMENT OF FEDERAL IMMIGRATION LAWS BY ANY PERSON; TO REQUIRE CERTAIN GOVERNMENT ENTITIES AND EMPLOYEES TO COOPERATE AND COMPLY WITH THE FEDERAL GOVERNMENT AND OTHER STATE AND LOCAL GOVERNMENTS WHEN ENFORCING FEDERAL IMMIGRATION LAWS; TO AUTHORIZE THE ATTORNEY GENERAL TO INVESTIGATE AND PROSECUTE ANY VIOLATION OF THIS SECTION; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -108,7 +412,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:34:34.960530Z"
   }
 }

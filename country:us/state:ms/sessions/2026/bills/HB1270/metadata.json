@@ -98,6 +98,70 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,11 +180,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1270PS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1270SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1270PS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1270SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -141,13 +205,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1270PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1270PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1270PS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1270SG.pdf",
       "note": ""
     },
     {
@@ -169,7 +248,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T06:53:49.078083Z"
   }
 }

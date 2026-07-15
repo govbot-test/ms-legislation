@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Appropriations A",
     "Universities and Colleges"
   ],
   "abstracts": [],
@@ -40,6 +41,162 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Universities and Colleges;Appropriations A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: UC To AP",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: AP To UC",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From House",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +207,43 @@
       "primary": true,
       "person_id": "~{\"name\": \"Boyd\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brumfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brumfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Butler\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2368SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2368SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2368IN.htm",
@@ -68,17 +256,85 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2368PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2368PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2368",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2368.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2368.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2368_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2368_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2368_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2368_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2368IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2300-2399/SB2368SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Brumfield.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler.xml",
       "note": ""
     },
     {
@@ -87,7 +343,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-106-75, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT STUDENTS COMPLETE THE COLLEGE PREPARATORY CURRICULUM APPROVED BY THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO BE ELIGIBLE FOR FUNDS; TO REQUIRE THE STATE TO MAKE AWARDS TO STUDENTS WHO MEET THE CRITERIA ESTABLISHED HEREIN; TO REMOVE THE REQUIREMENT THAT THE BOARD PROVIDE FOR A PROCEDURE FOR WAIVER THROUGH THE 1996-1997 ACADEMIC YEAR; TO STIPULATE THAT APPLICANTS WHOSE FAMILIES HAVE AN ANNUAL INCOME EQUAL TO $42,500.00 SHALL BE FOUND TO BE IN FINANCIAL NEED; TO REQUIRE THAT STUDENTS BE DEEMED ELIGIBLE FOR A FEDERAL PELL GRANT PRIOR TO RECEIVING STATE FUNDS UNDER THIS SECTION; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-106-75, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT STUDENTS COMPLETE THE COLLEGE PREPARATORY CURRICULUM APPROVED BY THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO BE ELIGIBLE FOR FUNDS; TO REQUIRE THE STATE TO MAKE AWARDS TO STUDENTS WHO MEET THE CRITERIA ESTABLISHED HEREIN; TO REMOVE THE REQUIREMENT THAT THE BOARD PROVIDE FOR A PROCEDURE FOR WAIVER THROUGH THE 1996-1997 ACADEMIC YEAR; TO STIPULATE THAT APPLICANTS WHOSE FAMILIES HAVE AN ANNUAL INCOME EQUAL TO $42,500.00 SHALL BE FOUND TO BE IN FINANCIAL NEED; TO REQUIRE THAT STUDENTS BE DEEMED ELIGIBLE FOR A FEDERAL PELL GRANT PRIOR TO RECEIVING STATE FUNDS UNDER THIS SECTION; TO AMEND SECTION 37-106-39, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"MISSISSIPPI LAW ENFORCEMENT OFFICER\"; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +352,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T08:05:14.289410Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Medicaid"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency;Medicaid",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +109,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"McGee\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0737PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0737PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0700-0799/HB0737IN.htm",
@@ -68,17 +150,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB0737_H_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB0737_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0737IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0700-0799/HB0737PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McGee.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
       "note": ""
     },
     {
@@ -87,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 43-13-121, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF THE DIVISION OF MEDICAID HAS INCORRECTLY MADE PAYMENTS TO A MEDICAID PROVIDER THAT ARE NOT AS A RESULT OF FRAUD OR ABUSE BY THE PROVIDER AND THE PROVIDER IS UNABLE TO IMMEDIATELY REPAY ALL OF THE INCORRECT PAYMENTS, OR IF IMMEDIATE REPAYMENT OF THE INCORRECT PAYMENTS WOULD CONSTITUTE A SUBSTANTIAL FINANCIAL HARDSHIP ON THE PROVIDER, THE DIVISION SHALL ALLOW THE PROVIDER TO REPAY THE INCORRECT PAYMENTS UNDER AN INSTALLMENT REPAYMENT PLAN, WITH FULL REPAYMENT BEING REQUIRED NO EARLIER THAN TWELVE MONTHS FROM THE BEGINNING DATE OF THE PLAN; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 43-13-121, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF THE DIVISION OF MEDICAID HAS INCORRECTLY MADE PAYMENTS TO A MEDICAID PROVIDER THAT ARE NOT AS A RESULT OF FRAUD OR ABUSE BY THE PROVIDER AND THE PROVIDER IS UNABLE TO IMMEDIATELY REPAY ALL OF THE INCORRECT PAYMENTS, OR IF IMMEDIATE REPAYMENT OF THE INCORRECT PAYMENTS WOULD CONSTITUTE A SUBSTANTIAL FINANCIAL HARDSHIP ON THE PROVIDER, THE DIVISION SHALL ALLOW THE PROVIDER TO REPAY THE INCORRECT PAYMENTS UNDER AN INSTALLMENT REPAYMENT PLAN, WITH FULL REPAYMENT BEING REQUIRED NOT MORE THAN TWELVE MONTHS AFTER NOTIFICATION BY THE DIVISION OR SUCH LONGER PERIOD OF TIME AS MAY BE ALLOWED UNDER FEDERAL LAW OR REGULATION; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:33:50.658786Z"
   }
 }

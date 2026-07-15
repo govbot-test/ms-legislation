@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1609",
-  "title": "DUI; bring forward sections that regulate.",
+  "title": "DUI; revise elements and penalties.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Judiciary B"
+    "Judiciary B",
+    "Judiciary, Division B"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +117,41 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1609PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1609PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1609IN.htm",
           "media_type": "text/html"
         },
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1609IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1609CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1609CS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -74,7 +163,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1609IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1609PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +176,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTIONS 63-11-30, 63-11-31, 63-11-31.1, 63-11-32, AND 63-11-25, MISSISSIPPI CODE OF 1972, WHICH PROVIDE ELEMENTS AND PENALTIES FOR DRIVING UNDER THE INFLUENCE, IGNITION INTERLOCK AND COURT ORDERED DRUG TESTING, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 63-11-30, MISSISSIPPI CODE OF 1972, TO REVISE ELEMENTS AND PENALTIES FOR DRIVING UNDER THE INFLUENCE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T08:20:41.492114Z"
   }
 }

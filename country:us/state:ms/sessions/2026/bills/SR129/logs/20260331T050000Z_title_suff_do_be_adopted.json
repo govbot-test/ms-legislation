@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Title Suff Do Be Adopted",
+    "occurred_at": "2026-03-31T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0129PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Rhodes.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SR/SR0129.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR129"
+}

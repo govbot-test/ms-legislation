@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2825",
-  "title": "MS Health Care Industry Zone Act; extend repealer on act and related tax incentives.",
+  "title": "MS Health Care Industry Zone Act; revise certification requirements and extend repealer on act and related incentives.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Finance"
+    "Finance",
+    "Ways and Means"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,202 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:58Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Harkins,Johnson,Fillingane",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Lamar,Steverson,Zuber",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +255,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2825SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2825SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2825IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +280,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2825PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2825PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2825",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2825.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2825.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2825_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2825_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2825_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2825_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2825IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2825SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +359,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 57-117-11, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT; TO BRING FORWARD SECTIONS 57-117-1 THROUGH 57-117-9, MISSISSIPPI CODE OF 1972, WHICH CONSTITUTE THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTION 27-31-101, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REVERTER ON THE STATUTE AUTHORIZING COUNTIES AND MUNICIPALITIES TO GRANT AN AD VALOREM TAX EXEMPTION TO HEALTH CARE INDUSTRY FACILITIES; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REVERTER ON THE STATUTE AUTHORIZING COUNTIES AND MUNICIPALITIES TO GRANT A FEE-IN-LIEU OF AD VALOREM TAXES TO QUALIFIED BUSINESSES UNDER THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT WHICH MEET MINIMUM CRITERIA ESTABLISHED BY THE MISSISSIPPI DEVELOPMENT AUTHORITY; TO AMEND SECTION 27-65-101, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE PROVISION OF LAW THAT EXEMPTS FROM SALES TAXATION SALES OF MATERIALS USED IN THE CONSTRUCTION OF, OR ADDITION OR IMPROVEMENTS TO, A HEALTH CARE INDUSTRY FACILITY; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 57-117-11, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT; TO AMEND SECTION 57-117-5, MISSISSIPPI CODE OF 1972, TO REVISE THE REQUIREMENTS FOR CERTIFICATION OF AN AREA AS A HEALTH CARE INDUSTRY ZONE BY THE MISSISSIPPI DEVELOPMENT AUTHORITY; TO BRING FORWARD SECTIONS 57-117-1, 57-117-3, 57-117-7 AND 57-117-9, MISSISSIPPI CODE OF 1972, WHICH CONSTITUTE THE REMAINDER OF THE MISSISSIPPI HEALTH CARE INDUSTRY ZONE ACT, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTION 27-65-101, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE PROVISION OF LAW THAT EXEMPTS FROM SALES TAXATION SALES OF MATERIALS USED IN THE CONSTRUCTION OF, OR ADDITION OR IMPROVEMENTS TO, A HEALTH CARE INDUSTRY FACILITY; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +368,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:58Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T08:16:54.353873Z"
   }
 }

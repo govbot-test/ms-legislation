@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2494",
-  "title": "Regional Education Service Agencies (RESAs); specify authority for bulk purchasing.",
+  "title": "Regional educational service agencies; specify authority for bulk purchasing.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Education"
   ],
   "abstracts": [],
@@ -40,6 +41,86 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,11 +147,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2494CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2494PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2494CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2494PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -91,13 +172,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2494CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2494CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2494_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2494_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2494CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2494PS.pdf",
       "note": ""
     },
     {
@@ -114,7 +225,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-7-345, MISSISSIPPI CODE OF 1972, TO SPECIFY THAT A REGIONAL EDUCATIONAL SERVICE AGENCY (RESA) MAY ENGAGE IN BULK PURCHASING; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-7-345, MISSISSIPPI CODE OF 1972, TO SPECIFY THAT A REGIONAL EDUCATIONAL SERVICE AGENCY MAY ENGAGE IN BULK PURCHASING; TO REQUIRE THAT ALL SERVICES BE COMPETITIVELY BID; TO REQUIRE A REQUEST FOR PROPOSALS IN THE CASE OF PURCHASES OVER THE HIGHEST THRESHOLD; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -123,7 +234,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:43:08.742300Z"
   }
 }

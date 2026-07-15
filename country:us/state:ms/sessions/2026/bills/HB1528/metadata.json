@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Education"
+    "Education",
+    "Universities and Colleges"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Universities and Colleges",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +121,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Roberson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hale\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +137,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1528CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1528PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1528CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1528PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +162,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1528CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1528CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1528_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1528_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1528CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1528PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Roberson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hale.xml",
       "note": ""
     },
     {
@@ -102,7 +215,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-3-2, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATING TO TEACHER AND ADMINISTRATOR LICENSURE, TO COINCIDE WITH COLLEGIATE EDUCATOR PREPARATION PROGRAMS; TO REVISE THE QUALIFICATIONS FOR ENTRY INTO EDUCATOR PREPARATION PROGRAMS BY REMOVING THE MINIMUM 21 ACT SCORE OR SAT EQUIVALENT, PRAXIS PASSING SCORE AND 3.0 GPA REQUIREMENT NECESSARY PRIOR TO ADMISSION INTO AN APPROVED EDUCATOR PREPARATION PROGRAM FOR TRADITIONAL AND NONTRADITIONAL TEACHING ROUTES TO RECEIVE A STANDARD LICENSE; TO REQUIRE PARTICIPANTS IN THE TEACH MISSISSIPPI INSTITUTE TO COMPLETE TWO SEMESTER, SIX-HOUR INTERNSHIPS, AND AN ALLOWANCE OF A MAXIMUM OF 15 CREDIT HOURS FOR RECEIPT OF A PROVISIONAL TEACHING LICENSE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-3-2, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATING TO TEACHER AND ADMINISTRATOR LICENSURE, TO COINCIDE WITH COLLEGIATE EDUCATOR PREPARATION PROGRAMS; TO REVISE THE QUALIFICATIONS FOR ENTRY INTO EDUCATOR PREPARATION PROGRAMS BY REMOVING THE MINIMUM 21 ACT SCORE OR SAT EQUIVALENT, PRAXIS PASSING SCORE AND 3.0 GPA REQUIREMENT NECESSARY PRIOR TO ADMISSION INTO AN APPROVED EDUCATOR PREPARATION PROGRAM FOR TRADITIONAL AND NONTRADITIONAL TEACHING ROUTES TO RECEIVE A STANDARD LICENSE; TO REQUIRE PARTICIPANTS IN THE TEACH MISSISSIPPI INSTITUTE TO COMPLETE TWO SEMESTER, SIX-HOUR INTERNSHIPS, AND AN ALLOWANCE OF A MAXIMUM OF 15 CREDIT HOURS FOR RECEIPT OF A PROVISIONAL TEACHING LICENSE; TO ESTABLISH THE MISSISSIPPI MEDICAL EDUCATION PIPELINE AND READINESS ACT; TO STATE THE PURPOSE OF THE ACT IS TO ESTABLISH A COORDINATED MEDICAL EDUCATION PIPELINE BEGINNING IN HIGH SCHOOL AND CONTINUING THROUGH UNDERGRADUATE STUDY, SET UNIFORM READINESS STANDARDS FOR STUDENTS PURSUING MEDICAL EDUCATION, INCREASE THE NUMBER OF MISSISSIPPI STUDENTS ADMITTED TO MEDICAL SCHOOL, IMPROVE DIVERSITY IN THE MEDICAL WORKFORCE, AND STRENGTHEN THE STATE'S HEALTH CARE DELIVERY CAPACITY; TO ESTABLISH THE MISSISSIPPI MEDICAL EDUCATION PIPELINE PROGRAM, A STATEWIDE INITIATIVE JOINTLY ADMINISTERED BY THE MISSISSIPPI DEPARTMENT OF EDUCATION, THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING AND THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER, WHICH SHALL PROVIDE A STRUCTURED PATHWAY FROM HIGH SCHOOL THROUGH COLLEGE FOR STUDENTS SEEKING ADMISSION TO MEDICAL SCHOOL; TO PRESCRIBE THE DUTIES OF MDE, IHL AND UMMC; TO PROVIDE THAT STUDENTS MAY APPLY TO ENTER THE PIPELINE BEGINNING IN THE 9TH GRADE; TO PROVIDE THAT MDE, IHL AND UMMC SHALL JOINTLY PUBLISH AN ANNUAL REPORT; TO REQUIRE MDE, IHL AND UMMC TO JOINTLY PROMULGATE RULES NECESSARY FOR THE PROGRAM'S IMPLEMENTATION; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:24:04.122167Z"
   }
 }

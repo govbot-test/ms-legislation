@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1849",
+  "title": "Ad valorem tax and sales tax; authorize certain exemptions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1849"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Yates",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yates\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1800-1899/HB1849IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1800-1899/HB1849IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1800-1899/HB1849IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yates.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1849.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-31-1, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM AD VALOREM TAXATION ANY LEASEHOLD INTEREST OR SUB-LEASE THEREOF CONVEYED TO ANY NONPROFIT ORGANIZATION FOR THE DEVELOPMENT, SUPPORT, IMPROVEMENT, ADMINISTRATION OR OPERATION OF STATE PARK LANDS UNDER SECTION 55-3-47; TO AMEND SECTION 27-65-111, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM SALES TAXATION SALES OF TANGIBLE PERSONAL PROPERTY OR SERVICES TO ANY NONPROFIT ORGANIZATION FOR PURPOSES OF MAKING IMPROVEMENTS OR REPAIRS TO LANDS OR PROPERTIES SUBJECT TO A LEASE OR SUB-LEASE FOR THE DEVELOPMENT, SUPPORT, IMPROVEMENT, ADMINISTRATION OR OPERATION OF STATE PARK LANDS UNDER SECTION 55-3-47; TO BRING FORWARD SECTION 55-3-47, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE POWERS AND DUTIES OF THE MISSISSIPPI DEPARTMENT OF WILDLIFE, FISHERIES AND PARKS REGARDING STATE PARKS, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:28Z"
+  }
+}

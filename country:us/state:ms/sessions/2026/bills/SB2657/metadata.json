@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2657",
-  "title": "Wild turkey stamps; provide that revenue collected shall be used by MDWFP only for certain objectives.",
+  "title": "Wild Turkey Stamp Fund; create and provide that revenue collected from wild turkey stamp sales be deposited into for certain objectives.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations A",
     "Wildlife, Fisheries and Parks"
   ],
   "abstracts": [],
@@ -40,6 +41,140 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks;Appropriations A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: WI To AP",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: AP To WI",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +185,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Suber\"}",
       "organization_id": null
+    },
+    {
+      "name": "Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Butler\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +201,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2657CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2657SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2657CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2657SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +226,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2657CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2657CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2657PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2657PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2657CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2657SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Suber.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler.xml",
       "note": ""
     },
     {
@@ -102,7 +279,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 49-7-181, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ALL REVENUE COLLECTED FROM THE PROCEEDS OF WILD TURKEY STAMPS SHALL BE DESIGNATED FOR USE BY THE DEPARTMENT OF WILDLIFE, FISHERIES AND PARKS ONLY FOR CERTAIN OBJECTIVES; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 49-7-181, MISSISSIPPI CODE OF 1972, TO CREATE THE WILD TURKEY STAMP FUND AS A SPECIAL FUND WITHIN THE STATE TREASURY; TO PROVIDE THAT ALL REVENUE COLLECTED FROM THE PROCEEDS OF WILD TURKEY STAMPS SHALL BE DEPOSITED INTO SUCH FUND AND SHALL BE DESIGNATED FOR USE BY THE DEPARTMENT OF WILDLIFE, FISHERIES AND PARKS ONLY FOR CERTAIN OBJECTIVES; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +288,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:27Z",
     "text_extraction_latest_update": "2026-07-13T08:11:45.878211Z"
   }
 }

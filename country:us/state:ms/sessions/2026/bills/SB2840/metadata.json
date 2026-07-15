@@ -1,13 +1,15 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2840",
-  "title": "Business taxes; allow 75% rebate or sale of credit for inventory taxes paid, and eliminate local privilege taxes.",
+  "title": "Inventory tax; require Department of Revenue to provide report containing certain 2025 information regarding.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Finance"
+    "Accountability, Efficiency, Transparency",
+    "Finance",
+    "Ways and Means"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -28,6 +30,88 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Ways and Means;Accountability, Efficiency, Transparency",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +130,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2840PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2840PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2840IN.htm",
           "media_type": "text/html"
         },
@@ -56,13 +155,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2840CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2840CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2840_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2840_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2840IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2840PS.pdf",
       "note": ""
     },
     {
@@ -75,7 +204,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 27-7-22.5, MISSISSIPPI CODE OF 1972, WHICH PROVIDES AN INCOME TAX CREDIT FOR AD VALOREM TAXES PAID ON COMMODITIES, RAW MATERIALS, WORKS-IN-PROCESS, PRODUCTS, GOODS, WARES AND MERCHANDISE HELD FOR RESALE BY ANY MANUFACTURER, DISTRIBUTOR, WHOLESALE OR RETAIL MERCHANT, TO ALLOW A TAXPAYER, IN LIEU OF CARRYING FORWARD A CREDIT CLAIMED BUT NOT USED IN A TAXABLE YEAR, TO SELL SUCH CREDIT ON THE MARKET DURING THE FIVE CONSECUTIVE YEARS FROM THE CLOSE OF THE TAX YEAR IN WHICH THE CREDIT WAS EARNED; TO ALLOW THE OPTION, IN LIEU OF CLAIMING THE CREDIT, OF CLAIMING A REBATE OF 75% OF THE AMOUNT THAT WOULD BE ELIGIBLE TO CLAIM AS A CREDIT; TO REPEAL SECTION 27-17-9, MISSISSIPPI CODE OF 1972, WHICH IMPOSES LOCAL PRIVILEGE LICENSE REQUIREMENTS AND TAXES FOR ENGAGING IN BUSINESS; TO REPEAL SECTION 27-17-35, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OPERATORS OF MOTOR VEHICLE RENTAL BUSINESSES; TO REPEAL SECTION 27-17-162, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON FLEA MARKET SELLERS; TO REPEAL SECTION 27-17-299, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON PAWNBROKERS; TO REPEAL SECTION 27-17-365, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OPERATORS OF WHOLESALE OR RETAIL STORES; TO REPEAL SECTION 27-17-415, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON DEALERS OF DEADLY WEAPONS; TO REPEAL SECTION 27-17-423, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OWNERS OR OPERATORS OF DRILLING RIGS; TO REPEAL SECTION 27-17-425, MISSISSIPPI CODE OF 1972, WHICH IMPOSES A LOCAL PRIVILEGE TAX ON OPTOMETRISTS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REQUIRE THE DEPARTMENT OF REVENUE TO COLLECT DATA FROM EACH COUNTY SHOWING TOTAL REVENUE FROM THE INVENTORY TAX FOR THE 2025 TAX YEAR; TO REQUIRE THE DEPARTMENT TO PROVIDE TO THE CHAIRMEN OF THE SENATE FINANCE COMMITTEE AND THE HOUSE WAYS AND MEANS COMMITTEE, NO LATER THAN DECEMBER 1, 2026, A REPORT CONTAINING INFORMATION FROM THE 2025 TAX YEAR REGARDING TOTAL REVENUE FROM THE INVENTORY TAX, TOTAL AMOUNT OF CREDITS CLAIMED FOR INVENTORY TAX PAYMENTS, CATEGORIZED BY ENTITY TYPE, AND TOTAL AMOUNT OF CREDITS ALLOCATED FOR INVENTORY TAX PAYMENTS, CATEGORIZED BY ENTITY TYPE; TO BRING FORWARD SECTION 27-7-22.5, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -84,7 +213,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:00:51.634030Z"
   }
 }

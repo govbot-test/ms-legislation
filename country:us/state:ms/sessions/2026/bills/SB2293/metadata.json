@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2293",
-  "title": "Mississippi Student Funding Formula; increase weight and multiplier for gifted education.",
+  "title": "Total funding formula; increase gifted education weight and multiplier, and include 7th- and 8th-grade students in CTE weight.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations A",
     "Education"
   ],
   "abstracts": [],
@@ -39,6 +40,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
       }
     }
   ],
@@ -82,6 +153,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Boyd\"}",
       "organization_id": null
+    },
+    {
+      "name": "McLendon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLendon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (12th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (12th)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seymour",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seymour\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -90,11 +193,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2293CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2293PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2293CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2293PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -115,13 +218,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2293CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2293CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2293_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2293_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2293CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2293PS.pdf",
       "note": ""
     },
     {
@@ -145,12 +278,28 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLendon.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Seymour.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2293.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-151-205, MISSISSIPPI CODE OF 1972, TO REVISE THE MISSISSIPPI STUDENT FUNDING FORMULA TO INCREASE THE WEIGHT AND MULTIPLIER FOR GIFTED EDUCATION; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-151-205, MISSISSIPPI CODE OF 1972, TO REVISE THE MISSISSIPPI STUDENT FUNDING FORMULA TO INCREASE THE WEIGHT AND MULTIPLIER FOR GIFTED EDUCATION; TO REQUIRE THAT AMOUNTS PROVIDED TO SCHOOL DISTRICTS AS A RESULT OF SUCH GIFTED EDUCATION WEIGHT AND MULTIPLIER GO DIRECTLY TOWARD GIFTED EDUCATION INSTRUCTION; TO INCLUDE SEVENTH- AND EIGHTH-GRADE STUDENTS AMONG STUDENTS ENROLLED IN A CAREER AND TECHNICAL EDUCATION COURSE FOR WEIGHT PURPOSES; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -159,7 +308,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T07:22:42.128978Z"
   }
 }

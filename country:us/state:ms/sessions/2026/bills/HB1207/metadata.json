@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1207",
-  "title": "Dyslexia; revise definition to align with updated definition adopted by the IDA board of directors.",
+  "title": "State of emergency; provide exception for school districts impacted by \"Winter Storm Fern\" to be allowed up to 15 days of hold harmless.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -40,6 +40,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Education",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,12 +116,35 @@
       "primary": false,
       "person_id": "~{\"name\": \"Byrd\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1207PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1207PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1207IN.htm",
@@ -76,13 +157,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1207_H_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1207_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1207IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1207PS.pdf",
       "note": ""
     },
     {
@@ -94,12 +190,16 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1207.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-173-1, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"DYSLEXIA\" IN ALIGNMENT WITH THE UPDATED DEFINITION ADOPTED BY THE INTERNATIONAL DYSLEXIA ASSOCIATION BOARD OF DIRECTORS ON OCTOBER 22, 2025; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTIONS 37-13-63 AND 37-13-64, MISSISSIPPI CODE OF 1972, TO PROVIDE AN EXCEPTION OF THE NUMBER OF DAYS SCHOOL DISTRICTS IMPACTED BY WINTER STORM FERN, WHICH WARRANTED THE GOVERNOR TO DECLARE A STATE OF EMERGENCY FOR SUCH PURPOSES, SHALL BE REQUIRED TO CONDUCT SCHOOL OUTSIDE OF THE REQUIRED 180 DAYS OF THE SCHOLASTIC YEARS BY GRANTING SUCH DISTRICTS WHICH CONTINUE TO BE ADVERSELY AFFECTED BEYOND THE EXPIRATION OF THE DECLARED STATE OF EMERGENCY ON JANUARY 27, 2026, NOT TO EXCEED FIFTEEN DAYS FOR PURPOSES OF THOSE SCHOOL BOARD'S ABILITY TO RECEIVE PAYMENT FROM THE STATE DEPARTMENT OF EDUCATION FOR PER PUPIL EXPENDITURE FOR PUPILS IN NET ENROLLMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -108,7 +208,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:51:10.382291Z"
   }
 }

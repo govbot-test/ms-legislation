@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Judiciary A",
     "Universities and Colleges"
   ],
   "abstracts": [],
@@ -39,6 +40,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
       }
     }
   ],
@@ -98,6 +169,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pope\"}",
       "organization_id": null
+    },
+    {
+      "name": "Norwood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (12th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (12th)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -106,11 +201,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2046CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2046PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2046CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2046PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -131,13 +226,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2046CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2046CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2046_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2046_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2046CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2046PS.pdf",
       "note": ""
     },
     {
@@ -169,12 +294,24 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Norwood.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2046.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE NEW SECTION 75-101-1, MISSISSIPPI CODE OF 1972, TO ESTABLISH A SHORT TITLE FOR THE MISSISSIPPIANS' RIGHT TO NAME, LIKENESS AND VOICE ACT; TO CREATE NEW SECTION 75-101-3, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW SECTION 75-101-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT EVERY INDIVIDUAL HAS A PROPERTY RIGHT IN HIS OR HER OWN NAME, LIKENESS AND VOICE; TO CREATE NEW SECTION 75-101-7, MISSISSIPPI CODE OF 1972, TO PROVIDE CERTAIN LIABILITY FOR PERSONS OR ENTITIES WHO INFRINGE ON AN INDIVIDUAL'S RIGHTS UNDER THIS ACT; TO CREATE NEW SECTION 75-101-9, MISSISSIPPI CODE OF 1972, TO PROVIDE A FIRST AMENDMENT DEFENSE TO CIVIL ACTIONS BROUGHT UNDER THIS ACT; TO CREATE NEW SECTION 75-101-11, MISSISSIPPI CODE OF 1972, TO PROVIDE LIABILITY FOR THE COMMERCIAL USE OF AN INDIVIDUAL'S NAME, VOICE OR LIKENESS; TO CREATE NEW SECTION 75-101-13, MISSISSIPPI CODE OF 1972, TO STATE THE RELATIONSHIP OF THE ACT TO OTHER LAWS; TO PROVIDE THAT THE ACT IS SEVERABLE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE NEW SECTION 75-101-1, MISSISSIPPI CODE OF 1972, TO ESTABLISH A SHORT TITLE FOR THE MISSISSIPPIANS' RIGHT TO NAME, LIKENESS AND VOICE ACT; TO CREATE NEW SECTION 75-101-3, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW SECTION 75-101-5, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT EVERY INDIVIDUAL HAS A PROPERTY RIGHT IN HIS OR HER OWN NAME, LIKENESS AND VOICE; TO CREATE NEW SECTION 75-101-7, MISSISSIPPI CODE OF 1972, TO PROVIDE CERTAIN LIABILITY FOR PERSONS OR ENTITIES WHO INFRINGE ON AN INDIVIDUAL'S RIGHTS UNDER THIS ACT; TO CREATE NEW SECTION 75-101-9, MISSISSIPPI CODE OF 1972, TO PROVIDE A FIRST AMENDMENT DEFENSE TO CIVIL ACTIONS BROUGHT UNDER THIS ACT; TO CREATE NEW SECTION 75-101-11, MISSISSIPPI CODE OF 1972, TO PROVIDE LIABILITY FOR THE COMMERCIAL USE OF AN INDIVIDUAL'S NAME, VOICE OR LIKENESS; TO CREATE NEW SECTION 75-101-13, MISSISSIPPI CODE OF 1972, TO STATE THE RELATIONSHIP OF THE ACT TO OTHER LAWS; TO PROVIDE THAT THIS ACT IS SEVERABLE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -183,7 +320,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:49:11.263670Z"
   }
 }

@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1221",
-  "title": "Autopsies; create \"Jenna's Law\" to require autopsies to include inquiry about whether death was a result of seizure or epilepsy.",
+  "title": "The MS Jenna's Law Task Force; create.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Judiciary A"
+    "Judiciary A",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +121,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"Hood\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1221PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1221PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1221IN.htm",
@@ -68,17 +162,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1221CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1221CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1221_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1221_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1221IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1221PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hood.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
       "note": ""
     },
     {
@@ -87,7 +215,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE NEW SECTION 41-37-27, MISSISSIPPI CODE OF 1972, TO BE KNOWN AS \"JENNA'S LAW,\" TO REQUIRE EVERY AUTOPSY CONDUCTED IN THIS STATE TO INCLUDE AN INQUIRY TO DETERMINE WHETHER THE DEATH WAS A DIRECT RESULT OF A SEIZURE OR EPILEPSY; TO REQUIRE, IF THE FINDINGS IN AN AUTOPSY ARE CONSISTENT WITH KNOWN OR SUSPECTED SUDDEN UNEXPECTED DEATH IN EPILEPSY (SUDEP), THE MEDICAL EXAMINER, EXAMINING PHYSICIAN OR CORONER TO CAUSE TO BE INDICATED ON THE DEATH CERTIFICATE THAT SUDEP IS THE CAUSE OR SUSPECTED CAUSE OF DEATH AND TO FORWARD A COPY OF THE DEATH CERTIFICATE TO THE NORTH AMERICAN SUDEP REGISTRY WITHIN THIRTY DAYS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI JENNA'S LAW TASK FORCE; TO REQUIRE THE TASK FORCE TO STUDY THE INCLUSION OF INFORMATION ON AUTOPSIES RELATED TO SEIZURES OR EPILEPSY; TO PROVIDE FOR THE MEMBERS OF THE TASK FORCE; TO PROVIDE TIMELINES FOR THE TASK FORCE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:55:45.144108Z"
   }
 }

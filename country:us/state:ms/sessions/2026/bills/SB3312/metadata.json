@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3312",
+  "title": "Ad valorem tax assessment; revise provision concerning inflation factor for commercial and solar wind facilities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb3312"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Younger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/3300-3399/SB3312IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3300-3399/SB3312IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3300-3399/SB3312IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB3312.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-35-50, MISSISSIPPI CODE OF 1972, TO DIRECT THE DEPARTMENT OF REVENUE, WHEN PROMULGATING ITS ANNUAL TABLE OF INFLATION FACTORS FOR INDUSTRIAL PROPERTY, TO INCLUDE COMMERCIAL SOLAR AND WIND FACILITIES AS A SEPARATE CATEGORY OF INDUSTRIAL PROPERTY; TO PROVIDE THAT, IF THE DEPARTMENT HAS NOT PROVIDED A SEPARATE INFLATION FACTOR FOR COMMERCIAL SOLAR AND WIND FACILITIES FOR A PARTICULAR YEAR, WHETHER BASED ON MARSHALL VALUATION SERVICE OR AS OTHERWISE DETERMINED BY THE DEPARTMENT, THE DEPARTMENT SHALL SET SUCH INFLATION FACTOR AT 1.000; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:28Z"
+  }
+}

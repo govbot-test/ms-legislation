@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Government Structure"
   ],
   "abstracts": [],
@@ -39,6 +40,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
       }
     }
   ],
@@ -74,11 +145,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2259CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2259PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2259CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2259PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -99,13 +170,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2259CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2259CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2259_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2259_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2259CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2259PS.pdf",
       "note": ""
     },
     {
@@ -126,7 +227,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 25-41-5, MISSISSIPPI CODE OF 1972, TO REQUIRE OFFICIAL MEETINGS OF CERTAIN PUBLIC BODIES, WITH EXCEPTIONS, TO BE BROADCAST VIA VIDEO LIVESTREAMING APPLICATIONS ON THE FRONT PAGE OF THE OFFICIAL WEBSITE OF EACH RESPECTIVE AGENCY, TO REQUIRE INFORMATION TO BE INCLUDED IN ALL PUBLIC NOTICES, AND TO PROVIDE THAT ANY ACTION TAKEN BY SUCH A PUBLIC BODY FAILING TO COMPLY WITH LIVESTREAMING REQUIREMENTS IS VOID AND OF NO EFFECT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 25-41-5, MISSISSIPPI CODE OF 1972, TO REQUIRE OFFICIAL MEETINGS OF STATE AGENCIES, WITH EXCEPTIONS, TO BE BROADCAST VIA VIDEO LIVESTREAMING APPLICATIONS ON THE FRONT PAGE OF THE OFFICIAL WEBSITE OF EACH RESPECTIVE AGENCY; TO REQUIRE CERTAIN INFORMATION TO BE INCLUDED IN ALL PUBLIC NOTICES; TO PROVIDE THAT ANY ACTION TAKEN BY A STATE AGENCY FAILING TO USE DUE DILIGENCE TO COMPLY WITH LIVESTREAMING REQUIREMENTS IS SUBJECT TO THE PROVISIONS AND PENALTIES IN SECTION 25-41-15; TO PROVIDE BACKUP PROCEDURAL REQUIREMENTS IF TECHNOLOGICAL DIFFICULTIES MAKE LIVESTREAMING A MEETING IMPRACTICABLE; TO PROVIDE A DEADLINE FOR LIVESTREAMING IMPLEMENTATION; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -135,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T06:33:31.178076Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Medicaid"
   ],
   "abstracts": [],
@@ -40,6 +41,86 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Medicaid;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: ME To AC",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +131,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Boyd\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brumfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brumfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gillespie Isom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gillespie Isom\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +155,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2708CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2708PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +180,55 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2708CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2708_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2708_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2708PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Boyd.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Brumfield.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gillespie_Isom.xml",
       "note": ""
     },
     {
@@ -102,7 +237,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REQUIRE HEALTH CARE PROFESSIONALS TO SCREEN BIRTH MOTHERS FOR DEPRESSION AT THE TIME OF BIRTH; TO REQUIRE HEALTH INSURANCE ISSUERS TO COVER SUCH SCREENING; TO PROVIDE EXEMPTIONS TO HEALTH INSURANCE ISSUERS THAT ARE REQUIRED TO COVER SUCH SCREENING; TO CREATE NEW SECTION 83-9-47, MISSISSIPPI CODE OF 1972, TO PROHIBIT INSURERS PROVIDING PRESCRIPTION DRUG COVERAGE FROM REQUIRING OR IMPOSING ANY STEP THERAPY PROTOCOL WITH RESPECT TO DRUGS APPROVED BY THE UNITED STATES FOOD AND DRUG ADMINISTRATION (FDA) FOR THE TREATMENT OF POSTPARTUM DEPRESSION; TO DEFINE \"INSURER\"; TO AMEND SECTION 43-13-117, MISSISSIPPI CODE OF 1972, TO REQUIRE COVERAGE AND REIMBURSEMENT FOR POSTPARTUM DEPRESSION SCREENING; TO CREATE NEW SECTION 41-140-1, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW SECTION 41-140-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO DEVELOP AND PROMULGATE WRITTEN EDUCATIONAL MATERIALS AND INFORMATION FOR HEALTH CARE PROFESSIONALS AND PATIENTS ABOUT MATERNAL MENTAL HEALTH CONDITIONS; TO REQUIRE HOSPITALS PROVIDING BIRTH SERVICES TO PROVIDE SUCH EDUCATIONAL MATERIALS TO NEW PARENTS AND, AS APPROPRIATE, OTHER FAMILY MEMBERS; TO REQUIRE SUCH MATERIALS BE PROVIDED TO ANY WOMAN WHO PRESENTS WITH SIGNS OF A MATERNAL MENTAL HEALTH DISORDER; TO CREATE NEW SECTION 41-140-5, MISSISSIPPI CODE OF 1972, TO REQUIRE ANY HEALTH CARE PROVIDER OR NURSE MIDWIFE WHO RENDERS POSTNATAL CARE OR PEDIATRIC INFANT CARE TO ENSURE THAT THE POSTNATAL CARE PATIENT OR BIRTHING MOTHER OF THE PEDIATRIC INFANT CARE PATIENT, AS APPLICABLE, IS OFFERED SCREENING FOR POSTPARTUM DEPRESSION AND TO PROVIDE APPROPRIATE REFERRALS IF SUCH PATIENT OR MOTHER IS DEEMED LIKELY TO BE SUFFERING FROM POSTPARTUM DEPRESSION; TO CREATE NEW SECTION 83-9-48, MISSISSIPPI CODE OF 1972, TO DEFINE \"INSURER\" AND REQUIRE INSURERS TO PROVIDE COVERAGE FOR POSTPARTUM DEPRESSION SCREENING; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REQUIRE HEALTH CARE PROFESSIONALS TO SCREEN BIRTH MOTHERS FOR DEPRESSION AT THE TIME OF BIRTH; TO REQUIRE HEALTH INSURANCE ISSUERS TO COVER SUCH SCREENING; TO PROVIDE EXEMPTIONS TO HEALTH INSURANCE ISSUERS THAT ARE REQUIRED TO COVER SUCH SCREENING; TO AMEND SECTION 43-13-117, MISSISSIPPI CODE OF 1972, TO REQUIRE COVERAGE AND REIMBURSEMENT FOR POSTPARTUM DEPRESSION SCREENING; TO CREATE NEW SECTION 41-140-1, MISSISSIPPI CODE OF 1972, TO DEFINE TERMS; TO CREATE NEW SECTION 41-140-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO DEVELOP AND PROMULGATE WRITTEN EDUCATIONAL MATERIALS AND INFORMATION FOR HEALTH CARE PROFESSIONALS AND PATIENTS ABOUT MATERNAL MENTAL HEALTH CONDITIONS; TO REQUIRE HOSPITALS PROVIDING BIRTH SERVICES TO PROVIDE SUCH EDUCATIONAL MATERIALS TO NEW PARENTS AND, AS APPROPRIATE, OTHER FAMILY MEMBERS; TO REQUIRE SUCH MATERIALS BE PROVIDED TO ANY WOMAN WHO PRESENTS WITH SIGNS OF A MATERNAL MENTAL HEALTH DISORDER; TO CREATE NEW SECTION 41-140-5, MISSISSIPPI CODE OF 1972, TO REQUIRE ANY HEALTH CARE PROVIDER OR NURSE MIDWIFE WHO RENDERS POSTNATAL CARE OR PEDIATRIC INFANT CARE TO ENSURE THAT THE POSTNATAL CARE PATIENT OR BIRTHING MOTHER OF THE PEDIATRIC INFANT CARE PATIENT, AS APPLICABLE, IS OFFERED SCREENING FOR POSTPARTUM DEPRESSION AND TO PROVIDE APPROPRIATE REFERRALS IF SUCH PATIENT OR MOTHER IS DEEMED LIKELY TO BE SUFFERING FROM POSTPARTUM DEPRESSION; TO CREATE NEW SECTION 83-9-48, MISSISSIPPI CODE OF 1972, TO DEFINE \"INSURER\" AND REQUIRE INSURERS TO PROVIDE COVERAGE FOR POSTPARTUM DEPRESSION SCREENING; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +246,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:19:19.161615Z"
   }
 }

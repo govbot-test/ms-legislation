@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2428",
-  "title": "CWD testing; make third violation a felony with an increased penalty.",
+  "title": "White-tailed deer enclosures; enable testing for CWD by submission of viable samples or alternative methods for such testing.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -40,6 +40,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Failed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Wildlife, Fisheries and Parks",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +126,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2428CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2428PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2428CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2428PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +151,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2428CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2428CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2428_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2428_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2428CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2428PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +200,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 49-7-58.6, MISSISSIPPI CODE OF 1972, TO MAKE A THIRD VIOLATION OF FAILURE TO COMPLY WITH RULES AND REGULATIONS PROMULGATED BY THE COMMISSION ON WILDLIFE, FISHERIES AND PARKS REQUIRING THE SUBMISSION OF SAMPLES FROM CERTAIN HARVESTED WHITE-TAILED DEER FOR CHRONIC WASTING DISEASE (CWD) TESTING A FELONY WITH AN INCREASED FINE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 49-7-58.6, MISSISSIPPI CODE OF 1972, TO ENABLE TESTING OF WHITE-TAILED DEER HARVESTED WITHIN ANY ENCLOSURE FOR CHRONIC WASTING DISEASE (CWD) BY ANNUAL SUBMISSION OF VIABLE SAMPLES OR ALTERNATIVE METHODS FOR SUCH TESTING; TO REQUIRE THE COMMISSION ON WILDLIFE, FISHERIES AND PARKS TO PROMULGATE RULES AND REGULATIONS REQUIRING THE SUBMISSION OF SUCH SAMPLES OR ALTERNATIVE METHODS FOR CWD TESTING; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +209,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:00:37.431616Z"
   }
 }

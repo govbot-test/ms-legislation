@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2444",
-  "title": "Diabetes-related amputations; direct Dept. of Health to appoint Research 1 MS university to conduct study on prevention and reduction of.",
+  "title": "Diabetes and related complications; direct MSDH to conduct study on the prevention and reduction of amputations resulting from.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Public Health and Human Services",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Human Services",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +109,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Hickman\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frazier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frazier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norwood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (12th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (12th)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +149,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2444CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2444PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2444CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2444PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +174,48 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2444CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2444CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2444CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2444PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hickman.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Frazier.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Norwood.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(12th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
       "note": ""
     },
     {
@@ -102,7 +224,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO DIRECT THE STATE DEPARTMENT OF HEALTH TO APPOINT A MISSISSIPPI UNIVERSITY LISTED AS RESEARCH 1 (R1) IN THE CARNEGIE CLASSIFICATION OF INSTITUTIONS OF HIGHER EDUCATION TO CONDUCT A STUDY ON THE PREVENTION AND REDUCTION OF AMPUTATIONS RESULTING FROM DIABETES AND RELATED COMPLICATIONS; TO SET FORTH TOPICS FOR EVALUATION BY THE STUDY; TO ESTABLISH THE MEMBERSHIP OF THE STUDY COMMITTEE AND PROVIDE THAT THE STUDY COMMITTEE SHALL BE GOVERNED BY THE R1 UNIVERSITY; TO REQUIRE THE STUDY COMMITTEE TO FILE A REPORT WITH THE LEGISLATURE NOT LATER THAN DECEMBER 1, 2026; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE THAT THE MISSISSIPPI STATE DEPARTMENT OF HEALTH SHALL CONDUCT A STUDY ON THE PREVENTION AND REDUCTION OF AMPUTATIONS RESULTING FROM DIABETES AND RELATED COMPLICATIONS; TO SPECIFY THE SUBJECTS TO BE EVALUATED BY THE STUDY; TO DIRECT THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI STATE DEPARTMENT OF HEALTH TO APPOINT A WORKGROUP OF SUBJECT-MATTER EXPERTS AND STAKEHOLDERS; TO REQUIRE THE MISSISSIPPI STATE DEPARTMENT OF HEALTH TO SUBMIT A REPORT ON THE RESULTS OF THE STUDY AND RECOMMENDATIONS TO CERTAIN LEGISLATIVE COMMITTEES BY DECEMBER 1, 2026; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +233,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:50:33.892061Z"
   }
 }

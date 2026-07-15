@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB943",
-  "title": "Commissioner of Banking and Consumer Finance; extend repealer on authority to join certain examinations with the Federal Reserve Bank.",
+  "title": "Commissioner of Banking and Consumer Finance; delete repealer on authority to join certain examinations with the Federal Reserve Bank.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Banking and Financial Services"
+    "Banking and Financial Services",
+    "Business and Financial Institutions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:58Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +117,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0943CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0943PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0943CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0943PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +142,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0900-0999/HB0943CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0943CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0943CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0900-0999/HB0943PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +176,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 81-1-81, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE PROVISION OF LAW AUTHORIZING THE COMMISSIONER OF BANKING AND CONSUMER FINANCE TO JOIN AN EXAMINATION OR ISSUE A JOINT REPORT OF EXAMINATION WITH THE FEDERAL RESERVE BANK OF CERTAIN BANK HOLDING COMPANIES; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 81-1-81, MISSISSIPPI CODE OF 1972, TO DELETE THE REPEALER ON THE PROVISION OF LAW AUTHORIZING THE COMMISSIONER OF BANKING AND CONSUMER FINANCE TO JOIN AN EXAMINATION OR ISSUE A JOINT REPORT OF EXAMINATION WITH THE FEDERAL RESERVE BANK OF CERTAIN BANK HOLDING COMPANIES; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:58Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:11:06.554687Z"
   }
 }

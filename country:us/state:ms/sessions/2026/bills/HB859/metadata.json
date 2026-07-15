@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
-    "Apportionment and Elections"
+    "Accountability, Efficiency, Transparency",
+    "Apportionment and Elections",
+    "Elections"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +42,130 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Elections;Accountability, Efficiency, Transparency",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: EL To AC",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +184,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0859SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0859SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0859IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +209,58 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0859PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0859PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB0859_H_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB0859_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB0859_H_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB0859_H_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0859IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0859SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +273,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 23-15-637, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL ABSENTEE BALLOTS CAST IN PERSON AT THE OFFICE OF THE REGISTRAR TO BE CAST USING THE OPTICAL MARK READING (OMR) EQUIPMENT; TO REQUIRE THE OMR EQUIPMENT TO BE SEALED AT NIGHT; TO REQUIRE THE USE OF PAPER BALLOTS IF THE OMR EQUIPMENT BECOMES INOPERABLE; TO AMEND SECTION 23-15-659, MISSISSIPPI CODE OF 1972, TO REVISE HOW THE ABSENTEE BALLOT APPLICATIONS AND ELECTOR'S CERTIFICATES ARE PRINTED FOR ALL ABSENTEE BALLOTS THAT ARE CAST IN PERSON AT THE OFFICE OF THE REGISTRAR; TO AMEND SECTIONS 23-15-639  AND 23-15-645, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTION 23-15-627, MISSISSIPPI CODE OF 1972, TO REVISE THE FORM OF THE ABSENTEE BALLOT APPLICATION; TO AMEND SECTION 23-15-633, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTION 23-15-625, MISSISSIPPI CODE OF 1972, TO REQUIRE THE REGISTRAR TO CONSPICUOUSLY POST A LIST OF THOSE PERSONS VOTING IN-PERSON AT THE END OF VOTING EACH DAY; TO AMEND SECTION 23-15-715, MISSISSIPPI CODE OF 1972, TO REQUIRE ELECTORS VOTING BY ABSENTEE BALLOT IN-PERSON TO FEED THEIR BALLOTS INTO THE OMR EQUIPMENT; TO AMEND SECTION 23-15-719, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTIONS 23-15-507 AND 23-15-515, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATING TO OMR EQUIPMENT; TO AMEND SECTION 23-15-517, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL BALLOTS TO BE PROCESSED ON THE NIGHT OF AN ELECTION AND REPORTED TO THE TABULATION CENTER BEFORE THE BALLOT BOX IS SEALED; TO AMEND SECTIONS 23-15-523 AND 23-15-525, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO BRING FORWARD SECTIONS 23-15-505, 23-15-511, 23-15-513, 23-15-519, 23-15-521 AND 23-15-581, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 23-15-591, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; TO AMEND SECTION 23-15-595, MISSISSIPPI CODE OF 1972, TO REQUIRE THE TABULATING OF ALL RETURNS AND THE COUNTING OF ALL BALLOTS TO BE FINISHED ON THE NIGHT OF THE ELECTION; TO AMEND SECTION 23-15-571, MISSISSIPPI CODE OF 1972, TO INCLUDE THE REGISTRAR IN THE LIST OF PERSONS AUTHORIZED TO CHALLENGE THE QUALIFICATIONS OF PERSONS OFFERING TO VOTE; TO AMEND SECTION 23-15-577, MISSISSIPPI CODE OF 1972, TO AUTHORIZE CANDIDATES TO HAVE POLL WATCHERS PRESENT AT THE LOCATION OF THE ELECTION; TO AMEND SECTION 23-15-579, MISSISSIPPI CODE OF 1972, TO REQUIRE THE APPROPRIATE ELECTION OFFICIALS TO CONSIDER VOTES THAT ARE CHALLENGED; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 23-15-637, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL ABSENTEE BALLOTS CAST IN PERSON AT THE OFFICE OF THE REGISTRAR TO BE CAST USING THE OPTICAL MARK READING (OMR) EQUIPMENT; TO REQUIRE THE OMR EQUIPMENT TO BE SEALED AT NIGHT; TO REQUIRE THE USE OF PAPER BALLOTS IF THE OMR EQUIPMENT BECOMES INOPERABLE; TO AMEND SECTION 23-15-659, MISSISSIPPI CODE OF 1972, TO REVISE HOW THE ABSENTEE BALLOT APPLICATIONS AND ELECTOR'S CERTIFICATES ARE PRINTED FOR ALL ABSENTEE BALLOTS THAT ARE CAST IN PERSON AT THE OFFICE OF THE REGISTRAR; TO PRESCRIBE THE FORM FOR THE ELECTOR'S CERTIFICATE FOR AN IN-PERSON ABSENTEE BALLOT APPLICATION; TO AMEND SECTIONS 23-15-639  AND 23-15-645, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTION 23-15-627, MISSISSIPPI CODE OF 1972, TO REVISE THE FORM OF THE ABSENTEE BALLOT APPLICATION; TO AMEND SECTION 23-15-633, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTION 23-15-625, MISSISSIPPI CODE OF 1972, TO REQUIRE THE REGISTRAR TO CONSPICUOUSLY POST A LIST OF THOSE PERSONS VOTING IN-PERSON AT THE END OF VOTING EACH DAY; TO AMEND SECTION 23-15-715, MISSISSIPPI CODE OF 1972, TO REQUIRE ELECTORS VOTING BY ABSENTEE BALLOT IN-PERSON TO FEED THEIR BALLOTS INTO THE OMR EQUIPMENT; TO AMEND SECTION 23-15-719, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTIONS 23-15-507 AND 23-15-515, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATING TO OMR EQUIPMENT; TO AMEND SECTION 23-15-517, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL BALLOTS TO BE PROCESSED ON THE NIGHT OF AN ELECTION AND REPORTED TO THE TABULATION CENTER BEFORE THE BALLOT BOX IS SEALED; TO BRING FORWARD SECTION 23-15-523, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTION 23-15-525, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO BRING FORWARD SECTIONS 23-15-505, 23-15-511, 23-15-513, 23-15-519, 23-15-521 AND 23-15-581, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 23-15-591, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; TO AMEND SECTION 23-15-595, MISSISSIPPI CODE OF 1972, TO REQUIRE THE TABULATING OF ALL RETURNS AND THE COUNTING OF ALL BALLOTS TO BE FINISHED ON THE NIGHT OF THE ELECTION; TO AMEND SECTION 23-15-571, MISSISSIPPI CODE OF 1972, TO INCLUDE THE REGISTRAR IN THE LIST OF PERSONS AUTHORIZED TO CHALLENGE THE QUALIFICATIONS OF PERSONS OFFERING TO VOTE; TO AMEND SECTION 23-15-577, MISSISSIPPI CODE OF 1972, TO AUTHORIZE CANDIDATES TO HAVE POLL WATCHERS PRESENT AT THE LOCATION OF THE ELECTION; TO AMEND SECTION 23-15-579, MISSISSIPPI CODE OF 1972, TO REQUIRE THE APPROPRIATE ELECTION OFFICIALS TO CONSIDER VOTES THAT ARE CHALLENGED; TO DIRECT THE SECRETARY OF STATE TO REQUIRE THE OFFICE OF THE CIRCUIT CLERK TO CAUSE A DAILY REPORT TABULATING THE TOTAL NUMBER OF IN-PERSON ABSENTEE BALLOTS CAST THAT DAY TO BE PRINTED BY THE OMR EQUIPMENT AT THE CLOSE OF BUSINESS AND MADE AVAILABLE TO THE PUBLIC; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +282,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:40:28.992843Z"
   }
 }

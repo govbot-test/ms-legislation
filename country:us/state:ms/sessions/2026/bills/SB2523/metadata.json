@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2523",
-  "title": "State institutions of higher learning; bring forward code sections concerning.",
+  "title": "Institutions of higher learning; require adoption of new performance-based funding model.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Universities and Colleges"
   ],
   "abstracts": [],
@@ -40,6 +41,84 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Universities and Colleges;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +137,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2523PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2523PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2523IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +162,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2523_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2523_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2523_S_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2523_S_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2523IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2523PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +211,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTION 37-101-1, 37-101-2, 37-101-3,   37-101-4, 37-101-5, 37-101-7, 37-101-9, 37-101-11, 37-101-13,   37-101-15, 37-101-16, 37-101-19, 37-101-21, 37-101-23, 37-101-25, 37-101-29, 37-101-30, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-101-15, MISSISSIPPI CODE OF 1972, TO ESTABLISH PARAMETERS FOR A NEW, PERFORMANCE-BASED FUNDING MODEL FOR STATE INSTITUTIONS OF HIGHER LEARNING; TO REQUIRE THAT SUCH FUNDING MODEL BE USED TO DISBURSE 75% OF GENERAL FUNDS APPROPRIATED FOR SUCH PURPOSE AND BE IMPLEMENTED BY JULY 1, 2029; TO PROVIDE FOR DISTRIBUTION OF REMAINING FUNDS; TO PROVIDE A 10% PERFORMANCE-BASED HOLDOUT; TO REQUIRE THE FUNDING MODEL TO INCLUDE A BASE APPROPRIATION AND A PERFORMANCE-BASED ALLOCATION; TO PROVIDE MEASURABLE OUTCOMES WHICH SHALL BE CALCULATED USING STANDARDIZED DEFINITIONS ADOPTED BY RULE; TO REQUIRE THE BOARD OF TRUSTEES OF STATE INSTITUTIONS OF HIGHER LEARNING TO ESTABLISH PERFORMANCE STANDARDS, SCORING THRESHOLDS AND VALUES FOR EACH METRIC IN A PUBLICLY NOTICED MEETING ON OR BEFORE JUNE 20, 2026; TO PROVIDE SPECIFIC REQUIREMENTS FOR SUCH STANDARDS, THRESHOLDS AND VALUES; TO PROVIDE FOR DEVELOPING, CALCULATING OR ADMINISTERING THE FUNDING MODEL; TO REQUIRE THE BOARD TO CONTINUOUSLY MONITOR INSTITUTIONAL PERFORMANCE UNDER THE FUNDING MODEL; TO REQUIRE THE BOARD TO IDENTIFY INSTITUTIONS AT RISK OF FAILING TO MEET SPECIFIC STANDARDS; TO AUTHORIZE THE BOARD TO TAKE CERTAIN ACTIONS UPON A DETERMINATION THAT AN INSTITUTION IS AT-RISK; TO REQUIRE THE BOARD TO SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE AND PUBLISH SUCH REPORT ON ITS PUBLIC WEBSITE; TO REQUIRE CERTAIN INFORMATION TO BE INCLUDED IN THE REPORT; TO REQUIRE THE BOARD TO PROMULGATE RULES NECESSARY TO IMPLEMENT THIS ACT; TO REQUIRE THE BOARD TO ADOPT AND PUBLISH THE FUNDING MODEL, INCLUDING ALL METRIC DEFINITIONS, BENCHMARKS AND WEIGHTS, NO LATER THAN JUNE 30, 2026; TO PROVIDE FOR APPLICATION OF THE FUNDING MODEL FOR THE INITIAL THREE FISCAL YEARS FOLLOWING ADOPTION AND PUBLICATION; TO REQUIRE FULL IMPLEMENTATION OF THE FUNDING MODEL BY JULY 1, 2029; TO PROHIBIT THE BOARD FROM PERMITTING A PERSON SUBJECT TO THE REGISTRATION REQUIREMENTS UNDER SECTIONS 45-33-21 THROUGH 45-33-63 TO RESIDE IN A DORMITORY OR OTHER STUDENT LIVING ACCOMMODATION LOCATED ON THE CAMPUS OF OR MANAGED BY A STATE INSTITUTION OF HIGHER LEARNING; TO BRING FORWARD SECTIONS 37-101-1, 37-101-2, 37-101-3, 37-101-4, 37-101-5, 37-101-7, 37-101-9, 37-101-11, 37-101-13, 37-101-16, 37-101-19, 37-101-21, 37-101-23, 37-101-25, 37-101-29 AND 37-101-30, MISSISSIPPI CODE OF 1972, WHICH GOVERN THE INSTITUTIONS OF HIGHER LEARNING, FOR PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +220,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:48:24.025967Z"
   }
 }

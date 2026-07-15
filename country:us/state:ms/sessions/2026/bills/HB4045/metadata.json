@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB4045",
+  "title": "Economic development; revise incentives relating to certain projects.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb4045"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died On Calendar",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4045IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4045IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4045IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4045.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-7-30, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE INCOME TAX EXEMPTION FOR INCOME ARISING FROM CERTAIN DATA CENTER PROJECTS SHALL NOT APPLY TO ANY CALENDAR YEAR AFTER CALENDAR YEAR 2026; TO AMEND SECTION 57-75-5, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM PROJECT UNDER THE MISSISSIPPI MAJOR ECONOMIC IMPACT ACT; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT FOR ANY PROJECT WITH A CAPITAL INVESTMENT IN EXCESS OF $2,000,000,000.00 FOR WHICH A FEE-IN-LIEU OF AD VALOREM TAX AGREEMENT IS ENTERED INTO AFTER JULY 1, 2026, A PORTION OF THE SUM ALLOWED AS A FEE-IN-LIEU ON THE PORTION OF THE PROJECT IN EXCESS OF $1,000,000,000.00 SHALL BE DEPOSITED INTO THE MISSISSIPPI STRATEGIC DEVELOPMENT FUND CREATED IN THIS ACT; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; TO CREATE THE \"MISSISSIPPI STRATEGIC DEVELOPMENT FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THE PURPOSES FOR WHICH MONIES IN THE FUND SHALL BE EXPENDED BY THE MISSISSIPPI DEVELOPMENT AUTHORITY, UPON APPROPRIATION BY THE LEGISLATURE TO BRING FORWARD SECTION 27-31-105, MISSISSIPPI CODE OF 1972, WHICH AUTHORIZES COUNTY BOARDS OF SUPERVISORS AND MUNICIPAL AUTHORITIES TO GRANT A FEE-IN-LIEU OF AD VALOREM TAXES FOR EXPANSIONS OF FACILITIES OR PROPERTIES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO AMEND SECTION 19-9-151, 19-9-153 AND 19-9-155, MISSISSIPPI CODE OF 1972, TO REVISE THE DISTRIBUTION OF PAYMENTS MADE BY A NUCLEAR GENERATING PLANT IN-LIEU OF AD VALOREM TAXES; TO AMEND SECTION 27-35-309, MISSISSIPPI CODE OF 1972, TO REVISE THE FORMULA PROVIDING FOR THE ALLOCATION OF THE PROCEEDS OF THE NUCLEAR IN-LIEU TAX PAID TO THE DEPARTMENT OF REVENUE BY THE GRAND GULF NUCLEAR POWER PLANT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:28Z"
+  }
+}

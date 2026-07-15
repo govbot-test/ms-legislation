@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1845",
+  "title": "Tobacco tax; tax ENDS product and vapor products and use revenue for UMMC Cancer Center and Research Institute.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb1845"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Felsher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Felsher\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1800-1899/HB1845IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1800-1899/HB1845IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1800-1899/HB1845IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1845.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-69-3, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"TOBACCO\" UNDER THE TOBACCO TAX LAW; TO DEFINE THE TERMS \"ENDS PRODUCT\" AND \"VAPOR PRODUCT\" UNDER THE TOBACCO TAX LAW; TO AMEND SECTION 27-69-13, MISSISSIPPI CODE OF 1972, TO LEVY AN EXCISE TAX ON ENDS PRODUCT AND VAPOR PRODUCTS; TO AMEND SECTIONS 27-69-15, 27-69-27, 27-69-33 AND 27-69-35, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; TO AMEND SECTION 27-69-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE REVENUE DERIVED FROM THE EXCISE TAX ON ENDS PRODUCTS AND VAPOR PRODUCTS SHALL BE DEPOSITED INTO THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER CANCER CENTER AND RESEARCH INSTITUTE FUND CREATED IN THIS ACT; TO BRING FORWARD SECTION 27-69-69, MISSISSIPPI CODE OF 1972, WHICH IS A SECTION OF THE TOBACCO TAX LAW, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO CREATE THE \"UNIVERSITY OF MISSISSIPPI MEDICAL CENTER CANCER CENTER AND RESEARCH INSTITUTE FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED BY THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER, UPON APPROPRIATION BY THE LEGISLATURE, FOR THE SUPPORT AND MAINTENANCE OF THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER CANCER CENTER AND RESEARCH INSTITUTE; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:28Z"
+  }
+}

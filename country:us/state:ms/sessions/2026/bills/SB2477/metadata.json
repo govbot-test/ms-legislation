@@ -7,6 +7,8 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -40,6 +42,182 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: PH To AC",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: AC To PH",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From House",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Vetoed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +236,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2477SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2477SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2477IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +261,85 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2477PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2477PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2477",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2477.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2477.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2477_H_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2477_H_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2477_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2477_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Veto",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/veto/SB2477.htm",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2477IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2477SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +352,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REQUIRE A COMPETITIVE BIDDING PROCESS FOR VENDORS, SUBCONTRACTORS OR OTHER ENTITIES SELECTED TO PROVIDE GOODS, PRODUCTS OR SERVICES TO THE STATE THAT ARE FUNDED THROUGH THE RURAL HEALTH TRANSFORMATION PROGRAM, PUBLIC LAW NO. 119-21; TO PROVIDE THAT IN SELECTING SUBGRANTEES FOR GOODS, PRODUCTS AND SERVICES, PRIORITY SHALL BE GIVEN TO THOSE LOCATED IN SUPER RURAL ZIP CODES AS DESIGNATED BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES (CMS) AND TO THOSE LOCATED IN CERTAIN COUNTIES AND AREAS OUTSIDE OF A METROPOLITAN STATISTICAL AREA; TO BRING FORWARD SECTION 31-7-13, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE THAT IN STRUCTURING GRANTS, APPLICATIONS OR OTHER PROGRAMS FUNDED BY THE RURAL HEALTH TRANSFORMATION PROGRAM, SECTION 71401 OF PUBLIC LAW NO. 119-21, PRIORITY SHALL BE GIVEN TO APPLICANTS, AWARDEES OR SUBGRANTEES LOCATED IN SUPER RURAL ZIP CODES AS DESIGNATED BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES (CMS) AND TO THOSE LOCATED IN CERTAIN COUNTIES AND AREAS OUTSIDE OF A METROPOLITAN STATISTICAL AREA; TO PROVIDE THAT PRIORITY SHALL ALSO BE GIVEN TO PROGRAMS FUNDED BY THE RURAL HEALTH TRANSFORMATION PROGRAM THAT PROVIDE DIRECT ASSISTANCE TO MISSISSIPPI PROVIDERS AND PATIENTS, RATHER THAN VENDORS; TO PROVIDE THAT IN ANY GRANT PROGRAM FOR MEDICAL EQUIPMENT ACQUISITION OR UPGRADES, FACILITIES OR OTHER CAPITAL EXPENDITURES FOR FACILITIES OR EQUIPMENT FUNDED BY THE RURAL HEALTH TRANSFORMATION PROGRAM, PRIORITY SHALL BE GIVEN TO AWARDEES THAT HAVE NOT RECEIVED A DIRECT STATE OR FEDERAL APPROPRIATION FOR MEDICAL EQUIPMENT, FACILITIES OR OTHER CAPITAL EXPENDITURES IN THE PAST THREE YEARS; TO REQUIRE A COMPETITIVE BIDDING PROCESS FOR VENDORS, SUBCONTRACTORS OR OTHER ENTITIES SELECTED BY THE STATE TO ASSIST IN ESTABLISHING A STATE HEALTH INFORMATION EXCHANGE THAT IS FUNDED THROUGH THE RURAL HEALTH TRANSFORMATION PROGRAM; TO SPECIFY THE MINIMUM REQUIREMENTS FOR SUCH STATE HEALTH INFORMATION EXCHANGE; TO PROVIDE THAT PREFERENCE IN SELECTING A DESIGNATED VENDOR, SUBCONTRACTOR OR ENTITY SHALL BE PROVIDED TO THOSE ENTITIES THAT HAVE DEMONSTRATED EXPERIENCE PROVIDING HEALTH INFORMATION EXCHANGE SERVICES OFFERING REAL-TIME BIDIRECTIONAL ADMISSION, DISCHARGE AND TRANSFER DATA TO MISSISSIPPI HEALTH CARE PROVIDERS; TO REQUIRE THE AGENCY OVERSEEING THE STATE HEALTH INFORMATION EXCHANGE TO PROMULGATE RULES AND REGULATIONS NECESSARY FOR THE PROPER ADMINISTRATION OF THE EXCHANGE INCLUDING ALLOWABLE PARTICIPANTS, PERMISSIBLE USES OF DATA, SECURITY AND OTHER PROTOCOL, AND A PROCESS BY WHICH PATIENTS MAY OPT OUT OF PARTICIPATING; TO EXEMPT RECORDS TRANSMITTED TO OR FROM THE HEALTH INFORMATION EXCHANGE FROM THE PROVISIONS OF THE MISSISSIPPI PUBLIC RECORDS ACT; TO PROVIDE THAT ANY CONTRACT FOR A PROGRAM FUNDED BY THE RURAL HEALTH TRANSFORMATION PROGRAM, INCLUDING THOSE ENTERED INTO OR MANAGED BY A NON-PUBLIC ENTITY, SHALL BE GOVERNED BY THE MISSISSIPPI PUBLIC RECORDS ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +361,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:32:34.230454Z"
   }
 }

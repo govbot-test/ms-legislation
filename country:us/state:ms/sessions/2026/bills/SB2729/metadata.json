@@ -7,8 +7,10 @@
     "bill"
   ],
   "subject": [
+    "Judiciary B",
     "Judiciary, Division B",
-    "Municipalities"
+    "Municipalities",
+    "State Affairs"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -51,6 +53,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary B;State Affairs",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: JB To SA",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,11 +139,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2729CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2729PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -94,13 +164,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2729CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2729PS.pdf",
       "note": ""
     },
     {
@@ -113,7 +198,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO PROVIDE THAT IT SHALL BE UNLAWFUL WITHIN A MUNICIPALITY FOR AN OWNER OF A RETAIL ESTABLISHMENT PERMITTED UNDER SECTION 67-1-51(1)(D) TO ALLOW SUSTAINED, PROHIBITED NOISES BETWEEN THE HOURS OF 12:00 A.M. AND 12:00 P.M. ON THE PREMISES OF SUCH AN ESTABLISHMENT; TO PROVIDE CIVIL PENALTIES FOR THE FIRST THREE VIOLATIONS OF THIS SECTION; TO PROVIDE CRIMINAL FINES AND PENALTIES FOR THE FOURTH AND SUBSEQUENT VIOLATIONS OF THIS SECTION; TO PROVIDE THAT THIS SECTION SHALL BE LEGAL AND BINDING WITHIN THE JURISDICTION OF EACH MUNICIPALITY IN THIS STATE; TO AUTHORIZE THE GOVERNING AUTHORITY OF A MUNICIPALITY TO OPT OUT OF THE PROVISIONS OF THIS SECTION THROUGH A VOTE OF THE GOVERNING AUTHORITY; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 45-1-19 TO PROVIDE THAT THE DEPARTMENT OF PUBLIC SAFETY SHALL HAVE JURISDICTION TO ENFORCE STATE LAWS WITHIN THE CITY OF JACKSON, INCLUDING ANY LOCAL NOISE ORDINANCES; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -122,7 +207,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T08:12:39.841461Z"
   }
 }

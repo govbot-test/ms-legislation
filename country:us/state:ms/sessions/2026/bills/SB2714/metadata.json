@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2714",
-  "title": "Safe deposit boxes; create escheatment process for & revise certain portions of Uniform Disposition of Unclaimed Property Act.",
+  "title": "Safe deposit boxes; create escheatment process for and revise certain portions of Uniform Disposition of Unclaimed Property Act.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Banking and Financial Services",
     "Business and Financial Institutions"
   ],
   "abstracts": [],
@@ -40,6 +41,120 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:01Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Banking and Financial Services",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died On Calendar",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +173,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2714CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2714PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2714CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2714PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +198,58 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2714CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2714CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2714",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2714.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2714.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2714_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2714_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2714CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2714PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +262,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 89-12-3, MISSISSIPPI CODE OF 1972, TO DEFINE \"LAST KNOWN ADDRESS\" AND \"LAWFUL CHARGES\" AND TO REVISE CERTAIN TERMS; TO AMEND SECTION 89-12-5, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATED TO ABANDONED PROPERTY; TO CREATE NEW SECTION 81-5-60, MISSISSIPPI CODE OF 1972, TO ESTABLISH A SAFE DEPOSIT BOX ESCHEATMENT PROCESS; TO CREATE NEW SECTION 89-12-18, MISSISSIPPI CODE OF 1972, TO SET FORTH CONDITIONS UNDER WHICH PROPERTY HELD IN A SAFE DEPOSIT BOX MAY BE PRESUMED ABANDONED AND ESCHEATED IF PROPER NOTICE HAS BEEN GIVEN; TO CREATE NEW SECTION 89-12-28, MISSISSIPPI CODE OF 1972, TO DIRECT DELIVERY OF A REPORT AND OF SUCH PROPERTY TO THE STATE TREASURER; TO CREATE NEW SECTION 89-12-32, MISSISSIPPI CODE OF 1972, TO SET FORTH THE STATE TREASURER'S RESPONSIBILITY AFTER REPORTED PROPERTY IS DELIVERED; TO CREATE NEW SECTION 89-12-34, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE STATE TREASURER TO OFFER FOR SALE ABANDONED PROPERTY DELIVERED UNDER SECTION 89-12-28; TO CREATE NEW SECTION 89-12-46, MISSISSIPPI CODE OF 1972, TO REQUIRE RETENTION OF CERTAIN RECORDS FOR FIVE YEARS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 7-7-42, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STATE FISCAL OFFICER SHALL TRANSFER FUNDS AND REPORT ASSOCIATED PAYEE RECORDS FOR ANY CANCELLED WARRANT TO THE ABANDONED PROPERTY FUND OF THE UNCLAIMED PROPERTY DIVISION OF THE STATE TREASURY; TO DELETE THE REQUIREMENT THAT SUCH FUNDS SHALL REMAIN IN SUCH FUND FOR FIVE YEARS; TO AMEND SECTION 89-12-3, MISSISSIPPI CODE OF 1972, TO DEFINE \"LAST-KNOWN ADDRESS,\" \"LAWFUL CHARGES\" AND \"TANGIBLE PERSONAL PROPERTY,\" AND TO REVISE CERTAIN TERMS; TO AMEND SECTION 89-12-5, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATED TO ABANDONED PROPERTY; TO AMEND SECTION 89-12-17, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT CERTAIN TANGIBLE PERSONAL PROPERTY SHALL BE PRESUMED ABANDONED IF CONDITIONS FOR A PRESUMPTION OF ABANDONMENT EXIST; TO CREATE NEW SECTION 81-5-60, MISSISSIPPI CODE OF 1972, TO ESTABLISH A SAFE DEPOSIT BOX ESCHEATMENT PROCESS; TO CREATE NEW SECTION 81-5-60.1, MISSISSIPPI CODE OF 1972, TO CLARIFY REPORTING REQUIREMENTS FOR REMOVAL OF SAFE DEPOSIT CONTENTS PRIOR TO THE EFFECTIVE DATE OF THIS ACT; TO AMEND SECTION 89-12-11, MISSISSIPPI CODE OF 1972, TO PROVIDE CIRCUMSTANCES IN WHICH A SECURITY SHALL BE PRESUMED ABANDONED; TO CREATE NEW SECTION 89-12-18, MISSISSIPPI CODE OF 1972, TO SET FORTH CONDITIONS UNDER WHICH PROPERTY HELD IN A SAFE DEPOSIT BOX MAY BE PRESUMED ABANDONED AND SUBJECT TO REPORTING AND REMITTANCE IN ACCORDANCE WITH SECTION 89-12-28; TO AMEND SECTION 89-12-30, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE STATE TREASURER TO OFFER FOR SALE TANGIBLE PROPERTY DELIVERED UNDER SECTION 89-12-28; TO AMEND SECTION 89-12-31, MISSISSIPPI CODE OF 1972, TO PROVIDE PROTECTION FROM LIABILITY TO THE STATE TREASURER AND THE STATE FOR CERTAIN DAMAGES; TO CREATE NEW SECTION 89-12-44, MISSISSIPPI CODE OF 1972, TO REQUIRE RETENTION OF CERTAIN RECORDS FOR FIVE YEARS; TO CREATE NEW SECTION 89-12-28, MISSISSIPPI CODE OF 1972, TO DIRECT DELIVERY OF A REPORT AND OF CERTAIN PROPERTY TO THE STATE TREASURER; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +271,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:01Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T06:56:09.256944Z"
   }
 }

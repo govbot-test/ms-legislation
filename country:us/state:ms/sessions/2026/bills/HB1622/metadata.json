@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1622",
-  "title": "CON; bring forward certain sections relating to.",
+  "title": "Small Community Hospital Pilot Program; establish.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Public Health and Human Services",
+    "Public Health and Welfare",
     "State Affairs"
   ],
   "abstracts": [],
@@ -61,6 +62,206 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered (Creekmore IV, Felsher)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From Senate",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +272,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Creekmore\"}",
       "organization_id": null
+    },
+    {
+      "name": "Karriem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -79,11 +288,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1622CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1622SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1622CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1622SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -104,17 +313,96 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1622CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1622CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1622PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1622PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1622",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1622.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1622.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1622_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1622_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1622_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1622_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1622CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1622SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
       "note": ""
     },
     {
@@ -123,7 +411,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTIONS 41-7-173 AND 41-7-191, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE CERTIFICATE OF NEED PROGRAM, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO ESTABLISH THE SMALL COMMUNITY HOSPITAL PILOT PROGRAM; TO DEFINE THE TERM \"SMALL COMMUNITY HOSPITAL\" AS USED IN THIS SECTION; TO PROVIDE THAT SUCH A HOSPITAL SHALL RECEIVE AN EXEMPTION FROM THE REQUIREMENT TO OBTAIN A CERTIFICATE OF NEED; TO PROVIDE THAT SMALL COMMUNITY HOSPITALS WITHIN THE DELTA PUBLIC HEALTH REGION AS DESIGNATED BY THE MISSISSIPPI STATE DEPARTMENT OF HEALTH (DEPARTMENT) SHALL RECEIVE TWO SUCH EXEMPTIONS; TO PROVIDE THAT SUCH EXEMPTION SHALL BE LIMITED TO THE MAIN BUILDING CAMPUS OF THE SMALL COMMUNITY HOSPITAL AND A FIVE-MILE RADIUS AROUND THE MAIN BUILDING CAMPUS; TO PROVIDE THAT AN EXEMPTION SHALL NOT EXTEND TO CLINICS OR OTHER FACILITIES OWNED OR OPERATED BY THE SMALL COMMUNITY HOSPITAL THAT ARE NOT LOCATED ON THE MAIN CAMPUS, AND SHALL NOT APPLY TO A SERVICE FOR WHICH THERE IS A GENERAL CERTIFICATE OF NEED MORATORIUM OR TO APPLICATIONS THAT WOULD PLACE THE LICENSED HOSPITAL RECEIVING THE EXEMPTION WITHIN 35 MILES OF ANOTHER LICENSED HOSPITAL; TO AUTHORIZE THE STATE HEALTH OFFICER TO ISSUE A LICENSE TO OPERATE AN END-STAGE RENAL DISEASE (ESRD) FACILITY FOR NOT MORE THAN EIGHT SMALL COMMUNITY HOSPITALS; TO AUTHORIZE THE STATE HEALTH OFFICER TO ISSUE A LICENSE TO OPERATE A GERIATRIC PSYCHIATRIC UNIT TO ANY SMALL COMMUNITY HOSPITAL; TO PROVIDE THAT THE DECISION OF THE STATE HEALTH OFFICER TO ISSUE A LICENSE UNDER THIS PROGRAM IS FINAL, AND NOT SUBJECT TO JUDICIAL REVIEW; TO SET FORTH LEGISLATIVE FINDINGS AS TO THE CURRENT MORATORIA REGARDING MULTIPLE CERTIFICATE OF NEED SERVICE TYPES; TO DIRECT THE DEPARTMENT, IN CONJUNCTION WITH THE DIVISION OF MEDICAID, TO REVIEW AND REPORT BY DECEMBER 1, 2026, AND ON DECEMBER 1 OF EACH SECOND YEAR THEREAFTER, ON CAPACITY AND UTILIZATION DATA, MEDICAID EXPENDITURE TRENDS, EVIDENCE OF EXCESS CAPACITY OR UNMET NEED, FIVE-YEAR FISCAL PROJECTIONS UNDER CONTINUATION AND REMOVAL SCENARIOS, AND STATE FISCAL EXPOSURE RELATED TO HEALTH CARE; TO AMEND SECTION 41-7-191, MISSISSIPPI CODE OF 1972, AS AMENDED BY HOUSE BILL NO. 3, 2026 REGULAR SESSION, TO EXEMPT FROM THE REQUIREMENT OF A CERTIFICATE OF NEED ANY ACTIVITY CONDUCTED OR UNDERTAKEN IN ISSAQUENA COUNTY OR HUMPHREYS COUNTY THAT WOULD OTHERWISE REQUIRE A CERTIFICATE OF NEED, EXCEPT THAT THE MORATORIA ON THE ISSUANCE OF CERTAIN CERTIFICATES OF NEED SHALL APPLY TO ACTIVITIES IN THOSE COUNTIES; TO AMEND SECTION 41-7-201, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY PARTY AGGRIEVED BY THE FINAL ORDER OF THE STATE DEPARTMENT OF HEALTH TO APPROVE AN APPLICATION FOR A CERTIFICATE OF NEED THAT EXERCISES THE RIGHT OF APPEAL SHALL BE REQUIRED TO REIMBURSE THE APPLICANT WHOSE APPLICATION WAS APPROVED FOR ALL ATTORNEY, CONSULTANT AND OTHER FEES RELATED TO THE APPEAL IF SUCH FINAL ORDER IS NOT VACATED OR SET ASIDE BY THE CHANCERY COURT OR BY THE SUPREME COURT OF THE STATE OF MISSISSIPPI; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -132,7 +420,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:54:17.971033Z"
   }
 }

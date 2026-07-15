@@ -1,0 +1,234 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB4044",
+  "title": "Ad valorem tax; revise certain homestead exemption eligibility provisions, revise distribution of portion paid on certain homestead property.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb4044"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Finance",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4044SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4044SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4044IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4044IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4044PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4044PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4044SG.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4044.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTIONS 27-33-51 AND 27-33-63, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF A CLAIMANT FOR HOMESTEAD EXEMPTION HAS FAILED TO COMPLY, OR THE CLAIMANT'S SPOUSE HAS FAILED TO COMPLY, WITH THE INCOME TAX LAWS OF THIS STATE, THE CLAIMANT SHALL BE ELIGIBLE FOR HOMESTEAD EXEMPTION, BUT THE AMOUNT OF THE EXEMPTION DETERMINED FOR THE PROPERTY SHALL NOT BE DEDUCTED FROM THE AD VALOREM TAXES DUE ON THE PROPERTY; TO PROVIDE THAT FOR AD VALOREM TAXES COLLECTED ON SUCH PROPERTY, THE AMOUNT OF THE AD VALOREM TAXES COLLECTED, THAT IS EQUAL TO THE HOMESTEAD EXEMPTION AMOUNT THAT WAS NOT DEDUCTED FROM THE AD VALOREM TAXES DUE ON THE PROPERTY, SHALL BE REMITTED BY THE TAX COLLECTOR TO THE DEPARTMENT OF REVENUE, NOT TO EXCEED THE AMOUNT OF THE OBLIGATION FOR WHICH THE TAXPAYER OR TAXPAYER'S SPOUSE HAS FAILED TO COMPLY WITH THE INCOME TAX LAWS OF THIS STATE; TO PROVIDE THAT THE DEPARTMENT OF REVENUE SHALL APPLY THE AMOUNT REMITTED BY THE TAX COLLECTOR AGAINST THE TAXPAYER'S OR TAXPAYER'S SPOUSE'S INCOME TAX OBLIGATION; TO AMEND SECTION 27-33-11, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"TAX LOSS\" UNDER THE HOMESTEAD EXEMPTION LAW; TO BRING FORWARD SECTIONS 27-33-75, 27-33-77 AND 27-33-79, MISSISSIPPI CODE OF 1972, WHICH ARE SECTIONS OF THE HOMESTEAD EXEMPTION LAW, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-41-77, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE DISPOSITION OF EXCESS PROCEEDS RESULTING FROM THE SALE OF LAND FOR NONPAYMENT OF AD VALOREM TAXES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 27-45-1 AND 27-45-5, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE REDEMPTION OF LAND SOLD FOR NONPAYMENT OF AD VALOREM TAXES, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:30Z"
+  }
+}

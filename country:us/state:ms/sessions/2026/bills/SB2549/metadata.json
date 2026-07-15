@@ -7,6 +7,8 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -40,6 +42,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +128,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2549PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2549PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2549IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +153,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2549_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2549_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2549IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2549PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +187,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 41-58-7, MISSISSIPPI CODE OF 1972, TO REVISE LICENSURE QUALIFICATIONS FOR RADIOLOGIST ASSISTANTS; TO AUTHORIZE A RADIOLOGIST ASSISTANT TO COMMUNICATE A PRELIMINARY IMAGE INTERPRETATION REPORT WITH INITIAL OBSERVATIONS TO OTHER CARE PROVIDERS TREATING A PATIENT; TO REQUIRE THAT A RADIOLOGIST PROVIDE FINAL IMAGE INTERPRETATION; TO AUTHORIZE A RADIOLOGIST ASSISTANT TO COMMUNICATE A RADIOLOGIST'S PRELIMINARY OR FINAL IMAGE INTERPRETATION TO OTHER CARE PROVIDERS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 41-58-7, MISSISSIPPI CODE OF 1972, TO REVISE LICENSURE QUALIFICATIONS FOR RADIOLOGIST ASSISTANTS; TO AUTHORIZE A RADIOLOGIST ASSISTANT TO NOTIFY HEALTH CARE PROVIDERS TREATING THE PATIENT THAT THE ORDERED IMAGING PROCEDURES HAVE BEEN COMPLETED; TO PROVIDE THAT A RADIOLOGIST ASSISTANT MAY ONLY COMMUNICATE HIS OR HER INITIAL OBSERVATIONS TO THE RADIOLOGIST; TO AUTHORIZE A RADIOLOGIST ASSISTANT TO COMMUNICATE THE RADIOLOGIST'S FINAL OR PRELIMINARY INTERPRETATION TO OTHER HEALTH CARE PROVIDERS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +196,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:39:14.135841Z"
   }
 }

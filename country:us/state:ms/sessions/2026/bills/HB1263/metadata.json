@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Banking and Financial Services"
+    "Banking and Financial Services",
+    "Business and Financial Institutions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:32Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:32Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:32Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:32Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +117,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1263PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1263PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1263IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +142,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1263_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1263_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1263IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1263PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +176,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 81-3-15, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT RENEWALS OR AMENDMENTS TO A CHARTER OR ARTICLES OF INCORPORATION OF BANKING CORPORATIONS SHALL BE SENT DIRECTLY TO THE SECRETARY OF STATE UPON BEING APPROVED BY THE COMMISSIONER AND DO NOT REQUIRE APPROVAL FROM THE ATTORNEY GENERAL; TO AMEND SECTION 81-5-75, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A BANK TO DECLARE AND PAY DIVIDENDS NOT INCONSISTENT WITH THE BANK'S ARTICLES OF INCORPORATION OR BYLAWS; TO REQUIRE PRIOR WRITTEN APPROVAL OF THE COMMISSIONER ONLY WHEN CERTAIN CONDITIONS EXIST; TO AMEND SECTION 81-5-100, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PRIOR APPROVAL OF THE COMMISSIONER IS NOT REQUIRED FOR A STATE BANK OR THRIFT TO ESTABLISH OR DECOMMISSION ELECTRONIC TERMINALS; TO CREATE NEW SECTION 81-5-26, MISSISSIPPI CODE OF 1972, TO AUTHORIZE INVESTMENTS BY STATE CHARTERED FINANCIAL INSTITUTIONS IN COMMUNITY AND ECONOMIC DEVELOPMENT ENTITIES, COMMUNITY DEVELOPMENT PROJECTS AND OTHER PUBLIC WELFARE INVESTMENTS; TO BRING FORWARD SECTION 81-5-85, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 81-3-15, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT RENEWALS OR AMENDMENTS TO A CHARTER OR ARTICLES OF INCORPORATION OF BANKING CORPORATIONS SHALL BE SENT DIRECTLY TO THE SECRETARY OF STATE UPON BEING APPROVED BY THE COMMISSIONER AND DO NOT REQUIRE APPROVAL FROM THE ATTORNEY GENERAL; TO AMEND SECTION 81-5-75, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A BANK TO DECLARE AND PAY DIVIDENDS NOT INCONSISTENT WITH THE BANK'S ARTICLES OF INCORPORATION OR BYLAWS; TO REQUIRE PRIOR WRITTEN APPROVAL OF THE COMMISSIONER ONLY WHEN CERTAIN CONDITIONS EXIST; TO AMEND SECTION 81-5-100, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PRIOR APPROVAL OF THE COMMISSIONER IS NOT REQUIRED FOR A STATE BANK OR THRIFT TO ESTABLISH OR DECOMMISSION ELECTRONIC TERMINALS; TO CREATE NEW SECTION 81-5-26, MISSISSIPPI CODE OF 1972, TO AUTHORIZE INVESTMENTS BY STATE CHARTERED FINANCIAL INSTITUTIONS IN COMMUNITY AND ECONOMIC DEVELOPMENT ENTITIES, COMMUNITY DEVELOPMENT PROJECTS AND OTHER PUBLIC WELFARE INVESTMENTS; TO AMEND SECTION 81-5-85, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:32Z",
     "text_extraction_latest_update": "2026-07-13T06:33:10.767363Z"
   }
 }

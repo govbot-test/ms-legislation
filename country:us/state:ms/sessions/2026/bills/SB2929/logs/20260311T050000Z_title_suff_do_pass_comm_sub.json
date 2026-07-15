@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Title Suff Do Pass Comm Sub",
+    "occurred_at": "2026-03-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2929SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Gillespie_Isom.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2929.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2929"
+}

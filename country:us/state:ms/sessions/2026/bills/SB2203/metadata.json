@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Public Property"
   ],
   "abstracts": [],
@@ -40,6 +41,108 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Public Property;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,12 +161,35 @@
       "primary": false,
       "person_id": "~{\"name\": \"Blount\"}",
       "organization_id": null
+    },
+    {
+      "name": "Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Butler\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2203PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2203PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2203IN.htm",
@@ -76,13 +202,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2203_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2203_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2203_S_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2203_S_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2203IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2203PS.pdf",
       "note": ""
     },
     {
@@ -94,12 +250,16 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2203.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE SECTION 29-5-2.2, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BUREAU OF BUILDING, GROUNDS AND REAL PROPERTY MANAGEMENT OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO ACT AS THE CENTRAL LEASING AGENT FOR ALL STATE AGENCIES THAT NEED OFFICE SPACE IN ANY STATE OR NONSTATE-OWNED BUILDING AND TO PRESCRIBE THOSE RESPONSIBILITIES; TO AMEND SECTIONS 29-5-2, 37-3-5, 41-4-7, 41-73-27, 43-13-116, 43-33-717, 45-11-7, 49-19-5, 51-8-29, 51-8-31, 51-9-121, 51-11-11, 51-11-13, 51-13-111, 51-15-119, 55-24-9, 57-1-23, 59-5-35, 59-5-39, 59-7-211, 59-17-13, 65-1-8, 65-1-17, 69-7-109, 69-27-35, 71-3-85, 73-7-3, 73-17-7, 73-39-57, 99-18-13 AND 99-39-113, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE SECTION 29-5-2.2, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE BUREAU OF BUILDING, GROUNDS AND REAL PROPERTY MANAGEMENT OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO ACT AS THE CENTRAL LEASING AGENT FOR ALL STATE AGENCIES THAT NEED OFFICE SPACE IN ANY STATE OR NONSTATE-OWNED BUILDING AND TO PRESCRIBE THOSE RESPONSIBILITIES; TO AMEND SECTIONS 29-5-2, 37-3-5, 41-4-7, 41-73-27, 43-13-116, 43-33-717, 49-19-5, 51-8-29, 51-8-31, 51-9-121, 51-11-11, 51-11-13, 57-1-23, 65-1-8, 65-1-17, 69-7-109, 69-27-35, 71-3-85, 73-7-3, 73-17-7, 73-39-57, 99-18-13 AND 99-39-113, MISSISSIPPI CODE OF 1972, IN CONFORMITY THERETO; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -108,7 +268,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:40:00.246578Z"
   }
 }

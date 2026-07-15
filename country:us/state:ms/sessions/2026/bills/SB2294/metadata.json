@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2294",
-  "title": "MS Future Innovators Act; enact to require high-school computer science or CTE with embedded computer science course.",
+  "title": "Education; institute initiatives to promote literacy in math, reading, finance, computer science, and civics.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Education"
   ],
   "abstracts": [],
@@ -40,6 +41,260 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Accountability, Efficiency, Transparency",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: ED To AC",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: AC To ED",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named DeBar,Boyd,Hill",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Roberson,McCarty,Felsher",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +305,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"Johnson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2294SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2294SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2294IN.htm",
@@ -68,17 +346,96 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2294PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2294PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2294",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2294.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2294.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2294_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2294_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2294_H_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2294_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Amendment No 1 (Adopted)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2294_H_Amend_01_to_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2294_H_Amend_01_to_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2294IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2294SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Johnson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
       "note": ""
     },
     {
@@ -87,7 +444,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE NEW SECTION 37-13-215, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, BEGINNING WITH THE ENTERING NINTH-GRADE CLASS OF 2029-2030, A PUBLIC HIGH SCHOOL STUDENT SHALL, BEFORE GRADUATION, BE REQUIRED TO EARN ONE UNIT OF CREDIT IN A HIGH-SCHOOL COMPUTER SCIENCE COURSE, OR ONE UNIT OF CREDIT IN AN INDUSTRY-ALIGNED CAREER AND TECHNICAL EDUCATION (CTE) WITH EMBEDDED COMPUTER SCIENCE COURSE; TO PROVIDE THE STATE GRADUATION REQUIREMENTS THAT MAY BE SATISFIED BY EITHER OF THESE COURSES; TO REQUIRE THAT SUCH COURSES INCLUDE INSTRUCTION ON THE FUNDAMENTAL CONCEPTS OF EMERGING COMPUTER SCIENCE TECHNOLOGIES, SUCH AS ARTIFICIAL INTELLIGENCE; TO AMEND SECTION 37-13-205, MISSISSIPPI CODE OF 1972, TO DEFINE \"CAREER AND TECHNICAL EDUCATION WITH EMBEDDED COMPUTER SCIENCE COURSE\" FOR PURPOSES OF THE MISSISSIPPI COMPUTER SCIENCE AND CYBER EDUCATION EQUALITY ACT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO ENACT THE \"MISSISSIPPI MATH ACT\" ESTABLISHING THE MOVING MATHEMATICS IN MISSISSIPPI (M3) PROGRAM WITHIN THE STATE DEPARTMENT OF EDUCATION; TO SET FORTH FINDINGS, PURPOSES, DEFINITIONS AND PROGRAM COMPONENTS; TO AUTHORIZE K-12 MATHEMATICS COACHING AND SUPPORT, K-5 MATHEMATICS SCREENING AND INTERVENTIONS, AN ALGEBRA-READINESS INDICATOR BASED ON THE GRADE 5 STATEWIDE MATHEMATICS ASSESSMENT SCALE SCORE, AND PROFESSIONAL DEVELOPMENT FOR GRADES K-1, 2-6 AND 7-12; TO PROVIDE FOR ADMINISTRATION, RULEMAKING, DATA PROTECTIONS, REPORTING, EVALUATION AND DISTRICT PARTICIPATION; TO CREATE THE MOVING MATHEMATICS IN MISSISSIPPI FUND; TO REQUIRE ANNUAL REPORTING TO THE LEGISLATURE; TO PROVIDE CERTAIN INTERVENTION AND IMPLEMENTATION STRATEGIES FOR LITERACY PROFICIENCY AMONG STUDENTS IN GRADES 4-8; TO DEFINE TERMINOLOGY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PROVIDE A SYSTEM OF SUPPORT FOR SCHOOL AND DISTRICT INSTRUCTIONAL LEADERS, CONTENT-AREA TEACHERS, LITERACY COACHES, DYSLEXIA THERAPISTS, INTERVENTIONISTS, TUTORS, AND OTHER IDENTIFIED PERSONNEL TO ENSURE THEY HAVE THE KNOWLEDGE AND SKILLS TO SUPPORT STUDENTS IN GRADES 4-8 WITH READING DIFFICULTIES; TO PRESCRIBE WHAT THE SYSTEM OF SUPPORT SHALL ENTAIL; TO REQUIRE THAT ANY STUDENT IN GRADES 4-8 EXHIBITING DEFICIENCIES IN READING SHALL RECEIVE AN INDIVIDUAL READING PLAN (IRP) NO LATER THAN 30 DAYS AFTER THE IDENTIFICATION OF THE READING DEFICIENCY; TO SPECIFY THAT THE IRP SHALL BE CREATED BY THE TEACHER, INTERVENTIONIST, PRINCIPAL, OTHER PERTINENT SCHOOL PERSONNEL, AND PARENT AND SHALL DESCRIBE THE SCIENTIFICALLY RESEARCHED AND EVIDENCED-BASED READING INTERVENTION SERVICES THE STUDENT SHALL RECEIVE TO REMEDY THE READING DEFICIT; TO REQUIRE WRITTEN NOTIFICATION OF THE PARENT OF ANY STUDENT IN GRADES 4-8 WITHIN 10 BUSINESS DAYS OF THE IDENTIFICATION OF A READING DEFICIENCY; TO REQUIRE THAT ANY INCOMING STUDENT IN GRADES 4-8 IDENTIFIED WITH A READING DEFICIENCY BE PROVIDED WITH SUPPLEMENTAL OR INTENSIVE INTERVENTIONS DEPENDENT UPON THE SEVERITY OF THE DEFICIT SKILLS TO ADDRESS THE SPECIFIC DEFICIENCY; TO PROVIDE FOR REMEDIATION FOR STUDENTS WHOSE READING DEFICIENCY IS NOT REMEDIED BEFORE THE END OF EIGHTH GRADE; TO SET OUT THE RESPONSIBILITIES OF SCHOOL DISTRICTS, THE STATE DEPARTMENT OF EDUCATION, AND EDUCATOR PREPARATION PROGRAMS; TO PROVIDE THAT THE STATE BOARD OF EDUCATION SHALL HAVE THE AUTHORITY TO ENFORCE, AND MAY PROMULGATE RULES AND REGULATIONS AS NECESSARY TO IMPLEMENT, THE PROVISIONS PROMOTING LITERACY PROFICIENCY AMONG STUDENTS IN GRADES 4-8; TO ENACT THE \"J.P. WILEMON, JR., FINANCIAL LITERACY ACT\"; TO REQUIRE THE STATE BOARD OF EDUCATION TO INCORPORATE FINANCIAL LITERACY COMPONENTS WITHIN THE EXISTING CURRICULUM TO BE TAUGHT IN GRADES 6-8 BEGINNING IN THE 2027-2028 SCHOOL YEAR; TO REQUIRE SUCCESSFUL PASSAGE OF THE STAND-ALONE ONE-HALF CARNEGIE UNIT PERSONAL FINANCE COURSE OR A FULL CARNEGIE UNIT COURSE WHERE AT LEAST ONE-HALF OF THE COURSE STANDARDS CONCERN FINANCIAL LITERACY AS A GRADUATION REQUIREMENT; TO AMEND SECTIONS 37-16-7, 37-7-301 AND 37-28-45, MISSISSIPPI CODE OF 1972, TO CONFORM, AND TO SET CERTAIN TOPICS THAT SHALL BE REQUIRED FOR THE FINANCIAL LITERACY PROGRAM; TO CREATE THE MISSISSIPPI FUTURE INNOVATORS ACT; TO CREATE NEW SECTION 37-13-215, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, BEGINNING WITH THE ENTERING NINTH-GRADE CLASS OF 2029-2030, A PUBLIC HIGH SCHOOL STUDENT SHALL, BEFORE GRADUATION, BE REQUIRED TO EARN ONE UNIT OF CREDIT IN A HIGH SCHOOL COMPUTER SCIENCE COURSE, OR ONE UNIT OF CREDIT IN AN INDUSTRY-ALIGNED CAREER AND TECHNICAL EDUCATION (CTE) WITH EMBEDDED COMPUTER SCIENCE COURSE; TO PROVIDE THE STATE GRADUATION REQUIREMENTS THAT MAY BE SATISFIED BY EITHER OF THESE COURSES; TO REQUIRE THAT SUCH COURSES INCLUDE INSTRUCTION ON THE FUNDAMENTAL CONCEPTS OF EMERGING COMPUTER SCIENCE TECHNOLOGIES, SUCH AS ARTIFICIAL INTELLIGENCE; TO AMEND SECTION 37-13-205, MISSISSIPPI CODE OF 1972, TO DEFINE \"CAREER AND TECHNICAL EDUCATION WITH EMBEDDED COMPUTER SCIENCE COURSE\" FOR PURPOSES OF THE MISSISSIPPI COMPUTER SCIENCE AND CYBER EDUCATION EQUALITY ACT; TO CREATE NEW SECTION 37-13-56, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, BEGINNING IN THE 2027-2028 SCHOOL YEAR, EVERY PUBLIC AND CHARTER SCHOOL WITHIN THE STATE SHALL TEACH CIVICS COURSES STARTING IN THE 8TH GRADE AND BEFORE THE COMPLETION OF 12TH GRADE; TO PROVIDE THE AIM AND CONTENT OF SUCH COURSES; TO PROVIDE THAT THE STATE DEPARTMENT OF EDUCATION SHALL PRESCRIBE THE COURSE OF STUDY AND SHALL UPDATE COURSE STANDARDS TO ALIGN WITH CURRENT CIVICS SCHOLARSHIP; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +453,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:36:37.072753Z"
   }
 }

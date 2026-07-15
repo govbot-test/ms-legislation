@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Died In Committee",
+    "occurred_at": "2026-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SC/SC0523IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Chism.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SC/SC0523.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SC523"
+}

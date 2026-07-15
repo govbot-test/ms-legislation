@@ -7,8 +7,10 @@
     "bill"
   ],
   "subject": [
+    "Appropriations",
     "Appropriations A",
-    "Public Health and Human Services"
+    "Public Health and Human Services",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -61,6 +63,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare;Appropriations",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: PH To AP",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +141,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Creekmore\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -79,11 +157,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0513CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0513PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0513CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0513PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -104,17 +182,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0500-0599/HB0513CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0513CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0513CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0500-0599/HB0513PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Creekmore_IV.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
       "note": ""
     },
     {
@@ -123,7 +220,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 41-137-61, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A CERTAIN PERCENTAGE OF THE FEES AND FINES COLLECTED UNDER THE MISSISSIPPI MEDICAL CANNABIS ACT SHALL BE DEPOSITED INTO THE MISSISSIPPI PUBLIC HEALTH TRUST FUND FOR FOUR YEARS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 41-137-61, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A CERTAIN PERCENTAGE OF THE FEES AND TAX REVENUES COLLECTED UNDER THE MISSISSIPPI MEDICAL CANNABIS ACT SHALL BE DEPOSITED INTO THE MISSISSIPPI PUBLIC HEALTH TRUST FUND FOR FOUR YEARS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -132,7 +229,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:07:06.125152Z"
   }
 }

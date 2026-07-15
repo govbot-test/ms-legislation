@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Transmitted To Senate",
+    "occurred_at": "2026-03-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4100-4199/HB4131PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4131.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4131"
+}

@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1572",
-  "title": "Rare Disease Task Force; create within the MS Rare Disease Advisory Council",
+  "title": "Rare Disease Task Force; create within the MS Rare Disease Advisory Council.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Public Health and Human Services"
+    "Public Health and Human Services",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +121,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cockerham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1572PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1572PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1572IN.htm",
@@ -68,17 +162,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1572CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1572CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1572IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1572PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Cockerham.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Scott.xml",
       "note": ""
     },
     {
@@ -87,7 +200,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO ESTABLISH THE RARE DISEASE TASK FORCE WITHIN THE MISSISSIPPI RARE DISEASE ADVISORY COUNCIL; TO PROVIDE THAT THE PURPOSE OF THE TASK FORCE IS TO IDENTIFY GAPS IN CARE, EVALUATE FUNDING AND INSURANCE COVERAGE PRACTICES, ADVISE POLICYMAKERS ON EVIDENCE-BASED SOLUTIONS, AND ENSURE FAIR, TIMELY, AND EQUITABLE ACCESS TO RARE DISEASE THERAPIES IN THIS STATE; TO PROVIDE FOR THE MEMBERSHIP, POWERS AND DUTIES OF THE TASK FORCE; TO PROTECT ACCESS TO RARE DISEASE THERAPIES BY PROHIBITING HEALTH INSURERS, HEALTH BENEFIT PLANS AND PHARMACY BENEFIT MANAGERS FROM EXCLUDING, REMOVING OR RECLASSIFYING A RARE DISEASE THERAPY THAT WOULD OTHERWISE BE COVERED UNDER A PLAN'S FORMULARY OR BENEFIT DESIGN FOR THE PURPOSE OR EFFECT OF OBTAINING, DIRECTING, OR RELYING UPON FINANCIAL ASSISTANCE FROM A MANUFACTURER, CHARITABLE ORGANIZATION, OR OTHER THIRD PARTY; TO PROVIDE FOR ENFORCEMENT, REPORTING, AND RULEMAKING AUTHORITY; TO AMEND SECTION 83-5-35, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO ESTABLISH THE RARE DISEASE TASK FORCE WITHIN THE MISSISSIPPI RARE DISEASE ADVISORY COUNCIL; TO PROVIDE THAT THE PURPOSE OF THE TASK FORCE IS TO IDENTIFY GAPS IN CARE, EVALUATE FUNDING AND INSURANCE COVERAGE PRACTICES, ADVISE POLICYMAKERS ON EVIDENCE-BASED SOLUTIONS, AND ENSURE FAIR, TIMELY, AND EQUITABLE ACCESS TO RARE DISEASE THERAPIES IN THIS STATE; TO PROVIDE FOR THE MEMBERSHIP, POWERS AND DUTIES OF THE TASK FORCE; TO REQUIRE THE TASK FORCE TO MAKE AN ANNUAL REPORT TO CERTAIN PUBLIC OFFICIALS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +209,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:57:21.564444Z"
   }
 }

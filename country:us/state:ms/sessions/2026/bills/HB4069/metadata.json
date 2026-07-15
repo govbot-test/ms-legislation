@@ -1,0 +1,269 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB4069",
+  "title": "Mississippi Severe Winter Storm of 2026 Electric Utility Customer Relief and Electric Utility System Restoration Act; create.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb4069"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Finance",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Lamar,Steverson,Powell",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Harkins,Sparks,Whaley",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Conference",
+      "date": "2026-03-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4069PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4069PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4069IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4069IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 4069",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB4069.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB4069.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB4069_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB4069_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4069PS.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4069.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI SEVERE WINTER STORM OF 2026 ELECTRIC UTILITY CUSTOMER RELIEF AND ELECTRIC UTILITY SYSTEM RESTORATION ACT\"; TO ESTABLISH A MECHANISM BY WHICH THE MISSISSIPPI PUBLIC SERVICE COMMISSION MAY AUTHORIZE AND CERTIFY AN ELECTRIC UTILITY FINANCING ORDER AND THE STATE MAY ISSUE GENERAL OBLIGATION BONDS TO PAY THE COSTS OF REPAIRING DAMAGE TO THE SYSTEMS OF ELECTRIC UTILITIES CAUSED BY THE MISSISSIPPI SEVERE WINTER STORM OF 2026; TO AUTHORIZE ELECTRIC UTILITIES TO PETITION THE PUBLIC SERVICE COMMISSION FOR THE ISSUANCE OF A FINANCING ORDER WHICH, WHEN TRANSMITTED TO THE STATE BOND COMMISSION BY AN ELECTRIC UTILITY, AUTHORIZES THE ISSUANCE OF BONDS TO PAY THE COSTS ASSOCIATED WITH RESTORING THE SYSTEM OF THE ELECTRIC UTILITY; TO PROVIDE THE CONTENTS OF SUCH A PETITION; TO AUTHORIZE THE PUBLIC UTILITIES STAFF TO CONDUCT AN INDEPENDENT INVESTIGATION OF THE PETITION; TO ESTABLISH THE DUTIES OF THE PUBLIC SERVICE COMMISSION WITH REGARD TO SUCH PETITIONS; TO PROVIDE FOR THE CONTENTS OF FINANCING ORDERS; TO PROVIDE THAT THE FINANCING ORDER SHALL REQUIRE THE ELECTRIC UTILITY TO COLLECT A SYSTEM RESTORATION CHARGE FROM ITS RETAIL CUSTOMERS SUFFICIENT TO PAY THE DEBT SERVICE ON ANY BONDS ISSUED PURSUANT TO THE FINANCING ORDER; TO PROVIDE FOR ANNUAL ADJUSTMENTS TO THE SYSTEM RESTORATION CHARGES TO ENSURE THAT THE CHARGES ARE SUFFICIENT TO PAY THE DEBT SERVICE ON ANY BONDS ISSUED PURSUANT TO THIS ACT; TO PROVIDE THE METHOD FOR APPEALING DECISIONS OF THE PUBLIC SERVICE COMMISSION WITH RESPECT TO A FINANCING ORDER; TO PROVIDE FOR THE DURATION OF A FINANCING ORDER; TO AUTHORIZE THE ISSUANCE OF STATE GENERAL OBLIGATION BONDS IN AN AMOUNT NOT TO EXCEED THE AMOUNT SPECIFIED IN THE FINANCING ORDER TO BE UTILIZED BY AN ELECTRIC UTILITY TO PAY THE COST OF REPAIRS NECESSITATED BY THE MISSISSIPPI SEVERE WINTER STORM OF 2026; TO AUTHORIZE THE CREATION OF SINKING FUNDS INTO WHICH SYSTEM RESTORATION CHARGES COLLECTED BY THE ELECTRIC UTILITY SHALL BE DEPOSITED AND TO PROVIDE THAT MONEY IN THE SINKING FUNDS SHALL BE UTILIZED TO PAY THE DEBT SERVICE ON BONDS ISSUED PURSUANT TO A FINANCING ORDER; TO BRING FORWARD SECTION 27-65-19, MISSISSIPPI CODE OF 1972, WHICH IS A SECTION OF THE MISSISSIPPI SALES TAX LAW, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:31Z"
+  }
+}

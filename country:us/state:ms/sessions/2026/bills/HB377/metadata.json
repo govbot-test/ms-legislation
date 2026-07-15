@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Judiciary B"
+    "Judiciary B",
+    "Judiciary, Division B"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,214 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Horan,Grady,McKnight",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Fillingane,Barrett,Hickman",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +259,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"McKnight\"}",
       "organization_id": null
+    },
+    {
+      "name": "Shanks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shanks\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +275,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0377CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0377SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0377CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0377SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +300,81 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0377CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0377CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0377PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0377PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No.  377",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB0377.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB0377.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute No 1 for Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB0377_S_Subst_1_for_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB0377_S_Subst_1_for_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0377CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0300-0399/HB0377SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McKnight.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Shanks.xml",
       "note": ""
     },
     {
@@ -102,7 +383,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE MISSING PERSONS REPORTING AND IDENTIFICATION ACT; TO REQUIRE LOCAL LAW ENFORCEMENT AGENCIES TO ACCEPT A REPORT OF A MISSING PERSON; TO PERMIT LOCAL LAW ENFORCEMENT AGENCIES TO ATTEMPT TO OBTAIN DNA OF THE MISSING PERSON OR A REFERENCE SAMPLE FROM A FAMILY MEMBER'S DNA TO BE SUBMITTED TO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM (NAMUS) AND THE MISSISSIPPI FORENSIC DNA IDENTIFICATION SYSTEM OR THE NATIONAL DNA IDENTIFICATION SYSTEM; TO REQUIRE LOCAL LAW ENFORCEMENT AGENCIES TO ACCEPT MISSING PERSON REPORTS IN PERSON; TO PROVIDE FOR THE INFORMATION THE LOCAL LAW ENFORCEMENT AGENCY SHALL ATTEMPT TO GATHER REGARDING THE MISSING PERSON'S DISAPPEARANCE; TO REQUIRE THE LOCAL LAW ENFORCEMENT AGENCY TO GENERATE A REPORT OF THE MISSING PERSON WITHIN THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM (NAMUS) IF THE PERSON IDENTIFIED REPORT REMAINS MISSING AFTER FIVE DAYS, BUT NOT MORE THAN FIFTEEN DAYS; TO DEFINE THE TERM \"HIGH-RISK MISSING PERSON\" AND THE PROCEDURES TO BE FOLLOWED BY LOCAL LAW ENFORCEMENT AGENCIES TO ENSURE THAT THOSE PERSONS ARE INPUT IN THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM (NAMUS); TO REQUIRE THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY TO ESTABLISH PROCEDURES FOR DETERMINING HOW TO PRIORITIZE ANALYSIS OF THE SAMPLES RELATING TO MISSING PERSON CASES; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY TO IMMEDIATELY NOTIFY ALL LOCAL LAW ENFORCEMENT AGENCIES WITHIN THIS STATE AND THE SURROUNDING REGION OF INFORMATION THAT WILL AID IN THE PROMPT LOCATION AND SAFE RETURN OF HIGH-RISK MISSING PERSONS; TO BRING FORWARD SECTIONS 43-15-401, 45-41-1, AND 45-41-3, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENTS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE CERTAIN PROCEDURES FOR LAW ENFORCEMENT AGENCIES CONCERNING THE INVESTIGATION INTO A MISSING OR UNIDENTIFIED PERSON; TO REQUIRE A LAW ENFORCEMENT AGENCY TO INITIATE CERTAIN PROCEDURES UPON THE RECEIPT OF A CREDIBLE REPORT OF A MISSING OR UNIDENTIFIED PERSON; TO REQUIRE CERTAIN INFORMATION ABOUT THE MISSING OR UNIDENTIFIED PERSON TO BE ENTERED INTO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM; TO PROHIBIT A LAW ENFORCEMENT AGENCY FROM REQUIRING A DELAY BEFORE ACCEPTING A REPORT OR REQUIRING THE APPEARANCE OF A NEXT OF KIN BEFORE INITIATING A MISSING PERSONS INVESTIGATION; TO REQUIRE A LAW ENFORCEMENT AGENCY OR THE STATE MEDICAL EXAMINER TO ENTER A REPORT OF A MISSING CHILD INTO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM WITHOUT DELAY; TO REQUIRE THE STATE MEDICAL EXAMINER TEST THE DNA OF UNIDENTIFIED HUMAN REMAINS USING FORENSIC GENETIC GENEALOGY TESTING; TO AMEND SECTION 41-61-53, MISSISSIPPI CODE OF 1972, TO DEFINE THE TERMS \"UNCLAIMED HUMAN REMAINS\" AND \"UNIDENTIFIED HUMAN REMAINS\"; TO AMEND SECTION 41-61-59, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT WHEN A BODY IS UNIDENTIFIED HUMAN REMAINS, THE BODY SHALL BE SUBMITTED TO THE STATE MEDICAL EXAMINER; TO AMEND SECTION 41-61-61, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT UPON DISCOVERY UNIDENTIFIED HUMAN REMAINS OR ANATOMICAL MATERIAL SUSPECTED OF BEING PART OF THE HUMAN BODY SHALL BE SUBMITTED TO THE STATE MEDICAL EXAMINER; TO PROVIDE THAT THE WILLFUL DESTRUCTION OF A BODY, BODY PART OR UNIDENTIFIED HUMAN REMAINS SHALL BE A FELONY; TO REQUIRE THE COUNTY MEDICAL EXAMINER INVESTIGATOR TO ENTER INTO THE NATIONAL MISSING AND UNIDENTIFIED PERSONS SYSTEM ALL UNCLAIMED HUMAN REMAINS CASES WITHIN A CERTAIN AMOUNT OF DAYS; TO AMEND SECTION 41-39-5, MISSISSIPPI CODE OF 1972, TO REQUIRE ANY PHYSICIAN, HOSPITAL, FUNERAL DIRECTOR, EMBALMER, COUNTY MEDICAL EXAMINER OR OTHER PERSON ACQUIRING POSSESSION OF UNIDENTIFIED HUMAN REMAINS TO SUBMIT THE REMAINS TO THE STATE MEDICAL EXAMINER AND NOT SUBJECT THE REMAINS TO CREMATION, EMBALMING OR OTHER DESTRUCTIVE TREATMENT; TO AMEND SECTION 45-6-7, MISSISSIPPI CODE OF 1972, TO REQUIRE A CERTAIN AMOUNT OF TRAINING RELATED TO THE INVESTIGATION OF UNIDENTIFIED AND MISSING PERSONS FOR LAW ENFORCEMENT OFFICERS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +392,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:31:45.978820Z"
   }
 }

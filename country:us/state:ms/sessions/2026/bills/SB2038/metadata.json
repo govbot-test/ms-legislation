@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2038",
-  "title": "Our House Residential Multi-Service Center Program; establish as a pilot initiative within the Mississippi Department of Corrections.",
+  "title": "Our House Residential Multi-Service Center; establish as a pilot initiative at CWC in Pike County.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations A",
     "Corrections"
   ],
   "abstracts": [],
@@ -40,6 +41,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Corrections;Appropriations A",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +127,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2038CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2038PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +152,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2001-2099/SB2038CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2001-2099/SB2038PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +186,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO ESTABLISH THE \"OUR HOUSE RESIDENTIAL MULTI-SERVICE CENTER PROGRAM\" AS A PILOT INITIATIVE WITHIN THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO PROVIDE COMPREHENSIVE SERVICES TO RETURNING CITIZENS, UNDER COMMUNITY SUPERVISION, FOR AT LEAST TWO YEARS FOLLOWING RELEASE FROM INCARCERATION; TO SET FORTH CRITERIA THAT MUST BE MET TO BE ELIGIBLE FOR THE PROGRAM; TO OUTLINE PROGRAM STRUCTURE, SERVICES AND PHASES; TO IDENTIFY EXPECTED OUTCOMES OF THE PROGRAM; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF CORRECTIONS, IN CONJUNCTION WITH THE LEGISLATIVE BUDGET OFFICE, TO PROVIDE AN ANNUAL REPORT TO THE LEGISLATURE DETAILING PROGRAM OUTCOMES, PARTICIPANT PROGRESS AND FINANCIAL SAVINGS ACHIEVED THROUGH THE PROGRAM; TO REQUIRE THAT AN INDEPENDENT EVALUATION OF THE PROGRAM'S EFFECTIVENESS BE CONDUCTED EVERY TWO YEARS TO ASSESS ITS IMPACT ON RECIDIVISM AND OVERALL COMMUNITY REINTEGRATION; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO ESTABLISH THE \"OUR HOUSE RESIDENTIAL MULTI-SERVICE CENTER PROGRAM\" AT THE CWC IN PIKE COUNTY, MISSISSIPPI, AS A PILOT INITIATIVE WITHIN THE MISSISSIPPI DEPARTMENT OF CORRECTIONS TO PROVIDE COMPREHENSIVE SERVICES TO RETURNING CITIZENS; TO SET FORTH CRITERIA THAT MUST BE MET TO BE ELIGIBLE FOR THE PROGRAM; TO OUTLINE PROGRAM STRUCTURE, SERVICES AND PHASES; TO IDENTIFY EXPECTED OUTCOMES OF THE PROGRAM; TO REQUIRE THE MISSISSIPPI DEPARTMENT OF CORRECTIONS, IN CONJUNCTION WITH THE LEGISLATIVE BUDGET OFFICE, TO PROVIDE AN ANNUAL REPORT TO THE LEGISLATURE DETAILING PROGRAM OUTCOMES, PARTICIPANT PROGRESS AND FINANCIAL SAVINGS ACHIEVED THROUGH THE PROGRAM; TO REQUIRE THAT AN INDEPENDENT EVALUATION OF THE PROGRAM'S EFFECTIVENESS BE CONDUCTED EVERY TWO YEARS TO ASSESS ITS IMPACT ON RECIDIVISM AND OVERALL COMMUNITY REINTEGRATION; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +195,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:30:11.059866Z"
   }
 }

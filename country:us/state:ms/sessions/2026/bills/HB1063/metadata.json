@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Finance",
     "Ways and Means"
   ],
   "abstracts": [],
@@ -28,6 +29,152 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Title Suff Do Pass Comm Sub",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Finance",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conferees Named Lamar,Steverson,Powell",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conferees Named Harkins,Carter,Sparks",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Conference",
+      "date": "2026-03-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +193,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1063PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1063PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1063IN.htm",
           "media_type": "text/html"
         },
@@ -56,13 +218,58 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1000-1099/HB1063CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1063CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1063",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1063.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1063.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1063_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1063_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1063IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1000-1099/HB1063PS.pdf",
       "note": ""
     },
     {
@@ -75,7 +282,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 27-31-46, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"PROJECT\" TO INCLUDE FACILITIES STORING ENERGY USING BATTERY ENERGY STORAGE SYSTEMS, FOR PURPOSES OF A COUNTY'S AUTHORITY TO GRANT CERTAIN AD VALOREM TAX EXEMPTIONS OF UP TO 50% OF THE TOTAL ASSESSED VALUE OF CERTAIN PROJECTS; TO AMEND SECTION 27-31-46.1, MISSISSIPPI CODE OF 1972, TO EXTEND THE INITIAL CONSTRUCTION DEADLINE FOR PURPOSES OF ELIGIBILITY OF CERTAIN ENERGY PROJECTS FOR CERTAIN AD VALOREM TAX EXEMPTIONS OF UP TO 50% OF THE TOTAL ASSESSED VALUE OF THE PROJECTS; TO EXTEND THE DEADLINE BY WHICH COUNTIES AND MUNICIPALITIES MAY AUTHORIZE SUCH EXEMPTIONS; TO AMEND SECTION 27-31-101, MISSISSIPPI CODE OF 1972, TO ADD ENTERPRISES OWNING OR OPERATING A FACILITY FOR THE MANUFACTURE, ASSEMBLY OR OPERATION OF SYSTEMS OR DEVICES USED IN THE GENERATION OR STORAGE OF ENERGY, FOR PURPOSES OF A COUNTY'S OR A MUNICIPALITY'S AUTHORITY TO GRANT CERTAIN AD VALOREM TAX EXEMPTIONS; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE BY WHICH A FEE-IN-LIEU AGREEMENT MAY BE ENTERED WITH CERTAIN QUALIFIED BUSINESSES FOR PURPOSES OF THE MINIMUM FEE-IN-LIEU AMOUNT OF 1/10 OF THE TOTAL OF ALL AD VALOREM TAXES OTHERWISE PAYABLE AS ANNUALLY DETERMINED; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 27-31-46, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"PROJECT\" TO INCLUDE FACILITIES STORING ENERGY USING BATTERY ENERGY STORAGE SYSTEMS, FOR PURPOSES OF A COUNTY'S AUTHORITY TO GRANT CERTAIN AD VALOREM TAX EXEMPTIONS OF UP TO 50% OF THE TOTAL ASSESSED VALUE OF CERTAIN PROJECTS; TO AMEND SECTION 27-31-46.1, MISSISSIPPI CODE OF 1972, TO EXTEND THE INITIAL CONSTRUCTION DEADLINE FOR PURPOSES OF ELIGIBILITY OF CERTAIN ENERGY PROJECTS FOR CERTAIN AD VALOREM TAX EXEMPTIONS OF UP TO 50% OF THE TOTAL ASSESSED VALUE OF THE PROJECTS; TO EXTEND THE DEADLINE BY WHICH COUNTIES AND MUNICIPALITIES MAY AUTHORIZE SUCH EXEMPTIONS; TO AMEND SECTION 27-31-101, MISSISSIPPI CODE OF 1972, TO ADD BATTERY ENERGY STORAGE SYSTEM FACILITIES, FOR PURPOSES OF A COUNTY'S OR A MUNICIPALITY'S AUTHORITY TO GRANT CERTAIN AD VALOREM TAX EXEMPTIONS; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; TO AMEND SECTION 27-31-104, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE BY WHICH A FEE-IN-LIEU AGREEMENT MAY BE ENTERED WITH CERTAIN QUALIFIED BUSINESSES FOR PURPOSES OF THE MINIMUM FEE-IN-LIEU AMOUNT OF 1/10 OF THE TOTAL OF ALL AD VALOREM TAXES OTHERWISE PAYABLE AS ANNUALLY DETERMINED; TO EXTEND THE DATE OF THE REVERTER ON THE SECTION OF LAW; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -84,7 +291,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:58:02.132075Z"
   }
 }

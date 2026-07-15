@@ -40,6 +40,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +62,43 @@
       "primary": true,
       "person_id": "~{\"name\": \"Suber\"}",
       "organization_id": null
+    },
+    {
+      "name": "McCaughn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McCaughn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seymour",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seymour\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SR/SR0023PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0023PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SR/SR0023IN.htm",
@@ -74,11 +117,19 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0023IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0023PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Suber.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McCaughn.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Seymour.xml",
       "note": ""
     },
     {
@@ -87,7 +138,7 @@
     }
   ],
   "extras": {
-    "summary": "A RESOLUTION COMMENDING AND CONGRATULATING THE CALHOUN CITY WILDCATS FOOTBALL TEAM AND HEAD COACH M.D. JENNINGS FOR WINNING THE 2025 MHSAA CLASS 1A STATE CHAMPIONSHIP WHICH WAS THEIR THIRD STATE TITLE."
+    "summary": "A RESOLUTION COMMENDING AND CONGRATULATING THE CALHOUN CITY WILDCATS FOOTBALL TEAM AND HEAD COACH M.D. JENNINGS FOR WINNING THE 2025 MHSAA CLASS 1A STATE CHAMPIONSHIP, WHICH IS THEIR THIRD STATE TITLE."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +147,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T08:02:39.341806Z"
   }
 }

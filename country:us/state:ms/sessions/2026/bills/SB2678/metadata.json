@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
-    "Economic and Workforce Development"
+    "Appropriations A",
+    "Economic and Workforce Development",
+    "Workforce Development"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +42,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Workforce Development;Appropriations A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +118,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2678PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2678PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2678IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +143,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2678_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2678_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2678IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2678PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +177,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 71-5-507, MISSISSIPPI CODE OF 1972, TO PRESCRIBE THE METHOD OF DETERMINING THE WEEKLY UNEMPLOYMENT BENEFIT DURATION BASED ON THE AVERAGE UNEMPLOYMENT RATE OF THE INDIVIDUAL; TO BRING FORWARD SECTION 71-5-503, MISSISSIPPI CODE OF 1972, WHICH SET FORTH THE MISSISSIPPI UNEMPLOYMENT COMPENSATION LAW; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 71-5-507, MISSISSIPPI CODE OF 1972, TO PRESCRIBE THE METHOD OF DETERMINING THE WEEKLY UNEMPLOYMENT BENEFIT DURATION BASED ON THE AVERAGE REGIONAL UNEMPLOYMENT RATE OF THE INDIVIDUAL; TO BRING FORWARD SECTION 71-5-503, MISSISSIPPI CODE OF 1972, WHICH SETS FORTH THE MISSISSIPPI UNEMPLOYMENT COMPENSATION LAW FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +186,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:51:57.639767Z"
   }
 }

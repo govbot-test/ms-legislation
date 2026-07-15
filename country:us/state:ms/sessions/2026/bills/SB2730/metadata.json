@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Judiciary A",
     "Judiciary, Division A"
   ],
   "abstracts": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:01Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary A",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +121,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"McMahan\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gillespie Isom",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gillespie Isom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +145,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2730CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2730PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2730CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2730PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +170,55 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2730CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2730CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2730_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2730_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2730CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2730PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McMahan.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Gillespie_Isom.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
       "note": ""
     },
     {
@@ -102,7 +227,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO PROVIDE THAT A CHARITABLE ORGANIZATION SHALL BE IMMUNE FROM CIVIL LIABILITY FOR ANY ACT OR OMISSION ARISING OUT OF, RELATED TO, OR OCCURRING IN CONNECTION WITH THE PROVISION OF SERVICES, ASSISTANCE, AID, SHELTER, TRANSPORTATION, COMMUNICATIONS, LOGISTICS, SECURITY, UTILITIES, EMERGENCY RESPONSE, OR OTHER RELATED ACTIVITIES DURING A DECLARED EMERGENCY, A GOVERNMENT-ORDERED EMERGENCY, OR AN IMPENDING WEATHER EVENT; TO PROVIDE THAT THE IMMUNITY GRANTED UNDER THIS ACT SHALL NOT BE SUBJECT TO EXCEPTION, LIMITATION, OR QUALIFICATION BASED UPON THE NATURE OF THE CONDUCT GIVING RISE TO THE CLAIM; TO DEFINE THE TERMS \"IMPENDING WEATHER EVENT\" \"CHARITABLE ORGANIZATION\"; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE THAT A CHARITABLE ORGANIZATION SHALL BE IMMUNE FROM CIVIL LIABILITY FOR ANY ACT OR OMISSION ARISING OUT OF, RELATED TO, OR OCCURRING IN CONNECTION WITH THE PROVISION OF SERVICES, ASSISTANCE, AID, SHELTER, TRANSPORTATION, COMMUNICATIONS, LOGISTICS, SECURITY, UTILITIES, EMERGENCY RESPONSE, OR OTHER RELATED ACTIVITIES DURING A DECLARED EMERGENCY, A GOVERNMENT-ORDERED EMERGENCY, OR AN IMPENDING WEATHER EVENT; TO PROVIDE THAT THE IMMUNITY FROM CIVIL LIABILITY GRANTED UNDER THIS ACT SHALL NOT APPLY TO ANY ACT OR OMISSION ARISING OUT OF WANTON, WILLFUL, OR INTENTIONAL MISCONDUCT; TO PROVIDE THAT THE IMMUNITY GRANTED UNDER THIS ACT SHALL NOT BE SUBJECT TO EXCEPTION, LIMITATION, OR QUALIFICATION BASED UPON THE NATURE OF THE CONDUCT GIVING RISE TO THE CLAIM EXCEPT AS PROVIDED IN THIS ACT; TO DEFINE THE TERMS \"IMPENDING WEATHER EVENT\" AND \"CHARITABLE ORGANIZATION\"; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:01Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:07:32.823500Z"
   }
 }

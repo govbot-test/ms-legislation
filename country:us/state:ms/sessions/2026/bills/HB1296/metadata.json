@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Public Health and Human Services"
+    "Public Health and Human Services",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +129,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1296PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1296PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1296IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +154,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1296_H_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1296_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1296IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1296PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO DIRECT THE STATE DEPARTMENT OF HEALTH TO CONDUCT EDUCATIONAL ACTIVITIES FOR HEALTH CARE PROVIDERS, PATIENTS AND THE PUBLIC ON THE SIGNS, SYMPTOMS AND MANAGEMENT OF AMNIOTIC FLUID EMBOLISM; TO PROVIDE THAT THE DEPARTMENT SHALL MAKE AVAILABLE INFORMATION ABOUT AMNIOTIC FLUID EMBOLISM ON THE DEPARTMENT'S WEBSITE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO DIRECT THE STATE DEPARTMENT OF HEALTH TO CONDUCT EDUCATIONAL ACTIVITIES FOR HEALTH CARE PROVIDERS, PATIENTS AND THE PUBLIC ON THE SIGNS, SYMPTOMS AND MANAGEMENT OF AMNIOTIC FLUID EMBOLISM; TO PROVIDE THAT THE DEPARTMENT SHALL MAKE AVAILABLE INFORMATION ABOUT AMNIOTIC FLUID EMBOLISM ON THE DEPARTMENT'S WEBSITE; TO REQUIRE THAT DATA AND STATISTICS RELATED TO AMNIOTIC FLUID EMBOLISM BE REPORTED TO THE CHILD DEATH REVIEW PANEL AND MATERNAL MORTALITY REVIEW COMMITTEE; TO PROVIDE FOR A SELF MEASUREMENT BLOOD PRESSURE MONITORING PILOT PROGRAM FOR PREGNANT WOMEN; TO AMEND SECTION 73-25-14, MISSISSIPPI CODE OF 1972, TO REQUIRE CONTINUING MEDICAL EDUCATION RELATING TO NUTRITION AND METABOLIC HEALTH FOR RENEWAL OF PHYSICIANS' LICENSES; TO REQUIRE THE STATE DEPARTMENT OF HEALTH, IN COLLABORATION WITH THE DIVISION OF MEDICAID, TO CONDUCT A STUDY ON CERTIFICATION OF DOULAS; TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO CONDUCT A PUBLIC AWARENESS CAMPAIGN TO INCREASE THE UNDERSTANDING OF FATHERHOOD ENGAGEMENT IN IMPROVING OVERALL HEALTH OUTCOMES DURING PREGNANCY, CHILDBIRTH AND POSTPARTUM FOR BOTH THE MOTHER AND BABY; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:27Z",
     "text_extraction_latest_update": "2026-07-13T07:49:08.385485Z"
   }
 }

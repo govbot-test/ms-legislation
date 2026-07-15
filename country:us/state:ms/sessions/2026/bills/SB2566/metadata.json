@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Business and Commerce",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -40,6 +41,218 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Commerce",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered (Holloway (76th), Yancey, Calvert)",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From House",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Unanimous Consent Granted",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Unanimous Consent Granted",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +271,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2566CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2566SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2566CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2566SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +296,88 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2566CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2566CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2566PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2566PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2566",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2566.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2566.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2566_H_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2566_H_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2566_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2566_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2566CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2566SG.pdf",
       "note": ""
     },
     {
@@ -102,7 +390,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 73-7-1, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT NOTICE OF ALL STATE BOARD OF COSMETOLOGY AND BARBERING (BOARD) MEETINGS BE GIVEN AS PROVIDED IN SECTION 25-41-1 ET SEQ.; TO ESTABLISH CERTAIN QUALIFICATIONS TO BE ELIGIBLE FOR APPOINTMENT AS THE EXECUTIVE DIRECTOR OF THE BOARD; TO AMEND SECTION 73-7-2, MISSISSIPPI CODE OF 1972, TO CLARIFY THE DEFINITION OF \"ESTHETICS\"; TO AMEND SECTION 73-7-3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE BOARD SHALL USE THE STANDARDS ESTABLISHED BY THE STATE PERSONNEL BOARD IN DETERMINING WHETHER OR NOT THE BOARD'S EXECUTIVE DIRECTOR MAY RECEIVE COMPENSATORY LEAVE AND IN DETERMINING WHETHER OR NOT EMPLOYEES OF THE BOARD MAY BE GRANTED ADMINISTRATIVE LEAVE WITH PAY; TO AMEND SECTIONS 73-7-13, 73-7-13.1, 73-7-18 AND 73-7-21, MISSISSIPPI CODE OF 1972, TO INCLUDE SUCCESSFUL ENROLLMENT IN A STATE INSTITUTION OF HIGHER LEARNING OR A PUBLIC OR PRIVATE COLLEGE OR UNIVERSITY AS AN ACCEPTABLE QUALIFICATION TO BE ADMITTED TO EXAMINATION FOR A COSMETOLOGY LICENSE, A BARBERING LICENSE, AN ESTHETICIAN'S LICENSE AND A NAIL TECHNICIAN'S LICENSE; TO REQUIRE THAT EXAMINATIONS AND ALL TESTING REQUIREMENTS BE CLEAR, OBJECTIVE AND UNIFORMLY APPLIED; TO AMEND SECTION 73-7-14, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY PERSON WHO HOLDS A CURRENT, VALID LICENSE AS A MASTER COSMETOLOGIST, BARBER, NAIL TECHNICIAN OR ESTHETICIAN SHALL NOT BE REQUIRED TO RENEW THE UNDERLYING COSMETOLOGY, BARBERING, NAIL TECHNOLOGY OR ESTHETICS LICENSE THAT WAS THE BASIS FOR ISSUANCE OF A MASTER COSMETOLOGIST, BARBER, NAIL TECHNICIAN OR ESTHETICIAN LICENSE; TO AMEND SECTION 73-7-15, MISSISSIPPI CODE OF 1972, TO CONFORM THE REQUIREMENTS FOR ADMISSION TO EXAMINATION FOR A BARBERING INSTRUCTOR'S LICENSE WITH THOSE APPLICABLE FOR A COSMETOLOGY INSTRUCTOR'S LICENSE, AN ESTHETICS INSTRUCTOR'S LICENSE AND A NAIL TECHNICIAN INSTRUCTOR'S LICENSE; TO ELIMINATE THE APPRENTICESHIP PROGRAM OPTION FOR ADMISSION TO EXAMINATION FOR AN ESTHETICS INSTRUCTOR'S LICENSE AND A NAIL TECHNICIAN INSTRUCTOR'S LICENSE; TO INCREASE THE LENGTH OF A TEMPORARY INSTRUCTOR'S PERMIT FROM 90 DAYS TO SIX MONTHS; TO AMEND SECTION 73-7-16, MISSISSIPPI CODE OF 1972, TO EXEMPT ANY ENTITY PROTECTED BY IMMUNITY UNDER THE MISSISSIPPI TORT CLAIMS ACT FROM BEING REQUIRED TO OBTAIN A SURETY BOND IN FAVOR OF THE BOARD OR TO FILE CASH, A CERTIFICATE OF DEPOSIT OR GOVERNMENT BONDS IN LIEU THEREOF WHEN MAKING APPLICATION FOR A SCHOOL LICENSE; TO CLARIFY CRITERIA FOR ISSUANCE OF A CONDITIONAL LICENSE FOR SCHOOLS; TO AMEND SECTION 73-7-19, MISSISSIPPI CODE OF 1972, TO CLARIFY LICENSE RENEWAL FREQUENCY REQUIREMENTS; TO AMEND SECTION 73-7-27, MISSISSIPPI CODE OF 1972, TO MODIFY THE PENALTIES FOR CLASS A, CLASS B AND CLASS C VIOLATIONS; TO PROVIDE THAT UNLICENSED PRACTICE OR PRACTICING ONE OF THE PROFESSIONS REGULATED BY THE BOARD WITHOUT A LICENSE OR TEMPORARY PERMIT BY AN INDIVIDUAL WHO HAS OTHERWISE SATISFACTORILY PASSED THE PRESCRIBED EXAMINATION PURSUANT TO SECTIONS 73-7-13, 73-7-13.1, 73-7-18 OR 73-7-21, DURING ANY PERIOD OF TIME IN WHICH NO BOARD OR FORMAL BOARD RULES AND REGULATIONS WERE IN PLACE SHALL NOT BE SUBJECT TO ANY DISCIPLINE OR FINES; TO AMEND SECTION 73-7-29, MISSISSIPPI CODE OF 1972, TO ADD A DELINQUENT RENEWAL PENALTY FOR MASTER LICENSES; TO PROVIDE THAT REFUNDS ON OVERPAYMENT OF FEES WILL BE MADE SUBJECT TO RULES AND REGULATIONS PROMULGATED BY THE STATE FISCAL OFFICER; TO AMEND SECTION 73-7-31, MISSISSIPPI CODE OF 1972, TO REPLACE THE PHRASE \"FACIAL TREATMENTS\" TO \"ESTHETICS SERVICES\"; TO AMEND SECTION 73-7-33, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT BARBERS SHALL BE ALLOWED TO USE ANY TYPE OF HAIR ROLLER IN A SANITARY MANNER; TO AMEND SECTIONS 73-7-9 AND 73-7-37, MISSISSIPPI CODE OF 1972, TO CONFORM; TO BRING FORWARD SECTIONS 73-7-5, 73-7-7, 73-7-11, 73-7-12, 73-7-17, 73-7-23, 73-7-25 AND 73-7-35, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 73-7-1, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT NOTICE OF ALL STATE BOARD OF COSMETOLOGY AND BARBERING (BOARD) MEETINGS BE GIVEN AS PROVIDED IN SECTION 25-41-1 ET SEQ.; TO AMEND SECTION 73-7-2, MISSISSIPPI CODE OF 1972, TO REVISE VARIOUS DEFINITIONS; TO AMEND SECTION 73-7-3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE BOARD SHALL USE THE STANDARDS ESTABLISHED BY THE STATE PERSONNEL BOARD IN DETERMINING WHETHER OR NOT THE BOARD'S EXECUTIVE DIRECTOR MAY RECEIVE COMPENSATORY LEAVE AND IN DETERMINING WHETHER OR NOT EMPLOYEES OF THE BOARD MAY BE GRANTED ADMINISTRATIVE LEAVE WITH PAY; TO AMEND SECTION 73-7-11, MISSISSIPPI CODE OF 1972, TO DELETE THE REQUIREMENT THAT LICENSE OWNERS MUST DISPLAY THE LICENSE IN A CONSPICUOUS PLACE IN HIS OR HER PRINCIPAL OFFICE, PLACE OF BUSINESS OR EMPLOYMENT AT ALL TIMES; TO AMEND SECTION 73-7-12, MISSISSIPPI CODE OF 1972, TO CLARIFY THE BOARD'S AUTHORITY REGARDING EXAMINATIONS; TO AMEND SECTIONS 73-7-13, 73-7-13.1, 73-7-18 AND 73-7-21, MISSISSIPPI CODE OF 1972, TO REVISE EDUCATIONAL REQUIREMENTS AND PROVISIONS GOVERNING APPRENTICESHIPS; TO REQUIRE THAT EXAMINATIONS AND ALL TESTING REQUIREMENTS BE CLEAR, OBJECTIVE AND UNIFORMLY APPLIED; TO AMEND SECTION 73-7-15, MISSISSIPPI CODE OF 1972, TO REVISE THE REQUIREMENTS FOR ADMISSION TO EXAMINATION FOR AN INSTRUCTOR'S LICENSE; TO INCREASE THE LENGTH OF A TEMPORARY INSTRUCTOR'S PERMIT FROM 90 DAYS TO SIX MONTHS; TO AMEND SECTION 73-7-16, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE REQUIRED BOND, CASH, OR A CERTIFICATE OF DEPOSIT SHALL BE FOR THE PROVISION OF INDEMNIFICATION OF ANY PERSON SUFFERING LOSS AS THE RESULT OF ANY FALSE CERTIFICATION, SCHOOL CLOSURE, ANY FRAUD OR MISREPRESENTATION USED ON BEHALF OF THE PRINCIPAL IN PROCURING SUCH PERSON'S ENROLLMENT IN A COURSE OF INSTRUCTION, INCLUDING REPAYMENT OF TUITION PAID IN ADVANCE BY ANY STUDENT; TO EXEMPT ANY ENTITY PROTECTED BY IMMUNITY UNDER THE MISSISSIPPI TORT CLAIMS ACT FROM BEING REQUIRED TO OBTAIN A SURETY BOND IN FAVOR OF THE BOARD OR TO FILE CASH, A CERTIFICATE OF DEPOSIT OR GOVERNMENT BONDS IN LIEU THEREOF WHEN MAKING APPLICATION FOR A SCHOOL LICENSE; TO DELETE PROVISIONS PROVIDING FOR ISSUANCE OF TEMPORARY LICENSES, PROBATIONARY LICENSES, CONDITIONAL LICENSES AND NONCONDITIONAL LICENSES FOR SCHOOLS; TO AMEND SECTION 73-7-17, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT BY JANUARY 1, 2027, THE BOARD SHALL PROMULGATE RULES AND REGULATIONS TO ENABLE LICENSURE OF MOBILE SALON/BARBER SHOPS; TO AMEND SECTION 73-7-19, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT FROM AND AFTER THE EFFECTIVE DATE OF THIS ACT THROUGH DECEMBER 31, 2026, ANY COSMETOLOGIST, BARBER, ESTHETICIAN, NAIL TECHNICIAN OR INSTRUCTOR WHO HAS AT LEAST TEN YEARS' EXPERIENCE UNDER THEIR LICENSE AND WHOSE LICENSE HAS BEEN EXPIRED FOR NOT MORE THAN TEN YEARS SHALL NOT HAVE TO TAKE THE EXAMINATION IN ORDER TO RENEW THEIR LICENSE, BUT SHALL RENEW THEIR LICENSE UPON PAYMENT OF THE REQUIRED RENEWAL FEE, ANY ADJUDICATED FINES, AND COMPLETION OF ANY CONTINUING EDUCATION THAT IS APPLICABLE TO THE LICENSE RENEWAL AS REQUIRED BY THE BOARD; TO PROVIDE THAT FROM AND AFTER JANUARY 1, 2027, A COSMETOLOGIST, BARBER, ESTHETICIAN, NAIL TECHNICIAN OR INSTRUCTOR WHO HAS AT LEAST TEN YEARS' EXPERIENCE UNDER THEIR LICENSE AND WHOSE LICENSE HAS BEEN EXPIRED FOR NOT MORE THAN FIVE YEARS SHALL NOT HAVE TO TAKE THE EXAMINATION IN ORDER TO RENEW THEIR LICENSE, BUT SHALL RENEW THEIR LICENSE UPON PAYMENT OF THE REQUIRED RENEWAL FEE, ANY ADJUDICATED FINES, AND A DELINQUENT FEE FOR EACH YEAR THAT THEIR LICENSE HAS BEEN EXPIRED AND COMPLETION OF ANY CONTINUING EDUCATION THAT IS APPLICABLE TO THE LICENSE RENEWAL AS REQUIRED BY THE BOARD; TO REQUIRE CERTAIN CONTINUING EDUCATION COURSES FOR INITIAL LICENSE RENEWAL; TO AMEND SECTION 73-7-23, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS REGARDING LICENSURE BY RECIPROCITY; TO AMEND SECTION 73-7-27, MISSISSIPPI CODE OF 1972, TO MODIFY THE PENALTIES FOR CLASS A, CLASS B AND CLASS C VIOLATIONS; TO PROVIDE THAT UNLICENSED PRACTICE OR PRACTICING ONE OF THE PROFESSIONS REGULATED BY THE BOARD WITHOUT A LICENSE OR TEMPORARY PERMIT BY AN INDIVIDUAL WHO HAS OTHERWISE SATISFACTORILY PASSED THE PRESCRIBED EXAMINATION PURSUANT TO SECTION 73-7-13, 73-7-13.1, 73-7-18 OR 73-7-21, DURING ANY PERIOD OF TIME IN WHICH NO BOARD OR FORMAL BOARD RULES AND REGULATIONS WERE IN PLACE SHALL NOT BE SUBJECT TO ANY DISCIPLINE OR FINES; TO AMEND SECTION 73-7-29, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO PROVIDE THAT AN APPLICANT FOR AN INITIAL LICENSE FOR COSMETOLOGIST, BARBER, NAIL TECHNICIAN OR ESTHETICIAN, SHALL NOT BE CHARGED A FEE IF THE APPLICANT PRODUCES DOCUMENTATION OF HIS OR HER PARTICIPATION IN CERTAIN BENEFIT PROGRAMS; TO PROVIDE THAT REFUNDS ON OVERPAYMENT OF FEES WILL BE MADE SUBJECT TO RULES AND REGULATIONS PROMULGATED BY THE STATE FISCAL OFFICER; TO AMEND SECTION 73-7-31, MISSISSIPPI CODE OF 1972, TO REPLACE THE PHRASE \"FACIAL TREATMENTS\" WITH \"ESTHETICS SERVICES\"; TO AMEND SECTION 73-7-33, MISSISSIPPI CODE OF 1972, TO DELETE LANGUAGE REGARDING THE APPAREL THAT MUST BE WORN WHILE AT WORK; TO AMEND SECTION 73-7-35, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A LICENSEE MAY RENDER SERVICES TO ANY PERSON WHO MAY BE CONFINED TO A SKILLED NURSING FACILITY, A LONG-TERM CARE HOSPITAL OR A COMPREHENSIVE MEDICAL REHABILITATION FACILITY; TO PROVIDE THAT LICENSEES MAY RENDER SERVICES TO DECEASED PERSONS AWAY FROM THEIR SHOP; TO AMEND SECTIONS 73-7-9 AND 73-7-37, MISSISSIPPI CODE OF 1972, TO CONFORM; TO CREATE A NEW SECTION WITHIN CHAPTER 7, TITLE 73, MISSISSIPPI CODE OF 1972, TO AUTHORIZE REGISTRATION AS INACTIVE STATUS FOR ANY LICENSED COSMETOLOGIST, BARBER, ESTHETICIAN OR NAIL TECHNICIAN WHO IS REGISTERED BUT NOT ACTIVELY PRACTICING IN THIS STATE; TO AMEND SECTION 73-7-14, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR THE ISSUANCE OF MASTER COSMETOLOGIST, BARBER, NAIL TECHNICIAN AND ESTHETICIAN LICENSES, TO PROVIDE FOR THE REPEAL OF SUCH SECTION ON THE EFFECTIVE DATE OF THIS ACT; TO BRING FORWARD SECTIONS 73-7-5, 73-7-7 AND 73-7-25, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +399,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:27Z",
     "text_extraction_latest_update": "2026-07-13T06:42:18.890795Z"
   }
 }

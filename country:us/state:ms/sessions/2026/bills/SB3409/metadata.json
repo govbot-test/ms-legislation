@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3409",
+  "title": "Lowndes County; establish industrial zone emergency response district.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance",
+    "Local and Private"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb3409"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Local and Private;Finance",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: LP To FI",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Younger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Younger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Turner-Ford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Turner-Ford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/3400-3499/SB3409IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3400-3499/SB3409IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3400-3499/SB3409IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Younger.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Turner-Ford.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB3409.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE THE BOARD OF SUPERVISORS OF LOWNDES COUNTY, MISSISSIPPI, TO ESTABLISH AN INDUSTRIAL ZONE EMERGENCY RESPONSE DISTRICT; TO PROVIDE FOR THE APPOINTMENT OF COMMISSIONERS OF THE DISTRICT; TO SPECIFY THE POWERS AND DUTIES OF THE DISTRICT; TO LEVY SPECIAL ASSESSMENTS BASED ON THE VALUE OF PROPERTY AND ON THE NUMBER OF EMPLOYEES MAINTAINED BY INDUSTRIAL TAXPAYERS WITHIN THE DISTRICT FOR THE PURPOSE OF PROVIDING ADEQUATE FUNDING FOR THE DISTRICT; TO EXEMPT THE PROPERTY AND REVENUE OF THE DISTRICT FROM ALL STATE, COUNTY AND MUNICIPAL TAXES; TO PROVIDE FOR ANNEXATIONS TO THE DISTRICT; TO AUTHORIZE THE DISTRICT TO ISSUE BONDS OR OTHER DEBT OBLIGATIONS; TO PROVIDE FOR DISSOLUTION OF THE DISTRICT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:29Z"
+  }
+}

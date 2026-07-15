@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Recalled From Senate",
+    "occurred_at": "2026-02-10T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1731PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Newman.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1731.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1731"
+}

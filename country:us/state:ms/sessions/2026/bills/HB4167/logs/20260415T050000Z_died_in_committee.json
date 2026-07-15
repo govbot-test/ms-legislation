@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Died In Committee",
+    "occurred_at": "2026-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4100-4199/HB4167PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4167.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4167"
+}

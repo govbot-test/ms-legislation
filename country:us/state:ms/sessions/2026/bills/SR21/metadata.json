@@ -40,6 +40,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +150,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SR/SR0021PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0021PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SR/SR0021IN.htm",
           "media_type": "text/html"
         },
@@ -154,7 +181,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0021IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SR/SR0021PS.pdf",
       "note": ""
     },
     {
@@ -207,7 +234,7 @@
     }
   ],
   "extras": {
-    "summary": "A RESOLUTION COMMENDING AND CONGRATULATING THE MISSISSIPPI GULF COAST COMMUNITY COLLEGE MEN'S GOLF TEAM FOR WINNING A SECOND CONSECUTIVE NATIONAL JUNIOR COLLEGE ATHLETIC ASSOCIATION DIVISION II MEN'S GOLF CHAMPIONSHIP."
+    "summary": "A RESOLUTION COMMENDING AND CONGRATULATING THE MISSISSIPPI GULF COAST COMMUNITY COLLEGE MEN'S GOLF TEAM FOR WINNING A SECOND- CONSECUTIVE NATIONAL JUNIOR COLLEGE ATHLETIC ASSOCIATION DIVISION II MEN'S GOLF CHAMPIONSHIP."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -216,7 +243,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T07:09:33.056050Z"
   }
 }

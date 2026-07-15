@@ -1,12 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2108",
-  "title": "Bail agents; amend provisions related thereto.",
+  "title": "Bail; amend provisions related thereto.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Judiciary B",
     "Judiciary, Division B"
   ],
   "abstracts": [],
@@ -40,6 +42,86 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary B;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: JB To AC",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +132,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Fillingane\"}",
       "organization_id": null
+    },
+    {
+      "name": "McMahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McMahan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +148,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2108CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2108PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2108CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2108PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +173,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2108CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2108CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2108_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2108_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2108CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2108PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Fillingane.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMahan.xml",
       "note": ""
     },
     {
@@ -102,7 +226,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 83-39-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSIONER TO SUSPEND A BAIL LICENSE WHERE A LICENSE HAS BEEN GRANTED TO A PROFESSIONAL BAIL AGENT, SOLICITING BAIL AGENT OR BAIL ENFORCEMENT AGENT AND EVIDENCE IS PRESENTED, SUBSEQUENTLY, THAT A COURT HAS RENDERED A CIVIL JUDGMENT AGAINST THAT AGENT BECAUSE OF MONIES OWED TO AN INSURER OR PROFESSIONAL BAIL AGENT FOR REASONS PERTAINING TO HIS OR HER EMPLOYMENT OR TERMINATION OF EMPLOYMENT; TO PROVIDE THAT AFTER THE JUDGEMENT HAS BEEN SATISFIED, A HEARING TO REINSTATE THE LICENSE MAY BE REQUESTED AND THE LICENSE MAY BE REINSTATED UPON PRESENTATION OF THE SATISFACTION OF THE JUDGEMENT; TO AMEND SECTION 83-39-25, MISSISSIPPI CODE OF 1972, TO CLARIFY THAT CREDIT CARD TRANSACTION FEES, BOND TRANSFER FEES AND ANY OTHER FEES AUTHORIZED BY LAW OR REGULATION SHALL NOT BE CONSIDERED PART OF THE PREMIUM, COMMISSION OR FEE CHARGED UNDER THIS SECTION; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 83-39-3, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSIONER OF INSURANCE TO SUSPEND A BAIL LICENSE WHERE A LICENSE HAS BEEN GRANTED TO A PROFESSIONAL BAIL AGENT, SOLICITING BAIL AGENT OR BAIL ENFORCEMENT AGENT AND EVIDENCE IS PRESENTED, SUBSEQUENTLY, THAT A COURT HAS RENDERED A CIVIL JUDGMENT AGAINST THAT AGENT BECAUSE OF MONIES OWED TO AN INSURER OR PROFESSIONAL BAIL AGENT FOR REASONS PERTAINING TO HIS OR HER EMPLOYMENT OR TERMINATION OF EMPLOYMENT; TO PROVIDE THAT AFTER THE JUDGMENT HAS BEEN SATISFIED, A HEARING TO REINSTATE THE LICENSE MAY BE REQUESTED, AND THE LICENSE MAY BE REINSTATED UPON PRESENTATION OF THE SATISFACTION OF THE JUDGMENT; TO AMEND SECTION 83-39-25, MISSISSIPPI CODE OF 1972, TO CLARIFY THAT CREDIT CARD TRANSACTION FEES, BOND TRANSFER FEES AND ANY OTHER FEES AUTHORIZED BY LAW OR REGULATION SHALL NOT BE CONSIDERED PART OF THE PREMIUM, COMMISSION OR FEE CHARGED UNDER THIS SECTION; TO BRING FORWARD SECTION 99-5-9, MISSISSIPPI CODE OF 1972, FOR POSSIBLE AMENDMENT; TO AUTHORIZE A COURT TO ASSESS THE COST OF ANY SERVICE OF PROCESS OF A BAIL AGENT EITHER BY PERSONAL SERVICE OR BY CERTIFIED MAIL AGAINST THE DEFENDANT IN ANY CRIMINAL CASE WHERE SUCH SERVICE IS ISSUED BY THE COURT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +235,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T07:17:11.475268Z"
   }
 }

@@ -40,6 +40,190 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Education",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conferees Named Roberson,McCarty,Felsher",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conferees Named DeBar,Boyd,Blount",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +234,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"Yates\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1395SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1395SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1395IN.htm",
@@ -68,17 +275,81 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1395PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1395PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1395",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1395.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1395.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1395_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1395_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1395_S_Amend_01_to_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1395_S_Amend_01_to_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1395IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1395SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yates.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
       "note": ""
     },
     {
@@ -87,7 +358,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-28-61, MISSISSIPPI CODE OF 1972, TO LIMIT THE RIGHT OF FIRST REFUSAL A SCHOOL DISTRICT MUST GRANT TO CHARTER SCHOOLS FOR THE PURCHASE OR LEASE OF UNUSED SCHOOL PROPERTY TO INSTRUCTIONAL BUILDINGS; TO REQUIRE A CHARTER SCHOOL TO EXERCISE THE RIGHT OF FIRST REFUSAL WITHIN 90 DAYS OR ELSE IT IS DEEMED TO BE REJECTED; TO AMEND SECTION 37-7-455, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING SECTION; TO AMEND SECTION 37-7-477, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT LEASED SCHOOL PROPERTY SHALL REVERT BACK TO THE SCHOOL DISTRICT WHEN THE PROPERTY CEASES TO BE USED FOR THE PURPOSES IT WAS ORIGINALLY LEASED OR FOR AN ALTERNATIVE PURPOSE APPROVED BY THE SCHOOL BOARD AT THE TIME THAT THE ORIGINAL INSTRUMENT OF CONVEYANCE WAS EXECUTED; TO PRESCRIBE THE PROCEDURES TO BE ADHERED TO IN ORDER TO EFFECTUATE AN ALTERNATIVE USE TO BE STIPULATED IN THE ORIGINAL INSTRUMENT OF CONVEYANCE, WHICH MUST BE ACTED UPON THE SCHOOL BOARD BY RESOLUTION DULY ADOPTED AND SPREAD UPON ITS MINUTES; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-28-61, MISSISSIPPI CODE OF 1972, TO LIMIT TO 12 MONTHS THE RIGHT OF FIRST REFUSAL OF A CHARTER SCHOOL TO PURCHASE OR LEASE CLOSED PUBLIC SCHOOL PROPERTY IN THE SCHOOL DISTRICT IN WHICH THE CHARTER SCHOOL IS LOCATED; TO SPECIFY THAT THIS PROVISION SHALL NOT IMPAIR ANY RIGHTS OF A CHARTER SCHOOL UNDER A CONTRACT FOR PURCHASE OR LEASE OF THE PROPERTY ENTERED WITH THE DISTRICT DURING THE TWELVE-MONTH PERIOD; TO AMEND SECTION 37-7-455, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, WITHIN THE FIRST SIX MONTHS OF THE CLOSURE OF THE PUBLIC SCHOOL FACILITY OR PROPERTY, NO PURCHASE OR LEASE AGREEMENT WITH ANY ENTITY OTHER THAN A CHARTER SCHOOL LOCATED IN THE DISTRICT MAY BE ENTERED, UNLESS EACH SUCH CHARTER SCHOOL HAS NOTIFIED THE SCHOOL BOARD THAT IT IS NOT EXERCISING ITS RIGHT OF FIRST REFUSAL ON THE PROPERTY; TO AMEND SECTION 37-7-477, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT LEASED SCHOOL PROPERTY SHALL REVERT BACK TO THE SCHOOL DISTRICT WHEN THE PROPERTY CEASES TO BE USED FOR THE PURPOSES IT WAS ORIGINALLY LEASED OR FOR AN ALTERNATIVE PURPOSE APPROVED BY THE SCHOOL BOARD AT THE TIME THAT THE ORIGINAL INSTRUMENT OF CONVEYANCE WAS EXECUTED; TO PRESCRIBE THE PROCEDURES TO BE ADHERED TO IN ORDER TO EFFECTUATE AN ALTERNATIVE USE TO BE STIPULATED IN THE ORIGINAL INSTRUMENT OF CONVEYANCE, WHICH MUST BE ACTED UPON THE SCHOOL BOARD BY RESOLUTION DULY ADOPTED AND SPREAD UPON ITS MINUTES; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +367,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:51:59.718833Z"
   }
 }

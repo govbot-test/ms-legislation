@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Appropriations",
     "Appropriations A",
     "Education"
   ],
@@ -60,6 +61,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Appropriations",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
       }
     }
   ],
@@ -135,12 +206,147 @@
       "primary": false,
       "person_id": "~{\"name\": \"Mansell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Carpenter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harness",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harness\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Banks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Banks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arnold",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arnold\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hulum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hulum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karriem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karriem\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Faulkner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Faulkner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Denton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Denton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holloway (27th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holloway (27th)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Summers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Summers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Foster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Foster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Porter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Porter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Remak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1126PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1126PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1126IN.htm",
@@ -153,13 +359,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1126CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1126CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1126_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1126_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1126IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1126PS.pdf",
       "note": ""
     },
     {
@@ -199,12 +435,72 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Carpenter.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Harness.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Banks.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Arnold.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hulum.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Karriem.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Faulkner.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Denton.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Holloway_(27th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Summers.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Nelson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Foster.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Porter.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1126.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-19-7, MISSISSIPPI CODE OF 1972, TO PROVIDE A $5,000 INCREASE TO THE TEACHER SALARY SCALE; TO BRING FORWARD SECTION 37-21-7, MISSISSIPPI CODE OF 1972, WHICH INCLUDES THE SALARY FOR ASSISTANT TEACHERS, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-19-7, MISSISSIPPI CODE OF 1972, TO PROVIDE A $5,000 INCREASE TO THE TEACHER SALARY SCALE; TO PROVIDE AN ADDITIONAL $3,000 ANNUAL SALARY SUPPLEMENT TO LICENSED SPECIAL EDUCATION TEACHERS EMPLOYED BY A SCHOOL DISTRICT ON A FULL-TIME BASIS TO PROVIDE SPECIAL EDUCATION INSTRUCTION; TO PROVIDE AN $6,000.00 ANNUAL SALARY SUPPLEMENT TO OCCUPATIONAL THERAPIST AND LICENSED SCHOOL PSYCHOLOGIST EMPLOYED BY A LOCAL SCHOOL DISTRICT, WHO HAVE RECEIVED NATIONAL CERTIFICATION FROM THEIR RESPECTIVE CERTIFYING ENTITY, AND SERVING IN THE CAPACITY FOR WHICH THE CERTIFICATION HAS BEEN ISSUED; TO ESTABLISH A CAP ON THE MAXIMUM SALARY A SCHOOL SUPERINTENDENT MAY EARN WHICH IS DIRECTLY CORRELATED TO HIS OR HER YEARS OF EXPERIENCE, EDUCATIONAL ATTAINMENT, CREDENTIALS AND CLASSIFICATION OF LICENSURE ENDORSEMENT IN RELATION TO 250% OF THE SALARY OF TEACHER WITH EQUIVALENT QUALIFICATIONS, INCLUDING THE DISTRICT LOCAL SUPPLEMENT PAY; TO AMEND SECTION 37-21-7, MISSISSIPPI CODE OF 1972, TO PROVIDE A $5,000 SALARY INCREASE FOR ASSISTANT TEACHERS; TO AMEND SECTIONS 25-11-103, 25-11-109, 25-11-111, 25-11-112, 25-11-114, 25-11-115, 25-11-117, 25-11-123 AND 25-11-147, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT LAW ENFORCEMENT OFFICERS, FIREFIGHTERS AND EMERGENCY MEDICAL SERVICES PROVIDERS WHO BECOME MEMBERS OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM ON OR AFTER MARCH 1, 2026, SHALL BE ENTITLED TO RECEIVE A RETIREMENT ALLOWANCE AFTER 25 YEARS OF SERVICE REGARDLESS OF AGE; TO AMEND SECTION 25-11-126, MISSISSIPPI CODE OF 1972, TO REVISE THE CRITERIA AND SCALE OF COMPENSATION FOR ELIGIBLE RETIRED TEACHERS WHO RETURN TO THE TEACHING PROFESSION AS A CONTRIBUTIONS BUT NONBENEFIT ACCRUING MEMBER OF PERS; TO AMEND SECTION 37-151-203, MISSISSIPPI CODE OF 1972, TO INCREASE THE AMOUNT OF THE BASE STUDENT COST; TO BRING FORWARD SECTIONS 37-151-201, 37-151-203, 37-151-205, 37-151-207, 37-151-211, 37-151-213, 37-57-104, 37-57-105, 37-57-107, 37-61-33, 7-7-211, 19-9-157, 19-9-171, 27-39-317, 37-3-83, 37-15-38, 37-16-3, 37-17-6, 37-22-5, 37-28-55, 37-61-3, 37-61-5, 37-61-7, 37-61-35, 37-61-37, 37-151-81, 37-151-85, 37-151-95, 37-151-97, 41-79-5, 43-17-5, 27-104-351, 37-159-7, 37-23-31, 37-23-33, 37-23-35, 37-151-209, 37-151-215, 37-57-1, 27-65-75, 1-3-26, 25-4-29, 27-25-706, 27-33-3, 29-3-47, 29-3-49, 29-3-113, 29-3-137, 31-7-9, 31-7-10, 37-1-3, 37-3-11, 37-7-208, 37-7-301, 37-7-302, 37-7-303, 37-7-307, 37-7-319, 37-7-333, 37-7-419, 37-9-17, 37-9-23, 37-9-25, 37-9-33, 37-9-35, 37-9-37, 37-9-77, 37-11-11, 37-13-63, 37-13-64, 37-13-69, 37-23-1, 37-23-15, 37-23-69, 37-23-109, 37-23-179, 37-27-55, 37-27-57, 37-28-5, 37-28-53, 37-29-1, 37-29-272, 37-29-303, 37-31-13, 37-31-75, 37-35-3, 37-37-3, 37-41-7, 37-45-49, 37-47-9, 37-47-25, 37-47-33, 37-61-19, 37-61-29, 37-68-7, 37-131-7, 37-131-9, 37-131-11, 37-151-9, 37-151-87, 37-151-89, 37-151-91, 37-151-93, 37-151-99, 37-151-101, 37-151-103, 37-151-105, 37-151-107, 37-173-9, 37-173-13, 37-175-13, 37-179-3, 37-181-7 AND 65-26-9, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENTS; TO AMEND SECTIONS 37-13-80, 37-13-81, 37-13-83, 37-13-85, 37-13-87, 37-13-89, 37-13-91 AND 37-13-107, MISSISSIPPI CODE OF 1972, TO REVISE THE NAMES OF THE OFFICES OF DROPOUT PREVENTION AND COMPULSORY SCHOOL ATTENDANCE TO REFLECT NEW DESIGNATIONS AS THE OFFICE OF STUDENT SUCCESS AND GRADUATION AND THE OFFICE OF EDUCATIONAL PARTICIPATION, RESPECTIVELY; TO ASSIGN THE NEW TITLE TO INDIVIDUALS WHO SERVED IN THE ROLE OF SCHOOL ATTENDANCE OFFICERS, TO NOW BEING REFERRED TO AS STUDENT SUCCESS AND GRADUATION COACHES, AND THEIR DISTRICT SUPERVISORS' TITLE BEING CHANGED TO STUDENT SUCCESS AND GRADUATION REGIONAL COORDINATORS; TO REVISE THE MINIMUM SALARY SCHEDULE FOR STUDENT SUCCESS AND GRADUATION COACHES BASED ON EDUCATION AND YEARS OF EXPERIENCE; TO REVISE EMPLOYMENT QUALIFICATIONS FOR STUDENT SUCCESS AND GRADUATION COACHES; TO REVISE THE RESPONSIBILITIES AND DUTIES OF STUDENT SUCCESS AND GRADUATION COACHES; TO AMEND SECTION 37-13-92, MISSISSIPPI CODE OF 1972, TO DELETE THE REQUIREMENT THAT A SCHOOL DISTRICT SUPERINTENDENT GIVE CONSENT TO A STUDENT BEING PLACED IN AN ALTERNATIVE SCHOOL PROGRAM WHEN REFERRED TO THE PROGRAM BY A DISPOSITIVE ORDER OF A CHANCELLOR OR YOUTH COURT JUDGE; TO ESTABLISH THE DISTRICT IMPROVEMENT AND TEACHER STABILIZATION SUPPLEMENT PROGRAM WITHIN THE STATE DEPARTMENT OF EDUCATION; TO PROVIDE PERFORMANCE-BASED AND NEED-BASED SUPPLEMENTAL FUNDING TO CERTAIN UNDERPERFORMING SCHOOL DISTRICTS; TO PRESCRIBE DETAILED PROGRAM STRUCTURE, ADMINISTRATION, OVERSIGHT AND ENFORCEMENT MECHANISMS; TO ESTABLISH CLEAR ELIGIBILITY STANDARDS, MEASURABLE BENCHMARKS AND PROPORTIONAL DISTRIBUTION REQUIREMENTS; TO RESTRICT AND GOVERN THE USE OF FUNDS; TO REQUIRE TRANSPARENCY, REPORTING AND AUDIT CONTROLS; TO PROVIDE FOR A SUNSET AND LEGISLATIVE REVIEW; TO AMEND SECTION 37-9-39, MISSISSIPPI CODE OF 1972, TO REVISE THE TIME IN DECEMBER WHEN SCHOOL DISTRICTS SHALL PROCESS PAYROLL FOR ALL EMPLOYEES FROM THE LAST WORKING DAY TO A TIME CONSISTENT WITH OTHER MONTHLY INSTALLMENTS AS A MEANS OF PREVENTING THE 45-DAY GAP BETWEEN TEACHER PAY PERIODS FROM THE DECEMBER PAY DATE TO JANUARY PAY DATE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -213,7 +509,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:27Z",
     "text_extraction_latest_update": "2026-07-13T07:21:09.830580Z"
   }
 }

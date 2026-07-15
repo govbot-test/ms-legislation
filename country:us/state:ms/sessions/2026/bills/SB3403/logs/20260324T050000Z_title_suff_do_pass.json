@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Title Suff Do Pass",
+    "occurred_at": "2026-03-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3400-3499/SB3403IN.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Parks.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB3403.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3403"
+}

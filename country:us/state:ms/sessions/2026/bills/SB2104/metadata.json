@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Gaming",
     "Judiciary, Division B"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Gaming",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,11 +125,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2104CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2104PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -91,13 +150,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2104CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2104PS.pdf",
       "note": ""
     },
     {
@@ -114,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTIONS 97-33-1 AND 97-33-7, MISSISSIPPI CODE OF 1972, TO INCLUDE ANY ONLINE, INTERACTIVE, OR COMPUTERIZED VERSION OF GAMES WITHIN THE PROHIBITION ON BETTING, GAMING OR WAGERING AND ANY ONLINE INTERACTIVE OR COMPUTERIZED VERSION OF ANY GAME AS DEFINED IN SECTION 75-76-5(K) SHALL BE A GAMING DEVICE; TO INCREASE THE CRIMINAL PENALTY; TO PROVIDE THAT AN ACTION TO PROSECUTE A VIOLATION MAY, IN THE DISCRETION OF THE ATTORNEY GENERAL OR PROSECUTING ATTORNEY, BE TRIED IN THE COUNTY IN WHICH THE VIOLATION OCCURRED OR IN HINDS COUNTY; TO INCREASE THE CRIMINAL PENALTIES FOR A VIOLATION OF THIS SECTION; TO AUTHORIZE THE FORFEITURE OF THE ASSETS, RIGHTS, AND PRIVILEGES USED IN CONNECTION WITH VIOLATIONS OF THE PROVISIONS OF THESE SECTIONS; TO AUTHORIZE THE GAMING COMMISSION TO ENTER INTO CONTINGENCY FEE AGREEMENTS FOR ASSETS FORFEITED IN CONNECTION WITH THE PROSECUTION OF VIOLATIONS OF THIS SECTION; TO AMEND SECTION 97-33-8, MISSISSIPPI CODE OF 1972, TO INCLUDE INTERNET SWEEPSTAKES CASINOS WITHIN THE PROHIBITIONS OF THIS SECTION; TO INCREASE THE CRIMINAL VIOLATION FROM A MISDEMEANOR TO A FELONY; TO AUTHORIZE THE FORFEITURE OF THE ASSETS, RIGHTS, AND PRIVILEGES USED IN CONNECTION WITH VIOLATIONS OF THIS SECTION; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTIONS 97-33-1 AND 97-33-7, MISSISSIPPI CODE OF 1972, TO INCLUDE ANY ONLINE, INTERACTIVE, OR COMPUTERIZED VERSION OF GAMES WITHIN THE PROHIBITION ON BETTING, GAMING OR WAGERING AND ANY ONLINE INTERACTIVE OR COMPUTERIZED VERSION OF ANY GAME AS DEFINED IN SECTION 75-76-5(K) SHALL BE A GAMING DEVICE; TO INCREASE THE CRIMINAL PENALTY; TO PROVIDE THAT AN ACTION TO PROSECUTE A VIOLATION MAY, IN THE DISCRETION OF THE ATTORNEY GENERAL OR PROSECUTING ATTORNEY, BE TRIED IN THE COUNTY IN WHICH THE VIOLATION OCCURRED OR IN HINDS COUNTY; TO INCREASE THE CRIMINAL PENALTIES FOR A VIOLATION OF THIS SECTION; TO AUTHORIZE THE FORFEITURE OF THE ASSETS, RIGHTS, AND PRIVILEGES USED IN CONNECTION WITH VIOLATIONS OF THE PROVISIONS OF THESE SECTIONS; TO AUTHORIZE THE GAMING COMMISSION TO ENTER INTO CONTINGENCY FEE AGREEMENTS FOR ASSETS FORFEITED IN CONNECTION WITH THE PROSECUTION OF VIOLATIONS OF THIS SECTION; TO PROVIDE THAT NOTHING IN SECTION 97-33-7 SHALL APPLY TO CERTAIN PROVIDER AND SERVICES; TO AMEND SECTION 97-33-8, MISSISSIPPI CODE OF 1972, TO INCLUDE INTERNET SWEEPSTAKES CASINOS WITHIN THE PROHIBITIONS OF THIS SECTION; TO REVISE CERTAIN DEFINED TERMS; TO INCREASE THE CRIMINAL VIOLATION FROM A MISDEMEANOR TO A FELONY; TO AUTHORIZE THE FORFEITURE OF THE ASSETS, RIGHTS, AND PRIVILEGES USED IN CONNECTION WITH VIOLATIONS OF THIS SECTION; TO CREATE NEW SECTION 97-33-6, MISSISSIPPI CODE OF 1972, TO PROVIDE A SAFE HARBOR FOR CERTAIN TELECOMMUNICATIONS, CABLE, AND TECHNOLOGY PLATFORMS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -123,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:35:27.627954Z"
   }
 }

@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1648",
-  "title": "Budget process; bring forward sections relating to and provide for transfers of funds.",
+  "title": "Gulf Coast Restoration Revolving Loan Program; establish.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations",
     "Appropriations A",
     "Appropriations E"
   ],
@@ -61,6 +62,260 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Appropriations",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Oliver,Deweese,Cockerham",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Hopson,DeBar,Harkins",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Vetoed",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Suspend from Deadlines by HC  65",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Veto Overridden",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +342,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1648SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1648SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1648IN.htm",
           "media_type": "text/html"
         },
@@ -97,13 +367,70 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1648PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1648PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1648",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1648.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1648.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1648_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1648_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Veto",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/veto/HB1648.htm",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1648IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1648SG.pdf",
       "note": ""
     },
     {
@@ -120,7 +447,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTIONS 27-103-125, 27-103-139, 27-103-203, 27-103-211, 27-103-213 AND 27-103-303, MISSISSIPPI CODE OF 1972, WHICH RELATE TO VARIOUS ASPECTS OF THE BUDGET PROCESS, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 57-119-9 AND 57-119-13, MISSISSIPPI CODE OF 1972, WHICH RELATE TO VARIOUS ASPECTS OF THE GULF COAST RESTORATION FUND, FOR THE PURPOSES OF POSSIBLE AMENDMENT; TO DIRECT THE STATE FISCAL OFFICER TO MAKE CERTAIN TRANSFERS TO THE CAPITAL EXPENSE FUND DURING FISCAL YEAR 2027; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO ESTABLISH THE GULF COAST RESTORATION REVOLVING LOAN PROGRAM FOR THE PURPOSE OF PROVIDING LOAN ASSISTANCE TO ELIGIBLE APPLICANTS FOR ELIGIBLE PROJECTS IN THE GULF COAST REGION; TO PROVIDE THAT THE PROGRAM SHALL BE ADMINISTERED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION AND THE SOUTH MISSISSIPPI PLANNING AND DEVELOPMENT DISTRICT; TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO BE DESIGNATED AS THE GULF COAST RESTORATION REVOLVING LOAN PROGRAM FUND; TO PROVIDE THAT MONIES IN THE REVOLVING FUND SHALL BE ADMINISTERED BY THE DEPARTMENT AND THE DISTRICT, AND SHALL BE USED, ONLY UPON APPROPRIATION BY THE LEGISLATURE, FOR THE PURPOSE OF PROVIDING LOAN ASSISTANCE TO ELIGIBLE APPLICANTS FOR ELIGIBLE PROJECTS, WHICH SHALL BE DETERMINED BY THE LEGISLATURE BY SEPARATE LINE ITEMS IN AN APPROPRIATION BILL; TO PROVIDE THAT AFTER THE MISSISSIPPI DEVELOPMENT AUTHORITY HAS PRESENTED THE LEGISLATURE WITH THE APPLICATIONS FOR ASSISTANCE AND ITS RECOMMENDATIONS FOR ASSISTANCE TO INDIVIDUAL PROJECTS FROM THE GULF COAST RESTORATION FUND (GCRF), THE LEGISLATURE MAY AUTHORIZE LOAN ASSISTANCE TO ELIGIBLE APPLICANTS FOR INDIVIDUAL ELIGIBLE PROJECTS UNDER THIS ACT; TO PROVIDE THAT THE LEGISLATURE SHALL DETERMINE THE INDIVIDUAL PROJECTS FOR WHICH LOAN ASSISTANCE WILL BE PROVIDED UNDER THIS ACT BY SEPARATE LINE ITEMS IN THE APPROPRIATION BILL FOR THE DEPARTMENT OF FINANCE AND ADMINISTRATION; TO PROVIDE THAT AN ELIGIBLE APPLICANT MAY RECEIVE LOAN ASSISTANCE UNDER THIS ACT IN ADDITION TO RECEIVING ASSISTANCE FROM THE GCRF, AND AN ELIGIBLE APPLICANT MAY RECEIVE LOAN ASSISTANCE UNDER THIS ACT WITHOUT RECEIVING ASSISTANCE FROM THE GCRF; TO PROVIDE THAT IT IS NOT A REQUIREMENT THAT AN ELIGIBLE APPLICANT BE A RECIPIENT OF ASSISTANCE FROM THE GCRF IN ORDER TO RECEIVE LOAN ASSISTANCE UNDER THIS ACT; TO PROVIDE THAT THE DEPARTMENT SHALL PROVIDE THE DISTRICT WITH MONIES FROM THE REVOLVING FUND THAT ARE SUFFICIENT TO MAKE THE LOAN ASSISTANCE THAT HAS BEEN AUTHORIZED BY THE LEGISLATURE IN THE APPROPRIATION BILL; TO PROVIDE THAT THE INTEREST RATE ON LOANS MADE UNDER THIS SECTION SHALL BE DETERMINED BY THE DISTRICT, BUT NOT MORE THAN THREE AND ONE HALF PERCENT PER ANNUM FIXED INTEREST RATE; TO PROVIDE THAT THE DISTRICT SHALL ADMINISTER THE LOANS MADE UNDER THIS ACT BY DISTRIBUTING THE FUNDS TO THE RECIPIENTS AND RECEIVING THE REPAYMENTS OF PRINCIPAL AND INTEREST DERIVED FROM LOANS, WHICH SHALL BE DEPOSITED IN THE REVOLVING FUND TO BE USED FOR ADDITIONAL LOAN ASSISTANCE; TO PROVIDE THAT THE DEPARTMENT SHALL PROMULGATE SUCH RULES, REGULATIONS AND PROCEDURES AS NECESSARY TO EFFECTUATE THE PURPOSES OF THIS ACT; TO PROVIDE THAT ALL EXPENSES OF THE DEPARTMENT IN CARRYING OUT ITS DUTIES AND RESPONSIBILITIES UNDER THIS ACT SHALL BE PAID FROM FUNDS IN THE REVOLVING FUND; TO REQUIRE THE DEPARTMENT TO FILE AN ANNUAL REPORT WITH THE SPEAKER OF THE HOUSE, THE LIEUTENANT GOVERNOR, THE CHAIRS OF THE APPROPRIATIONS COMMITTEES OF THE HOUSE AND THE SENATE, AND THE LEGISLATIVE BUDGET OFFICE NOT LATER THAN DECEMBER 1 OF EACH YEAR, WHICH SHALL INCLUDE DETAILED INFORMATION REGARDING CERTAIN SPECIFIC AREAS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -129,7 +456,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T08:06:34.532158Z"
   }
 }

@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2587",
-  "title": "Absentee ballots; remove envelope requirement and amend other processes related to.",
+  "title": "In-person absentee voting; to amend the process of.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Apportionment and Elections",
     "Elections"
   ],
   "abstracts": [],
@@ -40,6 +41,96 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Failed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Apportionment and Elections",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +141,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"England\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +157,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2587CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2587PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2587CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2587PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +182,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2587CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2587CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2587_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2587_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2587CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2587PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
       "note": ""
     },
     {
@@ -102,7 +235,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REPEAL SECTIONS 23-15-659 AND 23-15-633, MISSISSIPPI CODE OF 1972, TO REMOVE THE ABSENTEE BALLOT ENVELOPE REQUIREMENTS; TO AMEND SECTIONS 23-15-625 AND 23-15-627, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 23-15-631, MISSISSIPPI CODE OF 1972, TO REQUIRE MAIL-IN BALLOTS BE RECEIVED BY MAIL OR COMMON CARRIER NO LATER THAN 7:00 P.M. ON THE DAY OF THE ELECTION; TO AMEND SECTIONS 23-15-637, 23-15-713, 23-15-715 AND 23-15-719, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 23-15-639, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT MAIL-IN BALLOTS BE ANNOUNCED BY THE RESOLUTION BOARD; TO AMEND SECTION 23-15-651, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT ABSENTEE BALLOT VOTES SHALL BE ANNOUNCED SIMULTANEOUSLY WITH BALLOTS CAST ON ELECTION DAY; TO BRING FORWARD SECTION 23-15-697, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTION 23-15-721, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT UPON RECEIPT OF AN ABSENTEE BALLOT, THE BALLOT SHALL BE PLACED INSIDE AN OMR VOTING MACHINE; TO BRING FORWARD SECTION 23-15-623, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO AMEND SECTIONS 23-15-629, 23-15-635, 23-15-641, 23-15-645 AND 23-15-647, MISSISSIPPI CODE OF 1972, TO CONFORM; TO REPEAL SECTION 23-15-643, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR EXAMINING AND CHALLENGING AFFIDAVITS RELATED TO ABSENTEE BALLOTS; TO BRING FORWARD SECTIONS 23-15-697, 23-15-649, 23-15-653 AND 23-15-657, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE \"IN-PERSON ABSENTEE VOTING ACT\"; TO PROVIDE DEFINITIONS; TO PROVIDE THAT THE IN-PERSON ABSENTEE VOTING PERIOD SHALL BEGIN 22 DAYS BEFORE THE ELECTION AND CONTINUE UNTIL 12:00 P.M. ON THE SATURDAY IMMEDIATELY PRECEDING THE ELECTION; TO PROVIDE THAT IN-PERSON ABSENTEE VOTING SHALL BE FOR EACH PRIMARY, GENERAL, RUNOFF, SPECIAL AND MUNICIPAL ELECTION FOR PUBLIC OFFICE; TO PROVIDE THE HOURS FOR IN-PERSON ABSENTEE VOTING IN THE REGISTRAR'S OFFICE DURING REGULAR BUSINESS HOURS; TO PROVIDE EXTENDED HOURS TO VOTE DURING THE LAST FULL WEEK PRECEDING AN ELECTION; TO PROVIDE THE APPROPRIATE LOCATIONS FOR IN-PERSON ABSENTEE VOTING TO TAKE PLACE; TO PROVIDE THAT NOTICE OF IN-PERSON ABSENTEE VOTING SHALL BE PROVIDED IN THREE PUBLIC PLACES EIGHT DAYS BEFORE THE VOTING BEGINS; TO PROVIDE THE PROCEDURES TO FOLLOW WHEN CASTING A BALLOT DURING THE IN-PERSON EXCUSED VOTING PERIOD; TO PROVIDE THE MANNER FOR CHALLENGING THE QUALIFICATIONS OF A VOTER DURING THE IN-PERSON ABSENTEE VOTING PERIOD; TO AMEND SECTION 23-15-639, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT MAIL-IN BALLOTS BE ANNOUNCED BY THE RESOLUTION BOARD; TO BRING FORWARD SECTION 23-15-697, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO REPEAL SECTION 23-15-659 MISSISSIPPI CODE OF 1972, TO REMOVE THE ABSENTEE BALLOT ENVELOPE REQUIREMENTS FOR IN-PERSON ABSENTEE VOTERS; TO AMEND SECTIONS 23-15-625, 23-15-627, 23-15-713, 23-15-715, 23-15-651, 23-15-719 AND 23-15-633, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +244,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:25:42.921590Z"
   }
 }

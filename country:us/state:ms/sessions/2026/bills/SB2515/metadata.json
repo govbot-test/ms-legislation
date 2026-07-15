@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Education"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Accountability, Efficiency, Transparency",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +109,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Blount\"}",
       "organization_id": null
+    },
+    {
+      "name": "Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Butler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norwood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +133,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2515CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2515PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +158,40 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2515CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2515PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blount.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Norwood.xml",
       "note": ""
     },
     {
@@ -102,7 +200,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-28-61, MISSISSIPPI CODE OF 1972, TO LIMIT TO 12 MONTHS THE RIGHT OF FIRST REFUSAL OF A CHARTER SCHOOL TO PURCHASE OR LEASE CLOSED PUBLIC SCHOOL PROPERTY IN THE SCHOOL DISTRICT IN WHICH THE CHARTER SCHOOL IS LOCATED; TO AMEND SECTION 37-7-455, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 37-7-477, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A SCHOOL BOARD TO APPROVE ALTERNATIVE USES, CONSISTENT WITH SECTION 37-7-473, FOR PROPERTY CONVEYED OR LEASED; TO REQUIRE THAT THE INSTRUMENT CONVEYING OR LEASING THE PROPERTY SHALL INCLUDE PROCEDURES FOR SEEKING AND OBTAINING BOARD APPROVAL; TO PROVIDE THAT, IF THE PROPERTY CEASES TO BE USED FOR THE PURPOSE FOR WHICH IT WAS CONVEYED OR LEASED, OR FOR AN ALTERNATIVE PURPOSE DULY APPROVED BY THE SCHOOL BOARD, POSSESSION OF THE PROPERTY, AND TITLE TO IT IN THE CASE OF A CONVEYANCE, SHALL REVERT TO THE SCHOOL DISTRICT; TO BRING FORWARD SECTION 37-7-473, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-28-61, MISSISSIPPI CODE OF 1972, TO LIMIT TO 12 MONTHS THE RIGHT OF FIRST REFUSAL OF A CHARTER SCHOOL TO PURCHASE OR LEASE CLOSED PUBLIC SCHOOL PROPERTY IN THE SCHOOL DISTRICT IN WHICH THE CHARTER SCHOOL IS LOCATED; TO SPECIFY THAT THIS PROVISION SHALL NOT IMPAIR ANY RIGHTS OF A CHARTER SCHOOL UNDER A CONTRACT FOR PURCHASE OR LEASE OF THE PROPERTY ENTERED WITH THE DISTRICT DURING THE TWELVE-MONTH PERIOD; TO AMEND SECTION 37-7-455, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT, WITHIN THE FIRST SIX MONTHS OF THE CLOSURE OF THE PUBLIC SCHOOL FACILITY OR PROPERTY, NO PURCHASE OR LEASE AGREEMENT WITH ANY ENTITY OTHER THAN A CHARTER SCHOOL LOCATED IN THE DISTRICT MAY BE ENTERED, UNLESS EACH SUCH CHARTER SCHOOL HAS NOTIFIED THE SCHOOL BOARD THAT IT IS NOT EXERCISING ITS RIGHT OF FIRST REFUSAL ON THE PROPERTY; TO AMEND SECTION 37-7-477, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A SCHOOL BOARD TO APPROVE ALTERNATIVE USES, CONSISTENT WITH SECTION 37-7-473, FOR PROPERTY CONVEYED OR LEASED; TO REQUIRE THE INSTRUMENT CONVEYING OR LEASING THE PROPERTY TO INCLUDE PROCEDURES FOR SEEKING AND OBTAINING BOARD APPROVAL FOR ALTERNATIVE USES NOT SPECIFIED IN THE INSTRUMENT; TO BRING FORWARD SECTION 37-7-473, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +209,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:54:42.540288Z"
   }
 }

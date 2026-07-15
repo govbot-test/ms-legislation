@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Title Suff Do Pass",
+    "occurred_at": "2026-03-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2925SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Williams.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2925.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2925"
+}

@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3163",
+  "title": "Inventory tax; eliminate, and reimburse lost revenue to local governments through legislative appropriations.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb3163"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-02-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/3100-3199/SB3163IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3100-3199/SB3163IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3100-3199/SB3163IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Blackmon.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB3163.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AMEND SECTION 27-31-1, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM AD VALOREM TAXATION THE ENTIRE ASSESSED VALUE OF COMMODITIES, RAW MATERIALS, WORKS-IN-PROCESS, PRODUCTS, GOODS, WARES AND MERCHANDISE HELD FOR RESALE BY A MANUFACTURER, DISTRIBUTOR, WHOLESALE OR RETAIL MERCHANT; TO PROVIDE THAT SUCH ASSESSED VALUE MAY BE DETERMINED BY PHYSICAL COUNT OR BOOK VALUE, AT THE OPTION OF THE MANUFACTURER, DISTRIBUTOR, WHOLESALE OR RETAIL MERCHANT; TO EXEMPT FROM AD VALOREM TAXATION THE ENTIRE ASSESSED VALUE OF ELIGIBLE PERSONAL PROPERTY THAT IS OWNED BY A BUSINESS ENTERPRISE AND USED BY THE BUSINESS ENTERPRISE SOLELY ON THE PREMISES OF THE BUSINESS ENTERPRISE IN THE OPERATION OF THE ENTERPRISE; TO SPECIFY THAT \"ELIGIBLE PERSONAL PROPERTY\" MEANS FURNITURE, FIXTURES OR EQUIPMENT CLASSIFIED AS PERSONAL PROPERTY FOR PURPOSES OF AD VALOREM TAXATION BUT DOES NOT INCLUDE MOTOR VEHICLES OR CLASS IV PROPERTY AS DEFINED IN SECTION 112 OF THE MISSISSIPPI CONSTITUTION OF 1890; TO CREATE A NEW CODE SECTION TO EXPRESS THE INTENT OF THE LEGISLATURE THAT ANY LOSS OF REVENUE INCURRED BY A COUNTY, MUNICIPALITY, OR SCHOOL DISTRICT RESULTING FROM THE ELIMINATION OF THE INVENTORY TAX BE REIMBURSED TO THE RESPECTIVE LOCAL GOVERNMENT ENTITY THROUGH LEGISLATIVE APPROPRIATION; TO REQUIRE THAT THE AMOUNT OF COUNTY, MUNICIPAL AND SCHOOL DISTRICT INVENTORY TAX THAT WOULD HAVE BEEN LEVIED BE CERTIFIED TO THE DEPARTMENT OF REVENUE, WHICH SHALL COMPILE THE DATA AND REPORT IT TO THE LEGISLATURE NO LATER THAN NOVEMBER 1 OF EACH YEAR; TO AUTHORIZE THE DEPARTMENT OF REVENUE TO PROMULGATE RULES AND REGULATIONS TO ADMINISTER THESE REPORTING PROVISIONS; TO BRING FORWARD SECTION 27-7-22.5, MISSISSIPPI CODE OF 1972, WHICH PROVIDES AN INCOME TAX CREDIT FOR AD VALOREM TAXES PAID ON COMMODITIES, RAW MATERIALS, WORKS-IN-PROCESS, PRODUCTS, GOODS, WARES AND MERCHANDISE HELD FOR RESALE BY ANY MANUFACTURER, DISTRIBUTOR, WHOLESALE OR RETAIL MERCHANT, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 27-35-15, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THE METHOD OF ASSESSING PERSONAL PROPERTY, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:31Z"
+  }
+}

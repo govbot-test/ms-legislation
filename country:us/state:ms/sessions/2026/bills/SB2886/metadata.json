@@ -1,12 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2886",
-  "title": "Nursing homes and assisted living facilities; require to have emergency power with fuel provisions for five days.",
+  "title": "Nursing homes & assisted living facilities; require rules & regulations regarding operation of during weather-related emergencies.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Public Health and Human Services",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -39,6 +41,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Human Services;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
       }
     }
   ],
@@ -74,12 +146,35 @@
       "primary": false,
       "person_id": "~{\"name\": \"Simmons (12th)\"}",
       "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2886PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2886PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2886IN.htm",
@@ -92,13 +187,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2886CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2886CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2886_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2886_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2886IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2886PS.pdf",
       "note": ""
     },
     {
@@ -118,12 +243,16 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2886.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 43-11-13, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE DEPARTMENT OF HEALTH TO ADOPT RULES GOVERNING MINIMUM STANDARDS OF CONSTRUCTION, ELECTRICITY AND EMERGENCY POWER SOURCES APPLICABLE TO LICENSED NURSING HOMES AND ASSISTED LIVING FACILITIES; TO PROVIDE THAT NURSING HOMES AND ASSISTED LIVING FACILITIES SHALL BE REQUIRED TO MAINTAIN A FULLY OPERATIONAL EMERGENCY POWER SOURCE AND A SUPPLY OF FUEL SUFFICIENT TO SUSTAIN THE EMERGENCY POWER SOURCE FOR AT LEAST FIVE DAYS; TO CLARIFY THAT SUCH EMERGENCY POWER SOURCE SHALL BE SUFFICIENT TO PROVIDE POWER FOR PATIENTS RELIANT ON SUPPLEMENTAL OXYGEN OR FOR OTHER MEDICAL DEVICES REQUIRING ELECTRICAL POWER AND TO MAINTAIN COMFORTABLE AIR TEMPERATURES FOR RESIDENTS; TO REQUIRE THE DEPARTMENT TO CONDUCT ROUTINE, UNANNOUNCED INSPECTIONS TO DETERMINE COMPLIANCE WITH SUCH STANDARDS FOR ELECTRICITY AND EMERGENCY POWER SOURCES; TO PROVIDE THAT NURSING HOMES AND ASSISTED LIVING FACILITIES LICENSED IN MISSISSIPPI SHALL HAVE 60 DAYS TO COMPLY WITH THE MINIMUM REQUIREMENTS FOLLOWING PROMULGATION OF SUCH REGULATIONS BY THE STATE BOARD OF HEALTH; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 43-11-13, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STATE BOARD OF HEALTH SHALL PROMULGATE RULES, REGULATIONS AND STANDARDS REGARDING THE OPERATION OF NURSING HOMES AND ASSISTED LIVING CENTERS DURING ANY PERIOD OF TIME IN WHICH THE STATE HEALTH OFFICER, OR HIS OR HER DESIGNEE, DETERMINES THAT A WEATHER-RELATED CRISIS, DISASTER OR EMERGENCY EXISTS; TO REQUIRE THAT SUCH RULES, REGULATIONS AND STANDARDS ADDRESS, AT A MINIMUM, WEATHER-RELATED CRISIS, DISASTER AND EMERGENCY INSPECTIONS, LIFE SAFETY STANDARDS, MINIMUM STANDARDS OF CARE, AND PREPOSITIONING OF RESOURCES AND SUPPLIES WHEN A WEATHER-RELATED CRISIS, DISASTER OR EMERGENCY IS ANTICIPATED BASED UPON AVAILABLE WEATHER FORECAST DATA; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -132,7 +261,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:19:28.435298Z"
   }
 }

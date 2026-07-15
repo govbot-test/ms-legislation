@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Died In Committee",
+    "occurred_at": "2026-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/0800-0899/HB0895SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Yancey.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0895.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB895"
+}

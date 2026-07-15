@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2487",
-  "title": "Literacy in grades 4-8; develop intervention strategies to support the promotion of.",
+  "title": "Literacy in Grades 4 through 8; develop intervention strategies to support the promotion of.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations A",
     "Education"
   ],
   "abstracts": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +121,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"DeBar\"}",
       "organization_id": null
+    },
+    {
+      "name": "DuPree",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DuPree\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hopson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hopson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norwood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Norwood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simmons (13th)",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Simmons (13th)\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +161,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2487CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2487PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +186,63 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2487CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2487_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2487_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2487PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/DeBar.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/DuPree.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hopson.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Norwood.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Simmons_(13th).xml",
       "note": ""
     },
     {
@@ -102,7 +251,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO PROVIDE CERTAIN INTERVENTION AND IMPLEMENTATION STRATEGIES FOR LITERACY PROFICIENCY AMONG STUDENTS IN GRADES 4-8; TO DEFINE TERMINOLOGY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PROVIDE A SYSTEM OF SUPPORT FOR SCHOOL AND DISTRICT INSTRUCTIONAL LEADERS, CONTENT AREA TEACHERS, LITERACY COACHES, DYSLEXIA THERAPISTS, INTERVENTIONISTS, TUTORS, AND OTHER IDENTIFIED PERSONNEL TO ENSURE THEY HAVE THE KNOWLEDGE AND SKILLS TO SUPPORT STUDENTS IN GRADES 4-8 WITH READING DIFFICULTIES; TO PRESCRIBE WHAT THE SYSTEM OF SUPPORTS SHALL ENTAIL; TO REQUIRE THAT ANY STUDENT IN GRADES 4-8 EXHIBITING DEFICIENCIES IN READING SHALL RECEIVE AN INDIVIDUAL READING PLAN (IRP) NO LATER THAN 30 DAYS AFTER THE IDENTIFICATION OF THE READING DEFICIENCY; TO SPECIFY THAT THE IRP SHALL BE CREATED BY THE TEACHER, INTERVENTIONIST, PRINCIPAL, OTHER PERTINENT SCHOOL PERSONNEL, AND PARENT AND SHALL DESCRIBE THE SCIENTIFICALLY RESEARCHED AND EVIDENCED-BASED READING INTERVENTION SERVICES THE STUDENT SHALL RECEIVE TO REMEDY THE READING DEFICIT; TO REQUIRE WRITTEN NOTIFICATION OF THE PARENT OF ANY STUDENT IN GRADES 4-8 WITHIN 10 BUSINESS DAYS OF THE IDENTIFICATION OF A READING DEFICIENCY; TO REQUIRE THAT ANY INCOMING STUDENT IN GRADES 4-8 IDENTIFIED WITH A READING DEFICIENCY BE PROVIDED WITH SUPPLEMENTAL OR INTENSIVE INTERVENTIONS DEPENDENT UPON THE SEVERITY OF THE DEFICIT SKILLS TO ADDRESS THE SPECIFIC DEFICIENCY; TO SET OUT THE RESPONSIBILITIES OF SCHOOL DISTRICTS, THE STATE DEPARTMENT OF EDUCATION, AND EDUCATOR PREPARATION PROGRAMS; TO PROVIDE THAT THE STATE BOARD OF EDUCATION SHALL HAVE THE AUTHORITY TO ENFORCE THIS ACT AND MAY PROMULGATE RULES AND REGULATIONS AS NECESSARY FOR THE IMPLEMENTATION OF THIS ACT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE CERTAIN INTERVENTION AND IMPLEMENTATION STRATEGIES FOR LITERACY PROFICIENCY AMONG STUDENTS IN GRADES 4-8; TO DEFINE TERMINOLOGY; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO PROVIDE A SYSTEM OF SUPPORT FOR SCHOOL AND DISTRICT INSTRUCTIONAL LEADERS, CONTENT-AREA TEACHERS, LITERACY COACHES, DYSLEXIA THERAPISTS, INTERVENTIONISTS, TUTORS, AND OTHER IDENTIFIED PERSONNEL TO ENSURE THEY HAVE THE KNOWLEDGE AND SKILLS TO SUPPORT STUDENTS IN GRADES 4-8 WITH READING DIFFICULTIES; TO PRESCRIBE WHAT THE SYSTEM OF SUPPORTS SHALL ENTAIL; TO REQUIRE THAT ANY STUDENT IN GRADES 4-8 EXHIBITING DEFICIENCIES IN READING SHALL RECEIVE AN INDIVIDUAL READING PLAN (IRP) NO LATER THAN 30 DAYS AFTER THE IDENTIFICATION OF THE READING DEFICIENCY; TO SPECIFY THAT THE IRP SHALL BE CREATED BY THE TEACHER, INTERVENTIONIST, PRINCIPAL, OTHER PERTINENT SCHOOL PERSONNEL, AND PARENT AND SHALL DESCRIBE THE SCIENTIFICALLY RESEARCHED AND EVIDENCED-BASED READING INTERVENTION SERVICES THE STUDENT SHALL RECEIVE TO REMEDY THE READING DEFICIT; TO REQUIRE WRITTEN NOTIFICATION OF THE PARENT OF ANY STUDENT IN GRADES 4-8 WITHIN 10 BUSINESS DAYS OF THE IDENTIFICATION OF A READING DEFICIENCY; TO REQUIRE THAT ANY INCOMING STUDENT IN GRADES 4-8 IDENTIFIED WITH A READING DEFICIENCY BE PROVIDED WITH SUPPLEMENTAL OR INTENSIVE INTERVENTIONS DEPENDENT UPON THE SEVERITY OF THE DEFICIT SKILLS TO ADDRESS THE SPECIFIC DEFICIENCY; TO PROHIBIT THE PROMOTION OF STUDENTS WHOSE READING DEFICIENCY IS NOT REMEDIED BEFORE THE END OF EIGHTH GRADE; TO SET OUT THE RESPONSIBILITIES OF SCHOOL DISTRICTS, THE STATE DEPARTMENT OF EDUCATION, AND EDUCATOR PREPARATION PROGRAMS; TO PROVIDE THAT THE STATE BOARD OF EDUCATION SHALL HAVE THE AUTHORITY TO ENFORCE THIS ACT AND MAY PROMULGATE RULES AND REGULATIONS AS NECESSARY FOR THE IMPLEMENTATION OF THIS ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +260,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T08:02:10.530843Z"
   }
 }

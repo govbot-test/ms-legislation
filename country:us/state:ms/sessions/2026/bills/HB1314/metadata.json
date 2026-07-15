@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1314",
-  "title": "Public purchasing; increase threshold for bidding and revise provisions related to reverse auctions.",
+  "title": "Public purchasing; increase threshold for bidding and revise certain provisions related to exemptions and reverse auctions.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -40,6 +40,88 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:58Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +132,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Ford\"}",
       "organization_id": null
+    },
+    {
+      "name": "Remak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Remak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hale\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +156,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1314CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1314PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +181,70 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1314CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1314_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1314_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1314_H_(Cmte_Sub)_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1314_H_(Cmte_Sub)_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1314PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Remak.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hale.xml",
       "note": ""
     },
     {
@@ -102,7 +253,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO REVISE THE PUBLIC PURCHASING LAW TO PROVIDE THAT PURCHASES THAT DO NOT INVOLVE AN EXPENDITURE OF MORE THAN $10,000.00 MAY BE MADE WITHOUT ADVERTISING OR OTHERWISE REQUESTING COMPETITIVE BIDS; TO REVISE THE REVERSE AUCTION METHOD FOR RECEIVING BIDS TO DIFFERENTIATE BETWEEN AGENCIES AND GOVERNING AUTHORITIES; TO PROVIDE THAT IF AN AGENCY DETERMINES THAT A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE AGENCY, THEN THAT DETERMINATION MUST BE APPROVED BY THE PUBLIC PROCUREMENT REVIEW BOARD; TO PROVIDE THAT IF A GOVERNING AUTHORITY DETERMINES THAT A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE GOVERNING AUTHORITY, THEN THAT DETERMINATION MUST BE APPROVED BY THE GOVERNING BOARD OF THE GOVERNING AUTHORITY; TO PROVIDE THAT THE AGENCY AND GOVERNING AUTHORITY MUST SUBMIT AN EXPLANATION AS TO WHY A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE AGENCY OR GOVERNING AUTHORITY; TO EXEMPT THE PURCHASE OF VEHICLES FOR THE MISSISSIPPI HIGHWAY SAFETY PATROL FROM BIDDING REQUIREMENTS; TO REQUIRE THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY TO IMPLEMENT A PROCESS TO CREATE A PREFERRED VENDER LIST FOR DISASTER CLEAN UP; TO AMEND SECTIONS 31-3-1, 31-5-37 AND 31-5-51, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 31-7-103, MISSISSIPPI CODE OF 1972, TO INCREASE THE COMPETITIVE PURCHASING THRESHOLD FOR CERTAIN COUNTY PURCHASES; TO BRING FORWARD SECTION 31-7-119, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 31-7-13, MISSISSIPPI CODE OF 1972, TO REVISE THE PUBLIC PURCHASING LAW TO PROVIDE THAT PURCHASES THAT DO NOT INVOLVE AN EXPENDITURE OF MORE THAN $15,000.00 MAY BE MADE WITHOUT ADVERTISING OR OTHERWISE REQUESTING COMPETITIVE BIDS; TO REVISE THE REVERSE AUCTION METHOD FOR RECEIVING BIDS TO DIFFERENTIATE BETWEEN AGENCIES AND GOVERNING AUTHORITIES; TO PROVIDE THAT IF AN AGENCY DETERMINES THAT A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE AGENCY, THEN THAT DETERMINATION MUST BE APPROVED BY THE PUBLIC PROCUREMENT REVIEW BOARD; TO PROVIDE THAT IF A GOVERNING AUTHORITY DETERMINES THAT A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE GOVERNING AUTHORITY, THEN THAT DETERMINATION MUST BE APPROVED BY THE GOVERNING BOARD OF THE GOVERNING AUTHORITY; TO PROVIDE THAT THE AGENCY AND GOVERNING AUTHORITY MUST SUBMIT AN EXPLANATION AS TO WHY A REVERSE AUCTION IS NOT IN THE BEST INTEREST OF THE AGENCY OR GOVERNING AUTHORITY; TO PROVIDE AN EXCEPTION FROM COMPLYING WITH CERTAIN FEDERAL PROCUREMENT GUIDELINES WHEN FEDERAL LAW PROVIDES FOR SUCH AN EXEMPTION; TO EXEMPT THE PURCHASE OF VEHICLES FOR THE MISSISSIPPI HIGHWAY SAFETY PATROL PURCHASES MADE THROUGH COUNTY GROUP PURCHASE CONTRACTS, AND VEHICLES PURCHASED FROM OTHER STATE'S PURCHASING SCHEDULES AS APPROVED BY THE FEDERAL TRANSIT ADMINISTRATION FROM BIDDING REQUIREMENTS; TO REQUIRE THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY TO IMPLEMENT A PROCESS TO CREATE A PREFERRED VENDER LIST FOR DISASTER CLEAN UP; TO AMEND SECTIONS 31-3-1, 31-5-37 AND 31-5-51, MISSISSIPPI CODE OF 1972, TO CONFORM; TO CREATE NEW SECTION 31-7-40, MISSISSIPPI CODE OF 1972, TO AUTHORIZE COUNTIES TO PARTICIPATE IN A GROUP PURCHASING PROGRAM FOR CERTAIN PURCHASES; TO AMEND SECTION 31-7-103, MISSISSIPPI CODE OF 1972, TO INCREASE THE COMPETITIVE PURCHASING THRESHOLD FOR CERTAIN COUNTY PURCHASES; TO BRING FORWARD SECTION 31-7-119, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +262,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:58Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T08:07:29.245264Z"
   }
 }

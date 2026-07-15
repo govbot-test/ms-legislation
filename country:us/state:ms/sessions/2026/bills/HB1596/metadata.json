@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
-    "Banking and Financial Services"
+    "Accountability, Efficiency, Transparency",
+    "Banking and Financial Services",
+    "Business and Financial Institutions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +42,212 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Financial Institutions;Accountability, Efficiency, Transparency",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: BF To AC",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Aguirre,Boyd (37th),Varner",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conferees Named Johnson,Blackwell,Brumfield",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +266,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1596SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1596SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1596IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +291,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1596PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1596PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1596",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1596.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1596.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1596_H_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1596_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1596_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1596_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1596IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1596SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +370,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REQUIRE A MONEY TRANSMITTER LICENSED UNDER THE MONEY TRANSMISSION MODERNIZATION ACT TO IMPLEMENT SAFEGUARDS TO PROTECT CUSTOMER INFORMATION AND INCREASE DATA SECURITY; TO REQUIRE A LICENSEE TO DESIGNATE A QUALIFIED INDIVIDUAL TO BE RESPONSIBLE FOR OVERSEEING, IMPLEMENTING AND ENFORCING AN INFORMATION SECURITY PROGRAM; TO PROVIDE THE MINIMUM STANDARDS AND REQUIREMENTS FOR THE INFORMATION SECURITY PROGRAM AND TO REQUIRE RISK ASSESSMENTS; TO REQUIRE NOTIFICATION TO THE COMMISSIONER OF BANKING AND CONSUMER FINANCE WHEN UNENCRYPTED CUSTOMER INFORMATION IS ACQUIRED WITHOUT THE AUTHORIZATION OF THE AFFECTED INDIVIDUAL; TO PROVIDE CERTAIN EXCEPTIONS; TO AMEND SECTION 75-16-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT FUNDS COMING INTO THE POSSESSION OF THE COMMISSIONER AS A RESULT OF THE MONEY TRANSMISSION MODERNIZATION ACT SHALL BE DEPOSITED INTO THE CONSUMER FINANCE FUND; TO AMEND SECTIONS 75-16-25, 75-16-31 AND 75-16-43, MISSISSIPPI CODE OF 1972, TO REGULATE VIRTUAL CURRENCY KIOSKS UNDER THE PROVISIONS OF THE MONEY TRANSMISSION MODERNIZATION ACT; TO AMEND SECTION 75-16-51, MISSISSIPPI CODE OF 1972, TO REQUIRE A LICENSEE TO PROVIDE TRAINING MATERIALS TO HELP AUTHORIZED DELEGATES RECOGNIZE FINANCIAL ABUSE AND FINANCIAL EXPLOITATION OF AN ELDER ADULT RESPOND APPROPRIATELY IN SUCH SITUATIONS; TO AMEND SECTION 75-16-65, MISSISSIPPI CODE OF 1972, TO INCLUDE THE WORD \"INVESTMENTS\"; TO CREATE NEW SECTION 75-16-89, MISSISSIPPI CODE OF 1972, TO REQUIRE A LICENSEE TO PROVIDE CERTAIN INFORMATION TO THE PURCHASER IN CONNECTION WITH EACH MONEY TRANSMISSION OR KIOSK TRANSACTION CONDUCTED BY THE LICENSEE DIRECTLY OR THROUGH AN AUTHORIZED DELEGATE; TO AMEND SECTION 81-3-15, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT RENEWALS OR AMENDMENTS TO A CHARTER OR ARTICLES OF INCORPORATION OF BANKING CORPORATIONS SHALL BE SENT DIRECTLY TO THE SECRETARY OF STATE UPON BEING APPROVED BY THE COMMISSIONER AND DO NOT REQUIRE APPROVAL FROM THE ATTORNEY GENERAL; TO AMEND SECTION 81-5-75, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A BANK TO DECLARE AND PAY DIVIDENDS NOT INCONSISTENT WITH THE BANK'S ARTICLES OF INCORPORATION OR BYLAWS; TO REQUIRE PRIOR WRITTEN APPROVAL OF THE COMMISSIONER ONLY WHEN CERTAIN CONDITIONS EXIST; TO AMEND SECTION 81-5-100, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT PRIOR APPROVAL OF THE COMMISSIONER IS NOT REQUIRED FOR A STATE BANK OR THRIFT TO ESTABLISH OR DECOMMISSION ELECTRONIC TERMINALS; TO CREATE NEW SECTION 81-5-26, MISSISSIPPI CODE OF 1972, TO AUTHORIZE INVESTMENTS BY STATE CHARTERED FINANCIAL INSTITUTIONS IN COMMUNITY AND ECONOMIC DEVELOPMENT ENTITIES, COMMUNITY DEVELOPMENT PROJECTS AND OTHER PUBLIC WELFARE INVESTMENTS; TO BRING FORWARD SECTIONS 75-16-5, 75-16-13 AND 81-5-85, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REQUIRE A MONEY TRANSMITTER LICENSED UNDER THE MONEY TRANSMISSION MODERNIZATION ACT TO IMPLEMENT SAFEGUARDS TO PROTECT CUSTOMER INFORMATION AND INCREASE DATA SECURITY; TO REQUIRE A LICENSEE TO DESIGNATE A QUALIFIED INDIVIDUAL TO BE RESPONSIBLE FOR OVERSEEING, IMPLEMENTING AND ENFORCING AN INFORMATION SECURITY PROGRAM; TO PROVIDE THE MINIMUM STANDARDS AND REQUIREMENTS FOR THE INFORMATION SECURITY PROGRAM AND TO REQUIRE RISK ASSESSMENTS; TO REQUIRE NOTIFICATION TO THE COMMISSIONER OF BANKING AND CONSUMER FINANCE WHEN UNENCRYPTED CUSTOMER INFORMATION IS ACQUIRED WITHOUT THE AUTHORIZATION OF THE AFFECTED INDIVIDUAL; TO PROVIDE CERTAIN EXCEPTIONS; TO AMEND SECTION 75-16-11, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT FUNDS COMING INTO THE POSSESSION OF THE COMMISSIONER AS A RESULT OF THE MONEY TRANSMISSION MODERNIZATION ACT SHALL BE DEPOSITED INTO THE CONSUMER FINANCE FUND; TO AMEND SECTIONS 75-16-25, 75-16-31 AND 75-16-43, MISSISSIPPI CODE OF 1972, TO REGULATE VIRTUAL CURRENCY KIOSKS UNDER THE PROVISIONS OF THE MONEY TRANSMISSION MODERNIZATION ACT; TO AMEND SECTION 75-16-51, MISSISSIPPI CODE OF 1972, TO REQUIRE A LICENSEE TO PROVIDE TRAINING MATERIALS TO HELP AUTHORIZED DELEGATES RECOGNIZE FINANCIAL ABUSE AND FINANCIAL EXPLOITATION OF AN ELDER ADULT AND RESPOND APPROPRIATELY IN SUCH SITUATIONS; TO AMEND SECTION 75-16-65, MISSISSIPPI CODE OF 1972, TO INCLUDE THE WORD \"INVESTMENTS\"; TO CREATE NEW SECTION 75-16-89, MISSISSIPPI CODE OF 1972, TO REQUIRE A LICENSEE TO PROVIDE CERTAIN INFORMATION TO THE PURCHASER IN CONNECTION WITH EACH MONEY TRANSMISSION OR KIOSK TRANSACTION CONDUCTED BY THE LICENSEE DIRECTLY OR THROUGH AN AUTHORIZED DELEGATE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +379,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T07:19:37.337481Z"
   }
 }

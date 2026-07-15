@@ -40,6 +40,130 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From Senate",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +182,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1171SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1171SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1171IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +207,58 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1171PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1171PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1171",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1171.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1171.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute No 1 for Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1171_S_Subst_1_for_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1171_S_Subst_1_for_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1171IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1171SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +271,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REQUIRE STATE AGENCIES THAT ADMINISTER GRANTS TO ESTABLISH OBJECTIVES AND OUTCOMES RELATING TO THE PURPOSE OF THE GRANT; TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO ESTABLISH A SCHEDULE FOR PERIODIC REVIEW OF ALL GRANT PROGRAMS ADMINISTERED BY STATE AGENCIES; TO PROHIBIT PREFERENCE TO CERTAIN GROUPS FOR GRANT AWARDS; TO PROHIBIT RECIPIENTS OF GRANT FUNDS FROM ENGAGING IN CERTAIN VOTER REGISTRATION ACTIVITIES; TO REQUIRE PRIMARY RECIPIENTS OF GRANT AWARDS TO SUBMIT DETAILED QUARTERLY FINANCIAL REPORTS; TO REQUIRE SIGNED DISCLOSURE STATEMENTS FROM EXECUTIVE OFFICERS AND MEMBERS OF THE GOVERNING BOARD OF RECIPIENTS DETAILING CERTAIN INFORMATION; TO REQUIRE PRIMARY RECIPIENTS AND SUBRECIPIENTS OF GRANT AWARDS TO UNDERGO AN ANNUAL COMPLIANCE AUDIT BY OR UNDER THE DIRECTION OF THE STATE AUDITOR; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI GRANT AND SUBGRANT ADMINISTRATION TRANSPARENCY AND ACCOUNTABILITY OF NON-GOVERNMENTAL ORGANIZATIONS ACT OF 2026; TO ESTABLISH THAT THIS ACT SHALL BE CREATED TO ESTABLISH REQUIREMENTS THAT ENHANCE OVERSIGHT, ACCOUNTABILITY AND TRANSPARENCY IN GRANT ADMINISTRATION OF STATE AND FEDERAL FUNDS; TO DEFINE RELEVANT TERMS; TO ESTABLISH GRANT PROGRAM PERFORMANCE METRICS AND REQUIREMENTS; TO ESTABLISH GRANT ADMINISTRATION, FINANCIAL REPORTING AND LEADERSHIP DISCLOSURE REQUIREMENTS; TO CLARIFY WHAT CONSTITUTES PROHIBITED ACTIVITIES FOR THE USAGE OF GRANT FUNDS; TO PROVIDE INFORMATION THAT SHALL BE SUBJECT TO AUDITS OF NON-GOVERNMENTAL ORGANIZATIONS AND QUASI-PUBLIC ENTITIES; TO REQUIRE THAT REPORTS REQUIRED BY THIS ACT SHALL BE FILED WITHIN 180 DAYS AFTER FISCAL END OF YEAR AND AFTER OSA PERFORMS OR DIRECTS A COMPLIANCE AUDIT; TO AUTHORIZE DFA TO ENFORCE THE POLICIES AND PROCEDURES OF THIS ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +280,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T08:15:36.444371Z"
   }
 }

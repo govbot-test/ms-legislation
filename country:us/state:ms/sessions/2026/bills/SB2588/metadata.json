@@ -1,12 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2588",
-  "title": "The SHIELD Act; codify.",
+  "title": "Safeguard Honesty Integrity in Elections for Lasting Democracy (SHIELD) Act; create.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Apportionment and Elections",
     "Elections"
   ],
   "abstracts": [],
@@ -40,6 +42,232 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:58Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Apportionment and Elections;Accountability, Efficiency, Transparency",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: AE To AC",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: AC To AE",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered (Johnson, Sanford, Tullos)",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Decline Concur/Inv Conf Lost",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From House",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +278,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"England\"}",
       "organization_id": null
+    },
+    {
+      "name": "McLendon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McLendon\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +294,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2588CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2588SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +319,81 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2588CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2588PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2588",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2588.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2588.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2588_H_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2588_H_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2500-2599/SB2588SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/England.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McLendon.xml",
       "note": ""
     },
     {
@@ -102,7 +402,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 23-15-15, MISSISSIPPI CODE OF 1972, TO CREATE THE SHIELD ACT; TO AMEND THE PROCESS THE REGISTRAR SHALL USE TO VERIFY VOTER APPLICANT CITIZENSHIP INFORMATION; TO PROVIDE THAT THE REGISTRAR SHALL REPORT TO THE SECRETARY OF STATE ANNUALLY REGARDING THE NUMBER REGISTRANTS FLAGGED BY THE SAVE SYSTEM CHECKS; TO CREATE NEW SECTION 23-15-165.1, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SECRETARY OF STATE TO CONDUCT AN ANNUAL CHECK OF THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM RECORD AGAINST THE SAVE SYSTEM; TO PROVIDE THAT NO REMOVAL SHALL OCCUR SOLELY BASED ON A SAVE MATCH; TO CREATE NEW SECTION 23-15-165.2, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE SECRETARY OF STATE SHALL SUBMIT AN ANNUAL REPORT TO THE LEGISLATURE WITH UPDATES ON THE SAVE DATA VERIFICATION CHECKS; TO CREATE NEW SECTION 23-15-165.3, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT SAVE DATA SHALL BE EXEMPT FROM PUBLIC DISCLOSURE; TO CREATE NEW SECTION 23-15-165.4, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT IF ANY PROVISION OF THIS ACT IS FOUND TO BE INVALID, THAT THE REMAINING PROVISIONS SHALL REMAIN IN EFFECT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO BE KNOWN AS THE \"SAFEGUARD HONEST INTEGRITY IN ELECTIONS FOR LASTING DEMOCRACY (SHIELD) ACT\"; TO AMEND SECTION 23-15-15, MISSISSIPPI CODE OF 1972, TO REVISE THE PROCEDURE BY WHICH A REGISTRAR VERIFIES AN APPLICANT'S CITIZENSHIP UPON RECEIPT OF A COMPLETED VOTER REGISTRATION APPLICATION; TO REQUIRE THE REGISTRAR TO ENTER EACH APPLICANT'S INFORMATION INTO THE UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICE'S SYSTEMATIC ALIEN VERIFICATION FOR ENTITLEMENTS (SAVE); TO REQUIRE REGISTRARS TO MAKE ANNUAL REPORTS TO THE SECRETARY OF STATE REGARDING THE NUMBER OF APPLICANTS FLAGGED BY A SAVE SYSTEM CHECK AND THE NUMBER REMOVED FOLLOWING CONFIRMATION; TO CREATE NEW SECTION 23-15-165.1, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SECRETARY OF STATE TO CONDUCT AN ANNUAL COMPARISON OF THE STATEWIDE ELECTIONS MANAGEMENT SYSTEM RECORDS WITH THE SAVE DATABASE AND TO REPORT INELIGIBLE MATCHES TO THE APPROPRIATE ELECTION COMMISSIONER; TO CREATE NEW SECTION 23-15-165.2, MISSISSIPPI CODE OF 1972, TO REQUIRE THE SECRETARY OF STATE TO ANNUALLY REPORT TO THE LEGISLATURE ON THE RESULTS ACHIEVED WITH THE SAVE SYSTEM; TO CREATE NEW SECTION 23-15-165.3, MISSISSIPPI CODE OF 1972, TO EXEMPT PERSONALLY IDENTIFIABLE INFORMATION COLLECTED THROUGH USE OF THE SAVE SYSTEM FROM THE MISSISSIPPI PUBLIC RECORDS ACT OF 1983; TO CREATE NEW SECTION 23-15-165.4, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR SEVERABILITY OF THE PROVISIONS OF THE PRECEDING SECTIONS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +411,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:58Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:32:37.773023Z"
   }
 }

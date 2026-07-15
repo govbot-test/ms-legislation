@@ -7,6 +7,8 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Judiciary B",
     "Public Health and Welfare"
   ],
   "abstracts": [],
@@ -40,6 +42,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary B;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: JB To AC",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +136,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Gillespie Isom\"}",
       "organization_id": null
+    },
+    {
+      "name": "Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Butler\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -74,11 +152,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2446CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2446PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -99,13 +177,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2446CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2446PS.pdf",
       "note": ""
     },
     {
@@ -121,12 +214,16 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Butler.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2446.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE \u0093HEALING OUTREACH, PREVENTION AND EDUCATION (HOPE) ACT\u0094; TO SET FORTH LEGISLATIVE FINDINGS; TO REQUIRE THAT, BEGINNING JANUARY 1, 2027, EVERY NURSE UNDER THE PURVIEW OF THE MISSISSIPPI BOARD OF NURSING WHO APPLIES FOR A NURSING LICENSE OR LICENSE RENEWAL SHALL CERTIFY TO THE BOARD THAT HE OR SHE HAS COMPLETED ONE HOUR OF HUMAN TRAFFICKING TRAINING THAT INCLUDES A TRAUMA-INFORMED CURRICULUM DESIGNED TO EDUCATE NURSES ON IDENTIFYING, RESPONDING TO AND REPORTING HUMAN TRAFFICKING; TO REQUIRE SUCH NURSES TO REPORT ANY SUSPECTED CASE OF HUMAN TRAFFICKING INVOLVING A MINOR TO THE MISSISSIPPI DEPARTMENT OF CHILD PROTECTION SERVICES, IN ACCORDANCE WITH SECTIONS 43-21-353 AND 97-5-51, AND TO REPORT ANY SUSPECTED CASE OF HUMAN TRAFFICKING INVOLVING AN ADULT TO APPROPRIATE LAW ENFORCEMENT AUTHORITIES WHEN A VICTIM IS IN IMMINENT DANGER, AFTER CONFIRMING A VICTIM\u0092S CONSENT, OR IN ANY OTHER CIRCUMSTANCE WHEN DISCLOSURE TO LAW ENFORCEMENT AUTHORITIES IS REQUIRED BY LAW; TO REQUIRE SUCH NURSES TO SUBMIT REPORTS OF SUSPECTED HUMAN TRAFFICKING TO THE STATE AND NATIONAL HOTLINES; TO PROVIDE THAT SUCH REPORTS SHALL BE MADE AS SOON AS PRACTICABLE, BUT IN NO EVENT LATER THAN 24 HOURS AFTER FORMING A REASONABLE SUSPICION OF HUMAN TRAFFICKING; TO PROVIDE THAT FAILURE TO COMPLY WITH THE REQUIREMENTS UNDER THIS ACT SHALL BE A VIOLATION OF THE MISSISSIPPI NURSING PRACTICE LAW; TO AMEND SECTION 45-33-23, MISSISSIPPI CODE OF 1972, TO REQUIRE SEX OFFENDER REGISTRATION BY PERSONS CONVICTED OF HUMAN SEX TRAFFICKING; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE \"HEALING OUTREACH, PREVENTION AND EDUCATION (HOPE) ACT\"; TO SET FORTH LEGISLATIVE FINDINGS; TO REQUIRE THAT, BEGINNING JANUARY 1, 2027, EVERY NURSE UNDER THE PURVIEW OF THE MISSISSIPPI BOARD OF NURSING WHO APPLIES FOR A NURSING LICENSE OR LICENSE RENEWAL SHALL CERTIFY TO THE BOARD THAT HE OR SHE HAS COMPLETED ONE HOUR OF HUMAN TRAFFICKING TRAINING THAT INCLUDES A TRAUMA-INFORMED CURRICULUM DESIGNED TO EDUCATE NURSES ON IDENTIFYING, RESPONDING TO AND REPORTING HUMAN TRAFFICKING; TO REQUIRE SUCH NURSES TO REPORT ANY SUSPECTED CASE OF HUMAN TRAFFICKING INVOLVING A MINOR TO THE MISSISSIPPI DEPARTMENT OF CHILD PROTECTION SERVICES, IN ACCORDANCE WITH SECTIONS 43-21-353 AND 97-5-51, AND TO REPORT ANY SUSPECTED CASE OF HUMAN TRAFFICKING INVOLVING AN ADULT TO APPROPRIATE LAW ENFORCEMENT AUTHORITIES WHEN A VICTIM IS IN IMMINENT DANGER, AFTER CONFIRMING A VICTIM'S CONSENT, OR IN ANY OTHER CIRCUMSTANCE WHEN DISCLOSURE TO LAW ENFORCEMENT AUTHORITIES IS REQUIRED BY LAW; TO AMEND SECTION 45-33-23, MISSISSIPPI CODE OF 1972, TO REQUIRE SEX OFFENDER REGISTRATION BY PERSONS CONVICTED OF HUMAN SEX TRAFFICKING; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -135,7 +232,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:03:25.694549Z"
   }
 }

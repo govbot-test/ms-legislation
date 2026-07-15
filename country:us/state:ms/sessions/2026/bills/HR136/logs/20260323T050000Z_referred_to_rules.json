@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred To Rules",
+    "occurred_at": "2026-03-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HR/HR0136PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bounds.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HR/HR0136.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR136"
+}

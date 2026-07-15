@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1665",
-  "title": "Pharmacy Benefit Managers and State Employees Life and Health Insurance Plan; bring forward code sections related to.",
+  "title": "Pharmacy Benefit Prompt Pay Act and State Health Insurance Plan; revise.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Public Health and Welfare",
     "State Affairs"
   ],
   "abstracts": [],
@@ -40,6 +41,122 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died On Calendar",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +175,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1665PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1665PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1665IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +200,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1665CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1665CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1665",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1665.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1665.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1665_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1665_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute No 1 for Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1665_S_Subst_1_for_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1665_S_Subst_1_for_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1665IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1665PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +279,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTIONS 25-15-3, 25-15-5, 25-15-7, 25-15-9, 25-15-11, 25-15-13, 25-15-14, 25-15-15, 25-15-16, 25-15-17, 25-15-19, 25-15-23, 25-15-301 AND 25-15-303, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE STATE EMPLOYEES LIFE AND HEALTH INSURANCE PLAN, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 73-21-151, 73-21-153, 73-21-155, 73-21-156, 73-21-157, 73-21-159, 73-21-161 AND 73-21-163, MISSISSIPPI CODE OF 1972, WHICH ARE THE PROVISIONS OF THE PHARMACY BENEFIT PROMPT PAY ACT, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 41-149-5, 41-151-7 AND 73-21-205, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REVISE THE PHARMACY BENEFIT PROMPT PAY ACT; TO AMEND SECTION 73-21-151, MISSISSIPPI CODE OF 1972, TO REFERENCE NEW SECTIONS ADDED TO THE PHARMACY BENEFIT PROMPT PAY ACT; TO AMEND SECTION 73-21-153, MISSISSIPPI CODE OF 1972, TO DEFINE NEW TERMS AND REVISE THE DEFINITIONS OF CERTAIN EXISTING TERMS; TO CREATE NEW SECTION 73-21-154, MISSISSIPPI CODE OF 1972, TO TRANSFER ALL POWERS AND DUTIES EXERCISED BY THE STATE BOARD OF PHARMACY UNDER THE PHARMACY BENEFIT PROMPT PAY ACT TO THE COMMISSIONER OF INSURANCE; TO AMEND SECTION 73-21-155, MISSISSIPPI CODE OF 1972, TO REVISE THE REIMBURSEMENT AMOUNT FROM PHARMACY BENEFIT MANAGERS AND PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS (PSAOS) PAYABLE TO PHARMACIES; TO REQUIRE PHARMACY BENEFIT MANAGERS TO GIVE PHARMACISTS REASONS FOR DENYING A CLAIM WITHIN SEVEN DAYS OF RECEIVING AN ELECTRONIC CLAIM; TO AMEND SECTION 73-21-156, MISSISSIPPI CODE OF 1972, TO DELETE PROVISIONS AUTHORIZING PHARMACY BENEFIT MANAGERS TO USE MAXIMUM ALLOWABLE COST LISTS; TO REVISE THE ADMINISTRATIVE APPEALS PROCESS PHARMACY BENEFIT MANAGERS MUST MAKE AVAILABLE TO PHARMACIES TO CHALLENGE REIMBURSEMENTS; TO AMEND SECTION 73-21-157, MISSISSIPPI CODE OF 1972, TO REQUIRE PSAOS TO BE LICENSED BY THE COMMISSIONER OF INSURANCE; TO REQUIRE PHARMACY BENEFIT MANAGERS AND PSAOS TO RENEW LICENSES ANNUALLY; TO REVISE THE FINANCIAL DOCUMENTS THAT MUST BE SUBMITTED TO THE COMMISSIONER WITH AN APPLICATION FOR A LICENSE OR LICENSE RENEWAL; TO CREATE NEW SECTION 73-21-157.1, MISSISSIPPI CODE OF 1972, TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO SUPPORT THE OPERATIONS OF THE DEPARTMENT OF INSURANCE IN THE REGULATION OF PHARMACY BENEFIT MANAGERS; TO REQUIRE THE STATE FISCAL OFFICER TO TRANSFER UNOBLIGATED FUNDS IN THE SPECIAL FUND PREVIOUSLY USED BY THE STATE BOARD OF PHARMACY FOR THE REGULATION OF PHARMACY BENEFIT MANAGERS TO THE NEW SPECIAL FUND; TO CREATE NEW SECTION 73-21-158, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE USE OF SPREAD PRICING BY PHARMACY BENEFIT MANAGERS; TO AMEND SECTION 73-21-159, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; TO AMEND SECTION 73-21-161, MISSISSIPPI CODE OF 1972, TO PROHIBIT STEERING BY PHARMACY BENEFIT MANAGERS; TO CREATE NEW SECTION 73-21-162, MISSISSIPPI CODE OF 1972, TO PROHIBIT RETALIATION AGAINST PHARMACISTS BY PHARMACY BENEFIT MANAGERS, PHARMACY BENEFIT MANAGER AFFILIATES AND PSAOS; TO AMEND SECTION 73-21-163, MISSISSIPPI CODE OF 1972, TO REVISE PROVISIONS RELATING TO INVESTIGATIONS AND AUDITS OF PHARMACY BENEFIT MANAGERS CONDUCTED BY THE COMMISSIONER; TO CREATE NEW SECTION 73-21-165, MISSISSIPPI CODE OF 1972, TO REQUIRE DRUG MANUFACTURERS, PHARMACY BENEFIT MANAGERS, PSAOS AND HEALTH INSURERS TO SUBMIT CERTAIN ANNUAL REPORTS TO THE COMMISSIONER; TO CREATE NEW SECTION 73-21-167, MISSISSIPPI CODE OF 1972, TO REQUIRE PLAN SPONSORS TO DEVELOP CRITERIA AND A LIST OF PRESCRIPTION DRUGS DESIGNATED AS SPECIALTY DRUGS; TO CREATE NEW SECTION 73-21-168, MISSISSIPPI CODE OF 1972, TO REQUIRE THE COMMISSIONER TO DEVELOP A WEBSITE TO PUBLISH CERTAIN INFORMATION RELATED TO THIS ACT; TO CREATE NEW SECTION 73-21-169, MISSISSIPPI CODE OF 1972, TO REQUIRE PHARMACY BENEFIT MANAGERS AND PSAOS TO IDENTIFY OWNERSHIP AFFILIATION OF ANY KIND TO THE COMMISSIONER; TO AMEND SECTIONS 73-21-83 AND    73-21-91, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO AMEND SECTION 25-15-301, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE AND SCHOOL EMPLOYEES HEALTH INSURANCE MANAGEMENT BOARD TO SOLICIT REQUESTS FOR PROPOSALS FOR THE ADMINISTRATION OF THE PLAN OR COMPONENTS OF THE PLAN EVERY TWO YEARS; TO AUTHORIZE THE STATE AND SCHOOL EMPLOYEES LIFE AND HEALTH INSURANCE PLAN TO CONTRACT FOR THE MANAGEMENT OF PHARMACY BENEFITS; TO REQUIRE THE COMMISSIONER OF INSURANCE TO BE A MEMBER OF THE EVALUATION COMMITTEE WHEN CONSIDERING PROPOSALS FOR SUCH ADMINISTRATION; TO REQUIRE A PHARMACY BENEFITS MANAGER FOR THE STATE HEALTH PLAN TO COMPLY WITH THE PROVISIONS OF THE PHARMACY BENEFIT PROMPT PAY ACT; TO AMEND SECTION 25-15-303, MISSISSIPPI CODE OF 1972, TO REVISE THE MEMBERSHIP OF THE STATE AND SCHOOL EMPLOYEES HEALTH INSURANCE MANAGEMENT BOARD; TO CREATE NEW SECTION 25-15-305, MISSISSIPPI CODE OF 1972, TO REQUIRE THE STATE AND SCHOOL EMPLOYEES HEALTH INSURANCE MANAGEMENT BOARD TO DEVELOP A LIST OF PRESCRIPTION DRUGS THAT MEET THE CRITERIA ESTABLISHED BY THE BOARD FOR SPECIALTY DRUG DESIGNATION; TO REQUIRE THE BOARD TO CONSULT WITH THE ADMINISTRATORS OF THE PUBLIC EMPLOYEE HEALTH PLANS IN THE CONTIGUOUS STATES TO DETERMINE THE FEASIBILITY OF ENTERING INTO A JOINT AGREEMENT TO COMBINE PURCHASING POWER FOR PHARMACEUTICALS; TO AMEND SECTION 25-15-11, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PROVISIONS OF THIS ACT; TO BRING FORWARD SECTIONS 25-15-3, 25-15-5, 25-15-7, 25-15-9, 25-15-13, 25-15-14, 25-15-15, 25-15-16, 25-15-17, 25-15-19 AND 25-15-23, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE STATE EMPLOYEES LIFE AND HEALTH INSURANCE PLAN, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 41-149-5, 41-151-7 AND 73-21-205, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; TO PROVIDE FOR SEVERABILITY; TO CREATE NEW SECTION 73-21-171, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE REPEAL OF THE PHARMACY BENEFIT PROMPT PAY ACT; TO CREATE NEW SECTION 25-15-307, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE REPEAL OF THOSE SECTIONS RELATING TO THE ADMINISTRATION OF THE PUBLIC EMPLOYEE HEALTH PLANS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +288,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:28:44.792188Z"
   }
 }

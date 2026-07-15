@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1392",
-  "title": "Insurance; bring forward certain statutes relating to fire protection and windstorm coverage.",
+  "title": "Fire safety; establish Fire Grant Fund to assist counties and municipalities in improving fire safety.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Insurance"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:58Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Insurance;Accountability, Efficiency, Transparency",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +117,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Anthony\"}",
       "organization_id": null
+    },
+    {
+      "name": "Turner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Turner\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -66,11 +133,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1392CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1392PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1392CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1392PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -91,13 +158,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1392CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1392CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1392CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1392PS.pdf",
       "note": ""
     },
     {
@@ -109,12 +191,16 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Turner.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1392.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTION 17-23-1, MISSISSIPPI CODE OF 1972, WHICH CREATES THE RURAL FIRE TRUCK ACQUISITION ASSISTANCE PROGRAM, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 17-23-11, MISSISSIPPI CODE OF 1972, WHICH CREATES A SUPPLEMENTARY RURAL FIRE TRUCK ACQUISITION ASSISTANCE PROGRAM, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 17-23-21, MISSISSIPPI CODE OF 1972, WHICH CREATES THE ANNUAL FIRE FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 83-1-191, MISSISSIPPI CODE OF 1972, WHICH CREATES THE COMPREHENSIVE HURRICANE DAMAGE MITIGATION PROGRAM, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 83-1-201, MISSISSIPPI CODE OF 1972, WHICH CREATES THE MISSISSIPPI WINDSTORM MITIGATION FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 83-34-1 THROUGH 83-34-37, MISSISSIPPI CODE OF 1972, WHICH IS THE CHAPTER OF LAW GOVERNING THE MISSISSIPPI WINDSTORM UNDERWRITING ASSOCIATION, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REQUIRE THE STATE FIRE MARSHAL AND THE MISSISSIPPI STATE RATING BUREAU TO ADOPT AND USE INSURANCE SERVICES OFFICE (ISO) STANDARDS FOR FIRE TRUCKS; TO PROHIBIT THE MANDATORY RETIREMENT OF CERTAIN FIRE TRUCKS BASED SOLELY ON THEIR CALENDAR AGE; TO CREATE THE FIRE GRANT FUND AS SPECIAL FUND IN THE STATE TREASURY FOR THE PURPOSE OF ASSISTING COUNTIES AND MUNICIPALITIES WITH MEASURES AIMED AT IMPROVING FIRE SAFETY; TO REQUIRE ALL FUNDS FORMERLY CREDITED TO THE RURAL FIRE TRUCK FUND, THE RURAL FIRE TRUCK MATCHING ASSISTANCE FUND, THE SUPPLEMENTARY RURAL FIRE TRUCK FUND AND THE ANNUAL FIRE FUND TO PAID INTO THE FIRE GRANT FUND, AND TO REQUIRE THE TRANSFER OF BALANCES IN THOSE FUNDS TO THE FIRE GRANT FUND; TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO ADMINISTER THE FUND; TO ESTABLISH THE FIRE GRANT ADVISORY COMMITTEE FOR THE PURPOSE OF PROVIDING NONBINDING ADVICE TO THE DEPARTMENT OF FINANCE AND ADMINISTRATION REGARDING THE ADMINISTRATION OF THE FIRE GRANT FUND AND THE AUTHORIZING AND AWARDING GRANTS FROM THE FIRE GRANT FUND; TO AUTHORIZE GRANTS TO BE AWARDED FOR FIRE TRUCKS, EQUIPMENT AND COUNTYWIDE FIRE PROGRAMS; TO REPEAL SECTION 17-23-1, MISSISSIPPI CODE OF 1972, WHICH CREATES THE RURAL FIRE TRUCK ACQUISITION ASSISTANCE PROGRAM; TO REPEAL SECTION 17-23-11, MISSISSIPPI CODE OF 1972, WHICH CREATES A SUPPLEMENTARY RURAL FIRE TRUCK ACQUISITION ASSISTANCE PROGRAM; TO REPEAL SECTION 17-23-21, MISSISSIPPI CODE OF 1972, WHICH CREATES THE ANNUAL FIRE FUND; TO AMEND SECTION 83-34-4, MISSISSIPPI CODE OF 1972, IN CONFORMITY TO THE PRECEDING PROVISIONS; TO BRING FORWARD SECTION 83-1-191, MISSISSIPPI CODE OF 1972, WHICH CREATES THE COMPREHENSIVE HURRICANE DAMAGE MITIGATION PROGRAM, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 83-1-201, MISSISSIPPI CODE OF 1972, WHICH CREATES THE MISSISSIPPI WINDSTORM MITIGATION FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 83-34-1, 83-34-3 AND 83-34-5 THROUGH 83-34-37, MISSISSIPPI CODE OF 1972, WHICH IS THE CHAPTER OF LAW GOVERNING THE MISSISSIPPI WINDSTORM UNDERWRITING ASSOCIATION, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -123,7 +209,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:58Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:24:24.642793Z"
   }
 }

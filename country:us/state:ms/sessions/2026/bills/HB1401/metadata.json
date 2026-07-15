@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Economic and Workforce Development",
     "Workforce Development"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Economic and Workforce Development",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +109,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +125,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1401CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1401PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1401CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1401PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +150,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1401CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1401CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1401CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1401PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Bell_(21st).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hall.xml",
       "note": ""
     },
     {
@@ -102,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO REENACT SECTIONS 37-153-1 THROUGH 37-153-15, MISSISSIPPI CODE OF 1972, WHICH ARE THE MISSISSIPPI COMPREHENSIVE WORKFORCE TRAINING AND EDUCATION CONSOLIDATION ACT OF 2004; TO AMEND SECTION 37-153-17, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE MISSISSIPPI COMPREHENSIVE WORKFORCE TRAINING AND EDUCATION CONSOLIDATION ACT OF 2004; TO AMEND REENACTED SECTIONS 37-153-5, 37-153-7, 37-153-9 AND 37-153-15, MISSISSIPPI CODE OF 1972, TO REVISE AGENCY NOMENCLATURE AND CERTAIN REPORTING DEADLINES AND TO EXTEND THE DATE GRANTING AN EXEMPTION TO THE WORKFORCE INVESTMENT BOARD FROM THE REQUIREMENTS OF THE PUBLIC PROCUREMENT REVIEW BOARD FROM CERTAIN PURCHASES; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO REENACT SECTIONS 37-153-1 THROUGH 37-153-7 AND 37-153-15, MISSISSIPPI CODE OF 1972, WHICH ARE THE MISSISSIPPI COMPREHENSIVE WORKFORCE TRAINING AND EDUCATION CONSOLIDATION ACT OF 2004; TO AMEND SECTION 37-153-17, MISSISSIPPI CODE OF 1972, TO EXTEND THE DATE OF THE REPEALER ON THE MISSISSIPPI COMPREHENSIVE WORKFORCE TRAINING AND EDUCATION CONSOLIDATION ACT OF 2004; TO AMEND REENACTED SECTIONS 37-153-5, 37-153-7 AND 37-153-15, MISSISSIPPI CODE OF 1972, TO REVISE AGENCY NOMENCLATURE AND CERTAIN REPORTING DEADLINES AND TO EXTEND THE DATE GRANTING AN EXEMPTION TO THE WORKFORCE INVESTMENT BOARD FROM THE REQUIREMENTS OF THE PUBLIC PROCUREMENT REVIEW BOARD FROM CERTAIN PURCHASES; TO REPEAL SECTION 37-153-9, MISSISSIPPI CODE OF 1972, WHICH REQUIRES THE ESTABLISHMENT OF A LOCAL WORKFORCE INVESTMENT BOARD IN EACH OF THE FOUR WORKFORCE AREAS OF THE STATE; TO REPEAL SECTIONS 37-153-11 AND 37-153-13, MISSISSIPPI CODE OF 1972, WHICH REQUIRE THE ESTABLISHMENT OF ONE-STOP CAREER CENTERS AFFILIATED WITH THE COMMUNITY AND JUNIOR COLLEGES AND DESIGNATES THE MISSISSIPPI COMMUNITY COLLEGE BOARD AS THE PRIMARY SUPPORT AGENCY TO THE WORKFORCE DEVELOPMENT CENTERS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:52:47.983380Z"
   }
 }

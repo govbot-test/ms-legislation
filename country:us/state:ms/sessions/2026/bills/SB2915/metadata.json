@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
-    "Finance"
+    "Finance",
+    "State Affairs",
+    "Ways and Means"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +42,96 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Referred To State Affairs;Ways and Means",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: SA To WM",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "DR - TSDPAA: WM To SA",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +150,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2915CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2915PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +175,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2900-2999/SB2915CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2915_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2915_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2900-2999/SB2915PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +224,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE HOLDER OF A NATIVE WINE RETAILER'S PERMIT TO MAKE RETAIL SALES OF NATIVE WINES AT ANY TASTING ROOM LOCATIONS WITHIN THE SAME COUNTY AS THE NATIVE WINERY, TO HAVE ONE PERMANENT SATELLITE TASTING ROOM SALES LOCATION IN ANY OTHER LOCATION IN THE STATE THAT OTHERWISE ALLOWS THE SALE OF ALCOHOLIC BEVERAGES, AND, WHEN SELLING TO CONSUMERS FOR ON-PREMISES CONSUMPTION, TO SELL ALCOHOLIC BEVERAGES PRODUCED BY OTHER SUPPLIERS; TO REMOVE THE REPEALER ON THE AUTHORITY OF THE DEPARTMENT OF REVENUE TO ISSUE A FESTIVAL PERMIT; TO AMEND SECTION 67-1-41, MISSISSIPPI CODE OF 1972, TO REMOVE THE EXPIRATION DATE OF THE EXCEPTION FOR ALCOHOLIC BEVERAGES AUTHORIZED TO BE SOLD BY THE HOLDER OF A FESTIVAL PERMIT TO THE STATUTE REQUIRING THE DEPARTMENT OF REVENUE TO SERVE AS A WHOLESALE DISTRIBUTOR AND SELLER OF ALCOHOLIC BEVERAGES; TO DIRECT THE DEPARTMENT TO PROVIDE TWO BUSINESS DAYS PER MONTH IN WHICH ANY PACKAGE RETAILER PURCHASING A TRUCKLOAD OF ALCOHOLIC BEVERAGES FROM THE DEPARTMENT MAY PICK UP SUCH BEVERAGES FROM THE ALCOHOLIC BEVERAGE CONTROL DIVISION WAREHOUSE; TO AMEND SECTION 67-1-77, MISSISSIPPI CODE OF 1972, TO REMOVE THE EXPIRATION DATE ON THE AUTHORITY OF A DISTILLER, WINE MANUFACTURER, RECTIFIER, BLENDER OR BOTTLER TO HAVE A FINANCIAL INTEREST IN A FESTIVAL PERMIT; TO AMEND SECTION 67-1-309, MISSISSIPPI CODE OF 1972, TO ADD AN EXCEPTION FOR NATIVE WINE TO THE PROHIBITION ON A DIRECT WINE SHIPPER SELLING OR SHIPPING WINE THAT IS CONTRACTED THROUGH MISSISSIPPI DISTRIBUTORS, BROKERS, AND SOLICITORS WITHIN THE STATE; TO AMEND SECTION 67-5-11, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 27-71-5, MISSISSIPPI CODE OF 1972, TO REMOVE THE REPEALER ON THE ANNUAL PRIVILEGE LICENSE TAX FOR A FESTIVAL PERMIT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 67-1-51, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE HOLDER OF A NATIVE WINE RETAILER'S PERMIT TO MAKE RETAIL SALES OF NATIVE WINES AT ANY TASTING ROOM LOCATIONS WITHIN THE SAME COUNTY AS THE NATIVE WINERY, TO HAVE ONE PERMANENT SATELLITE TASTING ROOM SALES LOCATION IN ANY OTHER LOCATION IN THE STATE THAT OTHERWISE ALLOWS THE SALE OF ALCOHOLIC BEVERAGES, AND, WHEN SELLING TO CONSUMERS FOR ON-PREMISES CONSUMPTION, TO SELL ALCOHOLIC BEVERAGES PRODUCED BY OTHER SUPPLIERS; TO REMOVE THE REPEALER ON THE AUTHORITY OF THE DEPARTMENT OF REVENUE TO ISSUE A FESTIVAL PERMIT; TO AMEND SECTION 67-1-41, MISSISSIPPI CODE OF 1972, TO REMOVE THE EXPIRATION DATE OF THE EXCEPTION FOR ALCOHOLIC BEVERAGES AUTHORIZED TO BE SOLD BY THE HOLDER OF A FESTIVAL PERMIT TO THE STATUTE REQUIRING THE DEPARTMENT OF REVENUE TO SERVE AS A WHOLESALE DISTRIBUTOR AND SELLER OF ALCOHOLIC BEVERAGES; TO AMEND SECTION 67-1-77, MISSISSIPPI CODE OF 1972, TO REMOVE THE EXPIRATION DATE ON THE AUTHORITY OF A DISTILLER, WINE MANUFACTURER, RECTIFIER, BLENDER OR BOTTLER TO HAVE A FINANCIAL INTEREST IN A FESTIVAL PERMIT; TO AMEND SECTION 67-5-11, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 27-71-5, MISSISSIPPI CODE OF 1972, TO REMOVE THE REPEALER ON THE ANNUAL PRIVILEGE LICENSE TAX FOR A FESTIVAL PERMIT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +233,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:31Z",
     "text_extraction_latest_update": "2026-07-13T07:47:10.392198Z"
   }
 }

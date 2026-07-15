@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB4098",
+  "title": "Bonds; authorize issuance to provide funds for the Mississippi County Sheriffs Radar Speed Detection Equipment Loan Fund.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb4098"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:27Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McMillan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McMillan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4098IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4098IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4098IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/McMillan.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4098.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE THE ISSUANCE OF STATE GENERAL OBLIGATION BONDS TO PROVIDE FUNDS FOR THE MISSISSIPPI COUNTY SHERIFFS RADAR SPEED DETECTION EQUIPMENT LOAN FUND CREATED IN THIS ACT; TO CREATE THE \"MISSISSIPPI SHERIFFS RADAR SPEED DETECTION EQUIPMENT LOAN FUND\" AS A SPECIAL FUND IN THE STATE TREASURY TO BE ADMINISTERED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION; TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO ESTABLISH A PROGRAM TO PROVIDE LOANS TO COUNTIES TO USE TO ASSIST COUNTY SHERIFFS DEPARTMENTS WITH THE PURCHASE OF RADAR SPEED DETECTION EQUIPMENT FOR USE BY THE DEPARTMENTS AS AUTHORIZED IN SECTION 63-3-519; TO AMEND SECTION 63-3-519, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE SHERIFF AND HIS OR HER DEPUTIES IN ANY COUNTY TO USE RADAR SPEED DETECTION EQUIPMENT UPON THE PUBLIC STREETS, ROADS AND HIGHWAYS WHERE A WORK ZONE OR SCHOOL ZONE IS DESIGNATED; TO DEFINE THE TERMS \"WORK ZONE\" AND \"SCHOOL ZONE\"; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:27Z"
+  }
+}

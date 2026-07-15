@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Finance",
     "Ways and Means"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Finance",
+      "date": "2026-02-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,11 +125,41 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1523PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1523IN.htm",
           "media_type": "text/html"
         },
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1523CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523CS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -82,7 +171,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1523PS.pdf",
       "note": ""
     },
     {
@@ -99,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO PROVIDE THAT THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL ESTABLISH A PROGRAM TO MAKE GRANTS TO FARMERS TO ASSIST WITH THE PURCHASE OF NEW FARM TRACTORS AND PARTS AND LABOR USED TO MAINTAIN AND/OR REPAIR SUCH TRACTORS, AND NEW FARM IMPLEMENTS TAXED AT THE RATE OF 1.5% UNDER SECTION 27-65-17; TO PROVIDE AN APPLICATION PROCESS FOR THE PROGRAM; TO CREATE THE \"FARM EQUIPMENT GRANT FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION, UPON APPROPRIATION BY THE LEGISLATURE, TO MAKE GRANTS UNDER THIS ACT; TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STATE SALES TAX REVENUE COLLECTED FROM THE RETAIL SALES OF FARM TRACTORS AND PARTS AND LABOR USED TO MAINTAIN AND/OR REPAIR SUCH TRACTORS, AND FARM IMPLEMENTS TAXED AT THE RATE OF 1.5% UNDER SECTION 27-65-17, SHALL BE DEPOSITED INTO THE FARM EQUIPMENT GRANT FUND CREATED IN THIS ACT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE THAT THE DEPARTMENT OF FINANCE AND ADMINISTRATION SHALL ESTABLISH A PROGRAM TO MAKE GRANTS TO FARMERS TO ASSIST WITH THE PURCHASE OF NEW FARM TRACTORS AND PARTS AND LABOR USED TO MAINTAIN AND/OR REPAIR SUCH TRACTORS, AND NEW FARM IMPLEMENTS TAXED AT THE RATE OF 1.5% UNDER SECTION 27-65-17; TO PROVIDE AN APPLICATION PROCESS FOR THE PROGRAM; TO CREATE THE \"FARM EQUIPMENT GRANT FUND\" AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE USED BY THE DEPARTMENT OF FINANCE AND ADMINISTRATION, UPON APPROPRIATION BY THE LEGISLATURE, TO MAKE GRANTS UNDER THIS ACT; TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PORTION OF THE STATE SALES TAX REVENUE COLLECTED FROM THE RETAIL SALES OF FARM TRACTORS AND PARTS AND LABOR USED TO MAINTAIN AND/OR REPAIR SUCH TRACTORS, AND FARM IMPLEMENTS TAXED AT THE RATE OF 1.5% UNDER SECTION 27-65-17, SHALL BE DEPOSITED INTO THE FARM EQUIPMENT GRANT FUND CREATED IN THIS ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -108,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:59:16.875804Z"
   }
 }

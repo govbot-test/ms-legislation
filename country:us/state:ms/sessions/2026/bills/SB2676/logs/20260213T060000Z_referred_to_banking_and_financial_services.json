@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Referred To Banking and Financial Services",
+    "occurred_at": "2026-02-13T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2676PS.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Harkins.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2676.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2676"
+}

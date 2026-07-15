@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Appropriations A",
     "Education"
   ],
   "abstracts": [],
@@ -39,6 +40,86 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Education;Appropriations A",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
       }
     }
   ],
@@ -82,6 +163,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"McMahan\"}",
       "organization_id": null
+    },
+    {
+      "name": "Blackwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blackwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blount",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blount\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -90,11 +187,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2242CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2242PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2242CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2242PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -115,13 +212,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2242CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2242CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2242_S_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2242_S_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2242CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2242PS.pdf",
       "note": ""
     },
     {
@@ -145,12 +272,20 @@
       "note": ""
     },
     {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blackwell.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Blount.xml",
+      "note": ""
+    },
+    {
       "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2242.xml",
       "note": ""
     }
   ],
   "extras": {
-    "summary": "AN ACT TO ENACT THE \"MISSISSIPPI MATH ACT\" ESTABLISHING THE MOVING MATHEMATICS IN MISSISSIPPI (M3) PROGRAM WITHIN THE STATE DEPARTMENT OF EDUCATION; TO SET FORTH FINDINGS, PURPOSES, DEFINITIONS AND PROGRAM COMPONENTS; TO AUTHORIZE K-12 MATHEMATICS COACHING AND SUPPORTS, K-5 MATHEMATICS SCREENING AND INTERVENTIONS, AN ALGEBRA READINESS INDICATOR BASED ON THE GRADE 5 STATEWIDE MATHEMATICS ASSESSMENT SCALE SCORE, AND PROFESSIONAL DEVELOPMENT FOR GRADES K-1, 2-6 AND 7-12; TO PROVIDE FOR ADMINISTRATION, RULEMAKING, DATA PROTECTIONS, REPORTING, EVALUATION AND DISTRICT PARTICIPATION; TO CREATE THE MOVING MATHEMATICS IN MISSISSIPPI FUND; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO ENACT THE \"MISSISSIPPI MATH ACT\" ESTABLISHING THE MOVING MATHEMATICS IN MISSISSIPPI (M3) PROGRAM WITHIN THE STATE DEPARTMENT OF EDUCATION; TO SET FORTH FINDINGS, PURPOSES, DEFINITIONS AND PROGRAM COMPONENTS; TO AUTHORIZE K-12 MATHEMATICS COACHING AND SUPPORTS, K-5 MATHEMATICS SCREENING AND INTERVENTIONS, AN ALGEBRA-READINESS INDICATOR BASED ON THE GRADE 5 STATEWIDE MATHEMATICS ASSESSMENT SCALE SCORE, AND PROFESSIONAL DEVELOPMENT FOR GRADES K-1, 2-6 AND 7-12; TO PROVIDE FOR ADMINISTRATION, RULEMAKING, DATA PROTECTIONS, REPORTING, EVALUATION AND DISTRICT PARTICIPATION; TO CREATE THE MOVING MATHEMATICS IN MISSISSIPPI FUND; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -159,7 +294,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:42:39.904456Z"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Enrolled Bill Signed",
+    "occurred_at": "2026-04-06T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HC/HC0061SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HC/HC0061.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HC61"
+}

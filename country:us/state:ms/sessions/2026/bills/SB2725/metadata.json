@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2725",
-  "title": "Pawnbrokers; create legacy license for certain businesses and provide for the renewal of licenses.",
+  "title": "Pawnbrokers; provide precious metal retention requirements and revise fingerprinting requirements for.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Business and Commerce",
     "Business and Financial Institutions"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Commerce",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +117,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2725CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2725PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2725CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2725PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +142,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2725CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2725CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2725CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2725PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +176,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO PROVIDE THAT PAWNBROKER BUSINESSES HOLDING A LICENSE AT THE TIME OF THE EFFECTIVE DATE OF THIS ACT SHALL BE CONSIDERED LEGACY PAWNBROKERS; TO PROVIDE THAT LEGACY PAWNBROKERS SHALL HAVE THEIR LICENSES INTERNALLY RENEWED ON AN ANNUAL BASIS WITHOUT THE NEED FOR REAPPLICATION; TO PROVIDE REQUIREMENTS FOR NEW PAWNBROKER BUSINESSES; TO PROVIDE FOR THE TRANSITION TO LEGACY STATUS FOR NEW BUSINESSES; TO REQUIRE NEW OWNERS TO APPLY FOR A NEW LICENSE UPON SALE OR TRANSFER OF A LEGACY PAWNBROKER BUSINESS; TO REQUIRE THE DEPARTMENT OF CONSUMER FINANCE TO INTERNALLY REISSUE LEGACY LICENSES WITHIN 30 BUSINESS DAYS; TO PROVIDE THAT LICENSES NOT RENEWED WITHIN THE 30-DAY TIMEFRAME SHALL AUTOMATICALLY RENEW; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 75-67-309, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A PAWNBROKER SHALL MAINTAIN ON THE PREMISES PRECIOUS METAL, COINS AND BULLION FOR THREE BUSINESS DAYS IF THE PAWNBROKER MAKES AVAILABLE ALL TRANSACTIONS EITHER ELECTRONICALLY OR ON COMPUTER DISC TO THE APPROPRIATE LAW ENFORCEMENT AGENCY; TO AMEND SECTION 75-67-323, MISSISSIPPI CODE OF 1972, TO REQUIRE AN APPLICANT FOR A PAWNBROKER LICENSE TO SUBMIT FINGERPRINTS FROM A LOCAL LAW ENFORCEMENT AGENCY; TO DIRECT THE COMMISSIONER TO CAUSE A CRIMINAL BACKGROUND CHECK TO BE CONDUCTED BY THE FBI TO DETERMINE WHETHER THE APPLICANT HAS A DISQUALIFYING RECORD; TO PROVIDE THAT AFTER INITIAL LICENSING, LICENSEE FINGERPRINTS MUST BE RESUBMITTED EVERY THREE YEARS OR IN ACCORDANCE WITH FBI REQUIREMENTS TO DETERMINE CONTINUED SUITABILITY FOR LICENSE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T07:24:38.591469Z"
   }
 }

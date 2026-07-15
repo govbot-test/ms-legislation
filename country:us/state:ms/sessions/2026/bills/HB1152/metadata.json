@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Public Health and Human Services"
+    "Public Health and Human Services",
+    "Public Health and Welfare"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,170 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Public Health and Welfare",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Tabled",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From Senate",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Vetoed",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Veto Referred To Public Health and Human Services",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +223,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1152SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1152SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1152IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +248,70 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1152PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1152PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1152",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1152.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1152.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1152_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1152_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Veto",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/veto/HB1152.htm",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1152IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1152SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +324,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BE KNOWN AS THE RIGHT TO TRY MEDICAL CANNABIS ACT; TO PROVIDE A PROCEDURE FOR PERSONS WHO DO NOT HAVE A QUALIFYING DEBILITATING MEDICAL CONDITION UNDER THE MISSISSIPPI MEDICAL CANNABIS ACT BUT HAVE AN ILLNESS THAT IS CHRONIC, PROGRESSIVE, SEVERELY DISABLING OR TERMINAL IN NATURE, TO BE CONSIDERED FOR INCLUSION IN THE MISSISSIPPI MEDICAL CANNABIS PROGRAM; TO PROVIDE THAT THE PATIENT'S TREATING MEDICAL PROVIDER MAY SUBMIT A PETITION TO THE STATE DEPARTMENT OF HEALTH REQUESTING AUTHORIZATION FOR THE PATIENT TO ACCESS MEDICAL CANNABIS; TO SPECIFY THE INFORMATION THAT MUST BE INCLUDED IN THE PETITION; TO PROVIDE THAT THE STATE HEALTH OFFICER IS THE SOLE DECISION MAKING AUTHORITY ON ALL SUCH PETITIONS SUBMITTED; TO PROVIDE THAT IF THE PETITION IS APPROVED, THE PATIENT SHALL BECOME ELIGIBLE TO APPLY FOR A REGISTRY IDENTIFICATION CARD UNDER THE MISSISSIPPI MEDICAL CANNABIS PROGRAM, SUBJECT TO ALL APPLICABLE RULES, LIMITS AND REGULATIONS; TO PROVIDE THAT THE DECISION OF THE STATE HEALTH OFFICER ON A PETITION SHALL BE FINAL AND MAY NOT BE APPEALED; TO PROVIDE THAT THE DEPARTMENT MAY LIMIT THE TYPE, FORM OR VOLUME OF CANNABIS AUTHORIZED FOR PATIENTS APPROVED UNDER THIS ACT IN ACCORDANCE WITH PUBLIC HEALTH AND SAFETY STANDARDS; TO PROVIDE THAT PATIENTS APPROVED UNDER THIS ACT SHALL BE SUBJECT TO PERIODIC REEVALUATION BY THE TREATING PROVIDER NO LESS THAN ONCE EVERY TWELVE MONTHS; TO AMEND SECTIONS 41-137-3 AND 41-137-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO BE KNOWN AS THE RIGHT TO TRY MEDICAL CANNABIS ACT; TO PROVIDE A PROCEDURE FOR PERSONS WHO DO NOT HAVE A QUALIFYING DEBILITATING MEDICAL CONDITION UNDER THE MISSISSIPPI MEDICAL CANNABIS ACT BUT HAVE AN ILLNESS THAT IS CHRONIC, PROGRESSIVE, SEVERELY DISABLING OR TERMINAL IN NATURE, TO BE CONSIDERED FOR INCLUSION IN THE MISSISSIPPI MEDICAL CANNABIS PROGRAM; TO PROVIDE THAT THE PATIENT'S TREATING MEDICAL PROVIDER MAY SUBMIT A PETITION TO THE STATE DEPARTMENT OF HEALTH REQUESTING AUTHORIZATION FOR THE PATIENT TO ACCESS MEDICAL CANNABIS; TO SPECIFY THE INFORMATION THAT MUST BE INCLUDED IN THE PETITION; TO PROVIDE THAT THE STATE HEALTH OFFICER IS THE SOLE DECISION MAKING AUTHORITY ON ALL SUCH PETITIONS SUBMITTED; TO PROVIDE THAT IF THE PETITION IS APPROVED, THE PATIENT SHALL BECOME ELIGIBLE TO APPLY FOR A REGISTRY IDENTIFICATION CARD UNDER THE MISSISSIPPI MEDICAL CANNABIS PROGRAM, SUBJECT TO ALL APPLICABLE RULES, LIMITS AND REGULATIONS; TO PROVIDE THAT THE DECISION OF THE STATE HEALTH OFFICER ON A PETITION SHALL BE FINAL AND MAY NOT BE APPEALED; TO PROVIDE THAT THE DEPARTMENT MAY LIMIT THE TYPE, FORM OR VOLUME OF CANNABIS AUTHORIZED FOR PATIENTS APPROVED UNDER THIS ACT IN ACCORDANCE WITH PUBLIC HEALTH AND SAFETY STANDARDS; TO PROVIDE THAT PATIENTS APPROVED UNDER THIS ACT SHALL BE SUBJECT TO PERIODIC REEVALUATION BY THE TREATING PROVIDER NO LESS THAN ONCE EVERY 12 MONTHS; TO AMEND SECTION 41-137-3, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"QUALIFYING PATIENT\"; TO AMEND SECTION 41-137-5, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +333,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T08:12:08.870643Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Energy",
     "Public Utilities"
   ],
   "abstracts": [],
@@ -40,6 +41,142 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Energy",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Concurred in Amend From Senate",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +195,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1632CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1632SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +220,73 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1632CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1632PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1632",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1632.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1632.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1632_S_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1632_S_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1632SG.pdf",
       "note": ""
     },
     {
@@ -102,7 +299,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE \"COMMUNITY PUBLIC WASTEWATER SYSTEM INFRASTRUCTURE SUSTAINABILITY ACT\"; TO PROVIDE A STATEWIDE SYSTEM OF ACCOUNTABILITY FOR COMMUNITY PUBLIC WASTEWATER SYSTEMS; TO PROVIDE FOR RULEMAKING BY THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY AND THE MISSISSIPPI COMMISSION ON ENVIRONMENTAL QUALITY; TO PROVIDE FOR DEVELOPMENT OF A LETTER GRADE SCHEDULE REFLECTIVE OF COMMUNITY PUBLIC WASTEWATER SYSTEM QUALITY AND PERFORMANCE; TO PROVIDE FOR PUBLICATION OF QUALITY AND PERFORMANCE SCORES AND LETTER GRADES; TO BRING FORWARD SECTION 49-2-9, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE COMMISSION ON ENVIRONMENTAL QUALITY FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 49-2-13, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE DEPARTMENT OF ENVIRONMENTAL QUALITY, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 77-3-2 AND 77-3-5, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE PUBLIC SERVICE COMMISSION'S POWERS, DUTIES AND JURISDICTION; TO BRING FORWARD SECTION 19-5-175, MISSISSIPPI CODE OF 1972, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 21-27-7, 21-27-13 AND 21-27-203, MISSISSIPPI CODE OF 1972, WHICH RELATE TO MUNICIPALLY OWNED UTILITIES; TO BRING FORWARD SECTION 49-17-743, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE POWERS OF COUNTY AUTHORITIES, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 49-17-745, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE PROMULGATION OF RULES AND REGULATIONS RELATING TO OPERATION AND MAINTENANCE OF COUNTY WATER AND WASTEWATER SYSTEMS, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 41-67-3, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE MISSISSIPPI INDIVIDUAL ON-SITE WASTEWATER DISPOSAL SYSTEM LAW; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE \"COMMUNITY PUBLIC WASTEWATER SYSTEM INFRASTRUCTURE SUSTAINABILITY ACT\"; TO PROVIDE A STATEWIDE SYSTEM OF ACCOUNTABILITY FOR COMMUNITY PUBLIC WASTEWATER SYSTEMS; TO PROVIDE FOR RULEMAKING BY THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY AND THE MISSISSIPPI COMMISSION ON ENVIRONMENTAL QUALITY; TO PROVIDE FOR DEVELOPMENT OF A LETTER GRADE SCHEDULE REFLECTIVE OF COMMUNITY PUBLIC WASTEWATER SYSTEM QUALITY AND PERFORMANCE; TO PROVIDE FOR PUBLICATION OF QUALITY AND PERFORMANCE SCORES AND LETTER GRADES; TO BRING FORWARD SECTION 49-2-9, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE COMMISSION ON ENVIRONMENTAL QUALITY FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 49-2-13, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE DEPARTMENT OF ENVIRONMENTAL QUALITY, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 77-3-2 AND 77-3-5, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE PUBLIC SERVICE COMMISSION'S POWERS, DUTIES AND JURISDICTION; TO BRING FORWARD SECTION 19-5-175, MISSISSIPPI CODE OF 1972, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 21-27-7, 21-27-13 AND 21-27-203, MISSISSIPPI CODE OF 1972, WHICH RELATE TO MUNICIPALLY OWNED UTILITIES; TO BRING FORWARD SECTION 49-17-743, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE POWERS OF COUNTY AUTHORITIES, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 49-17-745, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE PROMULGATION OF RULES AND REGULATIONS RELATING TO OPERATION AND MAINTENANCE OF COUNTY WATER AND WASTEWATER SYSTEMS, FOR PURPOSE OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 41-67-3, MISSISSIPPI CODE OF 1972, WHICH RELATES TO THE MISSISSIPPI INDIVIDUAL ON-SITE WASTEWATER DISPOSAL SYSTEM LAW; TO CREATE THE \"COMMUNITY DRINKING WATER INFRASTRUCTURE SUSTAINABILITY ACT\"; TO PROVIDE A STATEWIDE SYSTEM OF ACCOUNTABILITY FOR COMMUNITY PUBLIC WATER SYSTEMS; TO PROVIDE FOR RULEMAKING BY THE MISSISSIPPI BOARD OF HEALTH; TO PROVIDE FOR DEVELOPMENT OF A LETTER GRADE SCHEDULE REFLECTIVE OF COMMUNITY PUBLIC WATER SYSTEM QUALITY AND PERFORMANCE; TO PROVIDE FOR PUBLICATION OF QUALITY AND PERFORMANCE SCORES AND LETTER GRADES; TO AMEND SECTION 19-5-151, MISSISSIPPI CODE OF 1972, TO AUTHORIZE CERTAIN UTILITY DISTRICTS TO DISSOLVE WHENEVER A MAJORITY OF THE LANDOWNERS OF ANY SUCH DISTRICT SIGN AND FILE WITH THE CLERK OF THE CHANCERY COURT BY WHICH SUCH DISTRICT WAS ORGANIZED, OR IN THE COUNTY IN WHICH SUCH DISTRICT WAS ORGANIZED, A PETITION FOR THE DISSOLUTION OF SUCH DISTRICT; TO BRING FORWARD SECTION 19-5-165, MISSISSIPPI CODE OF 1972, WHICH RELATES TO NEWLY FORMED WATER DISTRICT ASSETS AND LIABILITIES, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 41-3-15 AND 41-26-3, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE STATE BOARD OF HEALTH, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +308,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:40:46.254784Z"
   }
 }

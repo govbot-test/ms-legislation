@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB4043",
+  "title": "Sales tax; impose on portion of cigarette increased cost to wholesaler or cost to the retailer included in sales price.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb4043"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lamar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lamar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4043IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4043IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4043IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4043.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO IMPOSE A TAX ON THE SALE OF CIGARETTES AT WHOLESALE OR RETAIL, AS THE CASE MAY BE, ON THE AMOUNT OF THE INCREASE IN COST TO WHOLESALER OR COST TO THE RETAILER, AS THE CASE MAY BE, UNDER THE UNFAIR CIGARETTE SALES LAW AS PROVIDED FOR IN THIS ACT; TO AMEND SECTION 75-23-5, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF THE TERM \"COST TO WHOLESALER\" UNDER THE UNFAIR CIGARETTE SALES LAW TO PHASE IN AN INCREASE IN THE PRESUMED COST OF DOING BUSINESS BY THE WHOLESALER; TO REVISE THE DEFINITION OF THE TERM \"COST TO THE RETAILER\" UNDER THE UNFAIR CIGARETTE SALES LAW TO PHASE IN AN INCREASE IN THE PRESUMED COST OF DOING BUSINESS BY THE RETAILER; TO AMEND SECTION 27-65-75, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT THE STATE SALES TAX REVENUE COLLECTED FROM THE TAX IMPOSED UNDER THIS ACT SHALL BE DEPOSITED INTO THE GENERAL FUND; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:30Z"
+  }
+}

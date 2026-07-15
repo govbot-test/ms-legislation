@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3118",
+  "title": "Income tax; implement pilot program authorizing credit for educational expenses, awarded by lottery system.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-sb3118"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Finance",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/3100-3199/SB3118IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3100-3199/SB3118IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/3100-3199/SB3118IN.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/Hill.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB3118.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO AUTHORIZE AN INCOME TAX CREDIT FOR ELIGIBLE EDUCATIONAL EXPENSES PAID BY A PARENT OR LEGAL GUARDIAN ON BEHALF OF A DEPENDENT K-12 STUDENT; TO SPECIFY A MAXIMUM AMOUNT OF THE CREDIT PER STUDENT; TO PROVIDE THAT ANY UNUSED PORTION OF THE CREDIT MAY BE CARRIED FORWARD FOR THE FIVE SUCCEEDING TAX YEARS; TO PROVIDE THAT THE AMOUNT OF THE CREDIT THAT MAY BE UTILIZED IN ANY TAX YEAR SHALL NOT EXCEED THE TOTAL STATE INCOME TAX LIABILITY OF THE TAXPAYER FOR THAT YEAR; TO PROVIDE THAT THE AGGREGATE AMOUNT OF TAX CREDITS THAT MAY BE AWARDED UNDER THIS SECTION IN ANY CALENDAR YEAR SHALL NOT EXCEED $20,000,000.00; TO PRESCRIBE THE CONTENT REQUIRED IN THE APPLICATION FOR THE CREDIT; TO PROVIDE THAT THE DEPARTMENT SHALL ESTABLISH A LOTTERY SYSTEM FOR SELECTING TAXPAYERS TO BE AWARDED THE CREDIT; TO AUTHORIZE THE DEPARTMENT OF REVENUE TO PROMULGATE REGULATIONS AS NEEDED TO ADMINISTER THIS ACT; TO SPECIFY THAT THIS ACT CREATES A PILOT PROGRAM AND THAT NO CREDITS SHALL BE AUTHORIZED UNDER THIS ACT FOR ELIGIBLE EXPENSES INCURRED IN ANY CALENDAR YEAR OTHER THAN 2026; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:31Z"
+  }
+}

@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1646",
-  "title": "Disaster Trust Fund; increase transfer limits and update to current budget standards.",
+  "title": "Disaster assistance; increase amount of funds MEMA may request to provide and create loan program for local governments to receive.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations",
     "Appropriations A",
     "State Affairs"
   ],
@@ -61,6 +62,214 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Appropriations",
+      "date": "2026-02-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Conferees Named Zuber,Deweese,Clark",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Conferees Named Hopson,DeBar,DeLano",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,12 +280,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"Deweese\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hale\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1646SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1646SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1646IN.htm",
@@ -89,17 +321,96 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1646CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1646CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1646PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1646PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 1646",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB1646.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB1646.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1646_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1646_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB1646_S_Amend_01_to_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB1646_S_Amend_01_to_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1646IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1646SG.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Deweese.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hale.xml",
       "note": ""
     },
     {
@@ -108,7 +419,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTIONS 33-15-307 AND 33-15-308, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE DISASTER TRUST FUND, TO INCREASE TRANSFER LIMITS, REFLECT PASSED AMENDMENTS, AND UPDATE TO CURRENT BUDGET STANDARDS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTIONS 33-15-307 AND 33-15-308, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE DISASTER TRUST FUND, TO INCREASE TRANSFER LIMITS, REFLECT PASSED AMENDMENTS, AND UPDATE TO CURRENT BUDGET STANDARDS; TO CREATE THE LOCAL GOVERNMENTS DISASTER RECOVERY EMERGENCY LOAN PROGRAM ACT; TO DEFINE TERMS; TO ESTABLISH THE LOCAL GOVERNMENTS DISASTER RECOVERY EMERGENCY LOAN PROGRAM TO BE ADMINISTERED BY THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY FOR THE PURPOSE OF ASSISTING LOCAL GOVERNMENTS IN RECOVERING FROM CERTAIN FEDERALLY DECLARED DISASTERS BY ISSUING LOANS TO LOCAL GOVERNMENTS; TO PROVIDE THAT NO LOAN SHALL BE ISSUED UNDER THE AUTHORITY OF THIS ACT AFTER A CERTAIN DATE; TO SET FORTH THE POWERS AND DUTIES OF THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY IN ADMINISTERING THIS ACT; TO REQUIRE THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY TO AUTHORIZE AN ADMINISTRATOR TO CARRY OUT ANY OR ALL OF THE POWERS AND DUTIES ENUMERATED IN THIS ACT; TO EXEMPT THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY FROM ANY REQUIREMENT THAT THE PUBLIC PROCUREMENT REVIEW BOARD APPROVE ANY PERSONAL OR PROFESSIONAL SERVICES CONTRACTS OR PRE-APPROVE ANY SOLICITATION OF SUCH CONTRACTS FOR PURPOSES OF THIS ACT; TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO BE DESIGNATED AS THE LOCAL GOVERNMENTS DISASTER RECOVERY EMERGENCY LOAN FUND; TO REQUIRE EACH RECIPIENT OF A LOAN UNDER THE PROGRAM TO ESTABLISH A DEDICATED SOURCE OF REVENUE FOR REPAYMENT OF THE LOAN IN THE EVENT THAT THE FEDERAL EMERGENCY MANAGEMENT AGENCY DECLINES TO REIMBURSE AN EXPENDITURE FOR WHICH LOAN PROCEEDS WERE USED; TO PROVIDE THAT THE EXECUTED LOAN AGREEMENT WILL OBLIGATE THE LOCAL GOVERNMENT TO REPAY THE PROCEEDS OF THE LOAN IMMEDIATELY UPON RECEIPT OF REIMBURSEMENTS FROM THE FEDERAL EMERGENCY MANAGEMENT AGENCY; TO PROVIDE THAT THE LOAN AGREEMENT SHALL PROVIDE FOR THE REPAYMENT OF ALL FUNDS RECEIVED FROM THE EMERGENCY FUND WITHIN NOT MORE THAN TWO YEARS FROM THE DATE THAT THE FEDERAL EMERGENCY MANAGEMENT AGENCY DECLINED TO REIMBURSE FOR AN EXPENDITURE FOR WHICH LOAN PROCEEDS WERE USED; TO REQUIRE A RECIPIENT LOCAL GOVERNMENT TO PLEDGE ITS SALES TAX REVENUE DISTRIBUTION OR ITS HOMESTEAD EXEMPTION ANNUAL TAX LOSS REIMBURSEMENT, AS THE CASE MAY BE, TO MEET THE REPAYMENT SCHEDULE CONTAINED IN THE LOAN AGREEMENT IN THE EVENT THAT THE FEDERAL EMERGENCY MANAGEMENT AGENCY DECLINES TO REIMBURSE AN EXPENDITURE FOR WHICH LOAN PROCEEDS WERE USED; TO AMEND SECTION 27-104-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT ANY PERSONAL OR PROFESSIONAL SERVICE CONTRACTS ENTERED INTO BY THE MISSISSIPPI EMERGENCY MANAGEMENT AGENCY UNDER THIS ACT ARE EXEMPT FROM APPROVAL BY THE PUBLIC PROCUREMENT REVIEW BOARD; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -117,7 +428,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:40:15.972661Z"
   }
 }

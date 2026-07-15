@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2103",
-  "title": "School counselors; delete requirement of counselors to abide by the American School Counselor Association Code of Ethics.",
+  "title": "Education; provide pay increases, revise counseling ethical requirements, and reform school attendance law.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -40,6 +40,260 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Education",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Immediate Release",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named DeBar,Hopson,Boyd",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Roberson,McCarty,Owen",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Recommitted For Further Conf",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Unanimous Consent Granted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Unanimous Consent Granted",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +312,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2103SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2103SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2103IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +337,58 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2103PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2103PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for Senate Bill No. 2103",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/Amendment_Report_for_SB2103.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/Amendment_Report_for_SB2103.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/SB2103_H_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/SB2103_H_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2103IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2100-2199/SB2103SG.pdf",
       "note": ""
     },
     {
@@ -87,7 +401,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 37-9-79, MISSISSIPPI CODE OF 1972, TO DELETE THE PROVISION THAT REQUIRES PROFESSIONAL SCHOOL COUNSELORS TO ABIDE BY THE AMERICAN SCHOOL COUNSELOR ASSOCIATION CODE OF ETHICS; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 37-9-79, MISSISSIPPI CODE OF 1972, TO DELETE THE PROVISION THAT REQUIRES PROFESSIONAL SCHOOL COUNSELORS TO ABIDE BY THE AMERICAN SCHOOL COUNSELOR ASSOCIATION CODE OF ETHICS; TO REQUIRE THE STATE DEPARTMENT OF EDUCATION TO ADOPT REGULATIONS REGARDING THE ACTIVITIES OF PROFESSIONAL SCHOOL COUNSELORS, INCLUDING A MODEL CODE OF PROFESSIONAL ETHICS; TO AMEND SECTION 37-19-7, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR AN INCREASE TO THE MINIMUM TEACHER SALARY SCALE; TO PROVIDE AN ANNUAL SALARY SUPPLEMENT TO LICENSED SPECIAL EDUCATION TEACHERS EMPLOYED BY A SCHOOL DISTRICT ON A FULL-TIME BASIS TO PROVIDE SPECIAL EDUCATION INSTRUCTION, TO LICENSED OCCUPATIONAL THERAPISTS AND TO CERTIFIED SCHOOL PSYCHOLOGISTS; TO AMEND SECTION 37-21-7, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NO SCHOOL DISTRICT SHALL REDUCE THE LOCAL SUPPLEMENT OR PAY AN INDIVIDUAL ASSISTANT TEACHER LESS THAN THE STATE MINIMUM SALARY IN A YEAR IN WHICH THE STATE MINIMUM SALARY IS INCREASED; TO PROVIDE FOR A REDUCTION IN FUNDS FOR DISTRICTS THAT VIOLATE THIS SECTION; TO PROVIDE THAT NO DISTRICT SHALL PAY ANY ASSISTANT TEACHER LESS THAN THE STATE MINIMUM SALARY UNLESS DONE SO BY A PRO RATA DAILY AMOUNT WHERE THERE HAS BEEN A REDUCTION IN TOTAL FUNDING FORMULA ALLOCATIONS FOR SUCH DISTRICT IN SUCH YEAR OR IN THE AMOUNT OF FEDERAL FUNDS TO SUCH DISTRICT FROM THE PREVIOUS YEAR; TO PROVIDE FOR AN INCREASE TO THE MINIMUM BASE SALARY FOR ASSISTANT TEACHERS; TO AMEND SECTION 37-151-203, MISSISSIPPI CODE OF 1972, TO INCREASE THE AMOUNT OF THE BASE STUDENT COST; TO AMEND SECTIONS 37-13-89 AND 37-13-91, MISSISSIPPI CODE OF 1972, TO REVISE QUALIFICATIONS FOR SCHOOL ATTENDANCE OFFICERS; TO DIRECT THE STATE TO PROVIDE FUNDING FOR ONE SCHOOL ATTENDANCE OFFICER FOR EVERY 4,000 COMPULSORY-SCHOOL-AGED CHILDREN IN ENROLLMENT IN THE PUBLIC SCHOOLS; TO INSTITUTE A NEW MINIMUM SALARY SCHEDULE FOR SCHOOL ATTENDANCE OFFICERS; TO PROVIDE THAT EACH SCHOOL ATTENDANCE OFFICER MAY RECEIVE AN ANNUAL SALARY SUPPLEMENT FROM THE SCHOOL DISTRICT IN WHICH HE OR SHE SERVES, AT THE DISCRETION OF THE DISTRICT; TO REFORM THE MISSISSIPPI COMPULSORY SCHOOL ATTENDANCE LAW; TO AMEND SECTIONS 37-9-39 and 37-151-103, MISSISSIPPI CODE OF 1972, TO REVISE THE TIME IN DECEMBER WHEN SCHOOL DISTRICTS SHALL PROCESS PAYROLL FOR ALL EMPLOYEES FROM THE LAST WORKING DAY TO A TIME CONSISTENT WITH OTHER MONTHLY INSTALLMENTS AS A MEANS OF PREVENTING THE 45-DAY GAP BETWEEN TEACHER PAY PERIODS FROM THE DECEMBER PAY DATE TO JANUARY PAY DATE;\u00a0TO REPEAL SECTION 25-11-126, MISSISSIPPI CODE OF 1972, WHICH CONTAINS PROVISIONS FOR RETIRED TEACHERS RETURNING TO WORK WHILE CONTINUING TO DRAW RETIREMENT BENEFITS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +410,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:35:29.091473Z"
   }
 }

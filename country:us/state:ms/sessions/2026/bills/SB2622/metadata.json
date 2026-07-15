@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
-    "Government Structure"
+    "Accountability, Efficiency, Transparency",
+    "Government Structure",
+    "State Affairs"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +42,74 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To State Affairs;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "DR - TSDP: SA To AC",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +128,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2622PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2622PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2600-2699/SB2622IN.htm",
           "media_type": "text/html"
         },
@@ -68,13 +153,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2622_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2622_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2622IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2600-2699/SB2622PS.pdf",
       "note": ""
     },
     {
@@ -87,7 +187,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE MISSISSIPPI ONE DOOR WEBSITE ACT; TO REQUIRE THAT THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES DEVELOP, MONITOR AND UPDATE A WEBSITE FOR MISSISSIPPI STATE AGENCIES AND STATE SERVICES TO SHARE, THAT WILL ALLOW CONSUMERS TO LOGIN AND ACCESS ANY STATE FUNCTION THAT THE USER NEEDS TO ACCESS; TO REQUIRE THE DEPARTMENT TO DEVELOP A SYSTEM THAT ALLOWS STATE AGENCIES AND SERVICES TO SHARE DATA, WHILE MAINTAINING INFORMATION PRIVACY AND SECURITY STANDARDS; TO REQUIRE THE DEPARTMENT TO IMPLEMENT THE ABILITY FOR STATE AGENCIES, STATE SERVICES AND WEBSITE USERS TO REVIEW PREVIOUS FILINGS AND CROSS REFERENCE STATE-PROVIDED PROGRAMS TO SEE IF THE CONSUMER QUALIFIES AS A PARTICIPANT IN ANY OFFERED PROGRAMS OR FOR ASSISTANCE; TO PROVIDE THE DEPARTMENT WITH THE AUTHORITY TO PROMULGATE RULES AND REGULATIONS IN ORDER TO EXECUTE THE REQUIREMENTS OF THE MISSISSIPPI ONE DOOR WEBSITE; TO PROVIDE THAT THE ONE DOOR WEBSITE SHALL BE OPERABLE BY JANUARY 1, 2028; TO AMEND SECTION 25-53-5, MISSISSIPPI CODE OF 1972, TO ADD DEVELOPING, MONITORING AND UPDATING ONE DOOR WEBSITES REQUIRED BY THIS ACT; TO THE POWERS AND RESPONSIBILITIES OF THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI ONE DOOR WEBSITE ACT; TO REQUIRE THAT THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES DEVELOP, MONITOR AND UPDATE A WEBSITE FOR MISSISSIPPI STATE AGENCIES AND STATE SERVICES TO SHARE, THAT WILL ALLOW CONSUMERS TO LOGIN AND ACCESS ANY STATE FUNCTION THAT THE USER NEEDS TO ACCESS; TO REQUIRE THE DEPARTMENT TO DEVELOP A SYSTEM THAT ALLOWS STATE AGENCIES AND SERVICES TO SHARE DATA, WHILE MAINTAINING INFORMATION PRIVACY AND SECURITY STANDARDS; TO REQUIRE THE DEPARTMENT TO IMPLEMENT THE ABILITY FOR STATE AGENCIES, STATE SERVICES AND WEBSITE USERS TO REVIEW PREVIOUS FILINGS AND CROSS REFERENCE STATE-PROVIDED PROGRAMS TO SEE IF THE CONSUMER QUALIFIES AS A PARTICIPANT IN ANY OFFERED PROGRAMS OR FOR ASSISTANCE; TO PROVIDE THE DEPARTMENT WITH THE AUTHORITY TO PROMULGATE RULES AND REGULATIONS IN ORDER TO EXECUTE THE REQUIREMENTS OF THE MISSISSIPPI ONE DOOR WEBSITE; TO PROVIDE THAT THE ONE DOOR WEBSITE SHALL BE OPERABLE BY JANUARY 1, 2028; TO AMEND SECTION 25-53-5, MISSISSIPPI CODE OF 1972, TO ADD DEVELOPING, MONITORING AND UPDATING ONE DOOR WEBSITES REQUIRED BY THIS ACT TO THE POWERS AND RESPONSIBILITIES OF THE DEPARTMENT OF INFORMATION TECHNOLOGY SERVICES; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +196,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T07:00:59.274720Z"
   }
 }

@@ -1,13 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1597",
-  "title": "Guaranteeing Fair Banking for All Mississippians; create.",
+  "title": "Mississippi Fair Banking Standards Act; create.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Banking and Financial Services"
+    "Banking and Financial Services",
+    "Business and Financial Institutions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +121,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Aguirre\"}",
       "organization_id": null
+    },
+    {
+      "name": "Burch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +145,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1597CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1597PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1597CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1597PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +170,55 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1500-1599/HB1597CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1597CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1597_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1597_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1597CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1597PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Aguirre.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Burch.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Hall.xml",
       "note": ""
     },
     {
@@ -102,7 +227,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BE KNOWN AS THE GUARANTEEING FAIR BANKING FOR ALL MISSISSIPPIANS ACT; TO DECLARE THE PUBLIC POLICY OF THE STATE; TO URGE CONGRESS AND THE PRESIDENT TO STOP GOVERNMENT FROM WEAPONIZING FINANCIAL INSTITUTIONS; TO AMEND TITLE 81, MISSISSIPPI CODE OF 1972, TO CODIFY STANDARDS FOR FAIR ACCESS TO FINANCIAL SERVICES CONSISTENT WITH EXECUTIVE ORDER 14331; TO PROHIBIT STATE REGULATORS FROM COERCING FINANCIAL INSTITUTIONS INTO TERMINATING CUSTOMER ACCOUNTS BASED ON NONQUANTITATIVE FACTORS; TO REQUIRE THE DEPARTMENT OF BANKING AND CONSUMER FINANCE TO REVIEW AGENCY GUIDANCE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO BE KNOWN AS THE MISSISSIPPI FAIR BANKING STANDARDS ACT; TO DECLARE THE PUBLIC POLICY OF THE STATE; TO URGE CONGRESS AND THE PRESIDENT TO STOP GOVERNMENT FROM WEAPONIZING FINANCIAL INSTITUTIONS; TO PROVIDE STANDARDS FOR FAIR ACCESS TO FINANCIAL SERVICES CONSISTENT WITH EXECUTIVE ORDER 14331; TO PROHIBIT STATE REGULATORS FROM COERCING FINANCIAL INSTITUTIONS INTO TERMINATING CUSTOMER ACCOUNTS BASED ON NONQUANTITATIVE FACTORS; TO REQUIRE THE DEPARTMENT OF BANKING AND CONSUMER FINANCE TO REVIEW AGENCY GUIDANCE; TO CREATE AN ADMINISTRATIVE COMPLAINT PROCESS TO RESOLVE DEBANKING COMPLAINTS; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:26:38.120555Z"
   }
 }

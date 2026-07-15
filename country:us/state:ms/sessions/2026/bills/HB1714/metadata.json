@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1714",
-  "title": "Insurance; bring forward various provisions.",
+  "title": "Make Mississippi Resilient and Strong Act; create for strengthening properties against severe weather.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Appropriations",
     "Insurance"
   ],
   "abstracts": [],
@@ -40,6 +41,94 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:58Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Tabled Failed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Point of Order Raised",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Point of Order - Well Taken",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Insurance;Appropriations",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +139,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Ford\"}",
       "organization_id": null
+    },
+    {
+      "name": "Felsher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Felsher\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +155,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1714CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1714PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1714CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1714PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +180,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1700-1799/HB1714CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1714CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1714CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1700-1799/HB1714PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Ford_(54th).xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
       "note": ""
     },
     {
@@ -102,7 +218,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BRING FORWARD SECTIONS 27-15-103 AND 27-15-109, MISSISSIPPI CODE OF 1972, WHICH REQUIRE THE ASSESSMENT OF A PREMIUM TAX ON FOREIGN AND DOMESTIC INSURANCE COMPANIES, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 83-5-73, MISSISSIPPI CODE OF 1972, WHICH REQUIRES THE COMMISSIONER OF INSURANCE TO COLLECT CERTAIN FEES FROM INSURANCE COMPANIES, FOR PURPOSES OF POSSIBLE AMENDMENT;  TO BRING FORWARD SECTION 83-1-191, MISSISSIPPI CODE OF 1972, WHICH CREATES THE COMPREHENSIVE HURRICANE DAMAGE MITIGATION PROGRAM, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 83-1-201, MISSISSIPPI CODE OF 1972, WHICH CREATES THE MISSISSIPPI WINDSTORM MITIGATION FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 83-34-1 THROUGH 83-34-37, MISSISSIPPI CODE OF 1972, WHICH IS THE CHAPTER OF LAW GOVERNING THE MISSISSIPPI WINDSTORM UNDERWRITING ASSOCIATION, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE \"MAKE MISSISSIPPI RESILIENT AND STRONG ACT\"; TO ESTABLISH THE MISSISSIPPI WINDSTORM MITIGATION ASSOCIATION TO PROVIDE SERVICES TO PROMOTE WELFARE AND ECONOMIC DEVELOPMENT THROUGH THE STRENGTHENING OF RESIDENTIAL HOMES AND COMMERCIAL PROPERTIES TO PROTECT AGAINST SEVERE WEATHER; TO PROVIDE FOR GRANTS TO ASSIST IN STRENGTHENING OF RESIDENTIAL HOMES AND COMMERCIAL PROPERTIES; TO PROVIDE FOR MEMBERSHIP OF THE ASSOCIATION; TO PROVIDE FOR A BOARD OF DIRECTORS; TO PROVIDE THE POWERS OF THE ASSOCIATION; TO PROVIDE FOR THE FUNDING OF THE ASSOCIATION; TO CREATE A SPECIAL FUND IN THE STATE TREASURY TO BE DESIGNATED THE MISSISSIPPI WINDSTORM MITIGATION ASSOCIATION FUND FOR THE PURPOSE OF PROVIDING FUNDS TO CARRY OUT THE PROVISIONS OF THIS ACT; TO PROVIDE THAT MEMBER INSURERS SHALL BE IMMUNE FROM ACTS OR OMISSIONS IN THE PERFORMANCE OF THEIR DUTIES; TO AMEND SECTION 83-5-73, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL MEMBER INSURERS TO PAY A SUPPLEMENTAL FEE TO FUND THE ASSOCIATION; TO AMEND SECTION 83-34-5, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE MISSISSIPPI WINDSTORM UNDERWRITING ASSOCIATION TO CONTRACT WITH A THIRD PARTY FOR THE DETERMINATION OF GRANT AWARDS; TO BRING FORWARD SECTIONS 83-34-1 THROUGH 83-34-4 AND 83-34-7 THROUGH 83-34-37, MISSISSIPPI CODE OF 1972, WHICH RELATE TO THE MISSISSIPPI WINDSTORM UNDERWRITING ASSOCIATION, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTION 83-1-191, MISSISSIPPI CODE OF 1972, WHICH CREATES THE COMPREHENSIVE HURRICANE DAMAGE MITIGATION PROGRAM, FOR PURPOSES OF AMENDMENT; TO BRING FORWARD SECTION 83-1-201, MISSISSIPPI CODE OF 1972, WHICH CREATES THE MISSISSIPPI WINDSTORM MITIGATION FUND, FOR PURPOSES OF POSSIBLE AMENDMENT; TO BRING FORWARD SECTIONS 27-15-103 AND 27-15-109, MISSISSIPPI CODE OF 1972, WHICH REQUIRE THE ASSESSMENT OF A PREMIUM TAX ON FOREIGN AND DOMESTIC INSURANCE COMPANIES, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +227,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:58Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:43:02.943379Z"
   }
 }

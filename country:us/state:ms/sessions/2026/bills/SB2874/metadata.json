@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2874",
-  "title": "Common Cents and Gold and Silver Commemorative Coin Act; enact.",
+  "title": "Gold and Silver Commemorative Coin Act; enact.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Finance"
   ],
   "abstracts": [],
@@ -40,6 +41,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +109,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"McMahan\"}",
       "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Williams\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -58,11 +125,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2874CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2874PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2874CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2874PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,17 +150,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2800-2899/SB2874CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2874CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2874CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2800-2899/SB2874PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/Senate_authors/McMahan.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Williams.xml",
       "note": ""
     },
     {
@@ -102,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO BE KNOWN AS THE \"COMMON CENTS AND GOLD AND SILVER COMMEMORATIVE COIN ACT\"; TO AUTHORIZE MUNICIPAL GOVERNMENTS, COUNTY GOVERNMENTS, AND STATE AGENCIES TO ROUND THE TOTAL AMOUNT DUE FOR CERTAIN FEES, FINES, CHARGES, AND TAXES TO THE NEAREST 10\u00a2 WHEN PAID IN CASH, IN ORDER TO ADDRESS LIMITED AVAILABILITY OF ONE-CENT COINS; TO PROVIDE UNIFORM ROUNDING RULES; TO REQUIRE THAT ROUNDING BE APPLIED ONLY TO THE FINAL AMOUNT DUE AFTER ALL CALCULATIONS; TO PROVIDE THAT NONCASH PAYMENTS SHALL CONTINUE TO BE SETTLED TO THE CENT; TO REQUIRE RECORDKEEPING AND PUBLIC NOTICE; TO REQUIRE EACH GOVERNMENTAL ENTITY TO ADOPT A POLICY DETERMINING WHETHER IT SHALL ROUND ACCORDING TO THE AUTHORITY GRANTED TO IT UNDER THIS SECTION; TO REQUIRE ANY ENTITY CHOOSING TO ROUND TO APPLY ITS ROUNDING POLICY UNIFORMLY; TO AUTHORIZE RULEMAKING; TO AUTHORIZE THE STATE TREASURER TO ENTER INTO A CONTRACTUAL AGREEMENT WITH A PUBLIC OR PRIVATE MINTING COMPANY FOR THE PURPOSES OF MINTING ONE-OUNCE GOLD STATE COMMEMORATIVE COINS OR ONE-OUNCE SILVER COMMEMORATIVE COINS FOR THE STATE OF MISSISSIPPI; TO AMEND SECTIONS 25-3-21, 25-7-65, 27-15-153, 27-17-423, 27-19-81, 27-25-1, 27-31-79, 49-19-115, 65-1-46, 65-33-47, 69-7-263 AND 69-10-5, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO BE KNOWN AS THE \"GOLD AND SILVER COMMEMORATIVE COIN ACT\"; TO AUTHORIZE THE STATE TREASURER TO ENTER INTO A CONTRACTUAL AGREEMENT WITH A PUBLIC OR PRIVATE MINTING COMPANY FOR THE PURPOSES OF MINTING ONE-OUNCE GOLD STATE COMMEMORATIVE COINS OR ONE-OUNCE SILVER COMMEMORATIVE COINS FOR THE STATE OF MISSISSIPPI; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:45:03.856525Z"
   }
 }

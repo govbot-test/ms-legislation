@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Banking and Financial Services"
+    "Banking and Financial Services",
+    "Business and Financial Institutions"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:00Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Financial Institutions",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died On Calendar",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +129,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1477CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1477PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +154,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1477CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1400-1499/HB1477PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +188,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO PROVIDE FOR A SAFE DEPOSIT BOX ESCHEATMENT PROCESS; TO REQUIRE BANKS AND FINANCIAL ORGANIZATIONS TO PROVIDE CERTAIN NOTICE TO PERSONS WHO HAVE NOT PAID RENT FOR THEIR SAFE DEPOSIT BOXES; TO AUTHORIZE SUCH BANKS AND FINANCIAL ORGANIZATIONS TO OPEN THE SAFE DEPOSIT BOX AFTER PROPER NOTICE; TO AUTHORIZE THE STATE TREASURER TO RECEIVE CONTENTS FROM THE ABANDONED SAFE DEPOSIT BOX AND SELL THE CONTENTS AT PUBLIC AUCTION; TO AMEND SECTION 89-12-3, MISSISSIPPI CODE OF 1972, TO DEFINE \"LAST KNOWN ADDRESS\" AND \"LAWFUL CHARGES\" FOR THE PURPOSES OF THIS ACT; TO AMEND SECTION 89-12-5, MISSISSIPPI CODE OF 1972, TO MODERNIZE CERTAIN PROVISIONS RELATING TO ABANDONED AND UNCLAIMED PROPERTY UNDER THE UNIFORM DISPOSITION OF UNCLAIMED PROPERTY ACT; TO BRING FORWARD SECTION 81-5-64, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO PROVIDE FOR A SAFE DEPOSIT BOX ESCHEATMENT PROCESS; TO REQUIRE BANKS AND FINANCIAL ORGANIZATIONS TO PROVIDE CERTAIN NOTICE TO PERSONS WHO HAVE NOT PAID RENT FOR THEIR SAFE DEPOSIT BOXES; TO AUTHORIZE SUCH BANKS AND FINANCIAL ORGANIZATIONS TO OPEN THE SAFE DEPOSIT BOX AFTER PROPER NOTICE; TO AUTHORIZE THE STATE TREASURER TO RECEIVE CONTENTS FROM THE ABANDONED SAFE DEPOSIT BOX AND SELL THE CONTENTS AT PUBLIC AUCTION; TO AMEND SECTION 89-12-3, MISSISSIPPI CODE OF 1972, TO DEFINE \"LAST KNOWN ADDRESS\" AND \"LAWFUL CHARGES\" FOR THE PURPOSES OF THIS ACT; TO AMEND SECTIONS 89-12-5, 89-12-11, 89-12-17, 89-12-30, 89-12-31 AND 7-7-42, MISSISSIPPI CODE OF 1972, TO MODERNIZE CERTAIN PROVISIONS RELATING TO ABANDONED AND UNCLAIMED PROPERTY UNDER THE UNIFORM DISPOSITION OF UNCLAIMED PROPERTY ACT; TO BRING FORWARD SECTION 81-5-64, MISSISSIPPI CODE OF 1972, FOR THE PURPOSE OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:00Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T08:02:05.824502Z"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Approved by Governor",
+    "occurred_at": "2026-03-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1500-1599/HB1577SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Felsher.xml",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1577.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1577"
+}

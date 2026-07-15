@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "Judiciary B"
+    "Judiciary B",
+    "Judiciary, Division B"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -40,6 +41,88 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Read the Third Time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Judiciary, Division B",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,11 +149,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1165CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1165PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1165CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1165PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -91,13 +174,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1165CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1165CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1165_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1165_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1165CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1100-1199/HB1165PS.pdf",
       "note": ""
     },
     {
@@ -114,7 +227,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 43-21-151, MISSISSIPPI CODE OF 1972, REGARDING THE JURISDICTION OF THE CIRCUIT COURT WHEN A CHILD VIOLATES SECTIONS 97-37-1 OR 97-37-14, MISSISSIPPI CODE OF 1972, WHEN ACCOMPANIED BY A VIOLATION OF CERTAIN FELONY CRIMES; TO AMEND SECTION 97-37-35, MISSISSIPPI CODE OF 1972, REGARDING THE TRANSFER OF FIREARMS; TO CREATE A CRIMINAL PENALTY FOR SHOOTING OR DISCHARGING A FIREARM INTO A GROUP OF TWO OR MORE PEOPLE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 43-21-151, MISSISSIPPI CODE OF 1972, REGARDING THE JURISDICTION OF THE CIRCUIT COURT WHEN A CHILD VIOLATES SECTIONS 97-37-1 OR 97-37-14, MISSISSIPPI CODE OF 1972, WHEN ACCOMPANIED BY A VIOLATION OF CERTAIN FELONY CRIMES; TO AMEND SECTION 97-37-35, MISSISSIPPI CODE OF 1972, REGARDING THE TRANSFER OF FIREARMS; TO CREATE A CRIMINAL PENALTY FOR SHOOTING OR DISCHARGING A FIREARM INTO A GROUP OF TWO OR MORE PEOPLE; TO AMEND SECTION 9-5-13, MISSISSIPPI CODE OF 1972, TO REVISE THE NUMBER OF CHANCELLORS FOR THE THIRD CHANCERY COURT DISTRICT IN THE \"FROM AND AFTER JANUARY 1, 2027\" TIER; TO CONDITION THE QUALIFYING DEADLINE FOR THE \"PLACE THREE\" CHANCELLORSHIP FOR THE THIRD CHANCERY COURT DISTRICT UPON THE GOVERNOR'S APPROVAL OF THIS ACT; TO AMEND SECTION 23-15-977, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING SECTION; TO BRING FORWARD SECTION 9-5-11, MISSISSIPPI CODE OF 1972, WHICH PROVIDES THE COUNTY COMPOSITION OF THE THIRD CHANCERY COURT DISTRICT, FOR PURPOSES OF AMENDMENT; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -123,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:44:08.539892Z"
   }
 }

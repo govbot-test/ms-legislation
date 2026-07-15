@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Amended",
+    "occurred_at": "2026-03-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1200-1299/HB1224SG.pdf",
+        "note": ""
+      },
+      {
+        "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1224.xml",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1224"
+}

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Universities and Colleges"
   ],
   "abstracts": [],
@@ -40,6 +41,108 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +169,21 @@
       "note": "Current version",
       "links": [
         {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2208PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2208PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2200-2299/SB2208IN.htm",
           "media_type": "text/html"
         },
@@ -76,13 +194,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2208_S_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2208_S_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 2 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/SB2208_S_Amend_02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/SB2208_S_Amend_02.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2208IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2200-2299/SB2208PS.pdf",
       "note": ""
     },
     {
@@ -99,7 +247,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO CREATE THE MISSISSIPPI PUBLIC UNIVERSITY SYSTEM GOVERNANCE STUDY COMMITTEE TO CONDUCT A REVIEW OF THE SYSTEM-LEVEL GOVERNANCE STRUCTURE OF MISSISSIPPI'S PUBLIC INSTITUTIONS OF HIGHER LEARNING; TO LIST THE COMMITTEE'S RESPONSIBILITIES; TO NAME THE MEMBERSHIP OF THE COMMITTEE; TO PROVIDE THAT THE COMMITTEE SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE LEGISLATURE NO LATER THAN DECEMBER 1, 2026; TO DIRECT THE JOINT LEGISLATIVE COMMITTEE ON PERFORMANCE EVALUATION AND EXPENDITURE REVIEW TO PROVIDE NECESSARY STAFF AND ADMINISTRATIVE SUPPORT TO THE COMMITTEE; TO ALLOW FOR ADDITIONAL SUPPORT UPON REQUEST AND AVAILABLE RESOURCES; TO PROVIDE FOR COMPENSATION ACCORDING TO LWA FOR LEGISLATIVE MEMBERS AND TRAVEL EXPENSE REIMBURSEMENT FOR NON-LEGISLATIVE MEMBERS; TO PROVIDE FOR THE DISSOLUTION OF THE COMMITTEE ON JANUARY 1, 2027, OR UPON THE SUBMISSION OF ITS FINAL REPORT, WHICHEVER IS EARLIER; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI PUBLIC UNIVERSITY SYSTEM GOVERNANCE STUDY COMMITTEE TO CONDUCT A REVIEW OF THE SYSTEM-LEVEL GOVERNANCE STRUCTURE OF MISSISSIPPI'S PUBLIC INSTITUTIONS OF HIGHER LEARNING; TO LIST THE COMMITTEE'S RESPONSIBILITIES; TO NAME THE MEMBERSHIP OF THE COMMITTEE REPRESENTING VARIOUS INSTITUTIONS AND INDUSTRY SECTORS; TO PROVIDE THAT THE COMMITTEE SHALL REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE LEGISLATURE NO LATER THAN DECEMBER 1, 2026; TO DIRECT THE JOINT LEGISLATIVE COMMITTEE ON PERFORMANCE EVALUATION AND EXPENDITURE REVIEW TO PROVIDE NECESSARY STAFF AND ADMINISTRATIVE SUPPORT TO THE COMMITTEE; TO ALLOW FOR ADDITIONAL SUPPORT UPON REQUEST AND AVAILABLE RESOURCES; TO PROVIDE FOR COMPENSATION FOR LEGISLATIVE MEMBERS AND TRAVEL EXPENSE REIMBURSEMENT FOR NONLEGISLATIVE MEMBERS; TO PROVIDE FOR THE DISSOLUTION OF THE COMMITTEE ON JANUARY 1, 2027, OR UPON THE SUBMISSION OF ITS FINAL REPORT, WHICHEVER IS EARLIER; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -108,7 +256,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:30Z",
     "text_extraction_latest_update": "2026-07-13T06:46:42.105574Z"
   }
 }

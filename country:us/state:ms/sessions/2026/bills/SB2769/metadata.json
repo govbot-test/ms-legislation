@@ -1,12 +1,14 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2769",
-  "title": "\"Home Upgrade Revolving Fund\"; establish within the Mississippi Home Corporation.",
+  "title": "Market-Ready Homes Revolving Loan Program; create to assist homeowners with necessary home repairs and upgrades to increase listing price.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
+    "Business and Commerce",
     "Business and Financial Institutions"
   ],
   "abstracts": [],
@@ -40,6 +42,64 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:01Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Referred To Business and Commerce;Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +118,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2769CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2769PS.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2769CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2769PS.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +143,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2769CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2769CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2769CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2700-2799/SB2769PS.pdf",
       "note": ""
     },
     {
@@ -102,7 +177,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO ESTABLISH THE \"HOME UPGRADE REVOLVING FUND\" ADMINISTERED BY THE MISSISSIPPI HOME CORPORATION TO MAKE NECESSARY REPAIRS AND UPGRADES TO EXISTING HOMES TO ESTABLISH AN ENHANCED POST REPAIR LISTING PRICE WITH LENDING OPTIONS FOR THE HOMEOWNER; TO PROVIDE ELIGIBILITY AND CONDITIONS FOR MAKING LOANS FROM THE FUND; TO AMEND SECTION 43-33-717, MISSISSIPPI CODE OF 1972, IN CONFORMITY; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO CREATE THE \"MARKET-READY HOMES REVOLVING LOAN PROGRAM\" TO ASSIST HOMEOWNERS WITH MAKING NECESSARY REPAIRS AND UPGRADES TO EXISTING HOMES TO ESTABLISH AN ENHANCED POST-REPAIR LISTING PRICE WITH LENDING OPTIONS FOR THE HOMEOWNER; TO CREATE THE \"MARKET-READY HOMES REVOLVING LOAN FUND\" IN THE STATE TREASURY; TO PROVIDE THAT THE PROGRAM AND FUND SHALL BE ADMINISTERED BY THE MISSISSIPPI HOME CORPORATION; TO PROVIDE ELIGIBILITY AND CONDITIONS FOR MAKING LOANS FROM THE FUND; TO AMEND SECTION 43-33-717, MISSISSIPPI CODE OF 1972, TO CONFORM; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +186,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:01Z",
+    "logs_latest_update": "2026-07-15T13:02:28Z",
     "text_extraction_latest_update": "2026-07-13T06:53:04.933653Z"
   }
 }

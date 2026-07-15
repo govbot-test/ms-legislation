@@ -1,0 +1,432 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB4073",
+  "title": "Mississippi Work and Save Program; create; revise certain PERS provisions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Finance",
+    "Ways and Means"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ms-2026-hb4073"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred To Ways and Means",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Referred To Finance",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass As Amended",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Entered",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Reconsidered",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Returned For Concurrence",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Decline to Concur/Invite Conf",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Lamar,Steverson,Zuber",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conferees Named Harkins,Sparks,Michel",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Filed",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Conference Report Adopted",
+      "date": "2026-03-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steverson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steverson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4073SG.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4073SG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4073IN.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4073IN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the lower",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/4000-4099/HB4073PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4073PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment Report for House Bill No. 4073",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/Amendment_Report_for_HB4073.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/Amendment_Report_for_HB4073.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB4073_H_Amend_01.htm",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB4073_H_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB4073_S_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB4073_S_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 to Committee Amendment No 1 (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/sam/HB4073_S_Amend_01_to_Cmte_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/sam/HB4073_S_Amend_01_to_Cmte_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/4000-4099/HB4073SG.pdf",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Steverson.xml",
+      "note": ""
+    },
+    {
+      "url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4073.xml",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "summary": "AN ACT TO CREATE THE MISSISSIPPI WORK AND SAVE PROGRAM, WHICH IS A RETIREMENT SAVINGS PROGRAM SPONSORED BY THE STATE FOR CERTAIN EMPLOYERS WHO DO NOT ALREADY OFFER A RETIREMENT PLAN THAT WILL ALLOW THOSE EMPLOYERS TO OFFER ELIGIBLE EMPLOYEES THE VOLUNTARY CHOICE TO CONTRIBUTE TO AN INDIVIDUAL RETIREMENT ACCOUNT (IRA) THROUGH A PAYROLL DEDUCTION; TO PROVIDE THE POWERS, AUTHORITY AND DUTIES OF THE STATE TREASURER; TO PRESCRIBE THE REQUIREMENTS FOR THE PROGRAM; TO PROVIDE THAT THE IRA TO WHICH CONTRIBUTIONS ARE MADE WILL BE A ROTH IRA AND THE STANDARD PACKAGE WILL BE A ROTH IRA WITH A TARGET DATE FUND INVESTMENT AND A SPECIFIED CONTRIBUTION PERCENTAGE; TO PROVIDE CERTAIN PROTECTION FROM LIABILITY FOR EMPLOYERS IN THE PROGRAM AND FOR THE STATE; TO PROVIDE FOR THE CONFIDENTIALITY OF PARTICIPANT AND ACCOUNT INFORMATION; TO CREATE THE MISSISSIPPI WORK AND SAVE ADMINISTRATIVE FUND AS A SPECIAL FUND IN THE STATE TREASURY; TO PROVIDE THAT MONIES IN THE FUND SHALL BE EXPENDED UPON APPROPRIATION OF THE LEGISLATURE, FOR THE PURPOSES AUTHORIZED IN THE MISSISSIPPI WORK AND SAVE PROGRAM; TO AMEND SECTION 25-14-5, MISSISSIPPI CODE OF 1972, TO ALLOW THE MISSISSIPPI DEFERRED COMPENSATION PLAN AND TRUST TO OFFER ROTH ACCOUNTS AND OTHER AFTER-TAX CONTRIBUTION VEHICLES; TO PROVIDE THAT A PARTICIPANT'S ROTH OR OTHER ALLOWABLE AFTER-TAX CONTRIBUTION INTO A DEFERRED COMPENSATION ACCOUNT SHALL BE TREATED BY THE EMPLOYER AS INCLUDABLE IN THE PARTICIPANT'S INCOME AT THE TIME THE PARTICIPANT WOULD HAVE RECEIVED THAT AMOUNT IN COMPENSATION IF THE PARTICIPANT HAD NOT MADE A DEFERRED ELECTION; TO AUTHORIZE THE ISSUANCE OF STATE GENERAL OBLIGATION BONDS TO PROVIDE FUNDS FOR THE MISSISSIPPI WORK AND SAVE ADMINISTRATIVE FUND; TO AMEND SECTION 25-14-15, MISSISSIPPI CODE OF 1972, TO CONFORM; TO AMEND SECTION 25-11-105, MISSISSIPPI CODE OF 1972, TO REQUIRE ANY TERMINATED PLAN PREVIOUSLY APPROVED BY THE BOARD OF TRUSTEES OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM TO PAY TO THE BOARD ITS PORTION OF THE NET PENSION LIABILITY AS OF JUNE 30, 2026, OR THE DATE OF TERMINATION, WHICHEVER AMOUNT IS GREATER, IN A LUMP SUM BEFORE TERMINATION, AS PROVIDED BY BOARD REGULATIONS; TO AMEND SECTION 25-11-103, MISSISSIPPI CODE OF 1972, TO REVISE THE DEFINITION OF \"AVERAGE COMPENSATION\" FOR MEMBERS OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM WHO BECAME MEMBERS ON OR AFTER MARCH 1, 2026; TO AMEND SECTION 25-11-111, MISSISSIPPI CODE OF 1972, TO REDUCE THE CREDITABLE SERVICE REQUIREMENT FOR RETIREMENT REGARDLESS OF AGE FROM 35 YEARS TO 30 YEARS FOR MEMBERS OF THE PUBLIC EMPLOYEES' RETIREMENT SYSTEM WHO BECAME MEMBERS ON OR AFTER MARCH 1, 2026; TO AMEND SECTION 25-11-127, MISSISSIPPI CODE OF 1972, TO CHANGE THE REQUIRED SEPARATION PERIOD FOR RETIREES RETURNING TO WORK FROM 90 DAYS TO 30 DAYS; TO CREATE AN ALTERNATIVE RETURN-TO-WORK PROVISION FOR RETIREES WHO ARE NOT SUBJECT TO AN ACTUARIAL REDUCTION IN THEIR RETIREMENT ALLOWANCES, EXCEPT AS A RESULT OF TAKING A PARTIAL LUMP-SUM DISTRIBUTION OR ANY OTHER OPTIONAL BENEFIT UNDER SECTION 25-11-115; TO ALLOW A RETIREE TO RETURN TO WORK FOR A PERIOD OF TIME AS AGREED TO BETWEEN THE EMPLOYEE AND THE EMPLOYER, AT COMPENSATION IN AN AMOUNT NOT TO EXCEED 80% OF THE SALARY IN EFFECT FOR THE POSITION AT THE TIME OF EMPLOYMENT; TO REQUIRE THE EXECUTION OF A WRITTEN AGREEMENT AFTER THE CONCLUSION OF THE SEPARATION PERIOD PROVIDING CERTAIN DETAILS OF THE EMPLOYMENT; TO PROVIDE THAT THE EMPLOYER SHALL PAY TO THE BOARD OF TRUSTEES OF THE SYSTEM THE FULL AMOUNT OF BOTH THE EMPLOYER'S AND THE EMPLOYEE'S CONTRIBUTIONS ON THE AMOUNT OF COMPENSATION RECEIVED BY THE RETIREE RETURNING TO WORK; TO SPECIFY THAT THE EMPLOYEE SHALL NOT GAIN ANY ADDITIONAL RIGHTS OR BENEFITS TOWARD RETIREMENT FROM RETURNING TO WORK UNDER THIS ALTERNATIVE RETURN-TO-WORK PROVISION; TO SPECIFY THAT EMPLOYER CONTRIBUTIONS FOR EMPLOYEES RETURNING TO WORK ARE DESIGNED TO OFFSET ANY PENSION LIABILITY CREATED BY THIS PROVISION; TO PROHIBIT RETIREES FROM RETURNING TO WORK AS ELECTED OFFICIALS, K-12 SCHOOL SUPERINTENDENTS, OR ADMINISTRATORS AT UNIVERSITIES OR COMMUNITY OR JUNIOR COLLEGES UNDER THIS PROVISION; TO PROVIDE FOR THE REPEAL OF THIS PROVISION ON JULY 1, 2036; TO AMEND SECTION 25-11-126, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE REDUCTION IN THE REQUIRED SEPARATION PERIOD; AND FOR RELATED PURPOSES."
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ms/government",
+    "name": "Mississippi",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ms"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:02:30Z"
+  }
+}

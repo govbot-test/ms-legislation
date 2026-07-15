@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Accountability, Efficiency, Transparency",
     "Environment Prot, Cons and Water Res"
   ],
   "abstracts": [],
@@ -40,6 +41,120 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To House",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Accountability, Efficiency, Transparency",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Title Suff Do Pass",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Returned For Enrolling",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Signed",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,11 +173,11 @@
       "note": "Current version",
       "links": [
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2415CS.htm",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2415SG.htm",
           "media_type": "text/html"
         },
         {
-          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415CS.pdf",
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415SG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,13 +198,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2415CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed the upper",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/SB/2400-2499/SB2415PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415CS.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/SB/2400-2499/SB2415SG.pdf",
       "note": ""
     },
     {
@@ -102,7 +247,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 49-17-29, MISSISSIPPI CODE OF 1972, TO AUTHORIZE HEARINGS PERTAINING TO PERMITS FOR COMMERCIAL HAZARDOUS WASTE MANAGEMENT FACILITIES AND SOLID WASTE MANAGEMENT PERMITS FOR COMMERCIAL MUNICIPAL SOLID WASTE LANDFILLS OR INCINERATORS TO BE HELD AT THE DISCRETION OF THE MISSISSIPPI ENVIRONMENTAL QUALITY PERMIT BOARD; TO AMEND SECTION 49-35-11, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY TO ISSUE ALL ORDERS REQUIRED UNDER THE MISSISSIPPI BROWNFIELDS VOLUNTARY CLEANUP AND REDEVELOPMENT ACT; TO AMEND SECTION 51-3-9, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT NOTICE BE SENT BY CERTIFIED MAIL TO REDUCE THE COSTS ASSOCIATED WITH NOTIFYING PERMIT HOLDERS OF PERMIT EXPIRATION; TO AMEND SECTION 51-3-31, MISSISSIPPI CODE OF 1972, TO ELIMINATE THE PERMIT APPLICATION FEE; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 49-17-29, MISSISSIPPI CODE OF 1972, TO AUTHORIZE HEARINGS PERTAINING TO PERMITS FOR COMMERCIAL HAZARDOUS WASTE MANAGEMENT FACILITIES AND SOLID WASTE MANAGEMENT PERMITS FOR COMMERCIAL MUNICIPAL SOLID WASTE LANDFILLS OR INCINERATORS TO BE HELD, AT THE DISCRETION OF THE MISSISSIPPI ENVIRONMENTAL QUALITY PERMIT BOARD, IN HINDS COUNTY, WITHIN THE COUNTY OR MUNICIPALITY IN WHICH THE PERMIT IS REQUIRED, OR VIA AN ONLINE PLATFORM ACCESSIBLE TO THE PUBLIC; TO AMEND SECTION 49-35-11, MISSISSIPPI CODE OF 1972, TO AUTHORIZE THE EXECUTIVE DIRECTOR OF THE MISSISSIPPI DEPARTMENT OF ENVIRONMENTAL QUALITY TO ISSUE ALL ORDERS REQUIRED UNDER THE MISSISSIPPI BROWNFIELDS VOLUNTARY CLEANUP AND REDEVELOPMENT ACT; TO AMEND SECTION 51-3-9, MISSISSIPPI CODE OF 1972, TO REMOVE THE REQUIREMENT THAT NOTICE BE SENT BY CERTIFIED MAIL TO REDUCE THE COSTS ASSOCIATED WITH NOTIFYING PERMIT HOLDERS OF PERMIT EXPIRATION; TO AMEND SECTION 51-3-31, MISSISSIPPI CODE OF 1972, TO ELIMINATE THE PERMIT APPLICATION FEE; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -111,7 +256,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T06:48:58.049631Z"
   }
 }

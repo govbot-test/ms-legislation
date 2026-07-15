@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "Finance",
     "Ways and Means"
   ],
   "abstracts": [],
@@ -40,6 +41,76 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:59Z"
       }
+    },
+    {
+      "description": "Committee Substitute Adopted",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Passed As Amended",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Transmitted To Senate",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Referred To Finance",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
+    },
+    {
+      "description": "Died In Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:02:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,12 +121,35 @@
       "primary": true,
       "person_id": "~{\"name\": \"Lamar\"}",
       "organization_id": null
+    },
+    {
+      "name": "Eubanks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eubanks\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
       "note": "Current version",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1383PS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1383PS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
       "links": [
         {
           "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1383IN.htm",
@@ -68,17 +162,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1383CS.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1383CS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment No 1 (Cmte Sub) (Adopted) (Voice Vote)",
+      "links": [
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/pdf/ham/HB1383_H_(Cmte_Sub)_Amend_01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://billstatus.ls.state.ms.us/documents/2026/html/ham/HB1383_H_(Cmte_Sub)_Amend_01.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1383IN.pdf",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1300-1399/HB1383PS.pdf",
       "note": ""
     },
     {
       "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Lamar.xml",
+      "note": ""
+    },
+    {
+      "url": "http://billstatus.ls.state.ms.us/2026/pdf/House_authors/Eubanks.xml",
       "note": ""
     },
     {
@@ -87,7 +215,7 @@
     }
   ],
   "extras": {
-    "summary": "AN ACT TO AMEND SECTION 27-39-203, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NOT LATER THAN JUNE 1ST OF EACH FISCAL YEAR THE GOVERNING BOARD OF EACH TAXING UNIT IN A COUNTY SHALL PROVIDE A NOTICE TO EACH TAXPAYER INDICATING THE AMOUNT OF AD VALOREM TAX THAT WAS DUE ON THE TAXPAYER'S PROPERTY IN THE PRECEDING FISCAL YEAR, BEFORE ANY APPLICABLE HOMESTEAD EXEMPTION, OTHER EXEMPTION OR CREDIT, AND THE MILLAGE RATE THAT WAS LEVIED ON THE PROPERTY IN THE PRECEDING FISCAL YEAR, THE AMOUNT OF AD VALOREM TAX THAT WILL BE DUE ON THE TAXPAYER'S PROPERTY IN THE CURRENT FISCAL YEAR, BEFORE ANY APPLICABLE HOMESTEAD EXEMPTION, OTHER EXEMPTION OR CREDIT, IF THE MILLAGE RATE THAT WAS LEVIED ON THE PROPERTY IN THE PRECEDING FISCAL YEAR IS LEVIED ON THE PROPERTY IN THE CURRENT FISCAL YEAR, AND THE DIFFERENCE BETWEEN THE TWO INDICATED AMOUNTS OF AD VALOREM TAX; AND FOR RELATED PURPOSES."
+    "summary": "AN ACT TO AMEND SECTION 27-39-203, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT NOT LATER THAN AUGUST 20TH OF EACH FISCAL YEAR THE GOVERNING BOARD OF EACH TAXING UNIT IN A COUNTY SHALL PROVIDE A NOTICE TO EACH TAXPAYER INDICATING THE AMOUNT OF AD VALOREM TAX THAT WAS DUE ON THE TAXPAYER'S PROPERTY IN THE PRECEDING FISCAL YEAR, AND THE MILLAGE RATE THAT WAS LEVIED ON THE PROPERTY IN THE PRECEDING FISCAL YEAR, THE AMOUNT OF AD VALOREM TAX THAT WILL BE DUE ON THE TAXPAYER'S PROPERTY IN THE CURRENT FISCAL YEAR, IF THE MILLAGE RATE THAT WAS LEVIED ON THE PROPERTY IN THE PRECEDING FISCAL YEAR IS LEVIED ON THE PROPERTY IN THE CURRENT FISCAL YEAR, AND THE DIFFERENCE BETWEEN THE TWO INDICATED AMOUNTS OF AD VALOREM TAX; AND FOR RELATED PURPOSES."
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ms/government",
@@ -96,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:ms"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:59Z",
+    "logs_latest_update": "2026-07-15T13:02:29Z",
     "text_extraction_latest_update": "2026-07-13T07:19:03.212950Z"
   }
 }
